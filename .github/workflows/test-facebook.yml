@@ -17,6 +17,6 @@ jobs:
             exit 1
           fi
 
-          curl -fsS -G "https://graph.facebook.com/v27.0/$PAGE_ID" \
+          curl -sS -G "https://graph.facebook.com/v27.0/$PAGE_ID" \
             --data-urlencode "fields=id,name" \
             --data-urlencode "access_token=$PAGE_ACCESS_TOKEN"
