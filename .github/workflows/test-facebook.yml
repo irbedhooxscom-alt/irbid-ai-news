@@ -1,0 +1,22 @@
+name: Test Facebook Connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Facebook connection
+        env:
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+          PAGE_ACCESS_TOKEN: ${{ secrets.PAGE_ACCESS_TOKEN }}
+        run: |
+          if [ -z "$PAGE_ID" ] || [ -z "$PAGE_ACCESS_TOKEN" ]; then
+            echo "Missing GitHub secrets"
+            exit 1
+          fi
+
+          curl -fsS -G "https://graph.facebook.com/v27.0/$PAGE_ID" \
+            --data-urlencode "fields=id,name" \
+            --data-urlencode "access_token=$PAGE_ACCESS_TOKEN"
