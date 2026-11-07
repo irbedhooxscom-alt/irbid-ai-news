@@ -1,406 +1,1014 @@
 {
-  "updated": "2026-11-07T16:25:08.853653+00:00",
-  "count": 231,
+  "updated": "2026-11-07T16:06:36.758922+00:00",
+  "count": 126,
   "news": [
     {
-      "title": "بادو الزاكي يحسم موقفه من مستقبله مع الأردن - Medi1 News",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zdDRDT1Vpa3BBako3ODU4RTR0MklJVDA2ek5KQjVPSm84LUJxbHI2bTZtNDVkR0sxVkdBS1F1TXJjbVZwYVVnMENZYy1wMlpfZjhGbGk3V3pNWkVS?oc=5\" target=\"_blank\">بادو الزاكي يحسم موقفه من مستقبله مع الأردن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medi1 News</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zdDRDT1Vpa3BBako3ODU4RTR0MklJVDA2ek5KQjVPSm84LUJxbHI2bTZtNDVkR0sxVkdBS1F1TXJjbVZwYVVnMENZYy1wMlpfZjhGbGk3V3pNWkVS?oc=5",
-      "published": "2026-11-07T15:48:54+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "\"أمن الدولة\" تعقد الأحد ثاني جلسات محاكمة المتهمين بقضية كنيسة حمود في الكرك - قناة المملكة",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwRBVV95cUxNMS1CRVhCLW14N19vRk5LMGdPWS1Bdjd3cUhBNnYzMjFrdTNkcTV6Sm1YUFNPWnM0QnI0Z0NGSTAxcFF3bkhMTzRnRm0zX2FLUy1VOV9aaVppbEZBNHYxUVJ3eG1wSkpUQ25EYVhIZFphblFvVjRlVS02cVh5eVBEWHg4NDgwMnRNVGNuNnh4aGI3UEgzLXpVZ1VPSGpiV0RhMDVfeVg1cmFlMXctR2RQbWYzRGowS3o1VGR1UmtpajMySTJMVVNROVlITE9qMWlwcXMyT01lWFlhdjE4bmM1NGdEZjhFSmU5VUhzWUhQVGtkcWJXVzIwd2E5Y1l0d2xkSW5FVlBsQWN1ckNfekhVQ25tcGdYMjVTNXB6YlU4bml3TlEyMkJpM3Q0TTNhdmdmZ19IYmFjMG54STlSal9BcnVIQktpdGFteFBOQTF6b2tlRVJVYl81YTlQQUViQUdTVklqLVd1NTVIdDVYWEt2aHQ1WW5hcVp4VDFSc24wM3VMVm5nbUFjXzFkTkVJdHBfRzByN25BX0Y2WjJFdnBMY3c3bTZMdVk4aVpSeVNJTTlpRU94RHp0ZXJJdjVnbUZlLXgzVWVENC1OT3dnemFhcGtMTjBzV29hNVFwcXJXekJoNlJ6N0hYNmwxVGV4eEdXc0lxTjhycGFUdjgwTV9ydUtEeFQtdFY3SWJKeHVOVlgwclhtVUQ5MVRBeFFXNGJjXzhQNk50ZUl3THNvU3pWZ3hHQV9WbHZnTHJOd1BDQk96RzJOYWdv?oc=5\" target=\"_blank\">\"أمن الدولة\" تعقد الأحد ثاني جلسات محاكمة المتهمين بقضية كنيسة حمود في الكرك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">قناة المملكة</font>",
-      "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNMS1CRVhCLW14N19vRk5LMGdPWS1Bdjd3cUhBNnYzMjFrdTNkcTV6Sm1YUFNPWnM0QnI0Z0NGSTAxcFF3bkhMTzRnRm0zX2FLUy1VOV9aaVppbEZBNHYxUVJ3eG1wSkpUQ25EYVhIZFphblFvVjRlVS02cVh5eVBEWHg4NDgwMnRNVGNuNnh4aGI3UEgzLXpVZ1VPSGpiV0RhMDVfeVg1cmFlMXctR2RQbWYzRGowS3o1VGR1UmtpajMySTJMVVNROVlITE9qMWlwcXMyT01lWFlhdjE4bmM1NGdEZjhFSmU5VUhzWUhQVGtkcWJXVzIwd2E5Y1l0d2xkSW5FVlBsQWN1ckNfekhVQ25tcGdYMjVTNXB6YlU4bml3TlEyMkJpM3Q0TTNhdmdmZ19IYmFjMG54STlSal9BcnVIQktpdGFteFBOQTF6b2tlRVJVYl81YTlQQUViQUdTVklqLVd1NTVIdDVYWEt2aHQ1WW5hcVp4VDFSc24wM3VMVm5nbUFjXzFkTkVJdHBfRzByN25BX0Y2WjJFdnBMY3c3bTZMdVk4aVpSeVNJTTlpRU94RHp0ZXJJdjVnbUZlLXgzVWVENC1OT3dnemFhcGtMTjBzV29hNVFwcXJXekJoNlJ6N0hYNmwxVGV4eEdXc0lxTjhycGFUdjgwTV9ydUtEeFQtdFY3SWJKeHVOVlgwclhtVUQ5MVRBeFFXNGJjXzhQNk50ZUl3THNvU3pWZ3hHQV9WbHZnTHJOd1BDQk96RzJOYWdv?oc=5",
-      "published": "2026-11-07T15:12:24+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "إجراء قرعة لاختيار المكلفين بخدمة العلم الأحد... - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxOMjlpV0xReDVLSXM5NEFXZDRaUlBCb3V6THE1X2tzb1hMRzhHSUNBR2hSeXY0X0gwdmVfaFVMR1Z6OXVjY1FxZGl0QXIzQ0pjUUgyWTd4VjFtNktRcnpWaG5rV2F0YURPaFhJQTUzbjdaWWoya2Zyc1dyNWRyOS1zN0xCOG9KZXItNHVSdEpMM1VWRXA3b2RXWGdJR3R1U2tNQzFtNGVLZzhqaHdSOEM5bmsxeTFqcHJ2NEZmdEFvRDlOZGhpSG0xdVFELV9KcWdzR29KZ3BGWGZ2YVJsRFZZN0s3ckpTdUxUNHpFelJQTVFFazJUdnVkWjc2Q3BTT2pUeVZ2UVNTbHZGMWc0Nmp6ODJldWs5a3hpTGlsS0UwdERrT2drektCTl9uYWdyaFNwcG5oTEV6b1FVWlVRMV9iQ0RTSW5IX3Q3NlUwSW1qS0hjUlBEUmg5TTBoakN2dkU1MzBXNGVNaGdJc2Y0bG9melZKdnNfN1FoWmtNWWdmSTZpekw0WlEzMHVRZUJITzhPWVVFOFRPTnNacDU3ZEhRQnFVM202Z1psZDlYSjRWdVB1QWJybDNyN3BlMm50LTJITmtBbXVhQ3lMcFRnQXJiVUJSdnZhQ2lMcXhja09QT2V1YU5xN2RRaVlZTQ?oc=5\" target=\"_blank\">إجراء قرعة لاختيار المكلفين بخدمة العلم الأحد...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOMjlpV0xReDVLSXM5NEFXZDRaUlBCb3V6THE1X2tzb1hMRzhHSUNBR2hSeXY0X0gwdmVfaFVMR1Z6OXVjY1FxZGl0QXIzQ0pjUUgyWTd4VjFtNktRcnpWaG5rV2F0YURPaFhJQTUzbjdaWWoya2Zyc1dyNWRyOS1zN0xCOG9KZXItNHVSdEpMM1VWRXA3b2RXWGdJR3R1U2tNQzFtNGVLZzhqaHdSOEM5bmsxeTFqcHJ2NEZmdEFvRDlOZGhpSG0xdVFELV9KcWdzR29KZ3BGWGZ2YVJsRFZZN0s3ckpTdUxUNHpFelJQTVFFazJUdnVkWjc2Q3BTT2pUeVZ2UVNTbHZGMWc0Nmp6ODJldWs5a3hpTGlsS0UwdERrT2drektCTl9uYWdyaFNwcG5oTEV6b1FVWlVRMV9iQ0RTSW5IX3Q3NlUwSW1qS0hjUlBEUmg5TTBoakN2dkU1MzBXNGVNaGdJc2Y0bG9melZKdnNfN1FoWmtNWWdmSTZpekw0WlEzMHVRZUJITzhPWVVFOFRPTnNacDU3ZEhRQnFVM202Z1psZDlYSjRWdVB1QWJybDNyN3BlMm50LTJITmtBbXVhQ3lMcFRnQXJiVUJSdnZhQ2lMcXhja09QT2V1YU5xN2RRaVlZTQ?oc=5",
-      "published": "2026-11-07T14:50:07+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "انطلاق الدورة الـ31 من مهرجان الأردن المسرحي بمشاركة 6 دول عربية - بوابة الوسط",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBTejVSZG02WFhGMXY4SEJQY2JsOXhVM011enUzUThoNzc5U2hqbEdIUV9KXzd2VWZrTGJ0cXgya3J2LTZL?oc=5\" target=\"_blank\">انطلاق الدورة الـ31 من مهرجان الأردن المسرحي بمشاركة 6 دول عربية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة الوسط</font>",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTejVSZG02WFhGMXY4SEJQY2JsOXhVM011enUzUThoNzc5U2hqbEdIUV9KXzd2VWZrTGJ0cXgya3J2LTZL?oc=5",
-      "published": "2026-11-07T14:49:45+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "\"الإسلامي الأردني\" يحصد جائزة أفضل بنك إسلامي في الأردن لعام 2026 - صراحة نيوز",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxQQlN4RFJZNHdWVmpBdjhXUXRYNF9XMnFsMGZ0V2Z1aG53eDZnSkNDaWJST2ZIU1NMbUVxNFhnU0k4YWl5dXltRGNqbG5PdENHWmhoakkydDlHaVFwSlMtdk1mV3QxMUp6Q29fanRfc3ctRUZ1dkxDajlmTzZLZk5keHZaM1ZhckRkZkFlZWZoT1lGT2NITkFFdWlmOTlfZU9oMTB4UlV3b0dhcWZNRnFzSnpBMUplZmJybHlCTUpfeERZa2RJUWIzVFhFZmgxbTNrcTdwZEpmMzY2YVZJcVRpMk0yd1pjYXRucWhzMXFVX2NBZGZiWkRLOFU0Y1M0N0piRXZpT21GVkphVDZEZkhkUFczWnhyaTlrYzJRVlZXTTVTRWNBNGhvRlJVX091U3FXWUNQc3FPUGJydnllem9mWk02cUpaeG92Y3U0?oc=5\" target=\"_blank\">\"الإسلامي الأردني\" يحصد جائزة أفضل بنك إسلامي في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صراحة نيوز</font>",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQQlN4RFJZNHdWVmpBdjhXUXRYNF9XMnFsMGZ0V2Z1aG53eDZnSkNDaWJST2ZIU1NMbUVxNFhnU0k4YWl5dXltRGNqbG5PdENHWmhoakkydDlHaVFwSlMtdk1mV3QxMUp6Q29fanRfc3ctRUZ1dkxDajlmTzZLZk5keHZaM1ZhckRkZkFlZWZoT1lGT2NITkFFdWlmOTlfZU9oMTB4UlV3b0dhcWZNRnFzSnpBMUplZmJybHlCTUpfeERZa2RJUWIzVFhFZmgxbTNrcTdwZEpmMzY2YVZJcVRpMk0yd1pjYXRucWhzMXFVX2NBZGZiWkRLOFU0Y1M0N0piRXZpT21GVkphVDZEZkhkUFczWnhyaTlrYzJRVlZXTTVTRWNBNGhvRlJVX091U3FXWUNQc3FPUGJydnllem9mWk02cUpaeG92Y3U0?oc=5",
-      "published": "2026-11-07T14:20:55+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
       "title": "مباراة الحسين إربد ضد السلط : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin - winwin.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxQS2J4aWNqVDRjM0dWM2x6Sm5yZVVEQ2c1elZ3b0trNno0SUFJQTBpWUhRSlFDR1dreV9SSFcyWWNSWV9uQ29mLXRhWWxnQ1NpQU1HNFpERnFyWXlpbHhXZ3JVQkVXYmpwN0R0Q18xOHh5LWNpd1JSMWQzbGg1NFRMZjljNTR4eXZmMzdxS015dGFXNmRKQ3M5YVNrd25GZjg1VGQ5MVRwSF9tNW9yNEtaUGN5czFSVlRMNDJJcDM3Snd1dnFqZ2pVdFJ2bjBQU0NIQVY3X0NDcDM0czgzeVBUbWR1dEhiWi1KWXJkUmtIVmxrclRNUldydzVPVzJaWTg4bm9JS0d6R0J0UUlzaGpUWHRUVHBtWmo2enV6OFBTYS1oR3pMcFFkODVvbHNXWk9fLXBBZy1fQ0VrZw?oc=5\" target=\"_blank\">مباراة الحسين إربد ضد السلط : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">winwin.com</font>",
+      "description": "مباراة الحسين إربد ضد السلط : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin &nbsp;&nbsp; winwin.com",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQS2J4aWNqVDRjM0dWM2x6Sm5yZVVEQ2c1elZ3b0trNno0SUFJQTBpWUhRSlFDR1dreV9SSFcyWWNSWV9uQ29mLXRhWWxnQ1NpQU1HNFpERnFyWXlpbHhXZ3JVQkVXYmpwN0R0Q18xOHh5LWNpd1JSMWQzbGg1NFRMZjljNTR4eXZmMzdxS015dGFXNmRKQ3M5YVNrd25GZjg1VGQ5MVRwSF9tNW9yNEtaUGN5czFSVlRMNDJJcDM3Snd1dnFqZ2pVdFJ2bjBQU0NIQVY3X0NDcDM0czgzeVBUbWR1dEhiWi1KWXJkUmtIVmxrclRNUldydzVPVzJaWTg4bm9JS0d6R0J0UUlzaGpUWHRUVHBtWmo2enV6OFBTYS1oR3pMcFFkODVvbHNXWk9fLXBBZy1fQ0VrZw?oc=5",
       "published": "2026-11-07T14:14:06+00:00",
       "category": "إربد",
-      "source": "Google News"
+      "source": "winwin.com"
     },
     {
-      "title": "بطولة كأس الأردن لكرة اليد تنطلق الثلاثاء - Fana News -",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQcUlPT29ydjJ0OHUwcG1WMEYwMVFncDJYdHFzclhfMXJPRUFVdF9GcDV1Y2JNemtBY21wLVlLYVNXMVVBeTNBMGFQalgzZ3R3dlAzbmJQX0VvUHJyaGIzMkVvc2VMMHBDSjBUcjBIcko3emphQ1BNSU9fZUZMZ2xhWllqZjg0T3BJQTNNc29NdFU3Zzh1YUdyVXpjYklSMlhuNmRSV0lSQjF5NlY4QTdSM0xMVkVyYVlERldETVpwY3Q2RW96RUM3SWRnbUxhVVdKczJ5ZEphZ2R3OGlmelZLNG5yS1V3MmN5THZrV2VPWko3cUQxTmxQWlE3cTBZTW5TdjRXanc0c2xORlFUcE5KTnJKSUdwZ0R3RnhTX3dLUUNVNDBYVnBnT1lpRjRVUmZVX3oyUVpINWdZMXNPVmNZWjBJdnlaekU?oc=5\" target=\"_blank\">بطولة كأس الأردن لكرة اليد تنطلق الثلاثاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fana News -</font>",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcUlPT29ydjJ0OHUwcG1WMEYwMVFncDJYdHFzclhfMXJPRUFVdF9GcDV1Y2JNemtBY21wLVlLYVNXMVVBeTNBMGFQalgzZ3R3dlAzbmJQX0VvUHJyaGIzMkVvc2VMMHBDSjBUcjBIcko3emphQ1BNSU9fZUZMZ2xhWllqZjg0T3BJQTNNc29NdFU3Zzh1YUdyVXpjYklSMlhuNmRSV0lSQjF5NlY4QTdSM0xMVkVyYVlERldETVpwY3Q2RW96RUM3SWRnbUxhVVdKczJ5ZEphZ2R3OGlmelZLNG5yS1V3MmN5THZrV2VPWko3cUQxTmxQWlE3cTBZTW5TdjRXanc0c2xORlFUcE5KTnJKSUdwZ0R3RnhTX3dLUUNVNDBYVnBnT1lpRjRVUmZVX3oyUVpINWdZMXNPVmNZWjBJdnlaekU?oc=5",
-      "published": "2026-11-07T14:08:05+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الأردن.. تشييع جثمان رجل أمن قضى بهجوم في عمان - الجزيرة نت",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxORloyY3JhTi1QLXZkVDBCM2xPemxqWjRGczJld2JqSEkzSUYtdmhnV1gtVEVMczVHTVNzTGZJOHBEUE9Dam5hWkV5N2xoWGVyTVhmb1cwZ015b3JwMnJFODU5d0xOR291ZE5RNXFFbC1lNmxzZndSRHdkVXFoeUlUTmZiWjgyN21lOHhONjl4NnNLcXRHdHE0ME9SOXpTX1kyWFFnbWRIS0tIRUg1TTE4NloxYnh4Ukp4QlFJMkN5M2czckFjVWJucnVWNVcwa01UMV9wQ1EtWDlsVlVvUndCRTZqMjNMbTNfNk0wWDFOdlVPSXdaTWFtSlNad2R4YzBzYU9kRHplWk1DV2RONllXXzEtMXQ3dzg3Qy1BOW4zWS1nTzA4VWh5bWV2ZGlEYVlfbWZEVjJzVWhxSFpyeWZBZHlMWnFHdUtuX05zVw?oc=5\" target=\"_blank\">الأردن.. تشييع جثمان رجل أمن قضى بهجوم في عمان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORloyY3JhTi1QLXZkVDBCM2xPemxqWjRGczJld2JqSEkzSUYtdmhnV1gtVEVMczVHTVNzTGZJOHBEUE9Dam5hWkV5N2xoWGVyTVhmb1cwZ015b3JwMnJFODU5d0xOR291ZE5RNXFFbC1lNmxzZndSRHdkVXFoeUlUTmZiWjgyN21lOHhONjl4NnNLcXRHdHE0ME9SOXpTX1kyWFFnbWRIS0tIRUg1TTE4NloxYnh4Ukp4QlFJMkN5M2czckFjVWJucnVWNVcwa01UMV9wQ1EtWDlsVlVvUndCRTZqMjNMbTNfNk0wWDFOdlVPSXdaTWFtSlNad2R4YzBzYU9kRHplWk1DV2RONllXXzEtMXQ3dzg3Qy1BOW4zWS1nTzA4VWh5bWV2ZGlEYVlfbWZEVjJzVWhxSFpyeWZBZHlMWnFHdUtuX05zVw?oc=5",
-      "published": "2026-11-07T13:56:47+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الملكة رانيا تقدم واجب العزاء لذوي الشهيد جواد السلايطة - قناة المملكة",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygNBVV95cUxOYU9TVWlxNFMteEFCSEFQTFpXN05xc1R3YTV5M1FzME5tZktCWHZ3eXFxcHBMRkNtNDlqT2lMOUlCZ09mck5lN3gyX002eWJNbEhwTGVlMm9lZGRDdG5JdHlVaHdob2tIdTdwOVRxUEhQM3BHSmo5TVZleWswUURwQ05Wdno2UmxaM1NGUmh5TGhHRHpRdjlOVGE5M1UxMVZ5Z09hcVU4MjNYWFlXVURUVGtrVGJfcHFiT0o2anloRm50c0dNRDl3S3lwNUJRazV3V1VJZlUxaG9tNFJoS182LXpQbUFhbklkOVU3ZmJMa051RnFRMUJFQlFDM3g2RElDMERXRXhtTE9vNndfNU5qY2lLOHRFZUtBTjliU3p6U1V1TTZSSTN1V09XUUY3NXFzSW1jWGt3bTVJdnRKT0pFa29jaXhvc2h6dEwzMzhYQW00c0NIZkFCd2I1M3RfbnpCX3o4NFFHbUtuMXQ2RTRXY0w4TGRiUDUwbzNHWHBUUlFtdUowMDFsY1RtN1E4REZRR2VtWWxzejBDQTRmVU5iQ3E5bkV4N1BXcU16cWN4a1hKaEVWWkRFZF9ERUNTNTcwZzdmb1F2bENSdw?oc=5\" target=\"_blank\">الملكة رانيا تقدم واجب العزاء لذوي الشهيد جواد السلايطة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">قناة المملكة</font>",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOYU9TVWlxNFMteEFCSEFQTFpXN05xc1R3YTV5M1FzME5tZktCWHZ3eXFxcHBMRkNtNDlqT2lMOUlCZ09mck5lN3gyX002eWJNbEhwTGVlMm9lZGRDdG5JdHlVaHdob2tIdTdwOVRxUEhQM3BHSmo5TVZleWswUURwQ05Wdno2UmxaM1NGUmh5TGhHRHpRdjlOVGE5M1UxMVZ5Z09hcVU4MjNYWFlXVURUVGtrVGJfcHFiT0o2anloRm50c0dNRDl3S3lwNUJRazV3V1VJZlUxaG9tNFJoS182LXpQbUFhbklkOVU3ZmJMa051RnFRMUJFQlFDM3g2RElDMERXRXhtTE9vNndfNU5qY2lLOHRFZUtBTjliU3p6U1V1TTZSSTN1V09XUUY3NXFzSW1jWGt3bTVJdnRKT0pFa29jaXhvc2h6dEwzMzhYQW00c0NIZkFCd2I1M3RfbnpCX3o4NFFHbUtuMXQ2RTRXY0w4TGRiUDUwbzNHWHBUUlFtdUowMDFsY1RtN1E4REZRR2VtWWxzejBDQTRmVU5iQ3E5bkV4N1BXcU16cWN4a1hKaEVWWkRFZF9ERUNTNTcwZzdmb1F2bENSdw?oc=5",
-      "published": "2026-11-07T13:56:35+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الحراسيس يزور رجل الأمن المصاب ويقدّم واجب العزاء باستشهاد العريف السلايطة - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAVBVV95cUxQb1N1MFlTOS02MmQyQ2w0NjBGWlpzTE5NUXp5T3ItbWNsOXZqOTREeTlXa2hJSTVTWTN2UjVVUHR6eVJ2WTY4cUJnX0JVTktyZUZWV0ZjcG9IeGhWVWxWcTFlNl85MG9yVnRCSDhuVFlOTVRTcEZPVG9wd0VUZmhzYWlsUVFOX0RZX3llQ0dvbURScVdwZENaR2JVSF9fUURGdVNHdEhxaEd2dWFLa3V2eElSTVNmY1ZBTlB0X2tJVTNXanJYdUJuZDRpUlFqT21TclVfTEUxVEJ4OVBaYnpub2F2X281ZnFUOGNDaEJxaGNxMnlpX0dMOEZmMy0zeUFFcHNaRFZHcjFFZE5vMnp1QVBqMFZJakR5R2xVOTlzS3ZiMVRfZHJlZ3VqemNybFkxU2MwREtNaGJjd1lvNGVIdEdac3U0M3lBQmprajItZW1aYjJHRDlKTEZwNllRS2NKS3k1Nko5NVpqUzFpdThNSUdNMDNIMUpEMl9LN2p4UERYVkxlYW5WMXlWdEV3YnAwQ3ZCTUkzYlhCajBmWlBXcGJOaTg5RE90RnA3c21BQ1I5MEZNTmJZa0VQTGllUzRxX1V5aTVadUN5Z3RJTDhsaW5uc21RVEJabmFaSENodFpHd2VOUW5STEllTDVCTHhPRlRWTndISjlJUmh2dmcxbHBhN1l3SVBYTV9xSktNc3lvRWtwaEpWN01HT05lZE1wcHRTQ0ZtYTl5dDNCdGdNWGFqekQtWDUwSXhMaDV0bW5Hdk5RS3d6cEVsUXphM190UHRfQk5qelZGb29zNFo5U243TGhRQVZHUnNXV2xMLUp3YUZNMGRjdGNVTEd5amEzMXNRcXBzTFRBWFJJRnBLOXNFTjZUVkdpODJCN3Vyc3RPY1pUcmNRR0V6Sk1KLWxk?oc=5\" target=\"_blank\">الحراسيس يزور رجل الأمن المصاب ويقدّم واجب العزاء باستشهاد العريف السلايطة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQb1N1MFlTOS02MmQyQ2w0NjBGWlpzTE5NUXp5T3ItbWNsOXZqOTREeTlXa2hJSTVTWTN2UjVVUHR6eVJ2WTY4cUJnX0JVTktyZUZWV0ZjcG9IeGhWVWxWcTFlNl85MG9yVnRCSDhuVFlOTVRTcEZPVG9wd0VUZmhzYWlsUVFOX0RZX3llQ0dvbURScVdwZENaR2JVSF9fUURGdVNHdEhxaEd2dWFLa3V2eElSTVNmY1ZBTlB0X2tJVTNXanJYdUJuZDRpUlFqT21TclVfTEUxVEJ4OVBaYnpub2F2X281ZnFUOGNDaEJxaGNxMnlpX0dMOEZmMy0zeUFFcHNaRFZHcjFFZE5vMnp1QVBqMFZJakR5R2xVOTlzS3ZiMVRfZHJlZ3VqemNybFkxU2MwREtNaGJjd1lvNGVIdEdac3U0M3lBQmprajItZW1aYjJHRDlKTEZwNllRS2NKS3k1Nko5NVpqUzFpdThNSUdNMDNIMUpEMl9LN2p4UERYVkxlYW5WMXlWdEV3YnAwQ3ZCTUkzYlhCajBmWlBXcGJOaTg5RE90RnA3c21BQ1I5MEZNTmJZa0VQTGllUzRxX1V5aTVadUN5Z3RJTDhsaW5uc21RVEJabmFaSENodFpHd2VOUW5STEllTDVCTHhPRlRWTndISjlJUmh2dmcxbHBhN1l3SVBYTV9xSktNc3lvRWtwaEpWN01HT05lZE1wcHRTQ0ZtYTl5dDNCdGdNWGFqekQtWDUwSXhMaDV0bW5Hdk5RS3d6cEVsUXphM190UHRfQk5qelZGb29zNFo5U243TGhRQVZHUnNXV2xMLUp3YUZNMGRjdGNVTEd5amEzMXNRcXBzTFRBWFJJRnBLOXNFTjZUVkdpODJCN3Vyc3RPY1pUcmNRR0V6Sk1KLWxk?oc=5",
-      "published": "2026-11-07T13:53:44+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الأردن في مواجهة الإرهاب.. حين يستهدف الفكر الظلامي أمن الوطن ووحدته الوطنية - صراحة نيوز",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM1ZnSms5N2I5LUkwWnRIVUZuR1dwMlc3YXE1ZkplaVlFZTNoZUt6VUxfVzJtdEZfUWtoUWxVNmVHWkxDNTUzUEdZRHpZTE5jWjc1R0otbVNhdDFkYWl0QkRnUWxkeUZIbEVnTFo5M3l2MDBRWUI0VXE2RkgtZnJQbXVPa0F6Sk9PekRabmw0MHN3dE82ZEV1QWdYbjBKRUJ0ejVtWjh2dXhCQkdqdVJhbDMwRGJ4MmlGcDF1WUJxQWRUaDk2ZGNtNDNIOUhXM3FBaVJwUTlhQUg4U3V5Sl9GVzlQLTNOUVhSNi1MQXFhSkhtVV9xVEJzQVBuczd1RG5TQmh5WndNMjBHWXBYdm40MHZmRmJxRVhrX3hyWmhzZ3pmOWptWmN3RGVscEJjaklVNmtRYXhCT3dJNnJSczl6TFJYWjlnTW02WFM0SzRHTUwxRkU5?oc=5\" target=\"_blank\">الأردن في مواجهة الإرهاب.. حين يستهدف الفكر الظلامي أمن الوطن ووحدته الوطنية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صراحة نيوز</font>",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM1ZnSms5N2I5LUkwWnRIVUZuR1dwMlc3YXE1ZkplaVlFZTNoZUt6VUxfVzJtdEZfUWtoUWxVNmVHWkxDNTUzUEdZRHpZTE5jWjc1R0otbVNhdDFkYWl0QkRnUWxkeUZIbEVnTFo5M3l2MDBRWUI0VXE2RkgtZnJQbXVPa0F6Sk9PekRabmw0MHN3dE82ZEV1QWdYbjBKRUJ0ejVtWjh2dXhCQkdqdVJhbDMwRGJ4MmlGcDF1WUJxQWRUaDk2ZGNtNDNIOUhXM3FBaVJwUTlhQUg4U3V5Sl9GVzlQLTNOUVhSNi1MQXFhSkhtVV9xVEJzQVBuczd1RG5TQmh5WndNMjBHWXBYdm40MHZmRmJxRVhrX3hyWmhzZ3pmOWptWmN3RGVscEJjaklVNmtRYXhCT3dJNnJSczl6TFJYWjlnTW02WFM0SzRHTUwxRkU5?oc=5",
-      "published": "2026-11-07T13:40:33+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "مؤتمر الاتحاد العربي للأسمدة بالأردن يوصي بضرورة تحديث المصانع وتطوير تكنولوجيا الصناعة - صدى البلد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tZkc4X2FPRVViM3ZaWFRaaDdlYjRyUTlDZnlZdFhCbURMSVVmRW1IVG5ob1VPWFB0dHRYX0VJcEhMTDJSTlNv?oc=5\" target=\"_blank\">مؤتمر الاتحاد العربي للأسمدة بالأردن يوصي بضرورة تحديث المصانع وتطوير تكنولوجيا الصناعة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صدى البلد</font>",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tZkc4X2FPRVViM3ZaWFRaaDdlYjRyUTlDZnlZdFhCbURMSVVmRW1IVG5ob1VPWFB0dHRYX0VJcEhMTDJSTlNv?oc=5",
-      "published": "2026-11-07T13:20:00+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "اليمن تعزي الأردن باستشهاد أحد منتسبي الأمن العام - قناة المملكة",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPTjhuV2hQazltb2lCY0RTM05wRWNRX0JyZG9xWHpUU2FEeUR0Q29VWkZXNnNkRmFwLWJGUjBwSHhabmFiQ19UVWJ0MHhNZWRSM1NQTFlnaXoyMlIyalRqRTh3T2NrYVJFcnNNQ3J3UmJod01QMjU5STFOTHdkdFNTbVZYbjFsZmJBOXlpaGd4Mm5PaWhZVkQ3eEpUOUQ1WEd2VktiZTlseEJ3WDlNOHJxZGU5MlNYbTZLaWNhNW96Q3pZZjFQcFN3WDBXM05TczJpVjRTSDZSNEFIcVR1MUdja2FjRXg2N0RRNXJlYm9BU0MxcjJNbHV0WkF5SGJwWFptYko2SHlCSUNoMzQzMVFEbDh2TklmSXhHQ29MLWlhdjFtcC1tNWNJUzF1a3NjVWF2M3NkLTNZVEExdzFPSHZMLXVRTVFYUFB2aWk0dUJTSFJ2UktsODFlQ085MUdDX21La25qUldjS3dJZGFZNTNxYTNIbnE2cUktTkZQbEFYZDg1cWMxSWFlMnJlV3doZmlzZlpCSlY4M3NwRk9pSDFOYg?oc=5\" target=\"_blank\">اليمن تعزي الأردن باستشهاد أحد منتسبي الأمن العام</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">قناة المملكة</font>",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPTjhuV2hQazltb2lCY0RTM05wRWNRX0JyZG9xWHpUU2FEeUR0Q29VWkZXNnNkRmFwLWJGUjBwSHhabmFiQ19UVWJ0MHhNZWRSM1NQTFlnaXoyMlIyalRqRTh3T2NrYVJFcnNNQ3J3UmJod01QMjU5STFOTHdkdFNTbVZYbjFsZmJBOXlpaGd4Mm5PaWhZVkQ3eEpUOUQ1WEd2VktiZTlseEJ3WDlNOHJxZGU5MlNYbTZLaWNhNW96Q3pZZjFQcFN3WDBXM05TczJpVjRTSDZSNEFIcVR1MUdja2FjRXg2N0RRNXJlYm9BU0MxcjJNbHV0WkF5SGJwWFptYko2SHlCSUNoMzQzMVFEbDh2TklmSXhHQ29MLWlhdjFtcC1tNWNJUzF1a3NjVWF2M3NkLTNZVEExdzFPSHZMLXVRTVFYUFB2aWk0dUJTSFJ2UktsODFlQ085MUdDX21La25qUldjS3dJZGFZNTNxYTNIbnE2cUktTkZQbEFYZDg1cWMxSWFlMnJlV3doZmlzZlpCSlY4M3NwRk9pSDFOYg?oc=5",
-      "published": "2026-11-07T13:16:31+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الامطار في إربد تؤذن ببدء موسم قطف الزيتون وتنعش آمال المزارعين - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwRBVV95cUxQZDEtZTktdmVQSHpKa3lZWG1TUko5ZXZUaG5XN05FOFE1Z3UybmVjcVVURVhDZTNpS2VKZURFNGxQTkF6cWM4VVphazhTZFY3cC1qZ0VjQzk0VUhIZHljN1ZwR001VWhkNlJCd1kzMzVJRHFYWXBIX2p4dXo2d2R2eVZWWjRra3pqTS1DOUU5d0R2aENwbVdUOGhBTVlQUHdyTzVfRXlWNDVSeUNjRF9icWphcDlmb1B5MC1ueVBQMjBnQUNscWxYbk9UWExjbnhXbTNuc0h6NUg4bUJuNEdlWjJfb1k4Q2FPRUgxZ0hZLU56dWRyc3VyZmhBRE1aaEpzREFsZGI3RWl6bHVGMDhDSWstQ0NESnR3emVWMkI1OUtod21SaGI5TTdqZmxvSjlCZnZpX3JYOXZpdVJ4c210SmV1dW5CelN5UE5zeVdHQzZZYXZGRmZGUVlCeEh6RDF2OTJyeWs3bG53NzVWNzRVVU1NQ1F2NEo0RDJMU3VudHpxQzY1ejBSd1JOa3I2NFRSd01zLXI0MTFIMnFqY0NjdnJMdjhGOEVMcmt0dFRkOTZ6OEdmYTd5X0stU1VJVnl2X010MjQ4Y2ZfT3YxRmlpZUdyY1JzVkI3cGM0TFVGWTVjVVVVem9sSjczQ2RIV3lWbmw5U3FOcWd1eVRjb1VRWDd2X1ZzMWtpRnpBVmdLdWtMaks0R2xfTkc5czh4NmVJTnIyS0Iwbw?oc=5\" target=\"_blank\">الامطار في إربد تؤذن ببدء موسم قطف الزيتون وتنعش آمال المزارعين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQZDEtZTktdmVQSHpKa3lZWG1TUko5ZXZUaG5XN05FOFE1Z3UybmVjcVVURVhDZTNpS2VKZURFNGxQTkF6cWM4VVphazhTZFY3cC1qZ0VjQzk0VUhIZHljN1ZwR001VWhkNlJCd1kzMzVJRHFYWXBIX2p4dXo2d2R2eVZWWjRra3pqTS1DOUU5d0R2aENwbVdUOGhBTVlQUHdyTzVfRXlWNDVSeUNjRF9icWphcDlmb1B5MC1ueVBQMjBnQUNscWxYbk9UWExjbnhXbTNuc0h6NUg4bUJuNEdlWjJfb1k4Q2FPRUgxZ0hZLU56dWRyc3VyZmhBRE1aaEpzREFsZGI3RWl6bHVGMDhDSWstQ0NESnR3emVWMkI1OUtod21SaGI5TTdqZmxvSjlCZnZpX3JYOXZpdVJ4c210SmV1dW5CelN5UE5zeVdHQzZZYXZGRmZGUVlCeEh6RDF2OTJyeWs3bG53NzVWNzRVVU1NQ1F2NEo0RDJMU3VudHpxQzY1ejBSd1JOa3I2NFRSd01zLXI0MTFIMnFqY0NjdnJMdjhGOEVMcmt0dFRkOTZ6OEdmYTd5X0stU1VJVnl2X010MjQ4Y2ZfT3YxRmlpZUdyY1JzVkI3cGM0TFVGWTVjVVVVem9sSjczQ2RIV3lWbmw5U3FOcWd1eVRjb1VRWDd2X1ZzMWtpRnpBVmdLdWtMaks0R2xfTkc5czh4NmVJTnIyS0Iwbw?oc=5",
-      "published": "2026-11-07T13:15:39+00:00",
+      "title": "وكالة سرايا : تحذير عاجل في الأغوار الشمالية .. نبتة «القفص الصدري» كادت تودي بحياة طفلين - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : تحذير عاجل في الأغوار الشمالية .. نبتة «القفص الصدري» كادت تودي بحياة طفلين &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQOE9iR3FXYi12aW9TcFJKd2lnWE01cklXWkhLMUExNTR6U2FjSVBiQlUyR1N1UVFFSGMyWnVad0NMNS1oZlhpWEIzZGZ0SmQ3ZE9QSGFOblVQczZudVBuTzhhUVhqakdzU1pSV1ZKSm5KX3hDaWdONEZEV0R4bnIyMG1QM1IxcjJ2LVBVVDQ1TFJWY1JRSHYtQUw2X3F5ZTFOUlZ6bHdqN3NxQkc2NkhFc2ZDdjY1QnRSZFA3Vk5Tek5IS0JEVlFXTWI1N1VVS0trX0x4NVRmVmJyTE9ZWkctNzVrbnhSVVlUTHkyWjh1a3JsTGloUk5OMmFMelJhU0diTnhTQTNFRldxeEw4UnA3eHpVTl9nMHlsUHhUZ01aUFlHd1RLaVNEMmF5T2RQRDNSZm1USEU4UHJOSjhud1NELW5nV09QWWpzYkwzdm5BNW00R1BjTURQRXFybTFYWVZZaWMyVVZ3NUtreEVIbzAtZ0xaV1BEMnljZk5md3Q3VGZzYndERHhlRXJyU1V0Q0k4NmNGcjNmbHp0SlN1cmVTdm5kU3dPNUdBTTh5dTNtd1JNdVFYaldZ?oc=5",
+      "published": "2026-11-07T14:07:11+00:00",
       "category": "إربد",
-      "source": "Google News"
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
       "title": "الأرصاد الجوية تحذر من هطولات مطرية غزيرة في إربد والأغوار الشمالية - سواليف - والهرج للجميع",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxNSE8xUFprNl9zWnNhMlRkeXc0d2gzcVlScDVyTHFEZ1V2cm9MWG4ySmM2djlqdkZPQWs4dGEwRnhRcGZkUkNPbUFnYlZhN2VOVWFvcFBBNDlXRDlna3drVk5jWnJBdnNvbUxoWkJSWFA1MFJTTU56OW1YZkFPNFNtLUN5ekRGVzNmbWR5TjV4WFlJSjROeUZxckJGSU4zUkI0NkhadFNha1NOVVJ0aGZyV0ZlNXRONnFxTlhjYjhrZlV1SjNrSC1veVM4dFF3clRlSXltSzh3ZWlhRmstUTVOc0hxVW1KRnlSbU1UOW1ScWF5WUNCNlROc0pLdEdIaTN1ZUNUdC1WWnZHVFQ5SUJ1TDMwTkVaNDRSVmRrdUxVanN5VERfWTNlUzdoRnpya0o1c2JlRWFmMkRGcVFwdXM2X1hhLTUzcHU5aTU0Sw?oc=5\" target=\"_blank\">الأرصاد الجوية تحذر من هطولات مطرية غزيرة في إربد والأغوار الشمالية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سواليف - والهرج للجميع</font>",
+      "description": "الأرصاد الجوية تحذر من هطولات مطرية غزيرة في إربد والأغوار الشمالية &nbsp;&nbsp; سواليف - والهرج للجميع",
       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNSE8xUFprNl9zWnNhMlRkeXc0d2gzcVlScDVyTHFEZ1V2cm9MWG4ySmM2djlqdkZPQWs4dGEwRnhRcGZkUkNPbUFnYlZhN2VOVWFvcFBBNDlXRDlna3drVk5jWnJBdnNvbUxoWkJSWFA1MFJTTU56OW1YZkFPNFNtLUN5ekRGVzNmbWR5TjV4WFlJSjROeUZxckJGSU4zUkI0NkhadFNha1NOVVJ0aGZyV0ZlNXRONnFxTlhjYjhrZlV1SjNrSC1veVM4dFF3clRlSXltSzh3ZWlhRmstUTVOc0hxVW1KRnlSbU1UOW1ScWF5WUNCNlROc0pLdEdIaTN1ZUNUdC1WWnZHVFQ5SUJ1TDMwTkVaNDRSVmRrdUxVanN5VERfWTNlUzdoRnpya0o1c2JlRWFmMkRGcVFwdXM2X1hhLTUzcHU5aTU0Sw?oc=5",
       "published": "2026-11-07T13:14:02+00:00",
       "category": "إربد",
-      "source": "Google News"
-    },
-    {
-      "title": "مجموعة إيدج تتطلع إلى شراكات محلية في الأردن وتسلّط الضوء على أنظمة مكافحة الطائرات المسيّرة والحرب الإلكترونية التي أثبتت فاعليتها في القتال - Defense Arabia",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVEpsa2tsQU15WmdESVJZcHZLaENNVzNEejdFblVFUVdpV1hTcFNNMEZsWmFjSnBCX1VsYmtXTmVfeUNIc2dQdkxZZC1RQXRRbm41NFVGUEpJRGRMdmZZdHJyTGJFQjFRMVBuYmpSbEVmNmdwNzRoaHhfY0I1eU84UjFXU0pobzhuWktiN2NNWVdReWpsWklUVkpCcTFRMnFEcXVsSHRmd2pTQ2hSS0xCTzBJNHVBTXVmWmxwYWlvRDMwYTg2NF9NbC1tQ3VVNHNWX2xLbmxTeG1BZHdyLVpIUlJRandHWGxEX3g4MHdNSzRyRC1LR182NU1OSTlYcUhvTG9mVEg3bVNkc3NxSEdEeEU1WGNSVUNTS3k2OERoUmRRa1Nkd1lGUXpEeUR6cFgwZVAxMzE2anhUdGNIcXRIVXlXMTlsMnNkV3RkZUZjQXpZSUZq?oc=5\" target=\"_blank\">مجموعة إيدج تتطلع إلى شراكات محلية في الأردن وتسلّط الضوء على أنظمة مكافحة الطائرات المسيّرة والحرب الإلكترونية التي أثبتت فاعليتها في القتال</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense Arabia</font>",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVEpsa2tsQU15WmdESVJZcHZLaENNVzNEejdFblVFUVdpV1hTcFNNMEZsWmFjSnBCX1VsYmtXTmVfeUNIc2dQdkxZZC1RQXRRbm41NFVGUEpJRGRMdmZZdHJyTGJFQjFRMVBuYmpSbEVmNmdwNzRoaHhfY0I1eU84UjFXU0pobzhuWktiN2NNWVdReWpsWklUVkpCcTFRMnFEcXVsSHRmd2pTQ2hSS0xCTzBJNHVBTXVmWmxwYWlvRDMwYTg2NF9NbC1tQ3VVNHNWX2xLbmxTeG1BZHdyLVpIUlJRandHWGxEX3g4MHdNSzRyRC1LR182NU1OSTlYcUhvTG9mVEg3bVNkc3NxSEdEeEU1WGNSVUNTS3k2OERoUmRRa1Nkd1lGUXpEeUR6cFgwZVAxMzE2anhUdGNIcXRIVXlXMTlsMnNkV3RkZUZjQXpZSUZq?oc=5",
-      "published": "2026-11-07T13:07:16+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الأردن يحذر من سيول جارفة ومفاجئة تهدد منطقة البحر الميت والأودية - اليوم السابع",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxOc2tJTWtqLW9FcVB1QlY0LU81ZXB1WWIyWXBlNGIxZ2VSZGp1cFQzWldBY24wU05Dc1I5ekdyZmE3ajFuWEJPOVhIaEZzU0xoTFNkU2pLTjJvYmt1aHdNeHBVRHVsazhZeWg4NjlaZnBidnFTdXZGVU9mdldNX0Fsc3h4djhRbnBrdWM4bG9Va2R4ZTgxY1QyU1MxS3RHM0kyLUV0eVpfdmxULVVBZ1lJYjVWekNTUTBVRS1zc0FhaGJqaGpXQTN3U3V0RWVhVEE5TVVJbkVHNlhLeHpkSDFvWG1Xd3FTQ05IU3pueG9QZ3ZHX21QaEZhZHZxZnJDTjFDVTVBZW1ZYWxGaGdDWnlaS3FPN1MyLW9CVmluM3RKNkttOVVaeTRxLUhDNU9pVi1OQ29fRGRLbjhmXzR4ZzZXb0dnUHJ2SlZYWTBPNUk2RS1zSlNWMHkwX2ZZamlFVGU4em5GWGZSOUd4NjNOTEFuUXRVeHNzc3ZhU1FLVlpJdzVvbHRSeVk5ejJCZk5ybXYxVlg1M1R4ZGRocWFoUENyOG1ONmVrZzdkbTc4Z3lZMFJhX1k2b2NpUXBEWE45R3R5eFpVdFJwUjgwOWJDVXdkbmtJVlNXaHExamhDS2NB0gHYA0FVX3lxTFAzRTJyRFRQNTV6RlpnckpuTWhFQ0ZRV0VubnlwOEZDLUZYT1JVTHh1aTYwM0R4ZEtGbmprZUw3UksxeEI0R3RHRVJQRnBkaVE0Qlo0b3lyU1ZoODhqa1BtX1J1MF9OZVFDSmFyRjk5M0xkUWQ3YUQ5dEI2UmVaVWdxN3lqYWEzNFlkU2NOa2MwRTBlOFpib1hsbkE3amZtdmFidXNMZDdvbHJTeExXVE5ldFNCRnVRTUlBUE4tRlBWVnhpNWRndzhEaDJab2hMcno1Wk80XzFaRmhTVm5wYl9KTDZndEN5N0lTTGZCQVl6WE1FSVFzRmNWUFNLMTNKWFNrbXlxbWF5RG9PT0tCc3NZUG9uMUVMZ1JMRkFhTkN6S0lUNXNjSVJXUTdQcmxicmdnSjR4QzFPV29GRVNYVFhNVEpHTHJ1QVNTSWI1ZmRfNl9NX2JvajhZUTZTTk4xU1lON25RMzNHTGkxaGNxWmZjZEV5S2xIMDNMOHdibTZybldaZFkzcTBrSkhSc0V6V2JkLTh3OWtyU3hiS05JbnJ4MVBSX1VBRDRQUVQ5VGcyZ203SmdBb0pwbUtERGM1clZUanJRc19GcHFqWG9DczFzTklYWG10MFg?oc=5\" target=\"_blank\">الأردن يحذر من سيول جارفة ومفاجئة تهدد منطقة البحر الميت والأودية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
-      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOc2tJTWtqLW9FcVB1QlY0LU81ZXB1WWIyWXBlNGIxZ2VSZGp1cFQzWldBY24wU05Dc1I5ekdyZmE3ajFuWEJPOVhIaEZzU0xoTFNkU2pLTjJvYmt1aHdNeHBVRHVsazhZeWg4NjlaZnBidnFTdXZGVU9mdldNX0Fsc3h4djhRbnBrdWM4bG9Va2R4ZTgxY1QyU1MxS3RHM0kyLUV0eVpfdmxULVVBZ1lJYjVWekNTUTBVRS1zc0FhaGJqaGpXQTN3U3V0RWVhVEE5TVVJbkVHNlhLeHpkSDFvWG1Xd3FTQ05IU3pueG9QZ3ZHX21QaEZhZHZxZnJDTjFDVTVBZW1ZYWxGaGdDWnlaS3FPN1MyLW9CVmluM3RKNkttOVVaeTRxLUhDNU9pVi1OQ29fRGRLbjhmXzR4ZzZXb0dnUHJ2SlZYWTBPNUk2RS1zSlNWMHkwX2ZZamlFVGU4em5GWGZSOUd4NjNOTEFuUXRVeHNzc3ZhU1FLVlpJdzVvbHRSeVk5ejJCZk5ybXYxVlg1M1R4ZGRocWFoUENyOG1ONmVrZzdkbTc4Z3lZMFJhX1k2b2NpUXBEWE45R3R5eFpVdFJwUjgwOWJDVXdkbmtJVlNXaHExamhDS2NB0gHYA0FVX3lxTFAzRTJyRFRQNTV6RlpnckpuTWhFQ0ZRV0VubnlwOEZDLUZYT1JVTHh1aTYwM0R4ZEtGbmprZUw3UksxeEI0R3RHRVJQRnBkaVE0Qlo0b3lyU1ZoODhqa1BtX1J1MF9OZVFDSmFyRjk5M0xkUWQ3YUQ5dEI2UmVaVWdxN3lqYWEzNFlkU2NOa2MwRTBlOFpib1hsbkE3amZtdmFidXNMZDdvbHJTeExXVE5ldFNCRnVRTUlBUE4tRlBWVnhpNWRndzhEaDJab2hMcno1Wk80XzFaRmhTVm5wYl9KTDZndEN5N0lTTGZCQVl6WE1FSVFzRmNWUFNLMTNKWFNrbXlxbWF5RG9PT0tCc3NZUG9uMUVMZ1JMRkFhTkN6S0lUNXNjSVJXUTdQcmxicmdnSjR4QzFPV29GRVNYVFhNVEpHTHJ1QVNTSWI1ZmRfNl9NX2JvajhZUTZTTk4xU1lON25RMzNHTGkxaGNxWmZjZEV5S2xIMDNMOHdibTZybldaZFkzcTBrSkhSc0V6V2JkLTh3OWtyU3hiS05JbnJ4MVBSX1VBRDRQUVQ5VGcyZ203SmdBb0pwbUtERGM1clZUanJRc19GcHFqWG9DczFzTklYWG10MFg?oc=5",
-      "published": "2026-11-07T12:50:00+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "بطولة كأس الأردن لكرة اليد تنطلق الثلاثاء... - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgNBVV95cUxPOTVCUkQ3aE1qWUxCYWE3YnhtTm5jN2R2M08zVVl4Q3NpLTU2R1VMSThfZHFpWWZqZHV3LV9lVk1KdEpVbDB5S05SN281dkdkaV85UGxlMXo3R1F2eHR1MU5XSFQ0SmtNZGlkWFdmRUZOQlhvS1lxbVkwVWMzdXVQTzhVRnBXYV9kd01nOFQ4dm5udXgzT3ZVSW5EV2xsSlVRRk05LUttcGtFeVpzblZROGNtamp3eHZkeWhuOTF5OVN5aGlPYVRZblNqR291cmNOdHppSXZHc19qNksxMEZGcFdRaEo1aXBmSERycnQtRUt0bXRsLWhLNDhRUFBsZEF0cF9HQ3ZqcEh2WmJjcHNPUWp3ZFQtQzZVeXVBVlc0c0FTZlBoQWtmdFNlZVA3VDJTUE9VSXdvY3gtUFFtOTNyZ0t4LVdEd1NJMXhfMDRoYUl5WjYyUGFrbU5GbWFvb29DTmZyZmhpNWQ3dnBYUDJBTnFPTFFTbmhYaDJYZWNJZzRyQTA5Mm9uUGJUSU9jT2RwWDl4M1dPUmdDRExEOTd6bUlNczZDRnF0V1E?oc=5\" target=\"_blank\">بطولة كأس الأردن لكرة اليد تنطلق الثلاثاء...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPOTVCUkQ3aE1qWUxCYWE3YnhtTm5jN2R2M08zVVl4Q3NpLTU2R1VMSThfZHFpWWZqZHV3LV9lVk1KdEpVbDB5S05SN281dkdkaV85UGxlMXo3R1F2eHR1MU5XSFQ0SmtNZGlkWFdmRUZOQlhvS1lxbVkwVWMzdXVQTzhVRnBXYV9kd01nOFQ4dm5udXgzT3ZVSW5EV2xsSlVRRk05LUttcGtFeVpzblZROGNtamp3eHZkeWhuOTF5OVN5aGlPYVRZblNqR291cmNOdHppSXZHc19qNksxMEZGcFdRaEo1aXBmSERycnQtRUt0bXRsLWhLNDhRUFBsZEF0cF9HQ3ZqcEh2WmJjcHNPUWp3ZFQtQzZVeXVBVlc0c0FTZlBoQWtmdFNlZVA3VDJTUE9VSXdvY3gtUFFtOTNyZ0t4LVdEd1NJMXhfMDRoYUl5WjYyUGFrbU5GbWFvb29DTmZyZmhpNWQ3dnBYUDJBTnFPTFFTbmhYaDJYZWNJZzRyQTA5Mm9uUGJUSU9jT2RwWDl4M1dPUmdDRExEOTd6bUlNczZDRnF0V1E?oc=5",
-      "published": "2026-11-07T12:23:20+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "وزارة الإدارة - قناة المملكة",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1JUYjdfRUV0amhVbTVRbFhJLUUtTXdJMnpfSTVoRDlCWlJPTG1LYVVyTDNtQ1hoWEhHMElPRHdSRzQ3UXVlVEMwYlp0X1RYQWhhSENETXA2V1ZlSjR2ek1BeFZYRUJ1RG1BbU15R1RuM3ZvRHBNaTR4eGd4cXJXdGxfb3JqTHV0NGNYaHpKMFZjdExkQmNwZS1kRjVyVU83Z1I2enFieFBheFVW?oc=5\" target=\"_blank\">وزارة الإدارة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">قناة المملكة</font>",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1JUYjdfRUV0amhVbTVRbFhJLUUtTXdJMnpfSTVoRDlCWlJPTG1LYVVyTDNtQ1hoWEhHMElPRHdSRzQ3UXVlVEMwYlp0X1RYQWhhSENETXA2V1ZlSjR2ek1BeFZYRUJ1RG1BbU15R1RuM3ZvRHBNaTR4eGd4cXJXdGxfb3JqTHV0NGNYaHpKMFZjdExkQmNwZS1kRjVyVU83Z1I2enFieFBheFVW?oc=5",
-      "published": "2026-11-07T12:22:29+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "انطلاق مهرجان الأردن المسرحي الـ31 بمشاركة 14 دولة عربية و10 عروض مسرحية - OSBU",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1zaXlNcE9SdWRIZC00N3VibXZiVnJIX1VxSHdpZkVoTENQYjdJYzU1MzljbExvYWcxNmsxblBtbmF0em8?oc=5\" target=\"_blank\">انطلاق مهرجان الأردن المسرحي الـ31 بمشاركة 14 دولة عربية و10 عروض مسرحية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OSBU</font>",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1zaXlNcE9SdWRIZC00N3VibXZiVnJIX1VxSHdpZkVoTENQYjdJYzU1MzljbExvYWcxNmsxblBtbmF0em8?oc=5",
-      "published": "2026-11-07T12:17:27+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "اليمن تعزي الأردن باستشهاد أحد منتسبي الأمن العام... - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxNOXB3RFVZUEFZOFRtQm4wS05DaEJreHNhbzk0M2R4YV9zQUtLOWVUVEw0a2J0WVBtS20wNEJtdk5GSjkxTGxhd3FodUswbWViNGdHOW9QeTlWal9TYnRMbWZLVmRNZ3dxemF5THNlUjhNVHhRbUNIU05PWWhtc1dqMUxLUnJIV1didkx4dHhrWW1ZeHJsZ1pQTHR3Z1gxc01sbDJraXg4ZFV3Z1hNV09VV3JhRUdEcG5xMVVQeTlKbWlFbFlfSXVhQzE0Mk9vQnZmc3VKNndUeTRVVUNXSmRaOHVMZkZocUdwZ3pSLVdWM3REel9aZFlTV3FQbHo1Y1BYVFZZNjNXYzlQVlhaYjQzTjFqck9JbFYzNUJUTW1MZDluZUhJdHF5VmV1eTRSTmFwV0piQURCSUpYREZBYTBRc0ctd2cxZGYzaXNoM3VjdGhpcm5Gb1o3Y0U5SWhNN0pQUnRwNTZZR0xYYlNQWDJteENtbXFqbXdoelU1bXB4Q1BWSEJhOWN6MFcyS05CRFRJcGRTTzJidXpaUjBvZGN1V3ByajR6TkNRbHR3d0tCdS1uclFzZGZhV0JubFZmTlpSM05xTWFkWWlXeURRZmlCMEx5ZHVKaDR0MERjMldoalpERC1yR2hJRUNocjJzX0VWeVdEdUNKUXdXRGl5SWFQYVNIYTY?oc=5\" target=\"_blank\">اليمن تعزي الأردن باستشهاد أحد منتسبي الأمن العام...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxNOXB3RFVZUEFZOFRtQm4wS05DaEJreHNhbzk0M2R4YV9zQUtLOWVUVEw0a2J0WVBtS20wNEJtdk5GSjkxTGxhd3FodUswbWViNGdHOW9QeTlWal9TYnRMbWZLVmRNZ3dxemF5THNlUjhNVHhRbUNIU05PWWhtc1dqMUxLUnJIV1didkx4dHhrWW1ZeHJsZ1pQTHR3Z1gxc01sbDJraXg4ZFV3Z1hNV09VV3JhRUdEcG5xMVVQeTlKbWlFbFlfSXVhQzE0Mk9vQnZmc3VKNndUeTRVVUNXSmRaOHVMZkZocUdwZ3pSLVdWM3REel9aZFlTV3FQbHo1Y1BYVFZZNjNXYzlQVlhaYjQzTjFqck9JbFYzNUJUTW1MZDluZUhJdHF5VmV1eTRSTmFwV0piQURCSUpYREZBYTBRc0ctd2cxZGYzaXNoM3VjdGhpcm5Gb1o3Y0U5SWhNN0pQUnRwNTZZR0xYYlNQWDJteENtbXFqbXdoelU1bXB4Q1BWSEJhOWN6MFcyS05CRFRJcGRTTzJidXpaUjBvZGN1V3ByajR6TkNRbHR3d0tCdS1uclFzZGZhV0JubFZmTlpSM05xTWFkWWlXeURRZmlCMEx5ZHVKaDR0MERjMldoalpERC1yR2hJRUNocjJzX0VWeVdEdUNKUXdXRGl5SWFQYVNIYTY?oc=5",
-      "published": "2026-11-07T12:15:45+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "source": "سواليف - والهرج للجميع"
     },
     {
       "title": "تشكيل الحسين إربد ضد السلط بالجولة الثامنة من الدوري الأردني 2026/2027 - 365Scores",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxNNDFlQUhXaHRNVEEta0ZDVjdnZWJwUUxIbGx5Q3JBVVJMYU9QUE1TUHhwTlNabTBoY0d6ZGpUbDNhVWxxUFNpaVdmNUljTGRmYVRDblBkRXlJeGptZlVYSHFhcnh6djZnSHl4QkdpZFpLNVRqX3EtNUhSbnl0NXZQRWNwVDNzRDZOMXhjeEhYNTRzTjFNclZzem10ZGJmV0dDbFBkUHlPdFowQzZUTF9iZ1BQVWt2ekI5cDZrNXNhSUJadkFSTS05NTczLS1MeHp3Y0RWZEZCMmhJYmtiS3NIeVNGZ2xZaTdwcnBVM0xfT0dWekROY1AtNlh2bUdIV1k5X1ZvQzg4SUV3WWlxUzBCOFVSNFUtZm1WV0dwUk1EVldTOWdSU1lDeVo2QnVtZ1dvS3U5amZwZzNZYTFISkt5aEs2RjA4bTRhSWRreDZrZDV6UTFEaHBGMVM5VkRxSVU?oc=5\" target=\"_blank\">تشكيل الحسين إربد ضد السلط بالجولة الثامنة من الدوري الأردني 2026/2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">365Scores</font>",
+      "description": "تشكيل الحسين إربد ضد السلط بالجولة الثامنة من الدوري الأردني 2026/2027 &nbsp;&nbsp; 365Scores",
       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNNDFlQUhXaHRNVEEta0ZDVjdnZWJwUUxIbGx5Q3JBVVJMYU9QUE1TUHhwTlNabTBoY0d6ZGpUbDNhVWxxUFNpaVdmNUljTGRmYVRDblBkRXlJeGptZlVYSHFhcnh6djZnSHl4QkdpZFpLNVRqX3EtNUhSbnl0NXZQRWNwVDNzRDZOMXhjeEhYNTRzTjFNclZzem10ZGJmV0dDbFBkUHlPdFowQzZUTF9iZ1BQVWt2ekI5cDZrNXNhSUJadkFSTS05NTczLS1MeHp3Y0RWZEZCMmhJYmtiS3NIeVNGZ2xZaTdwcnBVM0xfT0dWekROY1AtNlh2bUdIV1k5X1ZvQzg4SUV3WWlxUzBCOFVSNFUtZm1WV0dwUk1EVldTOWdSU1lDeVo2QnVtZ1dvS3U5amZwZzNZYTFISkt5aEs2RjA4bTRhSWRreDZrZDV6UTFEaHBGMVM5VkRxSVU?oc=5",
       "published": "2026-11-07T12:06:39+00:00",
       "category": "إربد",
-      "source": "Google News"
-    },
-    {
-      "title": "البرلمان العربي يدين الاعتداء الإرهابي الذي استهدف أحد رجال الأمن العام - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAVBVV95cUxQdFNDQWpUZG5zR0Z0SVlWX21VV1RtTDdpd1hDOXFPQTBHZUF0MU9KSU1pVG9JcmZRLTFTYVVJOUhkMnNrV1ROakNaaDI3dWpXZzZLOVZuWW5qcGE5SDFMT3AwM3p3Q3RIRktoNk5XZVZ6WFJOekx1MzR0SGFyX2QxY1U2RnZqTldsYzdnVkF2QlU3NEl0dkZDU3RnajlmLUlnaGdYWWxSck0ybGtzcXhnSDJLeU9RYXlZYVJFN0FhcUE2TkJnNlB5Q2RYa2lGZ3NHS0t6aXVfVk9CeVYxWjQtZjFULXdGcXJLZ1ctZzctdzF5ZFpiZDFla2FKczBRc2tkLUZwT19tNEl5UDd0R2pzOGFfcldIYTQ5NGFrbjlqdzh6U3FfQUt0YUxsdThLRkcwMGRHZG1Ja3lVb21MclJ5OEtpMmpZZXpiVEVfUFBUQWNFVlhaSHNGWmtCRVMya3A1eV85WXVSQ2pSY3FhVkdZdVVwODZKcmJpUWEyN0RmT0pMN05XTWswc2VldGs2NVBuRE4wb0NaazBxbzBPcnZ2ZzM0TzVvODEyZmVYa2w3dFNDYXRiV0F2MERkLW5oRG5NeTRFUXFJdVIxcFVka2VWV2k0b0gwLW1Xdk1DNjlpYjNTVmE0TWFlbWpCeGVFYkVlTTFGVkI2V0tvYjMydGxfc042RHlPNUZkUDltLUdzOVlOekNlSVh2WDZCdjM3TmZkTG9UUGdPb3lCckFkTG5MOE5hYUJhOEpqamFaRnRhLVl4YTJyN3ZaakhCQS1lYUpUYzh1azlGejhTTC1vMm9lVkdsTWVvbVdhZzlUa0lDT2s0VUM4MkhnVUZvcE9qSUMwbG82T1d0X1ZVZUYwVnJRcGZ0eVpuYmtXMkc4eS1GZHpOZ0JMR1oxLUV5M2VDd3B6?oc=5\" target=\"_blank\">البرلمان العربي يدين الاعتداء الإرهابي الذي استهدف أحد رجال الأمن العام</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQdFNDQWpUZG5zR0Z0SVlWX21VV1RtTDdpd1hDOXFPQTBHZUF0MU9KSU1pVG9JcmZRLTFTYVVJOUhkMnNrV1ROakNaaDI3dWpXZzZLOVZuWW5qcGE5SDFMT3AwM3p3Q3RIRktoNk5XZVZ6WFJOekx1MzR0SGFyX2QxY1U2RnZqTldsYzdnVkF2QlU3NEl0dkZDU3RnajlmLUlnaGdYWWxSck0ybGtzcXhnSDJLeU9RYXlZYVJFN0FhcUE2TkJnNlB5Q2RYa2lGZ3NHS0t6aXVfVk9CeVYxWjQtZjFULXdGcXJLZ1ctZzctdzF5ZFpiZDFla2FKczBRc2tkLUZwT19tNEl5UDd0R2pzOGFfcldIYTQ5NGFrbjlqdzh6U3FfQUt0YUxsdThLRkcwMGRHZG1Ja3lVb21MclJ5OEtpMmpZZXpiVEVfUFBUQWNFVlhaSHNGWmtCRVMya3A1eV85WXVSQ2pSY3FhVkdZdVVwODZKcmJpUWEyN0RmT0pMN05XTWswc2VldGs2NVBuRE4wb0NaazBxbzBPcnZ2ZzM0TzVvODEyZmVYa2w3dFNDYXRiV0F2MERkLW5oRG5NeTRFUXFJdVIxcFVka2VWV2k0b0gwLW1Xdk1DNjlpYjNTVmE0TWFlbWpCeGVFYkVlTTFGVkI2V0tvYjMydGxfc042RHlPNUZkUDltLUdzOVlOekNlSVh2WDZCdjM3TmZkTG9UUGdPb3lCckFkTG5MOE5hYUJhOEpqamFaRnRhLVl4YTJyN3ZaakhCQS1lYUpUYzh1azlGejhTTC1vMm9lVkdsTWVvbVdhZzlUa0lDT2s0VUM4MkhnVUZvcE9qSUMwbG82T1d0X1ZVZUYwVnJRcGZ0eVpuYmtXMkc4eS1GZHpOZ0JMR1oxLUV5M2VDd3B6?oc=5",
-      "published": "2026-11-07T12:02:48+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "source": "365Scores"
     },
     {
       "title": "القنوات الناقلة لمباراة الحسين إربد ضد السلط في الدوري الأردني للمحترفين - 365Scores",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxObkdJMDNPSGhGT1psSk9fZ0NFNHdkTU9sNVdGTHBZZUluRXZkMFpTWGxleDBKTnhaenN6TFVmX092d2djMFN5dF9NUW54ZUJ6VXVwbHF4QTR5bllSVWFIUlEwS0NSb0EwM3B0VFhEekRGM2JicWRYRU1ISS1JRU9CZmRjbEVJNkxEZnBOUDdDVWRpYzFCM2FjNGxVUVZBX2RtOV80Ti1Ubk9OU1J1Y1BXZ2dUNWtoem9DbTdmbGhyeGZmXzNUUmN2TXJpWW43QmZJZjh0djVkd3dxS1dRanpOOE5zRGZ3cC1RRGFrRllLbjJvd1BreDd4NnoyT09rNmVERUg5UVk3RC1ldWlHRXhwS2M4N3JDZ3ZYS25rbklLWnlpNHkwbl9XcHVpZUNDUjV5RUM3S3JvVWxZdzgtZE5vbXJNQTZpc3BaOVBqVW1hMlEwVWs2MW03T0htWl9sQmk0?oc=5\" target=\"_blank\">القنوات الناقلة لمباراة الحسين إربد ضد السلط في الدوري الأردني للمحترفين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">365Scores</font>",
+      "description": "القنوات الناقلة لمباراة الحسين إربد ضد السلط في الدوري الأردني للمحترفين &nbsp;&nbsp; 365Scores",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxObkdJMDNPSGhGT1psSk9fZ0NFNHdkTU9sNVdGTHBZZUluRXZkMFpTWGxleDBKTnhaenN6TFVmX092d2djMFN5dF9NUW54ZUJ6VXVwbHF4QTR5bllSVWFIUlEwS0NSb0EwM3B0VFhEekRGM2JicWRYRU1ISS1JRU9CZmRjbEVJNkxEZnBOUDdDVWRpYzFCM2FjNGxVUVZBX2RtOV80Ti1Ubk9OU1J1Y1BXZ2dUNWtoem9DbTdmbGhyeGZmXzNUUmN2TXJpWW43QmZJZjh0djVkd3dxS1dRanpOOE5zRGZ3cC1RRGFrRllLbjJvd1BreDd4NnoyT09rNmVERUg5UVk3RC1ldWlHRXhwS2M4N3JDZ3ZYS25rbklLWnlpNHkwbl9XcHVpZUNDUjV5RUM3S3JvVWxZdzgtZE5vbXJNQTZpc3BaOVBqVW1hMlEwVWs2MW03T0htWl9sQmk0?oc=5",
       "published": "2026-11-07T11:56:28+00:00",
       "category": "إربد",
-      "source": "Google News"
+      "source": "365Scores"
     },
     {
-      "title": "الجالية الأردنية في أميركا تستعد لإطلاق مبادرة وطنية وفاءً لشهداء الوطن - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxQTHk2QUFxQkY0RnR4M08yUWJRVVpUeFJLcHdZMHZTNTdDc1d6a1dFdEVybDJJVzJuekxaakFienpWbGt4eE1ZRTdQd2R6VFRBd3hINjdvaGFzLW11WnFsM3gycDFRVldCZnl5enNzWFMwR3RKZGxIUmhnclozb1dLM3ZfVFZDcnd4Mll0Q2xpT3pEY2VNWGZtNkdFbFJyOHZOS09qY2t3MkxaMU5oUDd2LTFLSlNwRjh0RHNmaVhReXBRV2Fpcm9QOW1qbHBqaGc2UkVJRFdaYXRDSnQwSkd1czYwWWY0TzkwUU11RWVOc0xfaUU3cy1XYXJmc1Rqc0czeGRHaHFiM01heGZiYktFN2pzZXhoa2NjU3M2c2RWNEZfb1FmcUxIVVZRcXZVc1R3OTkxOUwzRGxuVmM5LVZLMDJPUEU2VE1pWTJwR1RUNUVtOUt3OXhzWUk5RFl1TXFJSlVtYm1oZlA0R0Yya1A5Y2ZYWUc3UmRTUWRsRmhiZ1dHaDRHWnNLSUZUb0QwNWVITTNBVFQzNDlSek9ncEVpU3dFYTlPWGFhUTkxMzFtd3VLR3hGNFNIVUtJREpsWXNJUVAxN21nWTZkeEhPT2F5OHJqMS1MeDVFMGItNlIzWFVxNjhwVElMWndRUFBRQzNBWHVWRm93dFI4ZGFxcEt6T3RmcV9wNlZSSmhiTkZOeGpwYjNYaVNIdkNSWmJ3cHVOWGpRdmF1VE81NUtaOWMyYTFkRUZnUmxMU0daSWJOaTVXcGtWbUE3OXRlTlVxUldRVHhoUTFIQk1QLVBFQkwwX0VQNWlrXzd3N21uTHA1dHlSVjdqN2hpQkRnX3hvaHZzU2ZsQlZ1bG00ejRWYWJ0QzBmVVQwd2ZN?oc=5\" target=\"_blank\">الجالية الأردنية في أميركا تستعد لإطلاق مبادرة وطنية وفاءً لشهداء الوطن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQTHk2QUFxQkY0RnR4M08yUWJRVVpUeFJLcHdZMHZTNTdDc1d6a1dFdEVybDJJVzJuekxaakFienpWbGt4eE1ZRTdQd2R6VFRBd3hINjdvaGFzLW11WnFsM3gycDFRVldCZnl5enNzWFMwR3RKZGxIUmhnclozb1dLM3ZfVFZDcnd4Mll0Q2xpT3pEY2VNWGZtNkdFbFJyOHZOS09qY2t3MkxaMU5oUDd2LTFLSlNwRjh0RHNmaVhReXBRV2Fpcm9QOW1qbHBqaGc2UkVJRFdaYXRDSnQwSkd1czYwWWY0TzkwUU11RWVOc0xfaUU3cy1XYXJmc1Rqc0czeGRHaHFiM01heGZiYktFN2pzZXhoa2NjU3M2c2RWNEZfb1FmcUxIVVZRcXZVc1R3OTkxOUwzRGxuVmM5LVZLMDJPUEU2VE1pWTJwR1RUNUVtOUt3OXhzWUk5RFl1TXFJSlVtYm1oZlA0R0Yya1A5Y2ZYWUc3UmRTUWRsRmhiZ1dHaDRHWnNLSUZUb0QwNWVITTNBVFQzNDlSek9ncEVpU3dFYTlPWGFhUTkxMzFtd3VLR3hGNFNIVUtJREpsWXNJUVAxN21nWTZkeEhPT2F5OHJqMS1MeDVFMGItNlIzWFVxNjhwVElMWndRUFBRQzNBWHVWRm93dFI4ZGFxcEt6T3RmcV9wNlZSSmhiTkZOeGpwYjNYaVNIdkNSWmJ3cHVOWGpRdmF1VE81NUtaOWMyYTFkRUZnUmxMU0daSWJOaTVXcGtWbUE3OXRlTlVxUldRVHhoUTFIQk1QLVBFQkwwX0VQNWlrXzd3N21uTHA1dHlSVjdqN2hpQkRnX3hvaHZzU2ZsQlZ1bG00ejRWYWJ0QzBmVVQwd2ZN?oc=5",
-      "published": "2026-11-07T11:55:39+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "أ. د. هيثم علي حجازي يكتب: العودة إلى التوقيت الشتوي في الأردن: ضرورة وطنية تفرضها صحة الإنسان ومصلحة المجتمع - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogNBVV95cUxNQzlKQm1WMG1nUHdITjI1d1AtS1A2dXB1QWtaa0djSGtvdkcwWENNUDB6MTcyOTVCd2IwYjVNUU5mckRvNlY0TkRKNlFuYVdZQkpvcVc4ZkZtc0xDMU8tMUxjNlZXclg5ZlA2enBPLWprVG5yVFhObXRjQl9abXhTRWg0X2N1ekZrd01UTEJpZTktQVEwdWJHc0tPN21lSjc5dzZEc0FLOXBuRzludjZEeFdqR00zWjQwdkliWnN4dmRHMk1qQjFvZVhDRTJaRXV6ZklIWG9BeEZzTjRoeHBzRU14bXlvSXA4UWoyME1DOHByWXRrMUR6SmJyeHo1cDdHaklRelF4akRQWk5OWnd5TE4tMU9qaVhsMzIyUVhoVXFxSkNSRTB3V0dacVZaR3NCQ2d6dXVWbnNxTmNDUTRJQUZDZkFSb01OY1N6aWR5STNBN0M1TEMxdXdfQ0FtZHo4dk03d2p1dmlCLTRhbWI2OV9JbjJhMHJTYzUyay1BcGZwZ1RFTHdvRjI0TGZIR0dhU0JHRkNYR3BSa1ZlSXVHQzNn?oc=5\" target=\"_blank\">أ. د. هيثم علي حجازي يكتب: العودة إلى التوقيت الشتوي في الأردن: ضرورة وطنية تفرضها صحة الإنسان ومصلحة المجتمع</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة أنباء سرايا الإخبارية - حرية سقفها السماء</font>",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNQzlKQm1WMG1nUHdITjI1d1AtS1A2dXB1QWtaa0djSGtvdkcwWENNUDB6MTcyOTVCd2IwYjVNUU5mckRvNlY0TkRKNlFuYVdZQkpvcVc4ZkZtc0xDMU8tMUxjNlZXclg5ZlA2enBPLWprVG5yVFhObXRjQl9abXhTRWg0X2N1ekZrd01UTEJpZTktQVEwdWJHc0tPN21lSjc5dzZEc0FLOXBuRzludjZEeFdqR00zWjQwdkliWnN4dmRHMk1qQjFvZVhDRTJaRXV6ZklIWG9BeEZzTjRoeHBzRU14bXlvSXA4UWoyME1DOHByWXRrMUR6SmJyeHo1cDdHaklRelF4akRQWk5OWnd5TE4tMU9qaVhsMzIyUVhoVXFxSkNSRTB3V0dacVZaR3NCQ2d6dXVWbnNxTmNDUTRJQUZDZkFSb01OY1N6aWR5STNBN0M1TEMxdXdfQ0FtZHo4dk03d2p1dmlCLTRhbWI2OV9JbjJhMHJTYzUyay1BcGZwZ1RFTHdvRjI0TGZIR0dhU0JHRkNYR3BSa1ZlSXVHQzNn?oc=5",
-      "published": "2026-11-07T11:55:39+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "البرلمان العربي يدين الاعتداء الإرهابي على أحد رجال الأمن في الأردن - صدى البلد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9md2h1OEk5MmN3M0t4Zl9LVWZLcTRKemM1SGg4LUNsUUxFdkctSy0tOHg3RXhndWVsU2xRTHd1RlVSekN0U04w?oc=5\" target=\"_blank\">البرلمان العربي يدين الاعتداء الإرهابي على أحد رجال الأمن في الأردن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صدى البلد</font>",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9md2h1OEk5MmN3M0t4Zl9LVWZLcTRKemM1SGg4LUNsUUxFdkctSy0tOHg3RXhndWVsU2xRTHd1RlVSekN0U04w?oc=5",
-      "published": "2026-11-07T11:28:00+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "من الكرك إلى عمّان... هل تغير وجه الإرهاب في الأردن؟ - اندبندنت عربية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigARBVV95cUxPYmQ1bU5oejNRd1BGODZvNGJJNXk2RENndnJvTTllRnlzZUhjSW9kMEJlS1hqN1BNa1g4dTd4WmdhOFlFc2c1d0RsSHNEUTZ6clhKNklIS2kwSzBlSVVPV2NXdnpoMU1xWDh3WUtKS2lycTRLdmhVOXgwelloSWdzNzVIdlB0NXpIRDI2VUJWeDhPdnlpV09JT2o5RnZEZHVHamJ3cnAyS3RkSzJSQ1ZUaXROU2FyVGFxZTlZNE9iaHJXblpkV1ZDS3g4aFhzNWUwalFpYTVLTjNsTUx2ZmZ6MGFPTzE3Nk92RFRlVFI4RXdrczlLZVdiMmRvcEdrNUxTTEp2MC1iNTJ0QVJtS0ZJaHludHhELVRFc3RzcE5TQ01pSTVxV2w2RzdGd2c3czJHbk9qS3ZZbWlqRWtWTmlWMi1SQ3c1am5kUzNXVVU5N1JHLW9JMWZ4ejhxNVNlcVR2Ml9mM0FqckdNTWhwWXFrd1JVWUVZYjRlNlVQUnowc3lpVldodjNkZFMzMUtBSGs2THhUdXdnaTY5TEFOdzh3Ymt2bGpTV184TmFyeF84dUVvR3JvTVpoYVVoRDYwZi00X1dNV0k4V1VudWd0S0JPWmtCMzY5MXNGbE5qTFEyZ0NEN3dNTDZrNHd4NnpFUWFrUldrcXB3SjlRYWFUWjduZg?oc=5\" target=\"_blank\">من الكرك إلى عمّان... هل تغير وجه الإرهاب في الأردن؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اندبندنت عربية</font>",
-      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxPYmQ1bU5oejNRd1BGODZvNGJJNXk2RENndnJvTTllRnlzZUhjSW9kMEJlS1hqN1BNa1g4dTd4WmdhOFlFc2c1d0RsSHNEUTZ6clhKNklIS2kwSzBlSVVPV2NXdnpoMU1xWDh3WUtKS2lycTRLdmhVOXgwelloSWdzNzVIdlB0NXpIRDI2VUJWeDhPdnlpV09JT2o5RnZEZHVHamJ3cnAyS3RkSzJSQ1ZUaXROU2FyVGFxZTlZNE9iaHJXblpkV1ZDS3g4aFhzNWUwalFpYTVLTjNsTUx2ZmZ6MGFPTzE3Nk92RFRlVFI4RXdrczlLZVdiMmRvcEdrNUxTTEp2MC1iNTJ0QVJtS0ZJaHludHhELVRFc3RzcE5TQ01pSTVxV2w2RzdGd2c3czJHbk9qS3ZZbWlqRWtWTmlWMi1SQ3c1am5kUzNXVVU5N1JHLW9JMWZ4ejhxNVNlcVR2Ml9mM0FqckdNTWhwWXFrd1JVWUVZYjRlNlVQUnowc3lpVldodjNkZFMzMUtBSGs2THhUdXdnaTY5TEFOdzh3Ymt2bGpTV184TmFyeF84dUVvR3JvTVpoYVVoRDYwZi00X1dNV0k4V1VudWd0S0JPWmtCMzY5MXNGbE5qTFEyZ0NEN3dNTDZrNHd4NnpFUWFrUldrcXB3SjlRYWFUWjduZg?oc=5",
-      "published": "2026-11-07T11:25:23+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "فريق جرش يواصل صدارة دوري الدرجة الأولى - زاد الاردن",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9vdGRwUDUyU1ZyeENnR0ZDa2NxM0hUd3pLaE9HTFZaN21MLVJZMVJzb2o1bFpQRkRWTFdqT1RKWGoxMFVrYktQRjRQSGFSZXdXN3VtaUJ4STd4WkdSNG13Qmd2WlhTOFFWOXc?oc=5\" target=\"_blank\">فريق جرش يواصل صدارة دوري الدرجة الأولى</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">زاد الاردن</font>",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vdGRwUDUyU1ZyeENnR0ZDa2NxM0hUd3pLaE9HTFZaN21MLVJZMVJzb2o1bFpQRkRWTFdqT1RKWGoxMFVrYktQRjRQSGFSZXdXN3VtaUJ4STd4WkdSNG13Qmd2WlhTOFFWOXc?oc=5",
-      "published": "2026-11-07T11:14:13+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "بعد الهجمات الأخيرة.. الأردن يفتح ملف التطرف - الحرة",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiPkFVX3lxTE13RmsxTHV4R0tQeXFsZjNmMXNybFdzdXVWSFBURDhmUHJWbWZqVzd2d2VuRGkwMEZndzdONGxB?oc=5\" target=\"_blank\">بعد الهجمات الأخيرة.. الأردن يفتح ملف التطرف</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الحرة</font>",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE13RmsxTHV4R0tQeXFsZjNmMXNybFdzdXVWSFBURDhmUHJWbWZqVzd2d2VuRGkwMEZndzdONGxB?oc=5",
-      "published": "2026-11-07T11:11:44+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "السيول تغلق طرقا جزئيا في الأردن - وكالة عمون الاخبارية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tV3g0SG94Q2ZsRG9sNlRmZTJQNm85WjAwZVpoYzdacDk1bVdzRl81TDQwV0hOaW16YTFBd0R5Zzd3WkcwUnR2TjBzeHdwRElLTkhj?oc=5\" target=\"_blank\">السيول تغلق طرقا جزئيا في الأردن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة عمون الاخبارية</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tV3g0SG94Q2ZsRG9sNlRmZTJQNm85WjAwZVpoYzdacDk1bVdzRl81TDQwV0hOaW16YTFBd0R5Zzd3WkcwUnR2TjBzeHdwRElLTkhj?oc=5",
-      "published": "2026-11-07T11:08:05+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "قرية حمود من مسرح للموت إلى مدينة للثقافة الأردنية - اندبندنت عربية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxNMmZCSXNORWlnTEtvZzFsT3JDLTFfaWRpSU5xZXBPZ1p6TmNITnhBczJBSWFvTGdBSTg2Y2pCa0lLZk5Vam1LUlVObS0yLVUzcm1xWkxzRHYxellIVHk5UmRCX2VuVlhyWjNqZU9NbXBxUWdEN3dYSWk3NDNLTzhaWHdYd2loQVZjXzFZcnVmMmgyOGlERUpNc0NHSEZOeFpsaUNxMk92OTJpTVFoU2xXUExSVjlheERSaVU4UkJod2xTcC1EMm5iT0liRzg5OTZUXy1YZUltdkVKdmFzaTVJbF9oaVhnLXotcEZGTHllTFdiNTNodVNQdTB0LXVlVWRqOEpGb0lLbVhUeDFTNVgyOXNrT19JQmRzZGdoVVE1eEVXUm9IbHdfN0NDdjF4NTc5Qm5nV1BhQ1VTc1dubTkwRUtRcHRVeHk1Q2FPSzFaMGlOQTlWWWgtdGtyT0o3SklWY3V3VUtaWk94OHJVRG95ZUpXNW1IbmRWQ3NPMWNsTllIT0VnV1lwZWVRVmRrY0MxdkpDZXZqU2wwVmhKOHczNHBZcnp0M1c3ZVRUUlFYU1NEakpSR3B5dEIycktvWlQyaWVxM3luNlBNOGMwNE9rbDdlcmZ2a1lvTDBzYlBR?oc=5\" target=\"_blank\">قرية حمود من مسرح للموت إلى مدينة للثقافة الأردنية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اندبندنت عربية</font>",
-      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNMmZCSXNORWlnTEtvZzFsT3JDLTFfaWRpSU5xZXBPZ1p6TmNITnhBczJBSWFvTGdBSTg2Y2pCa0lLZk5Vam1LUlVObS0yLVUzcm1xWkxzRHYxellIVHk5UmRCX2VuVlhyWjNqZU9NbXBxUWdEN3dYSWk3NDNLTzhaWHdYd2loQVZjXzFZcnVmMmgyOGlERUpNc0NHSEZOeFpsaUNxMk92OTJpTVFoU2xXUExSVjlheERSaVU4UkJod2xTcC1EMm5iT0liRzg5OTZUXy1YZUltdkVKdmFzaTVJbF9oaVhnLXotcEZGTHllTFdiNTNodVNQdTB0LXVlVWRqOEpGb0lLbVhUeDFTNVgyOXNrT19JQmRzZGdoVVE1eEVXUm9IbHdfN0NDdjF4NTc5Qm5nV1BhQ1VTc1dubTkwRUtRcHRVeHk1Q2FPSzFaMGlOQTlWWWgtdGtyT0o3SklWY3V3VUtaWk94OHJVRG95ZUpXNW1IbmRWQ3NPMWNsTllIT0VnV1lwZWVRVmRrY0MxdkpDZXZqU2wwVmhKOHczNHBZcnp0M1c3ZVRUUlFYU1NEakpSR3B5dEIycktvWlQyaWVxM3luNlBNOGMwNE9rbDdlcmZ2a1lvTDBzYlBR?oc=5",
-      "published": "2026-11-07T10:48:55+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "عرض مالي ضخم للتخلص من نتنياهو - اخبار سما الاردن",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1tdF92MmNodTJlVTU3UmZ4cjZTMGxBYkYzUG44MXFXVHdsZWZzNV9hYnZyV2VxSTlMZzVUV3FJZ3NRQlk?oc=5\" target=\"_blank\">عرض مالي ضخم للتخلص من نتنياهو</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اخبار سما الاردن</font>",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1tdF92MmNodTJlVTU3UmZ4cjZTMGxBYkYzUG44MXFXVHdsZWZzNV9hYnZyV2VxSTlMZzVUV3FJZ3NRQlk?oc=5",
-      "published": "2026-11-07T10:41:10+00:00",
-      "category": "الأردن",
-      "source": "Google News"
-    },
-    {
-      "title": "الإرهاب التكفيري لا يستهدف ديناً بعينه… بل يستهدف الأردن وتماسك مجتمعه - وكالة عمون الاخبارية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE00dGZhSk9PYTJQbzNMa21rUURycl9sV1Bqczl6MzdyVmJiMmROcHd4eXF4dmJrdF8xdEVLenhzb1NMMEd2dGhBRDYtbm1UU3VUTFdB?oc=5\" target=\"_blank\">الإرهاب التكفيري لا يستهدف ديناً بعينه… بل يستهدف الأردن وتماسك مجتمعه</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة عمون الاخبارية</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00dGZhSk9PYTJQbzNMa21rUURycl9sV1Bqczl6MzdyVmJiMmROcHd4eXF4dmJrdF8xdEVLenhzb1NMMEd2dGhBRDYtbm1UU3VUTFdB?oc=5",
-      "published": "2026-11-07T10:33:00+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "الرمثا يتصدر الدوري الأردني.. والوحدات يستعيد نغمة الفوز - صحيفة الخليج",
+      "description": "الرمثا يتصدر الدوري الأردني.. والوحدات يستعيد نغمة الفوز &nbsp;&nbsp; صحيفة الخليج",
+      "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxOVnRIaWpPMnBuSkFYZkFNY2RuZTJ2cENPNzN1aE4yVnlDejJFRDNlTlZoVE9lREU2MUJyZUp4aEdoMVdCY1EyUTc2TlFjN2hnY3JjZXJXSHRSWGhIMkZyOFBGY211bk9ScEEySHFXbk9OTWVEMHhscHNnd2pFdFoyR1RhdUhzRXU4eHNUdmt3UWdEZ2VTY0ZOMjNTbDZtR0JxTmh4cFMxWVZLSkdTbWtQbHMwcDhRMXRLUnQ5ZTZ0c0JzOWFGWkVHY1dmcXh3NDNFb1pyd3dYbjB6S2o1QU1PSXJscU43YlNrVGdXMXZsdnNubnhlUVVjOE1fclVNUURjOGRYaEhaakJ0Tk53a2FIcDhqQU5GZUk3S21WUlY3a0o5anNmMnRaZXVzUjRFNWRCMXQ5RHBUNG1tQXdad2RUck16YkRKTFRIOHRIaWFYUm9LN283ZktZMXRrbERoc2F6bUJZM0IzUU8yUmpJd3FBVUZvc3d6TVFBbnpsZU5BVUo2ZVZKbFFaVGxBeGRPRW03Qmo4ekZTLVdONWRrclVyXzNLbHRWMkNkRnBCZjJEeUhVeTNUdWR2TVNMcHJSdk5LRUM4V2RCYzNfNjZOQkJJMG1FdFZCeGJhSVhpdHdiRU5TUlN6d3A2V1M5dDlzS3hXQ0dLc2tfSkpoUHJrbWh0N0MxNUtWWm14OWZxS2hVSjhxZ193dDJyRmFUR1hOUDlWeENrN2ZkYW1CdzZzVkYtOHpYc0xGSGJMVWtvRVNIR1Q2OTBybm9LSDFn?oc=5",
+      "published": "2026-11-07T11:29:55+00:00",
+      "category": "إربد",
+      "source": "صحيفة الخليج"
     },
     {
       "title": "العزام يحذر من اصطفاف المركبات على ممرات المشاة بإربد والسير مخالفتها 20 دينارا - جريدة الدستور",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8ARBVV95cUxOTHlIcEl0aC1Mdk5FV3NUTER1NHpoOWMxUnVJQUt3d00xcXNzeER3SklzdmJDVnVETS1LanJhdGF6ZXVFRnBqcHVxQTdmbFhkbFVnU0lkSEZUTm80YWZoRF9DMUsxbGNidVphRHBMOXhqZWliWkdZNHB2SGJsYk1zd0xZMDhLUWhEaFgzVDNLU1JxQ3BLeTNhYUcyY2szUlNsZXRmU3JlalNCaG1ickhkbGFkMFc0dlY2NXdxc3VfejFGUjdjVEg2aG1qSUtJbzhZRXhjdUNWNnlkOWhuUnZiMmwxcUN2SHFfb2UzMHF3TEU2YmdESDB1M2VYYkxKQXREajI3TlNnYjFCS2ZxTlB6bUlVZnVTUk1ZSjNOUzBDc2N1WXk4NzNRTWtiLXd5LTJhTVlMc0hUY3JqTTVzWkJPaEJ4S3p3ZExNSlhnMWd0UFhOeXAwMjJxNnV3eV9PeXdSMmh0WUxNWkJqNFRBNmR4UFFFR3l3TGRNNm5KOENDR1RmX3JmMnNRNjhrWUxyRm1PcGtJQ184Rkt3X3JQNi1VUG1scEJBejY4R3BtZEFzOWJaRFJUV0NIN244VlJldG5aS2tGLV9pUEJXS3BobFNXV3ltWGtEa09EdTJxbGM4cFhUOEQ3N2VhOE1iZTBVQzdQcFp4NGxvdkNBVkpsbnlhUTVPaTJ1U002QW5oR2ltdlJqRDNjeUkzRUhnZmFpSl9LcFFLeUE0dUFrN3BIRlF2clVKOTRJWm5iZTZqRWo3VWQzZUpvYkNHWUxaMGpKVXZWRVBjd2hETlFoemlGM1FXMzVLRUtTTzFjWGlXb0pyQzI?oc=5\" target=\"_blank\">العزام يحذر من اصطفاف المركبات على ممرات المشاة بإربد والسير مخالفتها 20 دينارا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الدستور</font>",
+      "description": "العزام يحذر من اصطفاف المركبات على ممرات المشاة بإربد والسير مخالفتها 20 دينارا &nbsp;&nbsp; جريدة الدستور",
       "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOTHlIcEl0aC1Mdk5FV3NUTER1NHpoOWMxUnVJQUt3d00xcXNzeER3SklzdmJDVnVETS1LanJhdGF6ZXVFRnBqcHVxQTdmbFhkbFVnU0lkSEZUTm80YWZoRF9DMUsxbGNidVphRHBMOXhqZWliWkdZNHB2SGJsYk1zd0xZMDhLUWhEaFgzVDNLU1JxQ3BLeTNhYUcyY2szUlNsZXRmU3JlalNCaG1ickhkbGFkMFc0dlY2NXdxc3VfejFGUjdjVEg2aG1qSUtJbzhZRXhjdUNWNnlkOWhuUnZiMmwxcUN2SHFfb2UzMHF3TEU2YmdESDB1M2VYYkxKQXREajI3TlNnYjFCS2ZxTlB6bUlVZnVTUk1ZSjNOUzBDc2N1WXk4NzNRTWtiLXd5LTJhTVlMc0hUY3JqTTVzWkJPaEJ4S3p3ZExNSlhnMWd0UFhOeXAwMjJxNnV3eV9PeXdSMmh0WUxNWkJqNFRBNmR4UFFFR3l3TGRNNm5KOENDR1RmX3JmMnNRNjhrWUxyRm1PcGtJQ184Rkt3X3JQNi1VUG1scEJBejY4R3BtZEFzOWJaRFJUV0NIN244VlJldG5aS2tGLV9pUEJXS3BobFNXV3ltWGtEa09EdTJxbGM4cFhUOEQ3N2VhOE1iZTBVQzdQcFp4NGxvdkNBVkpsbnlhUTVPaTJ1U002QW5oR2ltdlJqRDNjeUkzRUhnZmFpSl9LcFFLeUE0dUFrN3BIRlF2clVKOTRJWm5iZTZqRWo3VWQzZUpvYkNHWUxaMGpKVXZWRVBjd2hETlFoemlGM1FXMzVLRUtTTzFjWGlXb0pyQzI?oc=5",
       "published": "2026-11-07T10:32:33+00:00",
       "category": "إربد",
-      "source": "Google News"
+      "source": "جريدة الدستور"
     },
     {
-      "title": "البنك الإسلامي الأردني يحصد جائزة أفضل بنك إسلامي في الأردن لعام 2026 - وكالة عمان جو الاخبارية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DYWx3Tkg0VndIQWFLQlJodzRvQldDZXptTk8tTUpxNHlxMEJkdmJLVTVSY2pSUzVFMmd3ckNRQVZ1Z2RoRDA1NUFnNFh6QQ?oc=5\" target=\"_blank\">البنك الإسلامي الأردني يحصد جائزة أفضل بنك إسلامي في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة عمان جو الاخبارية</font>",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DYWx3Tkg0VndIQWFLQlJodzRvQldDZXptTk8tTUpxNHlxMEJkdmJLVTVSY2pSUzVFMmd3ckNRQVZ1Z2RoRDA1NUFnNFh6QQ?oc=5",
-      "published": "2026-11-07T10:32:00+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "بث مباشر : شاهد مباراة الحسين إربد ضد السلط في الدوري الأردني اليوم - برس بي",
+      "description": "بث مباشر : شاهد مباراة الحسين إربد ضد السلط في الدوري الأردني اليوم &nbsp;&nbsp; برس بي",
+      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxNMlg0ekd6NHdMTmItUTNWdzNycDB2bEJCMnN4SldweVo3SmZ0WUdGNzlZbHpPLVZ3RDhwZVNIVnBpQ1l6NjFKeFpkV2dxdnZpT3AzdGZyNVA3OEFUX2p2MUd0OXZkUXhUVzA0dXotT19zMkpIOEJva3JuSVdwRElLdmRWQmhLdVR4TGxLM2lXemxBZVVRaTI0blpqdmx1T1dRN1ZpMFF4NmFKWFRqZFlwRE1xSlZvUEtEZTlqcjNNWWlXMTFTVFBWYnJTdmhWZTNEd3FLb2Z2alpnaTJLaUd1ZWlzNXhySzF0UnNTd3h6N0lBNFlDdkptVjd3cmlicm1zbTc1bDlLeTZwb2ViR0hQSFp5dDYtaFo1c3hXZ2gtVmM3Ylh5cmg5OEkzNUcwa0JNM1hsRkhERk1RSkxfLVQxN29tRVRpVEh4MVhzMHV3M0tzQzdGX2kxNk9pY1ppZHNDUmFQTWVJemZHRXY0bERhMWQ2bUFrbUJ6MkwzZUhFOUwxLUpEVW1Td2dtMWE1T1pBd3dEYkdVMzBFX3RvMWtFQ3NMOFJrdXZPaUlIaXhkWnZOalJtQTNrRkE1Tnc1RVg1UGZfNEpDWndCVnhpcWVoa040WnU4T2tqNS1Sb2l5bk9EU3hEWjFFX0JsOWI0cndqZ2xVeHo0YzlONlJpSUR2aVl6Nmg5MHAtMklUX3BHM1Z4blRUNm8zNEU1b1BRZ05o0gFeQVVfeXFMUExqSVFiQzQ0X0F3SjZfN1A2TTZZXzlSaGNVdEV4SEFTTFZ5MHZMek9pRGQ1bm1YQmJlQ3k0VThHM01PRlRXa0ZldmpGQmYxck1zdlIxRmw1c1JSQTZnUQ?oc=5",
+      "published": "2026-11-07T07:16:26+00:00",
+      "category": "إربد",
+      "source": "برس بي"
     },
     {
-      "title": "إعلان قائمة النشامى لمواجهة أستراليا وديا - اخبار سما الاردن",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15Y28wSUdzajlGcWxHa0FuUEMyRElZV3JQQ29McllUX0lTd3RVd244X1RmclNTY2YxeEd5dEpTcnNrQkE?oc=5\" target=\"_blank\">إعلان قائمة النشامى لمواجهة أستراليا وديا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اخبار سما الاردن</font>",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15Y28wSUdzajlGcWxHa0FuUEMyRElZV3JQQ29McllUX0lTd3RVd244X1RmclNTY2YxeEd5dEpTcnNrQkE?oc=5",
-      "published": "2026-11-07T10:30:38+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "الحسين إربد ضد السلط: الموعد والقنوات الناقلة والتشكيل - 365Scores",
+      "description": "الحسين إربد ضد السلط: الموعد والقنوات الناقلة والتشكيل &nbsp;&nbsp; 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZTBTanI4cGgweHRPSjl4UDdkWExnRENBV2RjTE1wTEVSbGhMM3MxWW1UWC1VQkozTDN5NUYzQlNxU2k5VTVlYVEySU9QSGVBdFBKdmVwY0VFaUhQeHdyc28tQnBtNTExVHpGUzVCUG5tbVpFeklEbjJsdkJQWDBCV0FPVGdWUEJUdUNCSG1TeG9XNzBoTW54NDFfWllBeHVEUDN3SThyOXM1bEo3dEZVNHAwenZ2bGttQmplY1FTUm5MZUpibU1QV3k2b1dyWV9YcG1zVm9HNU12dUJLcWRfVWhvaUFzdk9DZ3NJdFZuZXB0TVpPWTV4MktlTk5rWW8?oc=5",
+      "published": "2026-11-07T04:29:59+00:00",
+      "category": "إربد",
+      "source": "365Scores"
     },
     {
-      "title": "أيلة تستضيف النسخة 35 من بطولة الأردن المفتوحة للجولف - Fana News -",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQaVY3YkxrODNsWHVQZy16cmVTYVdOV2NEM1ZrOXlwSG5wV0hBbnA3S2ZYbDJYYjM5QlY3Y0JVcG5FR25qZE1WUTFmTTFlamlzMHBnWFVBd2tqZTB1RXY2Vl92TDJEMTAtQW9RSWlpZlVRckdTVzBQU1ctMGl6SjVqRVJydGRHbEx2V1BYQ3BDdzBwWWFoVXhhQ0V5WkJPTDBydUJHc0Rpc0hWUzBiazl3ZW45UkxZdExnaV9INmFCRXRiVDJkX3NJRUFEV09Ed2FkaHIzMGt6S1dVYlVXY29GamtlYjRiOERrbzRoenZtdHRxMzJlUlozZGRiOFd4bDQ4Nm9SZFczX3IzcjgzRHFVeUtwXzJBcDhBQk44TGpSMV9xcFllaEZFTFpBWEt3SUMyalZzVWRqd2R5U05Gc2FEcVBBUQ?oc=5\" target=\"_blank\">أيلة تستضيف النسخة 35 من بطولة الأردن المفتوحة للجولف</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fana News -</font>",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQaVY3YkxrODNsWHVQZy16cmVTYVdOV2NEM1ZrOXlwSG5wV0hBbnA3S2ZYbDJYYjM5QlY3Y0JVcG5FR25qZE1WUTFmTTFlamlzMHBnWFVBd2tqZTB1RXY2Vl92TDJEMTAtQW9RSWlpZlVRckdTVzBQU1ctMGl6SjVqRVJydGRHbEx2V1BYQ3BDdzBwWWFoVXhhQ0V5WkJPTDBydUJHc0Rpc0hWUzBiazl3ZW45UkxZdExnaV9INmFCRXRiVDJkX3NJRUFEV09Ed2FkaHIzMGt6S1dVYlVXY29GamtlYjRiOERrbzRoenZtdHRxMzJlUlozZGRiOFd4bDQ4Nm9SZFczX3IzcjgzRHFVeUtwXzJBcDhBQk44TGpSMV9xcFllaEZFTFpBWEt3SUMyalZzVWRqd2R5U05Gc2FEcVBBUQ?oc=5",
-      "published": "2026-11-07T10:21:58+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "موعد مباراة الحسين إربد ضد السلط بالجولة 8 من الدوري الأردني 2026-27 - شبكة تواصل الإخبارية",
+      "description": "موعد مباراة الحسين إربد ضد السلط بالجولة 8 من الدوري الأردني 2026-27 &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CTVBuLVpyWFNDSUN5SGl3MFA0TkVJM1pNVWJnQmREU0dRRlBXWmNMaFhVa3ZMSkpGYW45MXdpc0h2cFpqQkdPSlpsaUZoQ05pMElj?oc=5",
+      "published": "2026-11-06T23:34:17+00:00",
+      "category": "إربد",
+      "source": "شبكة تواصل الإخبارية"
     },
     {
-      "title": "عندما يستهدف الإرهاب الأردن .. لا مجال للتهاون ولا مكان للخوف - وكالة عمان جو الاخبارية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9seGdaM2Zsc3pwU21BREhKNWxJUlBPamUxTi1obklhdXBBNlJ2cWNhenJCa3lUMUZBM0Y0c0RjeEx2aUxMVUJYS2ZmSWV6Zw?oc=5\" target=\"_blank\">عندما يستهدف الإرهاب الأردن .. لا مجال للتهاون ولا مكان للخوف</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة عمان جو الاخبارية</font>",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9seGdaM2Zsc3pwU21BREhKNWxJUlBPamUxTi1obklhdXBBNlJ2cWNhenJCa3lUMUZBM0Y0c0RjeEx2aUxMVUJYS2ZmSWV6Zw?oc=5",
-      "published": "2026-11-07T10:02:47+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "موعد مباراة الحسين إربد ضد السلط بالجولة 8 من الدوري الأردني 2026-27 - 365Scores",
+      "description": "موعد مباراة الحسين إربد ضد السلط بالجولة 8 من الدوري الأردني 2026-27 &nbsp;&nbsp; 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNb2ZWejRzQmQycTVpdlVReXlKZFU0QUxuWUJNbUQySnJ2UVJhSkdHeHZvYWtaM2RwbUxVMEdwNTBMNWU1ZVBNSVB4bHNFWFdjclFINFNEMGFTdXVLa0xpOENaVVhxdnNkSkphLTlxRklvV3hSRGF0b09JTUNzOUJXN0pnSlpabmxSX0VZdEJYNGlhY2hMR1dXOGhYXzBZeVJpalVnYURuQmJQYjEyc1ZBdjVlcTB2bmtlRkFkNVI5SlhQRGdCM083RnVCdlYzbnFaZWNYdnhWUDQyZkR0Q3B1Y0x2MXVtTkgwYmtwQXZEbGtYV0R2S2I2czQ5V1l3NV9mZE5oSDI2cjliQ0tLc2N6RVRRZHdCMm5Rd1JIdWtVd1VMaUtKN2F1ekN0THRPUGZnNkVxRmpB?oc=5",
+      "published": "2026-11-06T23:32:37+00:00",
+      "category": "إربد",
+      "source": "365Scores"
     },
     {
-      "title": "بمشاركة أكثر من 500 متسابق.. اختتام ماراثون الرمال العالمي في الأردن - قناة المملكة",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigARBVV95cUxOM3BwOEctZ1RZbTBPOGx3WHRMSEJJaVlJSjRUUXVoVC1UZUcyVm5NYmFEOXptekU5MEU3eGdqYktWZncxT3R0RXY2dEFEaEFQYmV2aF9BaU9vd05LMjVxeHN4MkZrbGhkM2xhRUhTZEJQNEkwamtoem1ZREh0UlJvVG9ZMVdXdWtFX3piVzZ4WUZuR0N4Yk43VFU0NEJkQTE4c0o3elBsTjBDQl81TVZxRERIdkZqZk9RZGsxTk5RMXVqQ043ZzYtZGxqVllmMThWTFUzYkdDemJ0OUR3ZWx5NEV4Ty11QjgyUjZDVjg3c3pKN2hPWVBNQ2pBdVNRc25RY1dlaEdhTU16eGRkOVZFTzRkS3BGR0NuWXM4TVc5QzFtNmotNDB0Z3dQOEw1LXB4Ykp2MGRtU29aVUY1VzZqTTgzajR6ZFlzM3hocDRlTUhNMmlESHF4R3U2eUhWSEF3bkFNaV9zbkRGVjVFX1dXR2Q2ZmZHRC1tLThpQlkzYktfVkI1X1dkZmtVUF9icXd3emowaUQwQ3JnbTBmcEZsSThkRUVOYjRxNEZzTXFKQ0NyU3VTM1VwcDNHUTZHWGtkQWNSZUtEaFhiNndyaFpLcnNKWThMSmlUU0xjYXVfMEJYNW1jSVBZNmhrbnBmVVFteHktZFlPQkxtX1ppOVJhbQ?oc=5\" target=\"_blank\">بمشاركة أكثر من 500 متسابق.. اختتام ماراثون الرمال العالمي في الأردن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">قناة المملكة</font>",
-      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxOM3BwOEctZ1RZbTBPOGx3WHRMSEJJaVlJSjRUUXVoVC1UZUcyVm5NYmFEOXptekU5MEU3eGdqYktWZncxT3R0RXY2dEFEaEFQYmV2aF9BaU9vd05LMjVxeHN4MkZrbGhkM2xhRUhTZEJQNEkwamtoem1ZREh0UlJvVG9ZMVdXdWtFX3piVzZ4WUZuR0N4Yk43VFU0NEJkQTE4c0o3elBsTjBDQl81TVZxRERIdkZqZk9RZGsxTk5RMXVqQ043ZzYtZGxqVllmMThWTFUzYkdDemJ0OUR3ZWx5NEV4Ty11QjgyUjZDVjg3c3pKN2hPWVBNQ2pBdVNRc25RY1dlaEdhTU16eGRkOVZFTzRkS3BGR0NuWXM4TVc5QzFtNmotNDB0Z3dQOEw1LXB4Ykp2MGRtU29aVUY1VzZqTTgzajR6ZFlzM3hocDRlTUhNMmlESHF4R3U2eUhWSEF3bkFNaV9zbkRGVjVFX1dXR2Q2ZmZHRC1tLThpQlkzYktfVkI1X1dkZmtVUF9icXd3emowaUQwQ3JnbTBmcEZsSThkRUVOYjRxNEZzTXFKQ0NyU3VTM1VwcDNHUTZHWGtkQWNSZUtEaFhiNndyaFpLcnNKWThMSmlUU0xjYXVfMEJYNW1jSVBZNmhrbnBmVVFteHktZFlPQkxtX1ppOVJhbQ?oc=5",
-      "published": "2026-11-07T09:59:56+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "«تجارة إربد والزرقاء»: وقوف القطاع التجاري إلى جانب الأجهزة الأمنية في أداء واجبها الوطني - جريدة الدستور",
+      "description": "«تجارة إربد والزرقاء»: وقوف القطاع التجاري إلى جانب الأجهزة الأمنية في أداء واجبها الوطني &nbsp;&nbsp; جريدة الدستور",
+      "link": "https://news.google.com/rss/articles/CBMivwVBVV95cUxOS1BSYm81MjhDQzhhRi1COTZHV1FNdUFkT1pmZHA2dUhKdHhaa3RNQnVHTFVENDA4c2RrazM2c0ZRNVd2bkNTSE85VWtUNjRPYlFjN0Q0OUdYZDdkbHJCdTRXOXZQMzZBVVNJV1FaWkxMTExTSGY4T2FUcE9JcUpiejQ5WENSb1E0MFRnbi1nWDNPWHFBUTZFRHBmOVhFLVd1R0RoQUxuajZCaXhiUWVvWnRrUS1uZHV2Tm80R3V0dlgxZWlhYkRNd05ocjJfX2hLNlBRT25KZkdweG9VcGd6SWZOVmJlTklSN3NyQ25XYlpvVUdkTXJ5aFB4ekN0UVpOUE83SjZTd1dIMVZGQTJsNk5EbURHZnItNFdyOVJoVGhFdFY4TUUwVEQydFliU19KU011SmZKbEpIeFBEVk1BU1lvUlI0aDl2OWUyTFdJRWt3VFJOVzhIOFluaWxSRWx1WFpfeWJ5cVNoT0FBMXpFX1BMNEFocElFVGp0NXRyelNVZGhUMnhlQ0dfVnhzVFR5ajZzeldKMFZ1Q2YwUmZpTmhxVHdTX3hMNWxSS1lTb21Ra2gwZ3dyLTVyeEszQjdqcTFkTEExdjNvTTc5SzkyanpYTVFYVHVqeEk5QTVwbWoxVHJrNGhoM21LSzZTN1UzSTJuV1VRWXh0UzBnelpBSDVTYmhyd2wtTUdRSEZoeUUyRHFTSEVBTi1VZ2p1MzFhUHVfd3hHRjViRWV6aUlSUUZPeXl5NWlTOFphV2JpaHJGd0RXUlA2YjI0c3Q4MnRpLU9YRnRpamZ1bXptMnB3bUZlSEtqbTlERVpkNzNtZ3ZmSXhSbG1JdFRDX05sa1VhQWVnNV95RVF3U0FFN2RUdnhPT0VkdDJfN09CSkNYd25QNzVPeDFxNGs3b1lHdGxvYlphRHNNRnZrUUpibnFr?oc=5",
+      "published": "2026-11-06T21:01:40+00:00",
+      "category": "إربد",
+      "source": "جريدة الدستور"
     },
     {
-      "title": "ماراثون الرمال العالمي يعزز مكانة الأردن على خارطة السياحة الرياضية - وكالة عمان جو الاخبارية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE80OFdjZXliSDBCNWRmMkZfZ2JPZmVVRWYwWWV0dWtua0dxaGc4Xy1zWlVYWWw0WUhsR2N6YklTYm9Ta0hsenBYVU5TZ3dpQQ?oc=5\" target=\"_blank\">ماراثون الرمال العالمي يعزز مكانة الأردن على خارطة السياحة الرياضية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة عمان جو الاخبارية</font>",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80OFdjZXliSDBCNWRmMkZfZ2JPZmVVRWYwWWV0dWtua0dxaGc4Xy1zWlVYWWw0WUhsR2N6YklTYm9Ta0hsenBYVU5TZ3dpQQ?oc=5",
-      "published": "2026-11-07T09:52:36+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "بلدية إربد تواصل إعادة تأهيل شوارع المغير المتضررة من مشروع الصرف الصحي - جريدة الدستور",
+      "description": "بلدية إربد تواصل إعادة تأهيل شوارع المغير المتضررة من مشروع الصرف الصحي &nbsp;&nbsp; جريدة الدستور",
+      "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxNd1pmMFRNWFpQOTBraGM3a0RGTzdXSUVyQkNlZ05kenVLeHJMamZQZjJnUlVsaGNHMXRReXJweTdPZ3RGX2ttUmVWZVh1OV9ZYnlPYnV1RmlWRFdFdnNERFJvNC1CRzNYbFlIX21NU0hZTXp6MXF4dWp6UExKVWJ6d3hDSVVhWjNzZ19TcVpXUDg5WWxuVkNNWXlPMjFOckMtb3RScHpwdHB4Sk96b0NLNlJ4TU1vLVpqeFZzMlpVdDFDbU9RWkVNcEN1WHQ3VExhb2dCOFlFVHVCaExFTFh3aHp6YVhwZTNhTS1hNEFnaUtiR2UtQWwxb2RtMF9abi1hWTNWSHZrOElpek00MURnT2Zxa3Q4cmRxcV9Hck13LW52YjEyR1lBMXNqdWtpeENVYXZaaWVsbVZXbXM4d0VoN0tGRUJHam5HZ0NwbThWUTRwZFluSlAyUmdKb2plVXpUMmQycGl1QU5kNUg4WWdTSFMtSDQwNkhzQndxdUUxN2xCSFgtZ1gydEZRdDZqaC1GT1RjVVRYNkZ0b3FDWDVUNEZGcFBoQjVVWEl3b3R5Q1NvZWdQSmtzYzFUZFpvcTY0UWdnV3lkRU1pNlVvUHdLbkN6dlBPc2xiY0s2c2NMZ2hqX0Z1Y0lBV1BCOGV4eGtNZVY3T1k2bzc1VFJSYlZFNU90VWsxQmRmeEFmZU4ybklXdTVTRkhVdkpFX2d3UERlTFV3UDFjN0RSV2ROR3N5R0tZM3NQdlNRYWhjbmVyejVNZ2tY?oc=5",
+      "published": "2026-11-06T21:00:24+00:00",
+      "category": "إربد",
+      "source": "جريدة الدستور"
     },
     {
-      "title": "فعالية دولية لصحة وعافية المرأة تحت عنوان \"الاستدامة والتراث\"... - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipARBVV95cUxPeEpMTkFFbDdTS3V6R0d5WlY4Z3R0MUJheEJnRndZTHoxeVkwTzNqQ1ZNLXh1VTdBZWFIaU9xZUpqSTV1dUppMHlWbG0xMUdxbDZKbFc2QmQ2Ty1IT1A3aGxoMkVYbi1XRUM1YlJxWDVyQVVab1Eya29qX2d2X0YyczN6MGJySXRCN1dWazhBUnUyRThpSlgzRWlGWDVFcEd0T1U2QVVGdkIyLXprRlZXSnllTjFCRzNScHNZRUk5Rm1ranpldF9ZMDRYd1hXQWNPaGt4OE1HM081RDFadGhCZU1xbzdYeG1OTUIyaU1rVzZDdW1pc3VzbmMyS3A5OS14bGZjRVQzeldNaVVrZHVSaW83VmllVFI1VThOeGZLMjlNS0c5cDkyd0FuZGN2Wkg3NzRPcDNDUDlGWnNtM3F4VnozRTVXUGlYVU5xMkwzSVVEZERCN1BXUVRQbThQZkVjcU1jTEUyVUJsU1JPUWh2eDU4M2RCM19TbWl1RjhzS3p2UllWUUZfSU5vYm92eDdzSHhzSVktdVVLUFNHeUEtb05Kb0U1ODdNTmpQWGpCZ1dWdXJzQXNjam5OeV9CYkZvbVZqN0JsbkJ0S2d3TF9odnFoM2U2Q09uUzNIOU5NaTlmVV9DVC14VXYzV0t1U1p3RllTd3BUOWc4SEFqbEdvOXJEb3VxdzZjWWw3a3VwRm16ZmR0blBxMjRzZnJSQzZQcVB1NQ?oc=5\" target=\"_blank\">فعالية دولية لصحة وعافية المرأة تحت عنوان \"الاستدامة والتراث\"...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxPeEpMTkFFbDdTS3V6R0d5WlY4Z3R0MUJheEJnRndZTHoxeVkwTzNqQ1ZNLXh1VTdBZWFIaU9xZUpqSTV1dUppMHlWbG0xMUdxbDZKbFc2QmQ2Ty1IT1A3aGxoMkVYbi1XRUM1YlJxWDVyQVVab1Eya29qX2d2X0YyczN6MGJySXRCN1dWazhBUnUyRThpSlgzRWlGWDVFcEd0T1U2QVVGdkIyLXprRlZXSnllTjFCRzNScHNZRUk5Rm1ranpldF9ZMDRYd1hXQWNPaGt4OE1HM081RDFadGhCZU1xbzdYeG1OTUIyaU1rVzZDdW1pc3VzbmMyS3A5OS14bGZjRVQzeldNaVVrZHVSaW83VmllVFI1VThOeGZLMjlNS0c5cDkyd0FuZGN2Wkg3NzRPcDNDUDlGWnNtM3F4VnozRTVXUGlYVU5xMkwzSVVEZERCN1BXUVRQbThQZkVjcU1jTEUyVUJsU1JPUWh2eDU4M2RCM19TbWl1RjhzS3p2UllWUUZfSU5vYm92eDdzSHhzSVktdVVLUFNHeUEtb05Kb0U1ODdNTmpQWGpCZ1dWdXJzQXNjam5OeV9CYkZvbVZqN0JsbkJ0S2d3TF9odnFoM2U2Q09uUzNIOU5NaTlmVV9DVC14VXYzV0t1U1p3RllTd3BUOWc4SEFqbEdvOXJEb3VxdzZjWWw3a3VwRm16ZmR0blBxMjRzZnJSQzZQcVB1NQ?oc=5",
-      "published": "2026-11-07T08:44:37+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "كهرباء إربد تنفذ أعمال تطوير للشبكة الكهربائية في شارع راتب البطاينة - الحقيقة الدولية",
+      "description": "كهرباء إربد تنفذ أعمال تطوير للشبكة الكهربائية في شارع راتب البطاينة &nbsp;&nbsp; الحقيقة الدولية",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51QVplSXBMMnVrZWpqblFXWGQtczFGM0xGVzRUTlJTRnZpc1hjOE5ZV0tQelpjV0FBVHJQeVhjVjVXSnRP?oc=5",
+      "published": "2026-11-06T18:09:00+00:00",
+      "category": "إربد",
+      "source": "الحقيقة الدولية"
     },
     {
-      "title": "ارتفاع صادرات قطاع الصناعات الغذائية 16.3 % خلال 8 أشهر... - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilARBVV95cUxNMU5JTHIzb0MtcEQ3b2RoZVBjeFRCNThPT29QeU1HdXdSVklJMkV0SERzMWQ1TzJpaFRrLTNnQWVQNlNZRy1ZQjc0QWsxclpidUh1NXF0TE15YzI4V0pCbk8weTFzRlYzaDFyNHNXaGdaNnp3aEVrd2dyTGhOR1RTM011MFZWOWgtaFI4ZlNVVnVOanpWLWlQQkpxYV9MTDZIQWlSSWttU3p0YnZ1c2E5alUwQUNuZ2RUNU8tSzdfOXdtcmFWWHFmUnlRckJUaU40em5majZCcnpaN3pKZTE3ZklVYW5VdFBfWG15OGg2RW5VVG5ILXRjZzljTWRUZU1RZ0ppdnpuRDBNSnJRalpJeGE0djZzY0R5UllpTUNTOWNqTEFZWlVrYmFVcmFzNFZzdV9ZZkJPblpYM2l5TUpXcHpFX00wUGQ4Q2xCbkdyX2I5VHJrQzZyRV9sVUJsSTVsWllsdlNEU0pFQWFWX0ZHRnRwdTRRd0tlaVhsS2JuTXVkWlg1QmJ0MTZHLTRQNE1VSjFualV4UU1VanlaQTQ2dXNnNWprTFFwbU1ITG0wUncwbGdhdUVRNnlDdnU3RlBGYzZjUTYxU3N3NlBrMnBjeEpBdHNMVG1YbWJtS3J4VmFLOXllNjNiaEVtSW1DMENkNGVRaDRQa2swWkJ1MGhnbVk1d3BaU045STdrNEh4d3N3b2N6?oc=5\" target=\"_blank\">ارتفاع صادرات قطاع الصناعات الغذائية 16.3 % خلال 8 أشهر...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNMU5JTHIzb0MtcEQ3b2RoZVBjeFRCNThPT29QeU1HdXdSVklJMkV0SERzMWQ1TzJpaFRrLTNnQWVQNlNZRy1ZQjc0QWsxclpidUh1NXF0TE15YzI4V0pCbk8weTFzRlYzaDFyNHNXaGdaNnp3aEVrd2dyTGhOR1RTM011MFZWOWgtaFI4ZlNVVnVOanpWLWlQQkpxYV9MTDZIQWlSSWttU3p0YnZ1c2E5alUwQUNuZ2RUNU8tSzdfOXdtcmFWWHFmUnlRckJUaU40em5majZCcnpaN3pKZTE3ZklVYW5VdFBfWG15OGg2RW5VVG5ILXRjZzljTWRUZU1RZ0ppdnpuRDBNSnJRalpJeGE0djZzY0R5UllpTUNTOWNqTEFZWlVrYmFVcmFzNFZzdV9ZZkJPblpYM2l5TUpXcHpFX00wUGQ4Q2xCbkdyX2I5VHJrQzZyRV9sVUJsSTVsWllsdlNEU0pFQWFWX0ZHRnRwdTRRd0tlaVhsS2JuTXVkWlg1QmJ0MTZHLTRQNE1VSjFualV4UU1VanlaQTQ2dXNnNWprTFFwbU1ITG0wUncwbGdhdUVRNnlDdnU3RlBGYzZjUTYxU3N3NlBrMnBjeEpBdHNMVG1YbWJtS3J4VmFLOXllNjNiaEVtSW1DMENkNGVRaDRQa2swWkJ1MGhnbVk1d3BaU045STdrNEh4d3N3b2N6?oc=5",
-      "published": "2026-11-07T08:40:27+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "كهرباء إربد تنفذ أعمال تطوير للشبكة الكهربائية في شارع راتب البطاينة - أخبار حياة",
+      "description": "كهرباء إربد تنفذ أعمال تطوير للشبكة الكهربائية في شارع راتب البطاينة &nbsp;&nbsp; أخبار حياة",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQU0NobzZyV2VQcFhnTko3NmY0SlRQV09LSmZ0azRQOE5mWThGaEdlU05HdUtiWkpkYW0wWWRmVEhTa3hXMXRCcW9JUjAzbUJIc0NydFJDcHhxNWtkN0dSZU1PbVNhTW9KZDNlR1VmbmRGbG9xeXEwRHAzcUFmZXQwaDVNMFh5eU1FRW82QzhEbFhqc2NxNUZKYi1CckV0ZTNMTGJXZ200a1BJOHh4LUFSaVF4a0xySE5UTktONHNKTnl0enRsNkhrSjRFbFZibEQ2NEp2TVU1dUFsR0hxaWdSTkwyWmxqRDZCV05WMnJjcU1Sa2V6WVlvY2ZTWi0tbHFCZ2ZmWEpZejR0RjJxUFpVYmRSQm9PbmF6VVUxMUM4b0Q0NjdlVlluVzh0SGxKdG13U3ZhVVByemVxdDZzU2h0bEF6UWRVM3l3bHE3dUt5Zw?oc=5",
+      "published": "2026-11-06T17:29:40+00:00",
+      "category": "إربد",
+      "source": "أخبار حياة"
     },
     {
-      "title": "سوريا والأردن... علاقات عشائرية عابرة للحدود - اندبندنت عربية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wNBVV95cUxQcUJ2cjM2RDhham9RVlNkYnphZVRUUnRsS1JBRkVrTFpOekt2NVRpaTd6cWlndEJicUpBNlVVanJUYXJGRC1oUjJJemJxOWJWQlhrNHRQbEVjdzlnWjR1TmhCNm1VWFNWa3JpTDlxQ0NQTEthb3N2VWNIOWt0bFVCcTJGLXVURWlTVkFLbnlPYi1NQ0szdUVOQmUzZjRXMUNWREcxamtmNXE0Q0Z1empycV9FNVRzZkVqcmNWTVhaLUVmcnFJeTZpenRIVEJES21XdFM5OXF5Y3BlWUhnc1J6T3VFZGMzcl8zNmN3WVpFb0g3V1RxWmt0ai1haVZ1S1BVXzhMS2VWbmY4M2dYNzlGUUNNNzM2X2RkVzlwVVg2WjZuaE83Q3hJLUhpZTg3RGdiZUg5NWg2MlYtaUU5UzRoWDJISWNrSVVnTFJ2Mk5IV2dNZWFUUkoyRnBBUmVGTlg3b21xWExvVWstVU1LYms5MUJsRlo3V085N3Q5STJFZ081aklyUExFTzRleEpGNEVLZHU4WW54eHVDNWRfVHFrYmtwUHhiOTg3dWVuWWk0M3JMM1BDalRxeVRza0JOY0NnUHQtdkhDdlIwVS00TEhZaWQyNDROU0RMRkln?oc=5\" target=\"_blank\">سوريا والأردن... علاقات عشائرية عابرة للحدود</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اندبندنت عربية</font>",
-      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQcUJ2cjM2RDhham9RVlNkYnphZVRUUnRsS1JBRkVrTFpOekt2NVRpaTd6cWlndEJicUpBNlVVanJUYXJGRC1oUjJJemJxOWJWQlhrNHRQbEVjdzlnWjR1TmhCNm1VWFNWa3JpTDlxQ0NQTEthb3N2VWNIOWt0bFVCcTJGLXVURWlTVkFLbnlPYi1NQ0szdUVOQmUzZjRXMUNWREcxamtmNXE0Q0Z1empycV9FNVRzZkVqcmNWTVhaLUVmcnFJeTZpenRIVEJES21XdFM5OXF5Y3BlWUhnc1J6T3VFZGMzcl8zNmN3WVpFb0g3V1RxWmt0ai1haVZ1S1BVXzhMS2VWbmY4M2dYNzlGUUNNNzM2X2RkVzlwVVg2WjZuaE83Q3hJLUhpZTg3RGdiZUg5NWg2MlYtaUU5UzRoWDJISWNrSVVnTFJ2Mk5IV2dNZWFUUkoyRnBBUmVGTlg3b21xWExvVWstVU1LYms5MUJsRlo3V085N3Q5STJFZ081aklyUExFTzRleEpGNEVLZHU4WW54eHVDNWRfVHFrYmtwUHhiOTg3dWVuWWk0M3JMM1BDalRxeVRza0JOY0NnUHQtdkhDdlIwVS00TEhZaWQyNDROU0RMRkln?oc=5",
-      "published": "2026-11-07T08:39:07+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "الحسين إربد يواجه السلط لتأكيد صحوته.. ودوقرة والعربي يسعيان للهروب من منطقة الخطر - جريدة الغد",
+      "description": "الحسين إربد يواجه السلط لتأكيد صحوته.. ودوقرة والعربي يسعيان للهروب من منطقة الخطر &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNcVNqSGlzUnVEeF9UUHFKVVVaTW44UVNjYWh5SzhhSjRUUTdtd2pkOUdKc1c4YWpZd190MThXbW9PNjF6U2ZoQjRpLWloQTRvM0tkYW01NEFLM3h6dlhsV1lDbTYwYS1CS2hjRmR4aU94UjZlTlFXemtRWEJLajBQRkpFcWlBX2pjU3lvdkRXQjlaR1hldUxwRm13Q09VSVBFZE00UFU5andVel93QTd6aHpVZ1pWemRZQllZek5OOFB3UmZwRWlramxEYXBnRDQyQnJrS0FpcWg4SXdoNWR1OV8xeDZ2U3ctUjZXV0tkV1g2TjBBeGg1cXVYNXlYX0VCbHRRbWZiY0gtMHZPMVppdUxVZlhVaGlpTl9acU0yMUIwNFVYdzlLYmRVSnZNcUNMMGZNTDRzeFJyNVo4dzNBWXRhU3MwVEI2VFVOWWJJX3dNTzFXQWNEUkx4blZBb2UxMkdsRjU3LWl3UXBmcEh4c3lsUUZEd3VjYUxWamlPS1Q3ZTJjQlZhODhFY1Vld2JKbVdxNEllejJMRHpHTEZSaHpsbzVBdk9fZnl2SzRwYVFiTXRBa0JaT3FVZ0ZsT01vYlJvb09iRm1GNmUyWm9hbnk1ZjBORmFueVhXdjZvNlN4NDNkV0V1SEU1WUZreTdBZ1V5V0ZLRnJhUlhaZE1Cd2ZUM2U4aUFQbW1TZlpRQ3hLX2VEM1FPLUttVlNZeS1jN1RGQzA0alV1TFRRb29RVTUtZXY1cUtvc29MWFFJSzN6N0dRV0Z0OXY1X3EydE9LZ0lhemFOcnVmTXcxakFtbXJDSjBYSkJCbzk4ZW5FYng0VVVzbklKcnNzdXMxUEZHVUZGdHhXQVJMMjVxT0pMNFRmQTVVa1ZMUGl6Q0U4Ykk5bHhQa2p5Rnk3U3JuMUJUQVg2NG1jaDUzdw?oc=5",
+      "published": "2026-11-06T17:26:22+00:00",
+      "category": "إربد",
+      "source": "جريدة الغد"
     },
     {
-      "title": "مؤتمر العرب المسيحيين يدين الهجمات الإرهابية بالكرك ويؤكد التمسك بالوحدة الوطنية الأردنية - صوت الإمارات",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNbGxGWmpuYzNpSDJsSmFqSHpybXhZM3lGYURSMUt6MUlIWDNweHNNdW5wTU5pN0hTdm5HaTg2SmFManJQNTk4cTRxN056d3VQMWdyamUzZE8yTUx1TE0zcFVJNTdRYmRnYTZvaXJSQmpZVVlYclVpN3ROelFPcUxfd3NkOWg4eDRsZGtxdlpPb3ZqSGl0X1ZabUswMVo4WXlMTzhzRmx6Q2YxU1lVbzBEUEJDcFBVSUh6VnB3Z2QwaERxb3YtQ0RRc2RWV2sxS1AzeG93VVNDSzY5Y2Y1R3RGYWJMa0MwMHN4YkJTY1ItYUtkRU5PRkdhendOUVk1eFUtVUtmYmdTbUNPR0lKSjN1TkFtOE1zTVN0RlFRWFFUUUh3OV9uVlNkb1h4REt4bTlTeVg5OUpWS2JlTkdkZHJVYU5DaUk3Sk1sOWxQWlVnRjZKenhyRkFyOHFrbFVIa1VhVmh4OHNiM0E5Zw?oc=5\" target=\"_blank\">مؤتمر العرب المسيحيين يدين الهجمات الإرهابية بالكرك ويؤكد التمسك بالوحدة الوطنية الأردنية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صوت الإمارات</font>",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNbGxGWmpuYzNpSDJsSmFqSHpybXhZM3lGYURSMUt6MUlIWDNweHNNdW5wTU5pN0hTdm5HaTg2SmFManJQNTk4cTRxN056d3VQMWdyamUzZE8yTUx1TE0zcFVJNTdRYmRnYTZvaXJSQmpZVVlYclVpN3ROelFPcUxfd3NkOWg4eDRsZGtxdlpPb3ZqSGl0X1ZabUswMVo4WXlMTzhzRmx6Q2YxU1lVbzBEUEJDcFBVSUh6VnB3Z2QwaERxb3YtQ0RRc2RWV2sxS1AzeG93VVNDSzY5Y2Y1R3RGYWJMa0MwMHN4YkJTY1ItYUtkRU5PRkdhendOUVk1eFUtVUtmYmdTbUNPR0lKSjN1TkFtOE1zTVN0RlFRWFFUUUh3OV9uVlNkb1h4REt4bTlTeVg5OUpWS2JlTkdkZHJVYU5DaUk3Sk1sOWxQWlVnRjZKenhyRkFyOHFrbFVIa1VhVmh4OHNiM0E5Zw?oc=5",
-      "published": "2026-11-07T08:24:22+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "الرمثا يهزم الجزيرة ويتصدر الدوري الأردني - tembah.net",
+      "description": "الرمثا يهزم الجزيرة ويتصدر الدوري الأردني &nbsp;&nbsp; tembah.net",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1dUxOUVJmR0xNNjFNNlBvOV9XdE96aHZKcjA5M29kSXdkMnpyTWNxZDdBajQ3VnFQOEIxdkRScWZRQ1ltVjQ3cEpR?oc=5",
+      "published": "2026-11-06T17:23:06+00:00",
+      "category": "إربد",
+      "source": "tembah.net"
     },
     {
-      "title": "الاسترخاء وراء اختيار محمد صلاح لطرابزون سبور - زاد الاردن",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1OLVhYSmg0NlY1cW1ZLTFscW9YUWdhNllKTW51VDJtbERYOVd4Y0tpVEY3WV9ZRFE2UkFEelpxWWJEZzRLR0ItMEhSaHFUd3hsRXhHS0xqcGQ3Q1E1VXh2dFl6ZExyODBGTnc?oc=5\" target=\"_blank\">الاسترخاء وراء اختيار محمد صلاح لطرابزون سبور</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">زاد الاردن</font>",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OLVhYSmg0NlY1cW1ZLTFscW9YUWdhNllKTW51VDJtbERYOVd4Y0tpVEY3WV9ZRFE2UkFEelpxWWJEZzRLR0ItMEhSaHFUd3hsRXhHS0xqcGQ3Q1E1VXh2dFl6ZExyODBGTnc?oc=5",
-      "published": "2026-11-07T08:19:08+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "الرمثا يهزم الجزيرة ويخطف صدارة الدوري الأردني للمحترفين - winwin",
+      "description": "الرمثا يهزم الجزيرة ويخطف صدارة الدوري الأردني للمحترفين &nbsp;&nbsp; winwin",
+      "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNNzhIZTl5NHRua3diNk1kdmlWbkhVVDlZRGJiYWZKbFVXRU5DbUJrR2lmR0JUN3pmbEw5bnFsY0FIM3M0eGp0TmlQUThaR0VPN3JMUlM3YmNlT3FJUVpUVkxfVkRiV0NyS2pRbFppWFowdGNESWNiVVp4WDZpV0tYVUhwMkxHWEFQbTNYYmt3Mkk0dl9XMi12dDUxMlM3YkJLdU43RDRFX1A1T254SzY4amRlOTk1SHNzbUppU09zTzd1ZHdZTG0wY3dmZnU4cklzdHE3NXFReU1zd1lJb3U0eXVrZi1rZDgxSTg2MlhtMWlNUkJkT0NGal9CckYteV9QTWlQdzVoTHZ6NUV0eGhrVEttLV9OemdfQzFJbnM5YTJNVFBtT1lIMWp0WU9HazE3WlNmY0ZrSnBZdUV2NXh3ZTQtU2d0dzNYN0RVWnQ5LVRkS3hIaFZuVnFQN2xlUEgtUFFOelRBZUtibXM0dkhieGpUd29Ic2xjR24wbHAxLXJRX1N5bUVER2pYdUgwMEtGcnVpUVR6LVh3a0RKcU5QeE9vMnc1Q0xyelNRUjNUcjgyU2lLYlJ2STYxYmI2Wkt3Ukxmc0E2bEE4LWZBaTQzaVNIalRsQml5WHBLYW5aU3diVHNoWWQyeTBncDNZTHppWG01ZlV0TElLQ1hHSlZoTEtobjZudw?oc=5",
+      "published": "2026-11-06T16:27:03+00:00",
+      "category": "إربد",
+      "source": "winwin"
     },
     {
-      "title": "غرف الصناعة تستنكر الاعتداء الإرهابي الذي أدى لاستشهاد أحد نشامى الأمن العام - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgVBVV95cUxPQ2FTVWxvZnhvbUg2dFZzOVo3cE9WcGh6eGdEZGdPeEd1dHFXa3RFbUFaaVFUMjhQdUxGblQ4WjF5Y0hVUEJZRXkyYmtjcjFpZFprblo2Z3g4c0F6OTh2cF9WN3pGX2s0V2VhRFFWd05GOUU2MjgxY1hlTUFQN3ZRMTlMUG1CMHh3VVdsRTZub29SWjdfUUtLNHUzOEdyWktVR0h4MGo4ck5ib3Z0Rm91VkdxSkFzY1VPeEk2ZGYyOTlQdVd0c2NGQ1hTQlZTd3F2eU1jVGZxLUR6anliSEpFUDBpTWlxQXhiX2xpaFg5S2NhRS1pWFcwdnhrdXBNMzF1ZzJiTTlzRGE4QmhYY1FQdUd3LWlTd2lyWVlPRm5LRzFGUmtlRjk3YmxUR1pyMFcxc0NWYkhaS3dpQzd4cE1YbDRzelBsVGRjYzhYVXdUdkVsaTB2OG1Xbnp0MWxoVW9uY1NBRWxMdGNzQ1NRRERYQktKMEtIQTRaVENldHNaV0V4aVFLYXBNOC1QdzRpa2FmZ2pnOWJIN0xmcUIyOVZwbHl0ZEdsRHVmc0g0WGtieFBDOVQzVnFuVFhwZ1NJSFRNV0c3dUxzOHhpNlgwRW5UcWk4WVBYYjBBTUZuT09uZ2xHTUQ5RWNsWDdRZ25CWUhNZkZfd3dGZnNqaG1mZ1lzNF9KSHpJcU5oNm9KdkFWV1lpeS1jVEtwSVg4b3hsU2JPVVV6X291SmhRZFZVZUI0MkVhZW9jamh0VGlGT2tFSmtCbzhyNTAwZXVia0RhV3VFVVVFc0ZVVUtlLU5ITGhGLTJxcjgxS3pnTnNxVUVSLVlzWDJBY3E2LUw3OG55a28ydU1FbHJOUl9Ra2tmQWR0ZkhXVkdBR0djaUpqVVd0WUtwb21NaDJDZndqWEhLMU9zTm5VUWIyU0FRc29VcXRWZm1R?oc=5\" target=\"_blank\">غرف الصناعة تستنكر الاعتداء الإرهابي الذي أدى لاستشهاد أحد نشامى الأمن العام</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxPQ2FTVWxvZnhvbUg2dFZzOVo3cE9WcGh6eGdEZGdPeEd1dHFXa3RFbUFaaVFUMjhQdUxGblQ4WjF5Y0hVUEJZRXkyYmtjcjFpZFprblo2Z3g4c0F6OTh2cF9WN3pGX2s0V2VhRFFWd05GOUU2MjgxY1hlTUFQN3ZRMTlMUG1CMHh3VVdsRTZub29SWjdfUUtLNHUzOEdyWktVR0h4MGo4ck5ib3Z0Rm91VkdxSkFzY1VPeEk2ZGYyOTlQdVd0c2NGQ1hTQlZTd3F2eU1jVGZxLUR6anliSEpFUDBpTWlxQXhiX2xpaFg5S2NhRS1pWFcwdnhrdXBNMzF1ZzJiTTlzRGE4QmhYY1FQdUd3LWlTd2lyWVlPRm5LRzFGUmtlRjk3YmxUR1pyMFcxc0NWYkhaS3dpQzd4cE1YbDRzelBsVGRjYzhYVXdUdkVsaTB2OG1Xbnp0MWxoVW9uY1NBRWxMdGNzQ1NRRERYQktKMEtIQTRaVENldHNaV0V4aVFLYXBNOC1QdzRpa2FmZ2pnOWJIN0xmcUIyOVZwbHl0ZEdsRHVmc0g0WGtieFBDOVQzVnFuVFhwZ1NJSFRNV0c3dUxzOHhpNlgwRW5UcWk4WVBYYjBBTUZuT09uZ2xHTUQ5RWNsWDdRZ25CWUhNZkZfd3dGZnNqaG1mZ1lzNF9KSHpJcU5oNm9KdkFWV1lpeS1jVEtwSVg4b3hsU2JPVVV6X291SmhRZFZVZUI0MkVhZW9jamh0VGlGT2tFSmtCbzhyNTAwZXVia0RhV3VFVVVFc0ZVVUtlLU5ITGhGLTJxcjgxS3pnTnNxVUVSLVlzWDJBY3E2LUw3OG55a28ydU1FbHJOUl9Ra2tmQWR0ZkhXVkdBR0djaUpqVVd0WUtwb21NaDJDZndqWEhLMU9zTm5VUWIyU0FRc29VcXRWZm1R?oc=5",
-      "published": "2026-11-07T08:13:59+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "وكالة سرايا : بلدية إربد تطلق اسم الشهيد جواد السلايطة على أحد ميادين المدينة - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : بلدية إربد تطلق اسم الشهيد جواد السلايطة على أحد ميادين المدينة &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOSHRBNkZ1cEZMY2JIM1RiQmtVMXJYRjJadUo5VVFIUTIwY2pEaTlnY3AyNkN2cTJpeDVRcFI2QzZOVmFJUmE0eVl6Vm16dVViMU9TQktGTWhWcmVEX2dtZ1QzaGtpSTNsM1huc2x4LTVYZllodmtwbFl4UEd0b3JFeFdhci0yTUFUTGxuZG1fSDBmS0lsTlpXeUM0REZZRWlNUFVuM2t6bnlZWkNEVnFrb2p1dVN0bTFseW5Ic3d5LS0yZ1NQQTFNb25SQ3U1cUc5ckR6djhETm9kTUJ3Q0VoYXRYLWY1QjZYWnNTNnJScHIyQk1mdUJ0LUlDTDZKRGdlR0hrU29JdkFNSWRZeVlhQVZmUkZfZEVkdmZjbHlUVGoxc29pblpkQlJxVGk3S0VSemNZMFV2NDJQOHpvaU9JOGdfclhVWjRZMElvY2ZuYnRxeFhEWkV3ZUJWck1leDB5NFdkZDFGZllTOURFYmZvYjBsd3R4aEZUUm56bGtmc0JSVWRXUExMenFWbG5weDF1b0s2aUtmUEx2Q3ZtendlOFpqYmxHM1E0WnJYVTRJSmt2WWt1ZkZ3OGg5ZUp5cEZfZEtkMFUxdmgzOEpGcHBvUmRn?oc=5",
+      "published": "2026-11-06T15:20:34+00:00",
+      "category": "إربد",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
-      "title": "بمشاركة أكثر من 500 متسابق دولي.. ماراثون الرمال العالمي يعزز مكانة الأردن على خارطة السياحة الرياضية - صراحة نيوز",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWkg2NmxSYWFTWXI4VzNkallNSDR0eHh5MFlCNGFvM2VtTG1GUEg0dU1EalJYYlRNV2lGamxhTnVVQU9nZk9nMmdjbjFJMUpjZzM1VWxKb214WFN5WHVNaDJiR09SLXVSenE3eHpsaURMVWV0YXNDV1pKZmNkbEluUmpSRzFRVTNBWW16REZtdDZsNGhVeFotM3IzMzcwTVFKTFAybGNGSnU4REkyZjJIWTdrOUlDN0g5a0w4QTVEdFRLc3EzejBvR1MydGpuVVI2T0ZNRW52cTg5M2wyZ0ctWkVSY1hRdVJTdEJ5TUprS05wN0l1SUFiaTg4dDhhUjBQYUprbHJQUU1wa1hBSEJ6QnhQdW1HcWljQnJpVklsbGFrWi1WQS1CMG44V0NsNGotdHJhZlpZVEhXeTAxNklmdVRiSndRa3hpbmkzQ2FyMl8yUQ?oc=5\" target=\"_blank\">بمشاركة أكثر من 500 متسابق دولي.. ماراثون الرمال العالمي يعزز مكانة الأردن على خارطة السياحة الرياضية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">صراحة نيوز</font>",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWkg2NmxSYWFTWXI4VzNkallNSDR0eHh5MFlCNGFvM2VtTG1GUEg0dU1EalJYYlRNV2lGamxhTnVVQU9nZk9nMmdjbjFJMUpjZzM1VWxKb214WFN5WHVNaDJiR09SLXVSenE3eHpsaURMVWV0YXNDV1pKZmNkbEluUmpSRzFRVTNBWW16REZtdDZsNGhVeFotM3IzMzcwTVFKTFAybGNGSnU4REkyZjJIWTdrOUlDN0g5a0w4QTVEdFRLc3EzejBvR1MydGpuVVI2T0ZNRW52cTg5M2wyZ0ctWkVSY1hRdVJTdEJ5TUprS05wN0l1SUFiaTg4dDhhUjBQYUprbHJQUU1wa1hBSEJ6QnhQdW1HcWljQnJpVklsbGFrWi1WQS1CMG44V0NsNGotdHJhZlpZVEhXeTAxNklmdVRiSndRa3hpbmkzQ2FyMl8yUQ?oc=5",
-      "published": "2026-11-07T08:05:57+00:00",
-      "category": "الأردن",
-      "source": "Google News"
+      "title": "إربد الكبرى تطلق اسم الشهيد السلايطة على أحد ميادينها - وكالة عمون الاخبارية",
+      "description": "إربد الكبرى تطلق اسم الشهيد السلايطة على أحد ميادينها &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeXFfVnY0aDdMNVBKVjZtUlNFU3dTb1p4SG5hejV1YzlMaEZQWGJhaWNENFdUVXQ3N3g5d2h5ejN0M0VienFKSnlPWGlzYVBPTWg4?oc=5",
+      "published": "2026-11-06T15:03:06+00:00",
+      "category": "إربد",
+      "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "تراجع سعر غرام الذهب عيار 21 محليا بمقدار 1.10 دينار... - جريدة الغد",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxPVlpqRkRzM3RVMmdtV1pqQ0ZMQ212X3pTVW9wRkItTjF1bmphTFY0VkhxbUthczFaVlN4UEZjSi1vc255WGVhd3NyYUxZdE9vZ2dVay1GZDg1ZkRXczBOMjlrN1c3UGtZSXdBWEJlX0w4a2VvVGFGWDZDRXV0eEVKTndlYTlQZGwtWEVRMEVfX1FYTlBOb1hJZzR0X1ROS05YMTVsbjBRRkJwR3p3bUhJeEVKbjN3dlN6WW9sNTBBM0ZuUGRZRWw3RExMLU91N0RyTEhzLXFBX1FIQ2xEbkRNVDdjeGFlLTJ1TnN0TEpOZDZyOV9CSjA2bVlWeWdncFpmV1BsZk4wWnFPRTh4a0hySnRraU8zNzZ3dzZKT2VoR1RBTWpLZlhxN0lXU283dFJHVlVLdC1kaHN0aHJxS3J4QktyWnBkYzZnemExUDJqVnZLSHFDc2NFdjRaYUhXbU9ZR1lNa1ZrbXRtbHc1cnRNQUdEWGE2TzRLNHZVdjFXXzlVYVdfcWN1bVFaR0kwdGcxV25UazQtdEdUbGNzdlZBUjFrNUJfcGdudWJuUkFCV1FBZGk0cFV4VXRKLUR1STJFUk9uX1RXRlp0VnZ3ZHo1bXFWNHduU0lianlvUng4bFBEc0s3QjBab1RjMWJNX1gxdXlNVU9fVXl5eDd3UnhB?oc=5\" target=\"_blank\">تراجع سعر غرام الذهب عيار 21 محليا بمقدار 1.10 دينار...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة الغد</font>",
-      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPVlpqRkRzM3RVMmdtV1pqQ0ZMQ212X3pTVW9wRkItTjF1bmphTFY0VkhxbUthczFaVlN4UEZjSi1vc255WGVhd3NyYUxZdE9vZ2dVay1GZDg1ZkRXczBOMjlrN1c3UGtZSXdBWEJlX0w4a2VvVGFGWDZDRXV0eEVKTndlYTlQZGwtWEVRMEVfX1FYTlBOb1hJZzR0X1ROS05YMTVsbjBRRkJwR3p3bUhJeEVKbjN3dlN6WW9sNTBBM0ZuUGRZRWw3RExMLU91N0RyTEhzLXFBX1FIQ2xEbkRNVDdjeGFlLTJ1TnN0TEpOZDZyOV9CSjA2bVlWeWdncFpmV1BsZk4wWnFPRTh4a0hySnRraU8zNzZ3dzZKT2VoR1RBTWpLZlhxN0lXU283dFJHVlVLdC1kaHN0aHJxS3J4QktyWnBkYzZnemExUDJqVnZLSHFDc2NFdjRaYUhXbU9ZR1lNa1ZrbXRtbHc1cnRNQUdEWGE2TzRLNHZVdjFXXzlVYVdfcWN1bVFaR0kwdGcxV25UazQtdEdUbGNzdlZBUjFrNUJfcGdudWJuUkFCV1FBZGk0cFV4VXRKLUR1STJFUk9uX1RXRlp0VnZ3ZHo1bXFWNHduU0lianlvUng4bFBEc0s3QjBab1RjMWJNX1gxdXlNVU9fVXl5eDd3UnhB?oc=5",
-      "published": "2026-11-07T07:56:17+00:00",
+      "title": "دخول خلايا رعدية إلى الأجزاء الغربية من إربد وتحذير من الصواعق والانزلاق - سواليف - والهرج للجميع",
+      "description": "دخول خلايا رعدية إلى الأجزاء الغربية من إربد وتحذير من الصواعق والانزلاق &nbsp;&nbsp; سواليف - والهرج للجميع",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNWWt6enJPc2w1b0JMbDQ4cjNJd1g0amVTa1hWbm1uY1d0SzNNcEpRVElwMjZxaUpXQVFzUlNTRmZkV1l4cjlmdDRyajB1eENMc1c4Q0FRWmtmQmpkZHVhQVAzbWN0bTVWWXRPS2hvREU2NXFLR2M5M1JyVUpXa21yR0tLeWdVNUo5c1I2eGlIM2hlY0hnOVZJQ2YxOGJFY3RUTmNpeHRVd0RseGhzb2ZBNndhYjFjMlIzRUw0ZkFfNFZTc1pwWlFhTHpGdF9KU0ItSXlucEQ3YWFqbEk5RTJsSF85ckpVSU83UURGSUx1RzZ1dTNXUDZFZkNyWldINGxUSHBaNTdyY0gySHFzS2pHT05lem44ZndMaVcweUU0VVR1ejRwZmxoYmVZUU0xQ0tILXFZWjhvN0ljNTNSQXQxT2RYenBnY1RUSGJ0QQ?oc=5",
+      "published": "2026-11-06T14:52:25+00:00",
+      "category": "إربد",
+      "source": "سواليف - والهرج للجميع"
+    },
+    {
+      "title": "بث مباشر لـ مباراة الجزيرة و الرمثا في الدوري الأردني للمحترفين - نجوم مصرية",
+      "description": "بث مباشر لـ مباراة الجزيرة و الرمثا في الدوري الأردني للمحترفين &nbsp;&nbsp; نجوم مصرية",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMzlINXc5MTd5WS1CNzJ0NGFqM3c4R2tyaVAxNl8ta0dRLXc5akdPR1lDR2cyLUI3dHAyQTVralp1RWRaY2Y2anNXNzVGZWtuNFRtcVdFdnhwRjJVQkZKcnhPOExtR0NUQlVZR3UyakQwUzVGamdIN2pQZmNkaFJBTmViQ2xPMHJ3eTlXQlJLZ0J5XzNVNG5MZGNoci1zOTB3VENDRy1UWE9SYWNWcW9UQ2FQWlhrWm1rV3JPaXZGRG9RalIxc3NXTGY1eUFpYWJuVGNIQUpuUlFKalRpTDU0c19jNkJGQWlNZzlvaHh2LWh5OUo1QXZjazd1dHJnelZfSUxNOVAycC1XTkMwRllVUkpxTl9KWjd0bkxPSGxDNUl0NTkwdWRXQml6eTNNTmZnV2VEV2F1TWlNbDFreVRQTm42NEoyUQ?oc=5",
+      "published": "2026-11-06T14:49:19+00:00",
+      "category": "إربد",
+      "source": "نجوم مصرية"
+    },
+    {
+      "title": "ضبط مركبة محملة بالحطب في إربد وتحويل المتورطين للحاكم الإداري - خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "description": "ضبط مركبة محملة بالحطب في إربد وتحويل المتورطين للحاكم الإداري &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPUUlGUGJCM3R0bXpXb0toZnhnd0lrUll3eFVlVDVYbFhSa1J0ZWJ2U0JDV3RkM0xjQmNjX1pQbk0xQUgwV3ByS0k3MXZKQldlMXR2RVo2M0dKb3Y4Y0xoZDNJQXpyS05DZzhTWjJESUlBLXNUYVFWazA4Ty01ZjNabkxlS1J2Sk1DUHlGYXBBai1rb21vYVFEQUhXSGJHUmxqZGhWQ3B6SExpb3BtR1FMN3MwUE9EYlZTZE5aOThxb3plZHRtRENUSFk4OU5yTlg5OS1jYzd0cTVodWlSS1FOMHB4ZkFONnkyQ1BNalFuQ0JIMkdiTlRmM1lQQzctamE1S3Z2LWtzSl92NEQtWEFHZ1BUUVJNM2pGZDZBZENkRlFtSUlueEpCS1lfanZxTHlMRnMwTS1TS1hyMUVkeXBPWkVHTzZWVVBVMllLS292VTZWQ0ZxdjhwdGp2dl9JdUdMMmdNaWxsUG83QXhEbzV0S09lUU1xZ0k2cHRmby1KWUVlVm1MVGU1Y3NlRlZmOTZZRGNvMERncEM0RlIxVF91Q2VnX0RPOFRkT2J1bFdnek9oRUlTYkdMdlNjdlJDMUtKOFN4X0hvcG96elp6WnQ2bDNGWlhzSHRQdzJTdkVEN1R6aXJqZ2I3TzQ5M2x4Q09GaGZQdDdkcTZCTnpIdS1RWjRB?oc=5",
+      "published": "2026-11-06T13:19:36+00:00",
+      "category": "إربد",
+      "source": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز"
+    },
+    {
+      "title": "افتتاح الحدائق المعرفية في إربد - وكالة الانباء الاردنية",
+      "description": "افتتاح الحدائق المعرفية في إربد &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMmFfemhQdkdDZkI2NG9oblB3dDJtYTFDYUpSZ1dIbUNJRm5qaGFUR2dEcnVYLVhfMTdpdjZCZUxTRDdzRE5uYjRxVXpmdmJYZlZGdnhJUkY0bHhaaUg4S2hWeHE2UlZWRFg4TVJzRnV0QjhMWmZLSTR2WW1DREpMcXl2WHRJWEhMM0I0VUVTNFppMWhrcjZxbDh2YU5YbnBtX2RkdkZUVVVDcnVNRzF6dGwtWG1OdUlMSFlwSWRkQl9yeXF6dnNNRGZWcGFfV0ZJeGRMYjJnX0J0YUdfT3lVd3lYOXh4dVZDajg4SDF1RTlodlA0UnNrM01rSVZWdjJPMkFPNjZFanpyYV9tQzJkWWJNX29YT2RfeDVsS0Jja3M?oc=5",
+      "published": "2026-11-06T12:17:15+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "اقبال لافت من مهندسي إربد على استفتاء نقابتهم لتعديل قانونها (صور) - شبكة تواصل الإخبارية",
+      "description": "اقبال لافت من مهندسي إربد على استفتاء نقابتهم لتعديل قانونها (صور) &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RYVpRMlVkTWdDbnpWbnc1NF9Mb3lVdnJmNGpyakVKMXdZWUwwMlZfMzZOZzRNcFBCODZEQmRlTVlMN3JncnI4YXJwWTlVcFBUTFVn?oc=5",
+      "published": "2026-11-06T12:12:10+00:00",
+      "category": "إربد",
+      "source": "شبكة تواصل الإخبارية"
+    },
+    {
+      "title": "بلدية إربد تعيد تأهيل قطعة أرض مقابلة لمستشفى الأميرة بسمة القديم لتحويلها إلى متنفس للأهالي - جريدة الدستور",
+      "description": "بلدية إربد تعيد تأهيل قطعة أرض مقابلة لمستشفى الأميرة بسمة القديم لتحويلها إلى متنفس للأهالي &nbsp;&nbsp; جريدة الدستور",
+      "link": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNY1JtNXBNOXFXZlFXaEljdVBGb1JkYWZhVi02QV8xMWRFQm5HR2QxZWNVMnFFeE96dkZ1MDM3Qmt1QTFWMXdjUFRZQ1YyejdrUDVpMlBfZjZqZm1QdnJNa21wdlY1eXo3XzVwblVxNU9WYUdPX0F6NkRnNDBBcWVBUG5QOUp2LWxMY2pSYVdWRW9JSjFEWXJWc3lzNTJCb3VacW1aMnVWbEUyLWJMelFWSENBZ0tuWHdlRG1QZlByWXdxanFTaEVzMU9IQzdZam0xak1KeW5HTkoxRElCSmItOTRsWDlVZFE0T0xTRFJ2WGFqNzVFcENuV2hFLWo2ZmpYelZnMU1VUzlOZ1dLVmtlTzZSc0h4NEpTeXVFWnV4ZEJVY3dGSGxTUFkyVDlNU1Y5ZHkyTkszc0d6T0RVSHdWWmtuV0ZXV1h3R3ZGUFp4ZEw3a252ZHpzc2lHekIwVjQyZ0duNWFLYnh2UE9ORlFDMFh5d1Ixbms1b2hXSzZnamh2RUFfeXlTSHk1SDNKajI2WXY2RUthdEwzcElHMV9mbkY1LUtQMEFxelZNQTk0MnpGSU1Gb2RmVG8wVnZOVDNVczdaQTVoLS1YOW1pOENpd254alBnOXk1S29XTTA1VGtTM0oyME9uQ2tjeW1pVEFQVGh2Y0VEUU83YTdETUFHbjdNYUlMSm9QcWpaZVBmNVRTMXRTMENacFBFX2F0YTdIcmJGQzBIUDVTcVJjTVhCUG5MNHUyaFkySFFveUt0YWFvdDdxTG5XUmd0TkhkR2hXVHVfM1RrYjEyRkVoYVpUWm1ueE8zVTZyTFN4MmZ5R3YzUHBWS0kzczhXeE5HUm1zYVVIVXJURURfWHdiNW1UVGpHZkxydVRVQV8tMXBFOVRwcFZJM2tmUFhIT0hwbk4waUdRTmdkZlktY0k2S3JSODkybFdTd3FlWEE4NWszaExSX3NuWko1bQ?oc=5",
+      "published": "2026-11-06T11:42:23+00:00",
+      "category": "إربد",
+      "source": "جريدة الدستور"
+    },
+    {
+      "title": "​إربد: \"مهندسو إربد\" يدينون الاعتداء الأثيم على رجال الأمن العام - صحيفة الرأي",
+      "description": "​إربد: \"مهندسو إربد\" يدينون الاعتداء الأثيم على رجال الأمن العام &nbsp;&nbsp; صحيفة الرأي",
+      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxPa2thRUw0YzZZNmtJRnNMNVF2YWl3aVJSMVlGSDhrVTViMEVxSV83OHdMOEY0Y3hxbVl0WGV0OGF1MGlxWkdLdFlqRnRsVEJ6eUFVQkc1TWlWeXl4dDdTaHR3NmVXSzlpcGJ3TTgwcWpjNjI1eFkxMERpNEdPVUt0dFBHaUFicDZfQ3R4SHJYWkFIMEVOOUFZSVpzb0YyNWo5OVhSd1lXSXNCRzFqYWdvTW5qNUpsWF9FSUF6c2VZTm8xNUE4Slh1RFQ3ZGtfMGx3V1pSRlh2MXgwSjFrOTlEMWpHclBwRGUtTTRhZE1CcWxaY1pvdzQ5Ulp2c2xwdU1RQ2gwZzNhb0pLYlJlcHd4S2E2cnJINE9ITEFLbG9iaVNORnRRWGdwczk2R182RUdvMEVIQTJPVzc1blMzT1RJZ2Q5bjMxRGJmRm5pQzRMNmtYMFgyNi1sSkJWRkZreDJ1Nzh6QU1ydDUtWmF4RTJzZkNxS3l5cDYwdUI3SmJhTnIzMHZKdE56WDNOamVvU051WEl3S0JVeUs3ZjFqSVhsTzJLU1JVdkVSaWRBZU00U3Ftb0hVYWhnR3NBUGZsVXA0VXpPYkd3c240RFBkc3ozdlB1NnFGNVZwYkZqMlQzWEFFemI3SzNCckFhaWpQZnJzZUVkaG8wNDdPMDlaZGxmbUQ2WmZaa2ZBd0hGem9DWWxBbzhoTmI4Rk5zenc4MzZf?oc=5",
+      "published": "2026-11-06T11:40:45+00:00",
+      "category": "إربد",
+      "source": "صحيفة الرأي"
+    },
+    {
+      "title": "زراعة الأغوار الشمالية تدعو المزارعين إلى اتخاذ التدابير الوقائية تحسباً للمنخفض الجوي - وكالة الانباء الاردنية",
+      "description": "زراعة الأغوار الشمالية تدعو المزارعين إلى اتخاذ التدابير الوقائية تحسباً للمنخفض الجوي &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMiswVBVV95cUxQRTEyeWxFXzBzcnJiaFBvdVQweTBHUnJyVHdKZG1yQVNsQ05tZ1RQSXJORkFpUnduTC04R2ltU2J0enJrSjhDV2owT2VGejJDZnN2SWlFZFRFdHJNbEpiZGgzdnhiWFhGcGtXOHNVbTd2OUNkc2Z0YzlIQUlQakEtbnQ0M2t2dHdld3pRbXRndU5ycE44WFpOVXBSdVJpUFkzVHVWQXZyM1g3WVo2YjhLb0x4QTZVcjRyRVo5NElZOTA4RVVKUnBsaG8xWHhzNUNrZlhreU11cEFzNHhacW1xdEgyaG9kLWtOSUN5UDRERG9HeVFSSmJzamhHcWpwQmlmQnlEaW1faHlSaGZfZ3EwdWVDWm9DUmZjcFRwcHRVMmt1WHNORUZyQmFpaFQ1UEQ0QnQwQk5CSGQ2SC12T0k4TTRFbWFXZ3pJOGdnRUVrTE04aEhpMkREcmlocldQOHBJRUZ6ZGQxQUlScUFKaGVoNUlTdGRjSlBiSXVmV3BQRzd2SGJXbVFicUQ0VnFDVzdmV2NMb05OamdiVWdWbnZQbHo4Q0UxTzJwOWtva2VRYlhmTTdxZ2gxMHBtcjRNdGpkYlBSdW92NE91THRwaUxoblpENUktZDEyeHZ1UW9SZjYtV1FMTlVHd1g3VXNjbTFWbng0czFNU1laUGVHeTc5RXZXbHV2RmtuZmhfNlZXTUlkZXFQOXZPTnR2TTh4ZDFMclBHSjlhRVgwSFh1WnBGNV9BOTBXTlU4V3RhWHdaRDVFczJIaVc0eHlOUVNvTGgzbWVfRU9iMkNwSmxWUHRrSnhlWi1udDFrczUtN2E1eWlucFRFNzVwVVRXbkxvTEg0SjNDMU5CV1hzRDM2aktmOE95MVkxUnV1ci1hb2trdlB1R2pwcm1WRzkxOFhKVjdReTRZ?oc=5",
+      "published": "2026-11-06T11:14:22+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "الحكومة تعلن الموعد النهائي لحصر أضرار مزارعي الأغوار الشمالية... - جريدة الغد",
+      "description": "الحكومة تعلن الموعد النهائي لحصر أضرار مزارعي الأغوار الشمالية... &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxOYUNmSjBMeldmcGJLM0J6R2J2Y3hEclBXc21PeXRPb3NTaF9YUS11NlhOdTlHc0c1MEloeGZrVlNaQmd4RGdHZmYyM1BXbFk1SGYwSWdxUklWMl9FaE9mU0d3Y2k5eWtrb3ZEU0FQMG1EWHIzc3B4TUd0WV83MTVKWFZDelJ2MkYydm9sNVRLcGZMS2lta0RPbDJxaWt1Q0xPOC1id2hnam11OWVaUlU5ZzQ1WU1xM3NYS2pjc1ZhQ0U3YUJJVktiVDc1eEFRRzU2aU9JaTdyX01HRW1Qa3NZUDZXVHVqUFZIU1d5YmQ2ckN6d2pSNi12WTJsd0dBbG5UM3Z2ZzlpWFl2WWUxVW1WZDkwUGIwWXFwV3o2WDFrTk81QTBPMUJ5ZTlJa2pSTGFmN1JCNTdaRmlUcGI2SThYZG85TXRyMDBMZ1lCRzVLRzdtemZoVW9BV2lsWGUyT09TZ3JyX1VIS0l1VUU0U1hKWHVHUVI2Q0c2RWFVQkFlVEVZa0ZuVGpTcUhSdzFFdUIzV3FGZUwxbWxhckltcUt2T21kN2lEZDd5aVJjU1pUUmlsQ3FHWk16ZHJoMzI4SXF6MktrX0gxdDBIb3pJRTZxZ2lnamd6VzhzYTRJNm1ZOTlYOHdoODdoeTZnM3padFNocEhNWk8zOGpCQUgxSjNXNU1QOGRhSGxvM3Rud0JESzJLd3RHb0NZUDNMY0FnNHZDblU4T0JMVFlFVGQ4?oc=5",
+      "published": "2026-11-06T10:36:58+00:00",
+      "category": "إربد",
+      "source": "جريدة الغد"
+    },
+    {
+      "title": "\"تجارة إربد\": تضحيات نشامى الأجهزة الأمنية والقوات المسلحة موضع تقدير واعتزاز الأردنيين - وكالة الانباء الاردنية",
+      "description": "\"تجارة إربد\": تضحيات نشامى الأجهزة الأمنية والقوات المسلحة موضع تقدير واعتزاز الأردنيين &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMimgVBVV95cUxPaVlTWU1lc25NR1otb2N1R1l2SEc5cWxkd0RjaTU5OHk4eTcxUWN5bU5aemRlSFNpQzRBNGl4Szc4MlNrQlpwcDRGaDhSOGpRbkpveV9uSFJpbmx6Mjk0cVRrSFI3VmVuVWUzbE1DNHdCanJZTnVwSE5fMFJrM3RnR0hKSUhSTVpXY1pfOW81VUpqLWtVSHpqTVNpdlFOaTRlTTQteDViRVBrU1pScDlIa1ZRZ1gxRTRjME15Rlg2UXNQd1F0RjJreGxtOUZrR3pXaFB2VVVveGYtTXVBdGVIdjVReTRTb1FPMTl6TU8tUlFydjB2T0dKWFQ3WV8wdDVMT2lHUkJTRHRVbV92VmluMjhjVXVRRnE0THNDU0hUVGNWcWUzZHl3clhpN3RSaXJsWWhNOWw3M1NGTExySm9oaWdLZW1QbmNxem52dHRGWWpTNTJkaWpRR0dLTHVxZDlYcWNuNzNRTm5DZ1ZwalVENHA3dTh0X0hFUFJaNTVEVmUwYUJocW1JYjZQM3dMS1ptZFN6LWo1NTJoaWtnM2pNbXVmVTZxc0xPSi1zU3NibGZtOUpEMXRNNS00UnNWU1lrY0RJaDRiNWRCXzJfQmg3Q3V2SWNqSUpOZHdkTFZSZFNpN3dGOWRrWTZ3YWVENmxXMnFmZHFxOGE1Z214b1VBeTJ6dHFBZjI5SVFWUTNqZ2pXUzVDa3EtNFMxLS1DZ0c1bEZHYVNXNlo2Zm5idEpCQmVET2VFWlZNcmd6SEJ0OUNETWtQbXlQY09VZFoybXNpWUZfeVlfNy0wbFYwUUxCcXZ0UUdYM3NQck9DWWVSbFVMV2JmWFMtNWlLZnV4Q1BpMzIxZjNRS2JubzAwMEdFSlA1eUJ6T0hXN0E?oc=5",
+      "published": "2026-11-06T10:19:11+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "\"كهرباء إربد\" تدين الاعتداء الإرهابي على نشامى الأمن العام - وكالة الانباء الاردنية",
+      "description": "\"كهرباء إربد\" تدين الاعتداء الإرهابي على نشامى الأمن العام &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQbUR3aFZkMmJQT3U2ZGNDWC1jX003QWRXYXNjTWpISkhCTV85LWdfQ3owUmlsU2REcU84MFNtOFFuUEI0MDJRWXlDcnpWT3RrUmp1cGd2dVRqYW15dXVNT0h5QzRCdkFTUFo5Z0d2TkhxZzZTcElrMVR4V21JYlBiTm1FQnRYUER4NzdwcEQwOW4yZXVVWGRSdGh3RFFLbzhKZzViWEkybFVoUHloZTJ0N2EzSmNxeks1d0ZfTDhaNG5fUmlaVGpKU3FoVkw5dTFnNmFabV9MbEhsSjZtR2Jqck1FN1Y1Y25QSkVyNERYUTM3Y1F0aVVzXzRyLWxOOXlGWTdmai1SY2ZqbmRoYmp3TXhqajhXYi1XNjRaWnVtTWlCWEllSXdmWG9OYXgtS0kxYW84TXNVY2tVYk9IdTdqNllkLV9HWHhUalU3QmFjTmpQUVo1VEkwQ0dSeWZiNUdQV1MwZGM2M1JPQWZ0NmwteDcyb1NrUEJpYU44ZUl0amFaSllqaTBuSHVpN2VNOWpkeGdRaDZPdHJSbXJNV0drRFhBU1pPVVBwTmcxLVpvZ2E5dWw1cG1PZUY4emNBVnFDdjFMNllMMU9KWExOX2s0bUEtcURRRG16bGVGMkV3?oc=5",
+      "published": "2026-11-06T09:27:29+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "عاجل - مداهمة أمنية في إربد على خلفية استشهاد العريف جواد السلايطة (فيديو) - نبأ الأردن",
+      "description": "عاجل - مداهمة أمنية في إربد على خلفية استشهاد العريف جواد السلايطة (فيديو) &nbsp;&nbsp; نبأ الأردن",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CLVlDaGRqbnIzY2ZwODJJVUhrbnV1dVN4M1hiYTU3U3ZaSGwzaTB2cEJxRzNJWV91dmM1LThTV2lCclFab0FxWUI5YWs3LWF5?oc=5",
+      "published": "2026-11-06T01:40:14+00:00",
+      "category": "إربد",
+      "source": "نبأ الأردن"
+    },
+    {
+      "title": "افتتاح فعاليات مهرجان الرمان السنوي الثامن في إربد - وكالة الانباء الاردنية",
+      "description": "افتتاح فعاليات مهرجان الرمان السنوي الثامن في إربد &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNX3F1Tmt4bHpUZ19Pa0UwWUUxMzRDeWlEQUZLMjZEOVJCYlVaMW9UTUZ2Wm9MbVBJSkRReDlNbDdVWXItaU1QcnRkZmdLTy05M2NVWnVpTFFGVmtwWENHWW11RTVTRnVfMHlfeGt4ZUxWSksyaGZDX3hzY0RzcDlFaW9oTm9mV05kVHhyVEl1UnY1QWp1bXkwcFNqMlBkWmYzS3B4MGZVZVc0YV9rLVRwTkJfbm9zOTVMNjMxaDZhX2xxR3YzTzM0S2g5aml1TWY3MFdsUlZ5NjE1bFBkUFhicXNUOHlsaEFUalc1aGVLeERUY1RyWGNkX1BRZVdidHlZdERYaTl6LTNzZ1Y5ZTJfaEpBZWNnTHlNUG5DMGhoNk9vYW5kYlhqYW1KU2JrclpqQXRLbEk4N0VrSTdtT2dnYUFDUXpzWllYN21kREJtb0szREdZNzVmbXhoNWxpeXljQW4yLTJ0Wmtfdm00ZHpQNGFWNHI2Qm1qZkI1dHQ1QzFUbnZaaDdfMXZTWVFuSHVTbDNYbGdTQVQ1M2FVNGxwdzdYejQzeUJ6RjEwXw?oc=5",
+      "published": "2026-11-05T21:01:41+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "مداهمات وانتشار للقوة الأمنية بعدد من المواقع في إربد - صحيفة السوسنة الأردنية",
+      "description": "مداهمات وانتشار للقوة الأمنية بعدد من المواقع في إربد &nbsp;&nbsp; صحيفة السوسنة الأردنية",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rNXJIQ25qbHc0ck0yT21vcC1xdXNrR3VVcWNxUW5GY0lwN0xrY19hMXo2Zkw4VUVjNTRQc3NKdHRsM0pZX2t2TVdSOWNyTGRSdnc?oc=5",
+      "published": "2026-11-05T20:55:00+00:00",
+      "category": "إربد",
+      "source": "صحيفة السوسنة الأردنية"
+    },
+    {
+      "title": "مداهمات أمنية شمال مدينة إربد .. فيديو | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "مداهمات أمنية شمال مدينة إربد .. فيديو | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPb082b182cHlBdXdNNWo4VXhxUDgtOHV1RlJxSE10Y3NXYjAtREJpc0tfRHpLSTRLeTNTUGNZTkplSkVjUkx5VXVKaGp4aU50LVlLOTBhck54MFZCTU82ZVlZd1JzcUpwX0dlZHpvN2JzaEMxczBrMkZldGwydHVveFplWTV2d2hXVnFRYXVRb3NhRm05QndMUG1kMkgwNkVuNHBNLXlnM2RLMFRyZy1RZGhqZ2ExSUZMZGU4Z214MkU3c2JHVVREdTdHTTdZakhYRU5jZkxIeGpyaE93SkRaN0ZnTHdoZ21MdVkyX09lX1ZuZlRqOFowQ0xpdTdzVG40eGw1cDJVaF9iYWVETnk3RmlHcjd1X1VRc3hLRjFYUV81c3R1UDZvNEw1d3FXY3Q5Q2lmWFk3aTRuNVZkLUd2TDZJRGVzZWVNYUpFZw?oc=5",
+      "published": "2026-11-05T20:31:57+00:00",
+      "category": "إربد",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "غرفة صناعة إربد تدين الهجوم الإرهابي على الأجهزة الأمنية - نبأ الأردن",
+      "description": "غرفة صناعة إربد تدين الهجوم الإرهابي على الأجهزة الأمنية &nbsp;&nbsp; نبأ الأردن",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRNmhYcTl4Y1BxX0syLUVPdkV3SmgwYXUwank0Y3JHUTR1eTRTWEhBdi1Sb3FZWjlDRzlrZlJGZmFSMDB3aVVvSHBucTdld1RF?oc=5",
+      "published": "2026-11-05T20:04:14+00:00",
+      "category": "إربد",
+      "source": "نبأ الأردن"
+    },
+    {
+      "title": "غرفة صناعة إربد تدين الهجوم الإرهابي على الأجهزة الأمنية - وكالة عمون الاخبارية",
+      "description": "غرفة صناعة إربد تدين الهجوم الإرهابي على الأجهزة الأمنية &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxOHFrU3FWTTg3MlJIOGRXX0s1MnJVUThFZE5FR3dzQ1NfWFQ1ak02blFqTEdUWm1YaFUtQ0k4eHRMeGN0OVBYLUVjV0FoYndTRmNj?oc=5",
+      "published": "2026-11-05T20:00:47+00:00",
+      "category": "إربد",
+      "source": "وكالة عمون الاخبارية"
+    },
+    {
+      "title": "الأمن يداهم مناطق في شمال إربد... - جريدة الغد",
+      "description": "الأمن يداهم مناطق في شمال إربد... &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRDBTVHJrYUtXY0IzQjNmUDR5QWxISFhPdjZUczJvMjJuSEowM2o1US03ekRMbWJmeFM1WFppUThTbl9peFdEUUQ2SXNQelFDSmpSeVhjc0paaGl5Q3d4U21qeElLY0VKZ0JIdmM3Y2lETDYxcE1FM1ctNzZjTDY2ZDhLdUFNSWRvTngzOWxnUzM4dmxhZlBlSlVSTFhNSlNJbl8xYmRfMlpvV1dqdWM2QUw0R2JhLVhEWkZ6RTZZLWY4RXNRXzloT2hMbnB2eEFORXZRUFFsSWFfVnlpTUU3dS1NRVp2eW5mWnBqTURTcTZiOWdlTlQzYTI4OEJuRmFHUmppX0tFcHk4b0hJQ2xERVBrSmR4aFdTOWFvR0hnQ1hQaWlDOGVKNXlzd2U0czJoNEtzZ0RGSkpRR1kyTG50aQ?oc=5",
+      "published": "2026-11-05T19:25:36+00:00",
+      "category": "إربد",
+      "source": "جريدة الغد"
+    },
+    {
+      "title": "مداهمة أمنية في إربد على خلفية استشهاد العريف جواد السلايطة - خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "description": "مداهمة أمنية في إربد على خلفية استشهاد العريف جواد السلايطة &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxObWotNk9SY256anhwYlFueU02ZGNiWGNXYUxuNXVjSmMwNlAzWnhob0JjLW5odUtaLS1JYXhnMlh1ZmRCRUdlbXAwVGVPTnZ3MFd0TVJRWGZuTTJKeUdkeTBZN2VhNlhZNnVDU3FIVVVrNVl3RjAyR3J3azhVcnVqUll3RTJyRUpqUjhaWl9wQVQ5aG52bUN0SVNXOVJhQTBaN0o1LTdxTXMxNzV1MDM0RlJVVW5lQWNfVlpTZkk3SURmZGVEZ3VsekE2YWhRT3ZPUkZaUnJyMzlpYmFUVExmMk1KWlgzdVhfZmRyNWhnVHBMX2NBaDBfc0Y0bzd4TW12MlBvZjZoR0ljaEFGTGZEUUhkZEhpc2JfbmFhd1VIaVhqQ2ltbF9JbU1xVGhHcm1yN1dzNzZsR1NNNW5Eb0hNbGFxUERxekVQZ1Q4MGRJR3VtYVplTzU4M3BuWnNkVUR1NU9Ed3d4TlRIMm1zVmZYOHhSZ3ZERlkyT3M3WjBjMkxWazNrQmF2VWN2WW16U21FRmJfcG5Id3BLOVA3LWhBWjI3V0xJUlM0VnVWandaNWIwWWlvQ2VOeFQ2alhCU1FCX3dHcXBvMU1pTWZBRDJ3M3VZeW9BRlJWWV9oNnVuQ1RtTnhsNTFUbzBn?oc=5",
+      "published": "2026-11-05T18:01:14+00:00",
+      "category": "إربد",
+      "source": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز"
+    },
+    {
+      "title": "الهاشمية يفرض التعادل على عمان FC.. واتحاد الرمثا والصريح يحققان الفوز بكرة الأولى - جريدة الغد",
+      "description": "الهاشمية يفرض التعادل على عمان FC.. واتحاد الرمثا والصريح يحققان الفوز بكرة الأولى &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMirAVBVV95cUxQRnJjeGRUNEZqVzdwRUJhTDVfa1ptc1pURklvOHhYcnVudVEtUDY0Tl81aGhXSC11MWI1M0piZ2gtQ2FUZzdkNm8xZ25JLWw3RVVENUpCSFBabXNrRmRkU29kYXdXYTEzQkRyZmtfYTUwSkszX0F1Si1jWGR4UXFCNHhiQUZtU1hPby1TeGVMc05vV3BQRVkzNjNFdDd3cURJbWo4cVMyeFRjRDdXcjkwZUZtYTItRndOSGN3eEM2N1ZHRzluY2dNLTB3RVl2Ul9sYUN6bUFZRy15TlNFM1pNT04zdnllV3EtLUdlRFlVVHptcnZTaWNlYS1ZQ2daQWJQbUpLYW9GdUdqbG1mUFBTNGFmSWJNOG4zV0RpMDZlX2E5QUtfMVB2ZWppdzhXeGJEUG40MV9VZFRjUWxyVHRMSDFIVkw1V3JwYkR4V0VlUUlqX2Y2eThRV3FGN3VjdlFPcTVELVpvWDBwY2FHZWl6blU0ZWF6My1PbkFYNlJVcnBLNFZUNkZnU1NRUm1EYnlIenRuTW9RQ3c4czYtMHYtam1vX0YxWWMxQzFOVmV2enI0THRDQWV6cm4yaE5mTTFwSHNiV1hPWnFTQjBxUlpoT2gxUVVXSnJZTThkT1hpN0ZDdDE1NXpnZUdLNFl3ajBweHd5VWlYcUZnWTlWQkN0Y0ZlaTdkWmxsOUUyQ20tTm04MXA2Q2Z5Tlg3UmE1clpoTmJZZEhNcnYwc09GYmIwcUpnN1BBTTVLeExZQnlmcnE0TllWd1pVWU5LeHFSbEdzX0kyNHhwZUE0ZHNIbjJid0hGdHpSekc5cjgzeWxwbkZLLVR5X21GakxPTVF3a2hXeDBKekF6TG9BLWNVbVJkMU4zbEdmbnZuSFJYTFQ0d2Rsa3Z3X2VhS2EtYW8?oc=5",
+      "published": "2026-11-05T17:35:20+00:00",
+      "category": "إربد",
+      "source": "جريدة الغد"
+    },
+    {
+      "title": "مراكز شباب وشابات إربد تنفذ برامج تدريبية ومبادرات مجتمعية وتمكينية متنوعة - زاد الاردن",
+      "description": "مراكز شباب وشابات إربد تنفذ برامج تدريبية ومبادرات مجتمعية وتمكينية متنوعة &nbsp;&nbsp; زاد الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMmZfUkEtNUtrNmdMd21fQ21Dbjh3THhoQjlCV2tQX0FCMGtrRFAxczdpS2JMTkt1bXZkdlJmWmdvYW5yaXB0allHbklzUXFNU3YzNU1CbDdHd3RUa2FVTXJBNUpiR1hRY1E?oc=5",
+      "published": "2026-11-05T17:12:46+00:00",
+      "category": "إربد",
+      "source": "زاد الاردن"
+    },
+    {
+      "title": "تفاصيل صادمة عن منفذ الهجوم الإرهابي على الشهيد السلايطة: محكوم سابق بقضية إرهابية استهدفت مركز أمن إربد الشمالي | مدار الساعة - مدار الساعة",
+      "description": "تفاصيل صادمة عن منفذ الهجوم الإرهابي على الشهيد السلايطة: محكوم سابق بقضية إرهابية استهدفت مركز أمن إربد الشمالي | مدار الساعة &nbsp;&nbsp; مدار الساعة",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa2pUV0FueDZMRG1wdmxmbWJqWThycVRBV0FUVG5uQVNrbTlWQ1JpZVJPWVZuY2lGN3dNbjlidm1YRFBld2xzRE9ORkRUc2R3aExhV0paemFRSkcwdmxkUkI5cWp0ZjlDTUtsNlRLSTRjaldwUFpIbzZnRGc0TkpaVjBKUm1zaDh3Z0FTUDN5b3ZTT3BfcDhvbGx5Xy12NVltbVJuUmJjRWdpcXF6aXRCbDlwS3Y4R1pKTVE0Q1NYUHppeDBfREZReEJtc3NWNlBOX044X9IBzwFBVV95cUxQTk93aWZEb3paSE1CV3o0Z0s4ZVlLNkZ5OGRuQV9WR1ZTcW1GOW1VSHc0VXVzN3Z5MGYwZVNaNjlpWk4yUXF0bFdocjliMHZVRlFJR2drTkFLRC1uODhZTnVoOEd3b0JVcHhHVnBfeTlFa3piM3gyMU4ydC1KN0M3SkhvcUFxb3VPV3lCUVdVUDI1QjlQSlQxQ0l6WjRuZmxSS3lybEYzcXlkYnExZ0hoT1A3b3JKaFdMdm5uUWlJa2I1Q0RnRFpueHpjOWhvazQ?oc=5",
+      "published": "2026-11-05T12:31:21+00:00",
+      "category": "إربد",
+      "source": "مدار الساعة"
+    },
+    {
+      "title": "الحدائق المعرفية في إربد والرمثا… حيث تتحول الطبيعة إلى مساحة للتعلّم والتكيف مع التغير المناخي - الحقيقة الدولية",
+      "description": "الحدائق المعرفية في إربد والرمثا… حيث تتحول الطبيعة إلى مساحة للتعلّم والتكيف مع التغير المناخي &nbsp;&nbsp; الحقيقة الدولية",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9meTMtS0dUS1QxNVhvMmxHbHFPTFdoVi1vbDNPWFpfamZWRzlIQTlCN1Q1SFR4MUdMRTFFS0JUejd5dHA0?oc=5",
+      "published": "2026-11-05T10:41:00+00:00",
+      "category": "إربد",
+      "source": "الحقيقة الدولية"
+    },
+    {
+      "title": "المومني: سيتم اختيار 450 مكلّفا لكل محافظة باستثناء عمّان 3 آلاف والزرقاء 1350 وإربد 1350 - قناة المملكة",
+      "description": "المومني: سيتم اختيار 450 مكلّفا لكل محافظة باستثناء عمّان 3 آلاف والزرقاء 1350 وإربد 1350 &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQUlFBQzNfcmRBN0xqUklmUzV6ajAtMjdVNWFHWXVPNzlDQkN4cTRRc1pmMFJ3MDN4Z1pJYl9ab1IwbnVFbTJNcHYzby1JVkxPeDVYRFVrR3U2WS1Fcmk3LU5xc1RsWXU4UGN3QnVVSnIwZk1fS24zc3pyMWZzcTI0aGN4Q194bHdBaTJBZ3RHNTlJOVRLSXpIMTViZl9Kc0NWdHVEVUNYMnFqZmYzb0pQQnhzNVd4c1ZZdzZKUFlSaUJTbkpoOHJWRmVtZUY3RTRNSk9rUUFyOXQ3cFprT2tELXBGY2dyRHQ4RDlaaU9MemhmeXFsb2tldGc2R2ZrMU9NTVV0aTBWMUw2bmgxUmdfenoyYlRkaVRMMDJzMV8xMVFiVmF2OVBIbklRQ0lGQ3lwbGtCSEFJZjZUalh5UkdoS2Fta2ZUay1HZWpYaXdkSHktNXFkN19DajMyS0lSd3RoYnRFY3dQcENENDVYdUdpQ0oydUVHMGJMQVREaGgzdHo3Nnc3TG1RZ2JqeGFRSHlpRFdDZklZcmp2SzBZZ3BJOGxtNDhpSmw3Ml9DazR2NDFzTmlndHVoWGtYbnZ2RHMzS0Q0VGxMSXRBVmNEVlVUX0xDNGtlWWhtOC1oVnMwRUYwU281dGduVWtzekczVFY3SXhvR3A2Zk8wZTE1dDhNWDd1RlFUWWVMMFBGUFg4Z1pzWTAtZmNfd0ZyWFh3WG1tRDNxa1BBdFkybnZYaEhidWVwUUNYdVlDbTExTk5IbkZ5ZE9xQ0FFZHFR?oc=5",
+      "published": "2026-11-05T09:19:31+00:00",
+      "category": "إربد",
+      "source": "قناة المملكة"
+    },
+    {
+      "title": "دوري أبطال آسيا 2 - الشرطة العراقي يتفوق على الحسين إربد بثلاثية - قناة ومنصة المشهد - أخبار العالم اليوم",
+      "description": "دوري أبطال آسيا 2 - الشرطة العراقي يتفوق على الحسين إربد بثلاثية &nbsp;&nbsp; قناة ومنصة المشهد - أخبار العالم اليوم",
+      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQRXZxWVByeEFncjk4bzVvUWZrcDVxeW01TWg2MzNkWHo5YktvUVdHQTVoQng0dXMwa05BelVIdERwRE5NcjFRR3NObkkxUDdXWjVIZjQ1emsycEdKNzRsSmlBLXVReGc1RHlTXzhENTJsajBCWUdFVmNpcHZIakUwVDlLbEdfTDNZN21SNkE1cmNCSDNfaERJRWxrRm1HdHV1eXlYZkl6N3J4c2FCYnNTS1RmNkVNaHNPd011MEVlYVZCRlhlTWFTZmdnc1dmV1BLUTJUUXVXR3l1MnhVbTBLV0pjWUxxX2hBRV9uUG1rakVxMmdNNWVtRnVyc1pxcWo0Um5hUXB5M21UVlJWaWdHbVlpMGRYOTRmQmtMUFZ0cU9saVFvbWY1NXBDMlZlNHkzelIwV1g0ejBQN3ZxcHZ6eXJEMmlMR2Y5aWlTWkNuZ0lTTGdxUDF5S0ZuRWZ4Rkp5UFQtQmNzZ2tqMkNSX2owRnNhQU52ZkVOUmoxclFWS1AwYzFPOUpYbTVOSHVfY0RYeE9QLUdEdXZ6YTZpZXNzNXE3cm41ZVREZjVFR2UxTlRMYWw1MGNTRVN1ZXAxVFE2akpGZnMzZVRlUHBlV0RBelJCbi1kZWs5cGtqRkpPcEhUbUlCSUcySzBvZGY1LUFlUkt3OXRqTzg0MXdyODdPNnRJRkZjZkR3MkxjaVJIYkVHaWx5NXhaQlpYUllIWUZVTm9YUW1n0gGrBEFVX3lxTE9SXzhrMDRSZG5SMFVySWlJNUp4NXVHeDBCTGdYbTRmSEZxQjBEN3pxemQxRkJ4Zm5nVWVkX1l1V1pIeTdFWW9MWXRtSFo1c2w1WW53QUNyTjhkbV9lU0FSQjI3eWRGSjJ4YlJ0WnFUNFdaejR1S01KSUIya1pZM2Fld18yLTFuaTQ5czdxVU5Qdl82eHkyQ2RJSlAtcFF6YnZPdlVmanRCUWVRTUp5WmhvQWlSNUtBUnNXaEtHMXdGMGJhMzFaaXV6RU9ZTGNDdmhPMDNaU0tSc1B1RVRodmJ6WDJrc3d6Ty1MeF80NkpIbFZhbE5FY0NTWjd2RTh2WExSUnNSck9fX2ZsVnZDWldJSUlwMXBDR0d5SFNqUnl1Z05WZGxzb3RpMjJralNKZ00xQ1RFMWFhbV9RemNwY1NNVFEzMU16b182ZnY1Z2dsMVBYcXBiOXAtYy1SLU5yWEU2eGplOEVDYm5KbGJDeDhSN0dmdlMycGh3X29vR3JrcHI5bXdDbGpLRjEzV0lvLXNXdXNZbjdBblBVYloxX0hNdGRsRkpMWV9DZE03a2hkWmRzeUUxM0E4NU53cER0WUNhTFlRdkJNZ3ZhaFdYZkhfWVk5VGNTVktkSC1mNHBRNmdxcDk1Rm1ZdkM0ekI5UU1fR2VZUjJkeFVtTjY0ekItZ0prRnp5ejJNc3JwcTJ4OFpHc1J0amcwMnJXdjlaNEpFdTM1NVlNZWc4aw?oc=5",
+      "published": "2026-11-03T18:42:24+00:00",
+      "category": "إربد",
+      "source": "قناة ومنصة المشهد - أخبار العالم اليوم"
+    },
+    {
+      "title": "أوقاف الأغوار الشمالية تبحث مع مؤسسة الأميرة تغريد تعزيز التمكين المجتمعي - وكالة الانباء الاردنية",
+      "description": "أوقاف الأغوار الشمالية تبحث مع مؤسسة الأميرة تغريد تعزيز التمكين المجتمعي &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPYldFcmNsM1ZQbkNxMHM2X0J5Xy1fblF3bFNwTjNnZ1dqeXNWaXljNGdXQjVGVU1maHJ0ejU0RU5qQWdQbXF5N2djTzdnZG41SXVabFh3Sml4TENiZUNkR0NjSktwTHVjd1o0OTljNEQwTDhmbE8zb3FzYm80bU1Xb3pJb2tfYkpud3Q2SkVEV0VLc0FVR00wRXE0MGhzWTNlb0NmbDdqUUNNaTN2NUQ1enc4VnVfei1pLUFhSm00cFc2c2RDMGtzVmRjYXB6MFdLa0VadW9KT3hyaXUzTlJoVElIZ0V2Z0o3RElnTlhtTktrNGxVejZ5OV9DWkt0ZTluVlFiYkZBc3ZzUWZISDhMbU04T04yUVdCUzVSV1RhdmRpbmhjUUE5YXI4VjJ2QjR6ejFReDdwYTB4Vll4SkRGTTNnUUlyaUI2S0dpMXV5YmxSY2NVM3VpM0E0S2djQ2I5WllkVlhIODl0Q1JnS21iSllyUjUzZWxyWnZUUTZXQ3JwWmhrdGhiZWIyX3pkdzBnZFlVU0o1Y1ctS3d1eF94bGd4aEY2cUpuMVI4MGp4eUNsU0c4blJ3M1VuT0JPQjJ2N1NwMlh2R1kzeWI0VDYtMW0zeWdQeGREQ01QSl9kS29fUmFJYi1pY2txblRrQkpZWnQ3SWU3RnVJQXBjVjZtREx4aUdOdUFQdlRDdTdoVm9LUFNYOGVNQ29zb0JtWE9oRTFuYmRUbFg0VlR1TmF5dzlMMzJEZER1MTBjUVpNbmxyR05mWVdzMmdVRU1tSWJzZ0NZS0duUVo3QWs?oc=5",
+      "published": "2026-11-03T18:21:36+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "فاعليات بإربد: خطاب الملك حمل رسائل تعكس أولويات الدولة الأردنية - Fana News -",
+      "description": "فاعليات بإربد: خطاب الملك حمل رسائل تعكس أولويات الدولة الأردنية &nbsp;&nbsp; Fana News -",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbEZPQy1NRDEzU0tWVDE5bENZWV9iNEFRRUVscTk0d0hoeHNCeXBlaWJ3OXNZaEhDZkp2YjhxVVQ4czVId1Nzc2ZFX2VpRzhDNmN1NzE1YlljbUtmRmI5SW5HaEtyd0NVemotYUppMWZwZkNpYTdzeWdMaGQ4cXJmVmt2X29KYy1oZUt6NFVjbTQzME9VV2k4Z0FwTndJWWlzR2JFSGxKNFFDUnN6ZDhDX0lXRlRoVFB6MDlINFljTHBzUWNQVlk3TzQ5bExOd0dkX1hUNzhUOGhqMUFtSVlES2ktT0VCVGRsU0huVUJLQWFXSXhlSW55MmNlTDFBR0RYTWpkSWZjY3hHM28xY3ZGSXRKaDdSZFZJQW1MaWhxMXdMdDNuTTJxOVhPMmQtM1lKcnV4QnNHNEMtYlRZaURpeVNnM0xERG8?oc=5",
+      "published": "2026-11-03T17:24:45+00:00",
+      "category": "إربد",
+      "source": "Fana News -"
+    },
+    {
+      "title": "فاعليات بإربد: خطاب الملك حمل رسائل تعكس أولويات الدولة الأردنية - وكالة عمون الاخبارية",
+      "description": "فاعليات بإربد: خطاب الملك حمل رسائل تعكس أولويات الدولة الأردنية &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80clNtT0JJcndjV0xLSW12UEVzUXZXTDRiUGNJdjY2dmZfenFYRVZ3MDNES21RV3BxOWc2V2ZqYVVTRGlwRFBiNmFDVHpjOTRIb2F3?oc=5",
+      "published": "2026-11-03T17:19:30+00:00",
+      "category": "إربد",
+      "source": "وكالة عمون الاخبارية"
+    },
+    {
+      "title": "صناعيون في إربد: مضامين خطاب العرش تعزيز للاقتصاد والصناعة الوطنية - وكالة الانباء الاردنية",
+      "description": "صناعيون في إربد: مضامين خطاب العرش تعزيز للاقتصاد والصناعة الوطنية &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOdl9mdmlSdVRMQXliTWR6UFNwSlREVmhndjJOTmpJX3BaTXI2T2dEdlFvWkFuOHU2QndzdWFlRTk2T0xrQzNaZk1TV3hST2JLTUdWb0dXY3dPeTREOWtBMWhHQU5ad21FWk12U3I4c1lPOVRSdkdfSjlaR1FNLWZMWVJXY01ULVg3b195VFFQMEVXcHp6RkRkell5d2M2T2tCRWQ0NVJVYUNXLXhCUmdUeTZQZ1R5UmRpZFR4cmJES1Q5bjl4RGFQOU1QYXE5LWYzakRQa0czMTBWdmhfRlo5MzJwOFFpOHZablNjY3RJc0xqZHdVbXAwUlVfcmtrQ1pvcEctYU16RGUzY2NUR2FVVjdvQ0tibHp4SE5MSU5kaG84MHpJUEk2bkpPajM4T0lqOUItNkhfeTh3MFlkX25ZMTFIUkhTRXFXd3pCT0tob1FvUzQ0WE5feHMyTTRrYWVlNUVBSV9xZnlqbWNrbWtvSUpJcTJxOENDcGVDa3FIdUx1OExvWGNZNDVpLW5yczBmWlh6bjV3cXIyek9VVXpTOWZUYmI1SjRfaDRxNlVaY1R3SFN2dEVQTEs1NEZ1Z3JFbGJ3dF9pSUNtU00wUU1TM3BkUnU1MXZObGxhcGtDel8tTS1OWF9ud2NlVG1Wem5hZkU1dnJacjYtMEd3LUt4YjJvQ0V4ZU10cS16ZWpVVQ?oc=5",
+      "published": "2026-11-03T15:20:36+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "مباشر مباراة الشرطة ضد الحسين إربد في الجولة 4 من دوري أبطال آسيا 2 - 365Scores",
+      "description": "مباشر مباراة الشرطة ضد الحسين إربد في الجولة 4 من دوري أبطال آسيا 2 &nbsp;&nbsp; 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVVBpLTBXQmtuQmhoVlFlS1FOb3dmZTdRZjN5a2J5WnZaTUF1T2Rud1dXSVl6WXcwbTMtZUFSblRaNlFFY0RvTE9kOEgzWWpqQlE0NGNrSFVGQloxVE1UOGczYnRacjMxREVjUUtwMlhRb1hYbWVFRFRMTGo1QzZPcTBScFA5UjRRNmpIa3lreVcwMTloU084MS0wVGpBVEhNQ1hGM0hYb1ZSWlZVUDJzczdGUHcwbXVXMHVidk5mWTdPTHpRdFhpcDJGNjl4SEFVYWk2VXhPU2NCOWpEX1dkLVFtZndydnBaN1RyYXRQNEREcnN3NGRHQzZoVWhHQm51MG1sd0ZqODVacUtxdG9DaEtyRkhsY2N3RjU4OHBDV0JnV1lkT1Y4LUhUQld3WDJCSy14Tk9vR3hDT2Y1WmlpWDhCZ0xGeWNjTWpBVEp2QTZGa243MUxCUGFn?oc=5",
+      "published": "2026-11-03T15:07:41+00:00",
+      "category": "إربد",
+      "source": "365Scores"
+    },
+    {
+      "title": "\"تجارة إربد\": خطاب العرش يرسم مستقبلاً اقتصادياً أكثر ازدهارا - صحيفة السوسنة الأردنية",
+      "description": "\"تجارة إربد\": خطاب العرش يرسم مستقبلاً اقتصادياً أكثر ازدهارا &nbsp;&nbsp; صحيفة السوسنة الأردنية",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9teWExcGVjeVNwRlpyQmlLaS1vamQzME5SMEphNEJkZGJ5Rnl4WWZrMm5QZnJldXBXbXc0NGZEbExYaUhtUFNzMURsRGlVZ3VPS3c?oc=5",
+      "published": "2026-11-03T12:40:00+00:00",
+      "category": "إربد",
+      "source": "صحيفة السوسنة الأردنية"
+    },
+    {
+      "title": "مخيمي إربد والشهيد المفتي: أمن الأردن خط أحمر والوحدة الوطنية صخرة تتحطم عليها الفتن - صحيفة الرأي",
+      "description": "مخيمي إربد والشهيد المفتي: أمن الأردن خط أحمر والوحدة الوطنية صخرة تتحطم عليها الفتن &nbsp;&nbsp; صحيفة الرأي",
+      "link": "https://news.google.com/rss/articles/CBMivgVBVV95cUxOeWluZzJyYnMtdloxd1JDb2Q1NzRnMEJCYW1OcllQS0FOWVFQTjJ2UkpTZXExb05LX09seDROMmFmVkFKUTNmRG93YXU0TDVybU8xczNlVnI4QnE2X0RjUTczRHFtTUNSTHlHLWhxYnc2dGlUTDc0dHBEc0IzNEM0M25IWFZUTUNyU3E3MTFfR0Z5VjZUM0tIbEwtUmF2ME9zMVNxNVU2NTdpYWMtTk95T1otSFc1QnUzcnBqalhYOU01RW5hNTBnX0xxbEhtLWxiV0lJYWp5VTVTSmZpNGdraTgxYlJaS1UzSXFVZjYwT19kTnQxUHY1N2c4WjdTSXNCdmpqSGtFZFE2VVVzNHJZb1I0eHBXdndZaEljdTNDR1pTQVhnU2tvMFlKS0YxQ3l3OXZ2TC1Pc0lYX21aREFKeEluU3BTRDJoREhITVR6YzBSenBoTUFQS3QxR3J6VDB2MVo1S080dDEtZjhnNi01SXctNnZvckE5blZURU14UnZvLVNwbEphS0NPZE0xbnU5ZERrZEVrcGxGenRjdEZJeVMyOXBRT2xtc1dMQmVobUNEQU9BQXprWjNmUXloNFZWNDQ0QkNWRXotVThRRFBPa2NLZE5ZanBRX2xFb1ZwX01CVkR2aW13SlNMNmx5MGlJdmpOekJ2RV9UM3p6ZmNpRGZFZG10cGtraG5vQnZzUzZ2b1pfNDN6ZVdBYUVLYzY2V0VwbDZZaHdtMWVJald0WDZhNWtGZXFfSmMwZjVNNEZodUtlYWpxLU5qTWtVbkdmSVlJLUNmU1JtSGs3WWJSb0ZDanFqSUZzRl85cDlrcC1yVnlnakhaa3VnZGJudlJuMDBkNW1ITUFxLWVLaW10UjQ1Q0EwMjNhS3pFYnRRTksyNHpEa3ZOU2EySmI1UTdlczlqeGZ5RGc1OGxnUGc?oc=5",
+      "published": "2026-11-03T12:32:51+00:00",
+      "category": "إربد",
+      "source": "صحيفة الرأي"
+    },
+    {
+      "title": "تجارة إربد: خطاب العرش خارطة طريق لتعزيز التنمية الاقتصادية وتحفيز الاستثمار - وكالة الانباء الاردنية",
+      "description": "تجارة إربد: خطاب العرش خارطة طريق لتعزيز التنمية الاقتصادية وتحفيز الاستثمار &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNQ3RqSEg3ZVZvMVZxeUFTUWk0NDJJYkhEZndrR2Fac2NrWk5ET091b1d0cFFvOEN3MzhwWExyNGo1NTdla3lOUEpyQllmckQyaVloYVdmODVQWWp5SERGblhfd21sVF9oN2RhNm1LR2c5VFdwZDh4ZnBBNWUtS0E2NWVscXNNdHVRYnFnRHViQl8wbFFEN05wZmEtU0FPTTVHSjdYM2ZqVWlZa2F0SGdMaFE0TVFSRVVIT3oyQ0hJVnBVWUozX2NRYnhUQXVfd05JYm92MVFLVHpXdElVUVJwUGNid3NBakFvNWd3a3BYZG43NUgtLTdTOTlzd1kxVHA2NTFWdTFuRFRWWkFXNzhEcGY3NkU0Qnl5Z1BxREtuQThBZjFJVkFobkpJSlBGOC1FWEY5bFlGM3lzNE8yXzNBV3BQQmR2LWpZQ0prRXp5NEQwT1lEeEZpMU0zSGJvVmxDMjV3d3hINGM2VXZQck93SGpVMjdMTWw4SXFXbE1HajZvYThaeVAtLTh5S3Q3M3BDTGVDbklDeVhSVEJhQnF6OUxmRWRtQUhYcGpVV20tTFZkMy04dHZVSFR5YTItZzZQQ3dxc2Q3RlNreWtIT2wtTzZqa3RmempKMGo1MGRLM0dQR3h2NXhhVFVkU09ETFNGX01WLWlkMWFPd21ZVHBPbG9CSzVqZ1EwS01pRmI5SHdLR0NNWFBROWJzT3JDek9KaGVnYlhqUmZiS3pab1lvWVpNZVVGaVRQcVpNa2o5TDFHQkdjQjloU3MzMnBaOXB6aHJ4M21uRVc?oc=5",
+      "published": "2026-11-03T11:42:40+00:00",
+      "category": "إربد",
+      "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "فريق الرمثا يتصدر بطولة الدرع تحت سن 21 - زاد الاردن",
+      "description": "فريق الرمثا يتصدر بطولة الدرع تحت سن 21 &nbsp;&nbsp; زاد الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PVm96Z0VIcVVUNnEzNzAzUldoYXQ3N0pKM0VaUTR1M0lCZWVJbXhnRUtPOWlCbHZPS0g3aFBDRXczdDlhbVY4U2xJN0FvZUk4U3dtWk9kS0RvTjBabnR1VVU5ZXc3MjN3emc?oc=5",
+      "published": "2026-11-03T09:22:47+00:00",
+      "category": "إربد",
+      "source": "زاد الاردن"
+    },
+    {
+      "title": "فاعليات بإربد: خطاب العرش يؤكد أولويات الدولة الأردنية - وكالة عمون الاخبارية",
+      "description": "فاعليات بإربد: خطاب العرش يؤكد أولويات الدولة الأردنية &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWEtZMEdJVGpsTEE4VUpBcll0a2I2RlZaSTJOV2pKWDNjVnJvcUhsTXVOT29fNUp1YjhkTEZqUzlpbll3WG9IYVJZby13RUd2T0JZ?oc=5",
+      "published": "2026-11-02T18:14:00+00:00",
+      "category": "إربد",
+      "source": "وكالة عمون الاخبارية"
+    },
+    {
+      "title": "الرمثا يعزز صدارته لبطولة درع الاتحاد تحت 21 - قناة المملكة",
+      "description": "الرمثا يعزز صدارته لبطولة درع الاتحاد تحت 21 &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNM3czMGFQamRSUnV3MU1KQkQ3WV85c0t2MExMbm1hd2t3Uk5rSGhMaTcwU1d1eXhwWVdHTXN0emtGOGJGT2hjNmdLNy02MmEzZV9HRWNxU2Q0UnhhQnNCaXA1ajVNel96SWpvR2xRUzEtWHAyeUFVcEoyY0VxSjV2NVRManB5V0JZcHJlN2NoSE42TjFsbjZnNkZIaFg2US1HQ0NIaV9MUTZKWFIyN0RpbmNtY0oyU0k0al9hc2xyQWZsNTV4YjA4RXk2OFNzTkFqdTExTm0yalJYLVgwSm5sUnlURUltTFJxTHpFRFg3cFBxSDV0Ri1IUVh6bnJjRTlvcnROMFFlajd4TTRLNWYtT2NGeEdKVGNzd0NXRUxYTXFRelRodk9LVEZ4bGxyeEY4V3dnTDdTd2xIcUVCbzk4QTJ1T19ZTWxhSDZlRWVzbG55dndJdGs5Q0pKd3JQcHd1Mi1rNDh2TnFUQm8?oc=5",
+      "published": "2026-11-02T15:57:32+00:00",
+      "category": "إربد",
+      "source": "قناة المملكة"
+    },
+    {
+      "title": "ميثاقيو إربد: خطاب العرش السامي يؤكد ثوابت الدولة الأردنية ويضع مصلحة المواطن في صلب الأولويات - شبكة تواصل الإخبارية",
+      "description": "ميثاقيو إربد: خطاب العرش السامي يؤكد ثوابت الدولة الأردنية ويضع مصلحة المواطن في صلب الأولويات &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oSmJIeThVV3ZlVjNJT0xsZkNVTkhMOXp3VFo2b2U2ekJYYTFYbEVSZ2hYYnNRbzVXcTFabXFZR1JNdExsWm1pWUNQZWkxYjlBTTRN?oc=5",
+      "published": "2026-11-02T13:33:11+00:00",
+      "category": "إربد",
+      "source": "شبكة تواصل الإخبارية"
+    },
+    {
+      "title": "مندوباً عن محافظ إربد .. المتصرف الحوامدة يفتتح معرض \"مكتبة الأسرة\" في مركز إربد الثقافي - القلعة نيوز",
+      "description": "مندوباً عن محافظ إربد .. المتصرف الحوامدة يفتتح معرض \"مكتبة الأسرة\" في مركز إربد الثقافي &nbsp;&nbsp; القلعة نيوز",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcEZBTDk5TW9BWk5pUVM3UW5WNi1TdXRCaXZZV3ZHRGZleHZnUjBaQVlEZmVWd1pMRU5DaDUtalpreE5GSHZjVmtrSVNSY3c?oc=5",
+      "published": "2026-11-01T10:29:04+00:00",
+      "category": "إربد",
+      "source": "القلعة نيوز"
+    },
+    {
+      "title": "رئيس جامعة اليرموك يفتتح معرض مهرجان القراءة للجميع في مكتبة الحسين - سواليف - والهرج للجميع",
+      "description": "رئيس جامعة اليرموك يفتتح معرض مهرجان القراءة للجميع في مكتبة الحسين &nbsp;&nbsp; سواليف - والهرج للجميع",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOUXJzUWNCd1gtR2dkNWstMDJocjRvcW9UR1BKQ01YUHMxcTktV0FBU0FnQ0JRdlkzVDlpVW85UnFUQVRoWXFGZnVBWkxTWXJWcmR5cExLSVZaU0s2dzhyTGFFLXFGeWRnaWZCem5MTVAzOHB2ZVZfU2szdnd2dVUxUkRzem1oUV9KaUd6UHpwZkIyYk52SVVHU01qdC1lMTR2enBGOFNTLVdxQ3RFaVp6TnQwbDMyWVRXRnk1T0RxR21FSV9xWGQ1MG44Rmd5N2pGQTFqVVRxd2hvYi1aVkZqQzVpTlF6a3FyTV9yQXVmUVl4T1lzQ184WjZDUzd3QkhPWEVfcC1iam9rNFNlSW5jWFZQOXJFS0tHQ3JoZThvX3ZfWTBMUTFtRmcyczM1NXhVMk9DeC0tdk9tUDUzeXhib2U2T2s0aUxhQjRvbw?oc=5",
+      "published": "2026-11-01T08:17:18+00:00",
+      "category": "إربد",
+      "source": "سواليف - والهرج للجميع"
+    },
+    {
+      "title": "جلسة حوارية بإربد لتشجيع المشاركة الحزبية للشباب - صحيفة السوسنة الأردنية",
+      "description": "جلسة حوارية بإربد لتشجيع المشاركة الحزبية للشباب &nbsp;&nbsp; صحيفة السوسنة الأردنية",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50RU5oV1hyczl4VHBBOGVQZndvZnZEXy1JUnFuM3N1QVNHYzBzdE9Ba1l4TFlJcDE1ZUVmT1BBZGk4QVR3MFZSVmJkUEVYY0JFSEE?oc=5",
+      "published": "2026-10-31T18:03:00+00:00",
+      "category": "إربد",
+      "source": "صحيفة السوسنة الأردنية"
+    },
+    {
+      "title": "الأرصاد: أمطار متوسطة إلى غزيرة الليلة في عدة مناطق | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "الأرصاد: أمطار متوسطة إلى غزيرة الليلة في عدة مناطق | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQVkcyUlFhVnVuWGwxbkYzM0pjWUVxWFVKcTJ6NGl4ZU56NDRHcnFiS3U0NmVTOGRvaU00SDB4M205RHg3MFRnVzBrZ2VqbFZqejlYbDZVcGJ6RmdWTHR2MVB2X2hYVGZYZkhPSFZJaEZqMnhsajd4R3ExVldjYnBJM0ZrXzd0dUlNcUw0M2RJMW9Id21uQUN0RFg4MmtIUklBcm1NVGVYNXZNNXRERUgwb2s4OWJDeDVjU1hVYmJxZGRrMU9mdTJwdEhYUXplYlIxYS1xTXdzalpqM19rY1BleHZQZ24tblNUbjBadEVjazF0VmFMNUEzT0xmbzJhRHRWYjlUTnZEYzhkYkVCcGFjcUtYSUxVUHRKbTVpSDFWb0pta2I1OWtwVkU3XzY1S2k4dnJ0b3Z5UGEzaVZTenZ0emtWZE1ITUZiX2ZSelpvQWhpTTBPUURGS3hHb2g4dDNVcEowSlVjOFJfSDRrT0V3Y0tKUmNFUkZZSmFrLUFVN2ZpN3VFV1JKem9zV0ZBdUtKaDNfSVNUM19RVGNQX2NuNWxYTlNBX2FVVV80LWNjUHQ?oc=5",
+      "published": "2026-11-07T16:05:05+00:00",
       "category": "الأردن",
-      "source": "Google News"
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : الملكة رانيا لوالد الشهيد جوادالسلايطة : جواد شهيد ومات بطلًا .. فيديو - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الملكة رانيا لوالد الشهيد جوادالسلايطة : جواد شهيد ومات بطلًا .. فيديو &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQdmd0aXRPc2NzRjhRd0pBbzN4SE5rRk1ta2hiS3JkczNEbHlRSzF2TUFpenJzSzI1UnV1X01TTjRsdWJQaHNnakV5YnNDMHZUM1h4c0xKWHhoTG5wd21kTmsxcVdBRlFjdmpzZVNqd21lODJ1cV9LZ0lJbmFwUUEtTnFJZWVZWXN5djAwcEt0cXlISVRJRlljV0xUUXNJRDVtQktrdmZ0RE5RTXI3QUxQWmxhT2lBTm9DNGdZcWJxV2ZsVWFmcFF2aURHRWg4TGp4Zm5STnRMbXpaSzFKbGtQSUZrOGM0M2I3RnhRekdjbXF1OVRTdnBaTTNUVmFuY200WFBIeUdQTWJTVXFrS29aaWF0U0xkSEp4UFYzUm1rS2ExYlZjNHVLS2lBdElNRnhTWHhZWWhsSE9uQXpSbGN5bVBIU1JGVUdjcnFzakJPN2xIQUdzYUJtV2s3VnQzUWJpaXJ4UUtBV253emVscjdGaVlLM2ZyemNnc0ZtSE5wNXdXRUE5UkRxeG9UX1dTekxveTUyWURoUnNLMTBfZTU2cnh5bEppdzFPcmZtbmN1RkpfVDB2RV8xV3RXUnJMNFFDX2dPRTFXZHJlU2NJR1Vtd18zT192eEVaWlM2ajVvcHNmTzJreXJvekZKTV9fWTZtOXlTbW04dkg?oc=5",
+      "published": "2026-11-07T15:39:33+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : محاكمة المتهمين بقضية كنيسة حمود تدخل مرحلة الاستماع لشهود العيان - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : محاكمة المتهمين بقضية كنيسة حمود تدخل مرحلة الاستماع لشهود العيان &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxOcURDSG5HdVpwaExWaFlUb0Nab0lTbmhqekU1WHg0eVZ0VW5lRzVwTVFLZ2NKXzhLSjhfNUhNR2ZRa2s2cjU4cTFtSDlLSXhEY0c0bWtkQ0lNZnM3dDhIMVJZT1NrdVRwa3UzcXd0ekFhakFvRXpIQ3RlOURIVDdHaUY0ZWZ1ekI1ZE5FVGZhRDJtaXhoaFlSOVlIOUpaSXZGYng2SXJLcUp0ZHplb1A3dkhuUmM0cUVYcUhhUGlSX1Y5dDluS3BiNUJ0WXhqeVVVNzdsMU1FV1RwV19pMEEzaWRpU3NIWFg3MXp5UmJIa0JjNUh0N1hibWRvWVhPY2NQVDc5WktuWm9meldyTnZNbVA5Nm1uNHk1TGRLWXBDT3NuLUhWcFJ3a2REOEdWcEtwVHZxa2VTU0VoMVIxY0NHSng5alE4aXVqMG9sc2g2X241SHRPT2pfUXFpTHVBWnNxZ2drc05aQ21wMi1MUjBhTHlwS2pRVW9nc0paRzhYN3d1ZGtESmgxWnh6V3VSNkIyMnlhN1pJVXR4ak40OS1vYzBYRmRMeWxxTFhHN0RFQWVqT19nUlNfbkpFbUwyaG1nZzNxakpZeE91RUNvc2Faeldvc2tLUE5laTRrTGRkZ0pDT0VIeFVPQXNIMzdwbmhOU1dHR1FfWl9KM3JyY2RiczFZdThVLVhMZ1NzdEJQRi1tNW9oR0pybElYNDZDdXJ6M3c?oc=5",
+      "published": "2026-11-07T15:27:40+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "بلدية أم الرصاص تسمي شارعًا باسم الشهيد السلايطة | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "بلدية أم الرصاص تسمي شارعًا باسم الشهيد السلايطة | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOLWVNUjhDaXh2aHdyaEZSdkdKbHA3YWRqdl9PSGJDMndpdy11bThjZFVhZzBKeV80WWpqR1RIOU1KbHhWUVNTSHB1TnZzbUo0MTBBT3UwS29FN1dHMU9wdlo4UC05NWNnZUs2ZzV2Nmt2OXFTX3Y0d1pFRTloam1ZdWxNUnVveUJGb1g4VEtYQ0wwemtnRzdmNlNwMzNOamJES1B3YlNDWmxRMUhzcGdJaDZSaDgwbkRPeG5JVUIxdnlLVTNheXFPUG1hSXF2X0hZNVVmdVdjM0R3VEw3YWR5TjJCelhKbWlfZFRRX2hUWUVuTkNpWGdpYW9HaTFNNlRpTWRIdjRYZ1VxeV9pcGFKcGJjb2xlN1U3QU5YRU9Kc09RMlc5TTZNRzNibGZJYi1hR1JJZ1lDdkhxU0J4dmdRZTBmRlFkTFpYQVFXbzJjV3BRem1HenBHRFhleWVMZE1kYmR5VGcxVWxDYnBtQmxjRVhtbnVQRmFTeUh0QW1uLVFXNEN4UjZidWZIQnhvc0trZTFHRmp3dW9aWHN3UWRZVDZwNHlWYnc?oc=5",
+      "published": "2026-11-07T15:12:45+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "أعيان يدعون إلى مراجعة شاملة لقانوني العقوبات ومنع الإرهاب | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "أعيان يدعون إلى مراجعة شاملة لقانوني العقوبات ومنع الإرهاب | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNbEZpa0tndHhPTjlvVDBaeV94UVVMdjRPeldKckoxZEhYSmN1VGpvbXNhUnppVGZNbUlndngzSU1jZlhtT24zdllpa1UzRDJITVFicm5lUHhMaXpYT29pcGpUY3kxUVd5MzRiV0FDN3FEdmJXVGRSS1hSN29EZy0xRkNpU0JnMnRBM2pudEhIb2p5OGVGeFdxaElJdllsNFlmaWFoMEhWU0NVcXRkcmhBeU9wQmx6QlNCTjlUYXJiTzl4c1hSTlp1d2FCYm00bm12QWpmcXFoREFzejZtb3VIejZQQmRXSE51b2MtYWlEMHZKVUpoU1dGcWtadS1TbWhRbm9rRjJ5U2tQZnVSNVU4bE5pRkFhRTJQZFJUZWFGcENybmI2STdDblM0cmVkUEotLXFVbTgyWk1ZZEZBaXd6Qk1ZWHBObktrNEpqTDBXMFJlOHNUWHI2QkZJYUctVVhVbVhka2Nkb2Q3d20yOUZlZndLSmV2eFY3NUlBbGVDMGg1WW1IR2kxZXplQ1pSWE9pbUFYbkdBNlpLdTl3SS1MT0d3UlFGb09XWkJYWktKZ19LMmh5N0d2alFnVlJ4U1JqbUFxMWVlNHp0Tkh2b0RSNjRXY0tXdmlRbWJPVVl3T3BpUG5wal83ZS1GLTlsZVNB?oc=5",
+      "published": "2026-11-07T15:10:46+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "تحويلات مرورية على طريق الغور بدءا من الأحد | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "تحويلات مرورية على طريق الغور بدءا من الأحد | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQUzRHZjIySDQxNFp0UjczcUpPSERNNDIyVkE5UTIxb0J5dkVOM3pZZ3J1cjJOQl9HdGZaaHltaHpEay1zWnQ4WUMtc2NKbWdmMHVwelQ2N2VUaXFxQ3V5ZHE2alRNZ3pwN09nb2c1dEFUa1RIanZQRUNoSnRkWUtlRTFQTjhuaWl3SzZJcEhIem1FWXZ0ZEg5QWRiMzBKRTIzdU9IT0JlcUtkREdkLVRyX2R4OGVoeV9YSWVwRXJkSjkyLWJLMkJvcDE0REpVdkJCQWROdV9rSWJpMWZ0TUdQcDlMLWNhLWJaNXdDT2hRNzVrR2ZsUjBWa1d5TFZSUzg5dktoV3NxcWswaV9WTTZ1dU9Xa0RrS3NUUUtWZXhHdGxLRHg4cXFNTDhzNG0wbVpHMk5vX0Z0Rk5tZEZGNUZFZ1JabmNYMXMxSktQNG9YRkpMbU1GWTVQdVRyRG5RZlJ2Z2Y2R1dWVS16a0xYVUViLWpTU0JvdUM4QzhldEdWRQ?oc=5",
+      "published": "2026-11-07T14:34:14+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "الضريبة تشدد على الالتزام بتعليمات بيع المعسل | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "الضريبة تشدد على الالتزام بتعليمات بيع المعسل | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQS19PYzhDTHZiczZRTkJWdnFpekptNTZMcWZfUldRT28tMU5uZlZFRWlBeGhiSTFEQnZoU1lvTVJiVHN3X0lFMV9HUTU5RXVERGFDZk1CWlNIYnpDZXBsVXljTkkzOXFCNWlDSHRTY01iUGl0d0VualkwTUhWejRBMno1bE83Ni0yeEFENlo1NFJZX2Rnc2xrYWdXSnNjZUV5TEE2QUZnSW1fZzJYN0hDTTBKR3pnbEdyWFJvSTFOX3ZDdUdsODgxbHpkNmw3cUtLVjNDby1FaERDeTRCeTloeTR2bnBheGpVVThoTU5JQVB6bDdaZ0d3V1Z2NVNOSHppbGxrTHFYLVNJV0xES1JJMzd4QU1IZDg5WmlWQlZFUUJEOFVlN3NOX0l0VzZneHhXZEtVUE43WC0tck43R1ZuT2FkVVpNZUZFeElCTTZqMURibkJkRXd5djdtc0ZYaV9Mdms2RlRUTkxnNXVNR2tOSXNsbGZlRG1XRVVfblVaVlcxb3pobFdzOFhWQ19uZXl3WG5wQTdB?oc=5",
+      "published": "2026-11-07T14:27:18+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : رئيس هيئة الأركان يزور رجل الأمن المصاب ويقدّم واجب العزاء باستشهاد السلايطة - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : رئيس هيئة الأركان يزور رجل الأمن المصاب ويقدّم واجب العزاء باستشهاد السلايطة &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPODNhNy1JdnZQdXlEUU9tS3QtWWJLaTUxVXZpTEdBNk9yRzFfcmh6ZU1wQUNpQU9QVDZKOGpzYnBfUlg0dFRMNDA2WU1tbWhDcUlpTkF4akdsNUNzOG9rRmpnUWp1anZEQ3NJTFIzRzJrcHVEbTc0WXUySzA2enpleS1RRG9iLWZYdFMzS3JTWGpqczNvN0hCWEpINmZYUFhWaUw4cHZkbGhvdl92dlZPVmdtelotYm1NQXdIbENOUjZHYkhpcjkwNTVmWFFlcXFjaGZ6bVVmWFNicEZwOVlXdG1NRWlrTVdaRFhpc19ZOU4wWDBGQkdsZ0VXM004Wm5OZlp4OGw4V0pWVm8xcHh3OE93eEpqSGhVbWdQblMxN2VydU1jWXRHM1NpUjhqSUxOWDBZNVhyVEJyMmNteG9CdHNGaTZjb0RYWVlWT2t6ZkxLUHBjSjFWMF8waS1KY0h4RWZLd1RXTzRkbllaX1dOenpKWFB6T3d1ZUFXR3RoUWdVck1Od2N3Z3VGVDRjb1VLc2RyY3pEalNlM3N6VzdObHVHRkV2ejc1X1czcUtrSUhUaHRweUxyWnh3VHFTT0Y0cWlhTFJzbjFOZ3ZKMXhQWk5QWldVdnNmUEwyNFhBcVR4ZUpNWFctUzd3?oc=5",
+      "published": "2026-11-07T14:12:11+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : الملكة رانيا تقدم واجب العزاء لذوي الشهيد جواد السلايطة - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الملكة رانيا تقدم واجب العزاء لذوي الشهيد جواد السلايطة &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQeFNQRU0yTmJWTzhsWTF4b2liR09UY1VnYU1tcXVpYTFKNThDbzYxYjVYeXh6Q3BFVHdoRmtIeGUtc25ZQUFKaU9NbnYydXdFZkNzcHN6c0h2QXZNNU5GUXNBalhHUEx1RjJaNW8wSmU3Snl3NVNXV05WSDdwenExTlJDakZqMi1LY3JiRFhHXy1FS3c0Qm1KOWFScEdEclEtSDN5SGxxX3g2eWZOMHJvVkFJMmNodEwwU2Vza3QxWHB2ZFZzcGhlQTZWaVBqYW5mV0piY0kwSEQwVFhHa01KV3A4enRDV1VzOWp4a25uV1o2a0lWNVdCVXNiMHFuNXJ3cWdJM0JIZEVKdHllYTlKN20yNUtUVDNRS3NTYW1ZdjVlckJ1Zmo4RWE3Y3BqQ1pDUEVnWWJqRnJNaUlHV0E4dlJHVFNxVUpaSkNzR0dQOWJZTENaeXlRRDR0RTJqUEJTdzNHd1RZc2h0a21pcGVCVURjU0kzaFIxdzEtZDhtYy1VYjdNbmFpZEFrbzNwMXptTGF3R3F4TFFVQ05hS3V1a0NJaWdkWldLSlMtSV91NW53dFZlQ1FFTFBya3JYZy00UldWQlVrWnFoTDQ3TGNhOTFBeEVYUkpj?oc=5",
+      "published": "2026-11-07T14:11:47+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "اليوم الثاني من مؤتمر المياه في جامعة البترا: حصة الفرد في الأردن تهبط إلى 61 مترًا مكعبًا سنويًا.. والحلول الذكية تحدّ من الهدر وارتفاع الفواتير - وطنا نيوز",
+      "description": "اليوم الثاني من مؤتمر المياه في جامعة البترا: حصة الفرد في الأردن تهبط إلى 61 مترًا مكعبًا سنويًا.. والحلول الذكية تحدّ من الهدر وارتفاع الفواتير &nbsp;&nbsp; وطنا نيوز",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLV3dxcjRlWExyYzQxbzYyR3gtdkJoak5fbW5UUkJZV0JUUGFXM0JDYXdQeTlwUFFQNm5nSkhfZFJZR0ZX?oc=5",
+      "published": "2026-11-07T14:07:36+00:00",
+      "category": "الأردن",
+      "source": "وطنا نيوز"
+    },
+    {
+      "title": "وكالة سرايا : بسبب رسائل خادشة عبر \"إنستغرام\" .. حبس شخص لإدانته بـ\"إفساد رابطة زوجية\" شرق عمان - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : بسبب رسائل خادشة عبر \"إنستغرام\" .. حبس شخص لإدانته بـ\"إفساد رابطة زوجية\" شرق عمان &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOd1JybXJ3dzlOQ0h1REdPLS1hRWlsTmoxRzJNSHpoQi1ncGJNdFk2WGFJU3RPYXhpLW1mbkUwelRrWEktQlNHdVhFRGFxd0x3TTh4T3pLYzV0aGpOeGhDSWgyd1NHdlFnN2tuNHFyRXFPbjRiU2JJMHRGSWVlX2d4ekxRWENFU1NGZFdOVk1HMExaUVU1bmoxRU96bXBHYUIxNVVzTl84MlJobFhkanV5a0xSZGJsVVNsSG03VUZYMFdCczQyT1lWTDFtT1d0TWlzVDBpMklBV3R6OUgwMlVNX292NFlWOVltdXZ1aGt6RU1QQjdGbFFtREpGcjE4YnhMcmlMbVluY0gtRUYyUnl6TGVMYmpvcld2ZUNZdHZzdFVabFlqMlc1LU83OHI2NmRTTENicjZaNVlFNWNULW1pTlVqRjV4cmlaYnJuMWNLN1ZzTDFkRnBIQ3BxVWR5bU55dDNKQUtJOEtFYmtZMWVlaFlBdVM1alpsSEtkMzRwSHdXVXFUaWhRbmt1bXhfbDA?oc=5",
+      "published": "2026-11-07T13:29:59+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "الأردن يحذر من سيول جارفة ومفاجئة تهدد منطقة البحر الميت والأودية - اليوم السابع",
+      "description": "الأردن يحذر من سيول جارفة ومفاجئة تهدد منطقة البحر الميت والأودية &nbsp;&nbsp; اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOc2tJTWtqLW9FcVB1QlY0LU81ZXB1WWIyWXBlNGIxZ2VSZGp1cFQzWldBY24wU05Dc1I5ekdyZmE3ajFuWEJPOVhIaEZzU0xoTFNkU2pLTjJvYmt1aHdNeHBVRHVsazhZeWg4NjlaZnBidnFTdXZGVU9mdldNX0Fsc3h4djhRbnBrdWM4bG9Va2R4ZTgxY1QyU1MxS3RHM0kyLUV0eVpfdmxULVVBZ1lJYjVWekNTUTBVRS1zc0FhaGJqaGpXQTN3U3V0RWVhVEE5TVVJbkVHNlhLeHpkSDFvWG1Xd3FTQ05IU3pueG9QZ3ZHX21QaEZhZHZxZnJDTjFDVTVBZW1ZYWxGaGdDWnlaS3FPN1MyLW9CVmluM3RKNkttOVVaeTRxLUhDNU9pVi1OQ29fRGRLbjhmXzR4ZzZXb0dnUHJ2SlZYWTBPNUk2RS1zSlNWMHkwX2ZZamlFVGU4em5GWGZSOUd4NjNOTEFuUXRVeHNzc3ZhU1FLVlpJdzVvbHRSeVk5ejJCZk5ybXYxVlg1M1R4ZGRocWFoUENyOG1ONmVrZzdkbTc4Z3lZMFJhX1k2b2NpUXBEWE45R3R5eFpVdFJwUjgwOWJDVXdkbmtJVlNXaHExamhDS2NB0gHYA0FVX3lxTFAzRTJyRFRQNTV6RlpnckpuTWhFQ0ZRV0VubnlwOEZDLUZYT1JVTHh1aTYwM0R4ZEtGbmprZUw3UksxeEI0R3RHRVJQRnBkaVE0Qlo0b3lyU1ZoODhqa1BtX1J1MF9OZVFDSmFyRjk5M0xkUWQ3YUQ5dEI2UmVaVWdxN3lqYWEzNFlkU2NOa2MwRTBlOFpib1hsbkE3amZtdmFidXNMZDdvbHJTeExXVE5ldFNCRnVRTUlBUE4tRlBWVnhpNWRndzhEaDJab2hMcno1Wk80XzFaRmhTVm5wYl9KTDZndEN5N0lTTGZCQVl6WE1FSVFzRmNWUFNLMTNKWFNrbXlxbWF5RG9PT0tCc3NZUG9uMUVMZ1JMRkFhTkN6S0lUNXNjSVJXUTdQcmxicmdnSjR4QzFPV29GRVNYVFhNVEpHTHJ1QVNTSWI1ZmRfNl9NX2JvajhZUTZTTk4xU1lON25RMzNHTGkxaGNxWmZjZEV5S2xIMDNMOHdibTZybldaZFkzcTBrSkhSc0V6V2JkLTh3OWtyU3hiS05JbnJ4MVBSX1VBRDRQUVQ5VGcyZ203SmdBb0pwbUtERGM1clZUanJRc19GcHFqWG9DczFzTklYWG10MFg?oc=5",
+      "published": "2026-11-07T12:50:00+00:00",
+      "category": "الأردن",
+      "source": "اليوم السابع"
+    },
+    {
+      "title": "\"الإدارة المحلية\": آليات البلديات والقطاع الخاص جاهزة للتعامل مع الحالات الطارئة - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "\"الإدارة المحلية\": آليات البلديات والقطاع الخاص جاهزة للتعامل مع الحالات الطارئة &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxNM1huVjJRalBzNERiZ0p0dVRYazBUbmJwRll1N1htNG5wWnlZZnhuME5nbThkWUI0X0lDcmZQMFFRMzVSdnRjbXU3YU8zaTVtSVBadUtwcVo1VjIzTlVXVE5YS3RtVTdKTnZIX0lpZDNmSXlLWTRqRnVXYUphY2tocXBZdHd4QWs2b3ZhWThab3kxOHdscGV3cE5NUE1tX2Y3WllDR0FZc0hRNkRCcFJvODdBUjhockx5S1RORUxST2tOdURDU1lDTERuX0xobE14Nm5POXd3UDI3QVlGRmIxdU1LaGpJLU9USVNSR0xBWlpZYnBOT3JNNC11R1NJajdMaEk4eWpDM2o1Y1JvaDZNaGZXSkl4NE5fTTJLTXdBZTg3VVpBbVBGWjJCRTV4Ukk1dmFWbWZscWplYXphdWgxUVJGbm9Ka05jWjA2ZWo1VHNkNlBMWlJScjBpcFdEcUVCYmJNM09xbWlscGF3N3RlckRJb25kZTA2WlpadHpaMUk2aEhFN21KcmdxXy1vRjBJX1F4UFVMLU1WZXdFVU95TnFEUTBmMDFub1BHR004d19TeUJhN0MzV1ZiRnFXdURrU0paZmNKSjRwaUJfcGxrbmhNelB1UUF1SGhxYnNfUU5oZ3QwODFua2V2NGRXVlJwcENFQXB6dkFYVWZPWXNxVEZFeWxuT1RwM1NGNHpoZktiZFJteUZJdkdGbkpfT2V2dzFRZmpnWUt2ZjVYY2w5d0RiU0RHT0h1YUVmbzhBVHJ5dw?oc=5",
+      "published": "2026-11-07T12:45:52+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "بطولة كأس الأردن لكرة اليد تنطلق الثلاثاء... - جريدة الغد",
+      "description": "بطولة كأس الأردن لكرة اليد تنطلق الثلاثاء... &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPOTVCUkQ3aE1qWUxCYWE3YnhtTm5jN2R2M08zVVl4Q3NpLTU2R1VMSThfZHFpWWZqZHV3LV9lVk1KdEpVbDB5S05SN281dkdkaV85UGxlMXo3R1F2eHR1MU5XSFQ0SmtNZGlkWFdmRUZOQlhvS1lxbVkwVWMzdXVQTzhVRnBXYV9kd01nOFQ4dm5udXgzT3ZVSW5EV2xsSlVRRk05LUttcGtFeVpzblZROGNtamp3eHZkeWhuOTF5OVN5aGlPYVRZblNqR291cmNOdHppSXZHc19qNksxMEZGcFdRaEo1aXBmSERycnQtRUt0bXRsLWhLNDhRUFBsZEF0cF9HQ3ZqcEh2WmJjcHNPUWp3ZFQtQzZVeXVBVlc0c0FTZlBoQWtmdFNlZVA3VDJTUE9VSXdvY3gtUFFtOTNyZ0t4LVdEd1NJMXhfMDRoYUl5WjYyUGFrbU5GbWFvb29DTmZyZmhpNWQ3dnBYUDJBTnFPTFFTbmhYaDJYZWNJZzRyQTA5Mm9uUGJUSU9jT2RwWDl4M1dPUmdDRExEOTd6bUlNczZDRnF0V1E?oc=5",
+      "published": "2026-11-07T12:23:20+00:00",
+      "category": "الأردن",
+      "source": "جريدة الغد"
+    },
+    {
+      "title": "إعلان صادر عن المؤسسة العامة للضمان الاجتماعي | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "إعلان صادر عن المؤسسة العامة للضمان الاجتماعي | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNcVp1QUxvc2VBbll2ME04c1RBenAyRDhvUkFDMkI2MUFVRmRqQ29aYTVySzI5UVp6SEpSZG9OQVRLaDhwMzExZW5lSDZ0b3VhVlNyT2hVVEw2enFiNk93MFl1Vk5zY09NSE42X3FiclZCVVJXa2I2YUZWWlhkUUJ4bEV2VlUzeUZBc3hOUXBXMFJnRWFMNi1ZdVlNbUpnUDlPcUJkOGtINllualQ2R1hZc2U5X0NOQ0Q3QVU5WnFranhOTGlPTzBYQ3F1ck1EemhtLUdHUlJEWm95ZUlfdGQzMklJWF9kdkxlck9fSnV5T3dpWGhmN2xLa3Q5aVBxYXk2bmZnVEhXZzlxX3NHbHpxTldoeTR6T0hTM1hLcjZaMS1sb2hBYW5WWWR2a2IyYUctSHViTlJGdEJnSFVBN3R1Y1NsdTRuZ1ZDT3AzSFRFNG5SMDNRZmlXYWNwWElnQ0pVUzV1Z011aWN3dlBUT2RfYkRXLTBaczZNbHVFLUJ3aHhfNzJTekJaTktoQ0VXVXNKbjJHTG9n?oc=5",
+      "published": "2026-11-07T12:13:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "أ. د. هيثم علي حجازي يكتب: العودة إلى التوقيت الشتوي في الأردن: ضرورة وطنية تفرضها صحة الإنسان ومصلحة المجتمع - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "أ. د. هيثم علي حجازي يكتب: العودة إلى التوقيت الشتوي في الأردن: ضرورة وطنية تفرضها صحة الإنسان ومصلحة المجتمع &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNQzlKQm1WMG1nUHdITjI1d1AtS1A2dXB1QWtaa0djSGtvdkcwWENNUDB6MTcyOTVCd2IwYjVNUU5mckRvNlY0TkRKNlFuYVdZQkpvcVc4ZkZtc0xDMU8tMUxjNlZXclg5ZlA2enBPLWprVG5yVFhObXRjQl9abXhTRWg0X2N1ekZrd01UTEJpZTktQVEwdWJHc0tPN21lSjc5dzZEc0FLOXBuRzludjZEeFdqR00zWjQwdkliWnN4dmRHMk1qQjFvZVhDRTJaRXV6ZklIWG9BeEZzTjRoeHBzRU14bXlvSXA4UWoyME1DOHByWXRrMUR6SmJyeHo1cDdHaklRelF4akRQWk5OWnd5TE4tMU9qaVhsMzIyUVhoVXFxSkNSRTB3V0dacVZaR3NCQ2d6dXVWbnNxTmNDUTRJQUZDZkFSb01OY1N6aWR5STNBN0M1TEMxdXdfQ0FtZHo4dk03d2p1dmlCLTRhbWI2OV9JbjJhMHJTYzUyay1BcGZwZ1RFTHdvRjI0TGZIR0dhU0JHRkNYR3BSa1ZlSXVHQzNn?oc=5",
+      "published": "2026-11-07T11:55:39+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : الزراعة تدعو المزارعين لاتخاذ الاحتياطات اللازمة لمواجهة الظروف الجوية المقبلة - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الزراعة تدعو المزارعين لاتخاذ الاحتياطات اللازمة لمواجهة الظروف الجوية المقبلة &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiigVBVV95cUxPYTEwLWh6UHVFZ3lQQ2lQREZxb3RhaUhQUnpDem5mclBBcUNlYzBKRjdKd0kzTzd6a0M4UnNNeXVBUWhlRDBXMUhfVmQ4alE1QzNRN1VaN28tZjZqcjFBNDFxaVNYU2JhdFRUcDRwcW03VHc2OGFmVDdwVG9pS2VyNkpNZFk4S09UbEV2Q3lHNGdEazBYNTU2WkJDdVlKMDJNd1U2TTlPUDFMdlg3Z2VFaGxadGIwcWl5dU0xeVhlckZTU2tnRkdXWlZFZlFhaWd2dnJwNE1QbmNRVDlySlAxX3dzY29XLUNwUk1hZmtndzFHazFOVWVjOTdIUGp0RjZsZ0E3cmZlTjE5S2ZsbWJGTWxrT2sxOExJRlQzN0FnTE01eVlNSXctXzg1S0xvU0RZMzhyVThfYmJLMTNhSXI3cFY0dDFrSmRqMEsxeTFEaUpULXVzcmhCZXdNR2p6VHlmNl9OWWlWWmJmTXFydG9Wa3ZremRTWHY1cEcyMnFHRmkxZURucVdlR3pJLTg4MzdmQms4UmZMRzRzb21VMDl3MVBvbFlOVUNkZ1hiZVN5a09qUU1UejRsd3JxRWxSMjNsZ3JMd2lKT2M2YjgwMms1VFdYaVlNVmJJVXlSYU52T1hPWXgzVnk2TTIwYnhOU1B4X0JWdkN5dlNUZXExTndEenc3VzlKSTk2bmNYU1A5RkNTem1MQy1vMkNZMHlYLTl3N2ZJZWJUSXo2WUQtZWN1WmdZVkxVQl9VWHd2WEZ0Mng3VWwwVUNrY2taaWtBRmJoem1tTkQwQ1FNR2ZleFVfSmJOMl9BS3FKcEpWQm0xMW43YktiV1FOUmVRektOLWVWU3NIRnBNRTB2QQ?oc=5",
+      "published": "2026-11-07T11:21:53+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "\"الأشغال\": تعاملنا مع بلاغات عدة خلال 24 ساعة بشكل فوري | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "\"الأشغال\": تعاملنا مع بلاغات عدة خلال 24 ساعة بشكل فوري | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQaXB2ZjBGYXE5dHlFblRvbTRTVHBWUGFZZFB1TDRpV2pGTTZfUUhoVEZydVowZW5Ed1l3Uzg0ZEVfNEJndHZiVEFhLVlJT2JNTUpQM0I5ekk1S3BldHlnV3hOUGxfb25zVHVvTGlyOWg1R3JxQ1ZaeVlOWlVBTTZUSDljbllXZ1ZaUzZMeVF2MG5rNFctMXhnVWJjYnJVMUdVTlU2Uy1iRGJxS3BlX3E5QTNvZnVYRTM0OFN6amVJelJTbHAxY0xFSGg4anFtVnNmN2JoU0N3cnJIMXNkXy1jb2YyaDllemJRc3d5STlzUlJTTUxwMzIwUXYzbXplVUlYUWplYURwOUdrcGI3NnpEUUdaYllZdTUtcjFSLXhGVjl5YTlGZDlQaDZIS2xWRlowSGxVd01WRDVoRkdHczRXSXo0VUltSDdPQldZd1pUQkh1MHhZRW50Mnlzb0xQUVhIN1l0SmprZktaU2ZXSENnTkpEMWM0MV92MzBnaFNnTGwwZ3RVeW53WU9iaFFxT29MUDJlZVI2eGFqVUlhVUFvQ2FnOXJJcEpicnR1Mg?oc=5",
+      "published": "2026-11-07T10:39:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : الضريبة تتابع الالتزام ببيع المعسل ضمن عبوات وعدم بيعه بالفرط - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الضريبة تتابع الالتزام ببيع المعسل ضمن عبوات وعدم بيعه بالفرط &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPcU1tYUkzajVDWXEyM25vVWJvLXVBVmtXVnNvTjdiM3VxdUFfbmJVWkg2NXpDQ1lvM2ZDV1otQl9qenlRc2xGb2xzbElBcURtZnJxN3AtbUM0aUdudDU4U2JKMUZvMUVVUndldU1oWUtmaktDX0pWWV9SRXVtT3ZqNExhRVVGVE1md3VscG44eDlDMl9kOHNWUWFCZnBXcy0zS3ZQTFRVY0hLS0stV2JPR0VEcGI3TnRZbGtpajlhU0pqN2NZVmJfVi05ZEN2OEdKQWViVVNULXNpN2xpajc3ejV6VU54MGI5WjEwT09xN3pINnZKRVBPdWlTQ3Q1RUxkeUh4ZGgwVGJUbkxadW5QZUZBLXNnY2tKb29ObUN4bUZVWnV5Z050NXUwV2JXM3hhMUxJZmo1OFdBSldlZi1BQ0Vwc3FwRGdjX0g4RDg2S1ZiNFpMVzV0ZzlBVjVzWnNzZmNVU0dOQ3NBUW5EVU5oNXkyVENwZWJ1Z0o1cHBBUGRYOEoySGI2NFpLMWhxNUljNThZTXpSejRDN0JNSW1OMWwxVGYwdWhfd3BBVjdtVFo4VlRiQi1JR3lDbWxjYU9lNWx2UkFWSk1HaVNHZXdPODVUbktfT0tiaFpuWHpqSkIwVU5CcGpCU3dMUVNKTFNpaVpzQlM4RlZJWmt4YmhOdnRB?oc=5",
+      "published": "2026-11-07T10:29:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "\"الأشغال\": طريق الرامة المؤقت مصمم لمرور مياه السيول عبر عباراته أو فوق سطحه - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "\"الأشغال\": طريق الرامة المؤقت مصمم لمرور مياه السيول عبر عباراته أو فوق سطحه &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQWG9YVDlPYTU5SmVSV3J1X2tuOWk3Z0gzYTJFbnVxaVVESFlDT0JIcWRUT3VJVEE3Q0NlX2xJTEM0VkZvNGFEX2dYbHVsbTV0dW45QXZRYnVneHpUWWRyYjNiVTc0cXRkdDJ6MU5iUHRWd3V3emRqcUs4ZWFtemVnTEdRbFJSZzVOWWp2SHQ1NGdOR1pUQ1BMZkhUX3AxZjdSbWRZMVhZUVNEN1k0RWVoRWRUUWNlelpueFFTX1dQZTN5S2h6anZmcTlZOVBjRXMxVl9UNzFVTEFHLWVaaDRleERqOHlTdVZ4XzV1b0pNc0IyTm0wR2JncnlGY0FXSllHQ2tUWDRFNmlzNkVyWjlsNlhkbmhQU2xJeFZIbFNGUlJwRGg1QTg2cjNxa0VGUHpTOFBiSWpkSlFtZWxxVWY3YVhFQWtGajdQRHA0a0JhdjduRUVzcktnaWdqTkxDWU1YQUtqRTZ6MERVUFdSajVLNVR0c3dUQnItejZzQ194NlQ5OHgyNVIxeHl4QTNtUXFtUHk5aFV2NE1qaHhwZy0zd0NJcE9pNWNrTFVGNTc0akZGc1V2U2ZJaXpweEhkVVA5MXJaemFQa0p6YnllaFp2VU9nNExtZi13QjljRXhYNDFpbGFmaHVSdFR4ZWZCSVBwX0czU19RbUFrMUMtZ0Y3ZkZR?oc=5",
+      "published": "2026-11-07T10:10:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "أداء تصديري لافت لقطاع الصناعات الغذائية خلال 8 أشهر | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "أداء تصديري لافت لقطاع الصناعات الغذائية خلال 8 أشهر | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOcDNZSkFyMEVibzk0X0NUM1IycG80T09ZekZrSHZOYjFBNVJrcWI2bkNXU1NfcWN5WEZfVmdIdl9icU0tanp1T0JPcmtDZVpoVUFCcndZMzdTUXZsVzBtM0ZIbnlJWkJqMEdTMGdIOHdRMDhEVXRWWVR4b3RNOU45dmVvX0JqTEpzZjh6ZUVaM2pIa2M5aUQ2QkpvVlRvUzJ0c2Vwd1dJMVZESmc5MW1TeGFoRnFMTnhQZmxvNzZRV1dfSUMxODJESmxOYTFVWmI4WU5yZl9qRXJWU24xYXF0bzVrbG5IMm5pT2VvUXB1eVMxUkZienExYUNsb0ZPb29OOWVJTHowYmJoZXlYaHBMRUFHR3VmaERFOU9xeWFTWUYzb3A3TmI1cnMyeklNeGE2clZtV25SdGFQb0RuOFVRN3ZDOEo2MnItempGY0E1R05HYW00cXY0S0stNkFLX3pNdXZnYmFBRmcxSEFob0o3ZTBLQ2RtVEFBSjFiNFJtVnlFQnJsa3JfSDlLc2Jrdnh0N0lKVU9sM0VYa3ptNzZqaWk5alFuemY3bXJiTHlCaGl1elF5dXJENGhn?oc=5",
+      "published": "2026-11-07T09:59:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : سلطة وادي الأردن: 16 واديا ضمن اختصاصنا تعمل بصورة طبيعية دون انهيارات - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : سلطة وادي الأردن: 16 واديا ضمن اختصاصنا تعمل بصورة طبيعية دون انهيارات &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOZ3A3VGJKWEc3aW1RVzhtZmdsTk9ocl93LWk1QU9tMmZGVWgxU2tDT0lObDRpVzQzclNuTnp2QjhYdUEyX0VCMmRYa1h3SUQ4b0g5N3JhOUl5T1E3WFp2Mk5BRWVSNmJxRXR0VGlCeFYtaXVqZVJfaG5nU01mbjhNd1U2ZW85NHlLQ3lXR2RUOGxZRTFQWFNNRUxKcHphSkJQeW42NWI5V0FXbkdzalFFeXVvR2FYdEhiMUtUVlUwNGJsM212ZGxpNFdkUi1EZ1dJQmZ4MEF0QlY4MWJWTkw3SWtDOERkN0F6ZzZCQTF5NDliX1lmekF4QkpjcGRPd1gxZlNFOWJUTmdCM1RpYkpuQ2VVckxELU9RdEdEWjlQYWN0U3lvYWlLWDJ6QUxDT1ppNDd4RDN1OGZGLTVueGNiSVJkRzlUZzRsRG8tUHpYTndHNl9KM3dmU2QwQi03Wk9DUVNDTlI5a0k1ZlVPaG1wdVdIbGV6bDBKeEtUV0pFVkV4MFBHLVJLVmM1aHRoSFlFNUo4c3ZCaXNIS2ViZ2NsbmZhVnpBTnlIbnZTQ1RkaVdrbWJaLVJneERQUExjSXhERjBKbVFNVkVNYnZy?oc=5",
+      "published": "2026-11-07T09:40:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : العقبة: دعوات لتعزيز الوعي المجتمعي وتحصين الشباب من الفكر المتطرف - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : العقبة: دعوات لتعزيز الوعي المجتمعي وتحصين الشباب من الفكر المتطرف &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxQLXdsUlBNQjl3TGo2cTVhUi1laTIzTlF3cms3Vi1UYnZCTFFEZHY3VEFCenN3cWhQT2dBUjNwYkZlbms5VkVUWmMtR2dFWmgtRC1ndTJwUVpjcUFNcEZoNTlzb1dkVWg2SlpWOTVlc1NoUDBpM0FFc0owMmlUb215VnFSODQ4LUhVUm54Vm9PMWM2b0Nta2RmOFdyYk9yVjNHZEw3b1BsOFk0ckNZRkJIOVpfNnp1bGpmZHA2R3ZHQmhQVXZ6YVBfOTd0Z09iNlVHb0hRck5Db3VXUlE3T3Rndm1hRUVhWmZjZ1pSSTh1VWJjRExNZjRlakJsblFsa2IzZGhvNVpZM25RN1MxYVRQNEc0ZU5la0ZWdVg2a2IzTlBWeXdDQS00WHgzYU5SRE1Qd0NTaGJMZFNIZ1BVWm1jRVZWNEY0NG5MSmQwWGkwRl9Ta0FPRDRESWk4alpUOEdqLWhYSXFMZG1kNVJGMm8wYkRiNTdqTWdHUjhkcGRwQ3JOM3l3UlJDbTJPNU1QRkstU1ZaTlZCalo4aVItTmZNTk1xaGlHUlpDZjluRnJnNDIxdG95bUlWY0EyUEMzLXg0UzRwenZMU2d6RTJRWWFoYjI4dTF2dHRuQ2xEX2U4UmQ5alV5VVZDZG9meGlvc0RFdkZEUXgwQndkZG14ZXpvd0Z2TkpGcV80alplY2h1cnpKTlVCQlJrbzM5X3Z6a2N2Vmc?oc=5",
+      "published": "2026-11-07T09:09:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : اشتداد الأمطار في البلقاء ومادبا والأغوار الوسطى والبحر الميت - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : اشتداد الأمطار في البلقاء ومادبا والأغوار الوسطى والبحر الميت &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPc3lhSnY0ak9YZGtUY0RoVTJkNjB5LWpsMTI5YVB6VDlxdHpuelpRbkVfZ1RYUDdFTjJ4OFFyRTBiNEx6Ui1pcGU4MWRPQTNwZU5qaENfMzE2VU9BQTgyMDlkNjFYeU50dFNKX2V1UHllYWpkdmVhbjlTc1U4Q2FZODVnU0Z2MkZIUXhTb25Ma3ZpdXk4VjZwM01XU0tvRWwtSjA0eWNLWHpzS2VEY2lFM1BUVVB4eEVKcF93SjVqSFBSQVZLN2tCTVhmNTQ2REFTR3lVUHZMM1FJMFBKYmZ2aXFPbHM0azFVVXAtNGtHTUwzRDhrQVJWUmFGWXdMNTBUV3pKUHgxalhvTzFJSUVDVVJsX1ZMRWVrdmYxalFzR3BCMVliWkFfcDZndlQzaFV1cHFkRGpQanlHYWdqZ1RfQlVZVThXYWpIV2V4a19La2pZa2gybGtJeDlrZTVQUHhRVmpNRGlYeDhCREpGZE9UNjhmSXRVSHo5aTNQTms1c3hWU3VLMDRKZXV0bWN4dGhlc21YT1dKcGF3bVlSSlJ5RzJMeHZLYzVLU1Jtb21XNGd5a3ZaQzFVcGc4b1RLMVVuN2ZhQlhUaGVlbzIwaWRZSml3RGxYVlJjdk4yMmc5akpOUVQ2QzB1V0tqaG5SUDJVWUxicDRseHctdEo5a2t1c3N3bjVRU1Jf?oc=5",
+      "published": "2026-11-07T08:43:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "الارصاد الجوية تُحذر المواطنين | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "الارصاد الجوية تُحذر المواطنين | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSWJnR0ZUOHp3OE9VLS1ITTdSQ1dqQS10LU9CWDBQaDd3eUN5SlJoRVp2NTdqcmE0Y0tSaWNFUHJMYnhWMzkwY3RLMU9jd3RFc1IzN1psZTFkdWtjbGc2TVVXaGVwQkR2UVBuV3hQaVB6aVVSWXo0ajduTlBvLVFtMkd0YnVlMUZTTnNMTEs3Y2hFZ2FXbTdYSXR5U1k4S3JNUDctaENPMDFqclNtMGtfRnl0ZThHeEFCcTRQWUJVYm1LN05QNVFWTndvSE83MkhhVHRlRHFoY1VKMllSQ0ZiZkhOQTl3TG15WVd1NnFzNEZzSkdDMjRrZl9EVC1fNWtBdHVvcWVFSjB5ZGZvT3plSkRqeHlPdmpVQ0VSNEVpaFYtdTR1TWswaDlEVE9DX0RlNWc?oc=5",
+      "published": "2026-11-07T08:25:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : الدفاع المدني يحذّر المواطنين من عبور تجمعات المياه والسيول - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الدفاع المدني يحذّر المواطنين من عبور تجمعات المياه والسيول &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPWXp4emdvQnVmSnpWS0w3ak5BalVOR19GWEtrYzhXRDFmb0ZxWFdoQllUSjdtT3JTbllrSjBfcXlDa0ZuVk15X1IyRmJfT3BjQ1c3a3ZQOThIN1l1Nl9qbWhfWTZPMV9sMGJEUEpHY2ltZktndnhuWEdvaFJGQmlLVXJGX2NVa3FzR0R0NmdtWmwxckVvMFk0V3IzMkYxQ3kxODJDRkJkclVncUI4SXhvRHlVa2tMM1l1VzcteGdEVGdtREhLd013SVBQY1FHUU13ZzZEWXgzblY5ZDEzUHMwWVdXaTZWcnJ3TmU3QzVEV1JtVkpQeHpDbExHZXJUT0xFVUwwckxvZkVFdGRYUHRtdXZMVVh5YVE2U2NmU3hwaG5WTTdRRS10b1pRZnJxbmpTdHI0bmdBaExQZFhBN3FJS2pQc1luN0hMenhsNVBzeDZ4UzI3M0lEazgyMU1TMXRLaVhrMVp2ME9XYmhlQ29uV2luVUJ6SmxPREdmNnRZeWlrZWNzVXEwSjJsVXB5UGxta0ZoNmhuQ1VyNFR3MldZdUxaeE1EcUVYc2tHSEN5bEltb0p0cmpoWFpSTFV5S1kxR05VaklBdG1KQWhYcDZvRm0tQ1VZYmNOMHhjTWZfWjAzRlBCZ01TS0hhUjEtZnN2NTRWa0dBSVU?oc=5",
+      "published": "2026-11-07T08:10:52+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "منخفض جوي يضرب الأردن بداية من اليوم.. هذه تفاصيله - قناة ومنصة المشهد - أخبار العالم اليوم",
+      "description": "منخفض جوي يضرب الأردن بداية من اليوم.. هذه تفاصيله &nbsp;&nbsp; قناة ومنصة المشهد - أخبار العالم اليوم",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSzU1aGVTZExMOFh6b1B4TVgxelAxbTBMVTI3YndPeDI0Qlp3T3F4eFlnS2NqLVdvMjRTRl85TXQ5NS1OdjFmZU8wNEFMdVNPOUZaenQxNlNUV0gxZjR6SHZTT0l3ZzBXRElNcGRRVmdBNktMeTN1VW8tT1NwQkNhcWhKcFFESWd4d3dGaEgxVHVkdjN3X01zbTF0dEF2d3NHaVpKLTZJTzJrd01DOUFiR0d4MW1ta3VXYzh5c18tX25yLUZkSURaZmpfQmpFX2wwd0llbzFTZEg4bXpxeUdYTFpmTUFoOFV4M2xVQUpBNNIB9AFBVV95cUxPZ1RxSGl0RGRNN3luU1MyNTlTSnlKSFZwVXgxbWR1eDhqU1l4VHlMelBDd1JDZ25OYkVvOXhOb1F4ZHhZc1pwN1BJZWV2Q0V5ajNpNDZJY0QzaWJXeFNjTGMxSGc0THNvb1I0V2h0dU5aZVlfVmNHZGdLQ0E1YU9MWmpJMWdQck95emFzSDZVSV9DM0VjeVctVFpNOER1MlltUUFsWEFYc0k0ZlJhVVJaay1lWFBLZ2YxamVzeDA0NVNTdlBJc1BiTEJ2aFRwRGRKRXR6THRIMjY4NFhFTFVMWkFrX3E3TGlidVh6R3NNSXgzd3Rq?oc=5",
+      "published": "2026-11-07T08:02:41+00:00",
+      "category": "الأردن",
+      "source": "قناة ومنصة المشهد - أخبار العالم اليوم"
     },
     {
       "title": "أسعار الذهب في الأردن اليوم السبت 7 نوفمبر 2026.. تراجع طفيف - العين الإخبارية",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVFpd0V3RFkyZlk1azZmb1lwMmxWenhkZHdodDRDMm83ZHp2cGxBMENBU0VTMHZzV3NUaGxscTBYMmY4Rm0wT09NdXBidk8xQTV5N2cxdjZTR3dUMVZDQ3RhNTZoYjladGdFcHB4WWJKc25JYy1idlFKd0pyU3I2cGRuUQ?oc=5\" target=\"_blank\">أسعار الذهب في الأردن اليوم السبت 7 نوفمبر 2026.. تراجع طفيف</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العين الإخبارية</font>",
+      "description": "أسعار الذهب في الأردن اليوم السبت 7 نوفمبر 2026.. تراجع طفيف &nbsp;&nbsp; العين الإخبارية",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVFpd0V3RFkyZlk1azZmb1lwMmxWenhkZHdodDRDMm83ZHp2cGxBMENBU0VTMHZzV3NUaGxscTBYMmY4Rm0wT09NdXBidk8xQTV5N2cxdjZTR3dUMVZDQ3RhNTZoYjladGdFcHB4WWJKc25JYy1idlFKd0pyU3I2cGRuUQ?oc=5",
       "published": "2026-11-07T07:50:33+00:00",
       "category": "الأردن",
-      "source": "Google News"
+      "source": "العين الإخبارية"
+    },
+    {
+      "title": "انخفاض 1.10 دينار على غرام الذهب في الأردن اليوم السبت - موقع الأول نيوز الأخباري",
+      "description": "انخفاض 1.10 دينار على غرام الذهب في الأردن اليوم السبت &nbsp;&nbsp; موقع الأول نيوز الأخباري",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4c2JoNzNzYk9KYUE1bUNVZVJSUUcyMmJrZkl5WV8tNE9sM1p6U2w1eWJUNzlkcXZ0Wi1yTm4zTC1KaHY0Q1lEZWd6Y1hwdmwtTHYyUFloV2x4cHFpV3RuNkFYNA?oc=5",
+      "published": "2026-11-07T07:47:50+00:00",
+      "category": "الأردن",
+      "source": "موقع الأول نيوز الأخباري"
+    },
+    {
+      "title": "\" يعمل بها منذ 30 عامًا\" .. العم \"عاطف أبو الحاج\" يحافظ على إرث الآباء والأجداد في حراثة الأرض وعشق الزراعة - فيديو - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "\" يعمل بها منذ 30 عامًا\" .. العم \"عاطف أبو الحاج\" يحافظ على إرث الآباء والأجداد في حراثة الأرض وعشق الزراعة - فيديو &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNamttU3IyalVFZ050OExsMUZxOENjWlpVUHo1ZzAyeHhrMnNxSVE0MzdDMENaaXZYLUZIblo5N1IydXpOckxYWUFNbktEUlZSc3pEZkRLeXlwdUppRWZ5LTFRUlJfVW9jZ0hSWm81LWJxSXFrZ3ZSTXJoeFFubU9aRWhsR0tHU1FVMGVWVWczSjVIcUxGQkMwWkdSanoxLWNKUlg0Skc1QUNXRVBaLWctak9hTU1IVTBsZ0V5YWhhNjZ2QU1wOFRWeWJYeU9uVDN2eGIzNG1PZEttSEVSN1FwQWFsak5qM19qcmZFYmxUaVU2ZDRhU21MbUExQjl0Q0dVaThuUmV1NmFGd09TZjZEUDhYVHpJYTlkWVE?oc=5",
+      "published": "2026-11-07T06:56:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : منصات التواصل الاجتماعي تتشح بالسواد حزنًا على وفاة الشاب \"عبدالله دويرج البزايعة\" إثر حادث سير مؤسف - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : منصات التواصل الاجتماعي تتشح بالسواد حزنًا على وفاة الشاب \"عبدالله دويرج البزايعة\" إثر حادث سير مؤسف &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxOaWRTSFdrbnhGcWtFSWhWMElxS242V2FvdE5sSTBjeU5CRVBuX1FhRngtRi03eGloWDRPdlRmaG5TZ215WlZuS2wwUkF1Ti1sSm1LMWtndGdjTkdBOTJtSzk2Y20xbm9Tdml6eGNVQkZBX1NMbnVIYlhOMlJOY091TkNnOUZBdTdxLXhSUjF0YUdnc2VCdE1UOWZEVkxKbmNJN1c5eE9SNTIxaHFERmZrNVZHckdYQlR1UFg3X2s5VkR1SURUQ0psVXNGSFhxQTdSQ3ZuSG9CSFNuVW5Jb29RaFpBZUg5bXdfSThHcV9NMFNSZnVDdGQ3YjZPQkM3dndfY1pCRUpVa1k2ZmVscGVMTzBCYW1KbU5hRUFCWTRIY2N2VHlHY3Rnc3l0bFhPdWdGdWhNQnJQcFZoZW1hSmVHYWFwV2dCRHdVZ2JWV254MFJ4aEFEcjNmVHFKWEh4OXA5UkkwRWVHQWR5Y3YzRzkwR2JTd0dlOUdIbVB2c0gxYkNDUnVMMXA5T29LOTlzUEtldlVtdEVyM050LTR1T3VlMGY0ZEltUDR3ZThKVlVaeVN4X0N2NnJvVmphMm5wcEcwQU95N2VxSWRsSFpJa2kwUmlBUFRUdHlzZjhReGJKMk5uRmI1QzNxUnpMMEl0eHZUNGVmbXVlemMwZ281V0FFelVGeUNDc1pfX3lzQ0t4YTZkclc5d2I1XzV6M0E2SEdWRXc?oc=5",
+      "published": "2026-11-07T06:55:08+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "\"كان حلمه يتزوج وكلنا نحلف بأخلاقه\" .. مقربون من الشهيد جواد السلايطة يستحضرون ذكراه بكلمات مؤثرة- فيديو - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "\"كان حلمه يتزوج وكلنا نحلف بأخلاقه\" .. مقربون من الشهيد جواد السلايطة يستحضرون ذكراه بكلمات مؤثرة- فيديو &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNd2YzUDJaODA5RGE1S2gwQlMzdldUM0dDbFRTVWpENmRnNmlLdFZtaFZwNzUzel9aZnNNS2xreEtkcHdrVmd3RG1wSFZMb1BBLUVZb2hoUkhQaXlCanVCUVJxY2RoSFBTMHBNV2tfMUY1SGZEbU1tdHV2YkdCam1XSWVrSHg0SXZFNmlaUW1DNTM3dXVZQzhKMF9ZSFltdXRkSEZlejRIazZtOHo5MVBaYTJWRExaOUU0UUFlWnJ4MEtjcmpSOUQ3M3h2Zzd6c3hrNEpuZzR5V0s3V0kybEtGNUFkOGdUQlV3VGRqZzUwVGJqZ29FeDd5YTEwRVdMZURNN0xqTkxseGZ5Zng5LWV3TFRIRGc4V3FBUWhZbldhTTBXZmhnYWtWOFR3TFRXS2hpcTNER21SeTNia0RiS292elduUkpSNXNKXzhLSWtIWVY0R2tEUEJEaXo1LXc1aGF4eXFwYU1zWXhiSF9uemxyRndzcU1PNXBIdjlnWE9tOA?oc=5",
+      "published": "2026-11-07T06:47:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : الهيئة العامة لنقابة المهندسين تقر التعديلات المقترحة على قانون النقابة - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الهيئة العامة لنقابة المهندسين تقر التعديلات المقترحة على قانون النقابة &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQU1dCLUYtQVpkVU9IbGRFZXItUnZUb3lfUGxiUi04aVdzOWFoZUM5OFhLU195QmdsZWN5QUJyWHVSZ0JmZUVva2ZlbXJzMF9uMXNndkV0cEdYRDZRRGNTSkNyRDN5RU0tc1d4Tno4SmU5SmtBUFd0VDNtbHRVWEwtd1VIOURzdmFVRGVLM3M0N2ZYTzF1QkJZS25LMUs1MGVUYUpuM1p3RGlnWUR0NEpHNU90bS1VSlRXSTlLWVZRTU1HWkVNNV9sd0Y4UnY4TWVKSjFnM0JLT1BTN01Wd2tRSE9GRU1pLUNSMW5fMEpmNjZPN05zYUliSFFIaXNhZENycERpdW53cTZBaGFXTzBTaDBfaW1oOHhnamdYU2Y4OWZTdEg4V1g3MU5KNFkyT0lqSWJETzhtZ09wVXVQcjh6SWtCa0lhTnpPY3RfUGxtY0ZMWnJmV0Z4cGlmTzJPc3JiajZNLThtc0N5VkhDRkNkdjRvYlNoM3Fod0oxMjlNb3lsc2h5b0lXYUR0cUwyZHVhT1JxUFgxVjl3UHQwcmpCTEptalpYS2VBM0pGT1dabVdId0VmSnMzZE5hd0VET0t5UnlMb3R0SmEyckNpVFVHMjF2SXVaUFl0Q2pycVZmcE9URzEzOGV1cXFIX3VGeGFRRVNsOWJYUFkyUHJUZUlHLWNtMzZyQ2I3SjA3RF8zV1FlcG5DaDlqMUVXZ1JTRktWM1hsdTc5MGdZSkM2c1dLOFZ0WG1DU2hTbGxia1c3OFdpSzZtNWVTVFBqV0xYdVZ6Tnc?oc=5",
+      "published": "2026-11-07T06:29:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : تحذيرات من السيول .. انخفاض ملموس على الحرارة وأمطار غزيرة ورعدية السبت - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : تحذيرات من السيول .. انخفاض ملموس على الحرارة وأمطار غزيرة ورعدية السبت &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOMXc4MWMtRUFSbUZDMkotRnlSSWJIQ2ZOXzZhUmlyenZoX1Y5dWo3cV92LWFCMWt2blZSSThZNlVTNGdzbTVwRU5reDZ2VU1xR1dTXzFMa2VrOUx6T0V6NkhyVlZfc3ZJYTZ2RGlERUswQlFKaDhYanNnRk9UblRSaF9WUUZ3VkhEY25xeUlQV1haTm5uQ3ZORXBJd0ppM19KWl9aQi01dWR5blUtb3dJUlh1YTMtaG80aG9ObUhYM2FIX3puRFI3RkRoOXNMbFJiOHlablBMZ1pWM19HR245VF9DYWtaZ1ZMenZ5LUxyaE92MVZ5NEE2eVJ3ZDVkNkdPaHp4dThtVzhVMVE4MzRDMUFiX0Vtbk5tbTBIY21waDVIaVI0RzRlNUtpWE8tZGZpcXFHdFIxWjN3NnJKdzJXellkYUwxOThvV29QYngtN0JzMkpSblpfVGRkdHd3czNLOTFBZEhDdWlWd1dXZXJnN3l4amxOX0lxTlUtdUkzWml1ZndOYXpTak1TeHBrZEJfQ1ZLc1U0bEFvV1B1c3c0RUphRFBRSWR1aWlKbkJqNA?oc=5",
+      "published": "2026-11-07T06:11:12+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "سرايا تنشر وفيات الأردن اليوم السبت 7-11-2026 | وفــيــــات | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "سرايا تنشر وفيات الأردن اليوم السبت 7-11-2026 | وفــيــــات | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeE9KZEVjaGNMZnVjTXhDaEhicV9leHk5dkZIWWtBUktBb2dqc2VlVTB6U2dGeG5fT2tmU2tITUJnNnNDMExBd3J5MGFsNC11ZEpCTmx3dk1XZ2ZKXzNpbnA2RVY5X0ctaGRyMXdPM3IyaUdjcWh3QUNVNUg4R25fSjdhN2lPdWhQWTNfUFN3cUI5VlUwQlZRclEyX0dpUXY4TUtTeXFQS21YVU1RR3VsdmY0dUlsZ1ZJU2swS1ZpQ2dYcDM0Q0RvLTdxbERpS3hkOWlpRm5SQ2txaXlkb2JIT2tILUlsci1raEZXYURYYVozZi01ZS1kamNtUkZ3ZHRqODAxSm5xMHBaRVZlQl9yTVA1TmY1MGUzQjE0U0YwVVpEbnE4aVNfcXhPMVZwSVJzcDdoS2wzZWozSmNZSEFHTExzWnRzYVV2NFhEVjRGT2FqWjF0eXdR?oc=5",
+      "published": "2026-11-07T06:01:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وفيات الاردن اليوم السبت 7-11-2026 - خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "description": "وفيات الاردن اليوم السبت 7-11-2026 &nbsp;&nbsp; خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdGVnM0tMaU9ORUg3UkhRUTEwdHdGc2R5MG93S0owVTR5dmdtRXlhOXRQQ0Q5a3M0ZU1MWnNjTkZPcXdZWVpXeE5nRzFUUEh5bUp3eGRnb2d1LUVKSHVmYThLT3FhMVpySFJ0TGdnZGZvOXRlVTZ4TEVYM3hLeGlpNW5mOW93SEZiUW0xU295YXNWNEc2UkV4eDJ0NDNqVG5PNk8xMl9KajQ2dkRabGY1LWdYcjItMFR0SDh0VXlwWTRMMlZRcnFfVG80aUY0aVVHUlFoVldaVGdUdy1OMDR6RUhfTW9hbi1rQkZ3RmtxSVBGeXZlV1VrVU8yekhsWEZJamVaQmlPUQ?oc=5",
+      "published": "2026-11-07T05:47:46+00:00",
+      "category": "الأردن",
+      "source": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز"
+    },
+    {
+      "title": "أمطار غزيرة ورعدية اليوم وتحذير من تشكل السيول في الأودية... - جريدة الغد",
+      "description": "أمطار غزيرة ورعدية اليوم وتحذير من تشكل السيول في الأودية... &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQNUZGczhvM3ljSGw2Z0U1eVR6WkxQa1ZuZWFqTEl6b0M4X0J1eDUyVlNfNDVrdjhtR2FTeTNGZk9SajkxT1RYdWhabUY4Qk02Z0Zjb3h3YmhHZEFfVDZvNzFmM042cjZPeXpjXzlGOFNCYVV2YkpYN0FVM2RiVjQxeENEVTliRGNCTXd4MEI4YWNVbXYyajFTUnpDTkZraW55UzdncWh6ZVdtajVzd0Z2VExIeVNiN3MtZGxYb3RQNHdFeDJmRWwxRHFmeDV4ZFRnbUcwaEY3d0JIMVBiblg1Q09XSDBsZ1JmcGx5RE5IenFXXzVHR1RoNWR6MHBXUVg0T0pxQjRvZjVVelFtNGpLTno3UHNDQkFmYnpQWDNWVk45eU0xUmN5VHZsRnZRNEJJZHZoSlk1VDdFV3VBLVhWRkxtcVhmT3l3OU1JYXM2NHA1bWx4ZXFWekhfREJSX2V6bG1PSkFPaU9PS1Z1SklDVnVuWmk1U0xvSFRNMEhmV0FQWXRIM2VzN2FxSmxEQ2Q3bm9uN19zeUJlc2M4d0ZxWTVQYVJSbnN6OGd3ZGpkbVZTSmkzanNRUkNRd2dBMnVYR0t3LWRMeVVSOVN4ZDA2Z29aTE52eExWMmtFYV80QkRuN29weTJ5WVFnX2J2SnNWNE5JaGNhOWpSb0I2RHRTU09WWklTQUZHcW5Fb0h5dEh2NVdQbUVOMUd0LXNXb21KeXZLa3hZbFlJbjBQZ0VmYTlIenVtbGM?oc=5",
+      "published": "2026-11-07T05:24:51+00:00",
+      "category": "الأردن",
+      "source": "جريدة الغد"
+    },
+    {
+      "title": "ملك الأردن ورئيس كازاخستان يترأسان جولة جديدة من اجتماعات العقبة - اليوم السابع",
+      "description": "ملك الأردن ورئيس كازاخستان يترأسان جولة جديدة من اجتماعات العقبة &nbsp;&nbsp; اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOWTlNNFRsd1FqLUtPNGhEbUNrVjdoZkcxbFhDWDZ1a0NUNkRqRlFVbGxwRVNrOXFOb3M1LTZVSGhjSDlJRVA0YWtwdGVEM1BRd2FIckFKUFhyUk9wT1pjTnctV1BQVFNiNl9VdHRaN21FQzFKa0syZ3NVZHNWblk3Xzd5Sk91Qmp5R0Vla2RIcEZUQ2Y3bVlhak5feHFobkYzZ1dfSHNtNFN2cTA4b0I4QUhteWdROEZ4WnNFUmFtSDFDcEthMGlFOXd2NC1mckxuQnJkenZHSkhNeWhZRzhQRDFETGpIRkxTOUUxUmJKRGNranNUaHBVYWs0WUQ0bTZaVUxMNENURkVfdTFBYm1JT0RUT3htX2QyWVRoQk1FeGdycVBXMWVINVJJZmdLZWpZZFNGV3pJYksxSFR3U1dtTzNtQUdVbVZhNUo1NVYycUlfcjNQcXFPRVVpWG1LZnFuckd1d2JxOXNZZkFuUGF6cWRRUEw0RWliSE04SHpMN19CUTk3WjUwOXM2OW5DN0NsbzFOVFVzLXRRTnlKUFdjYXlRVUZya29acWR5a2p2RlBwTFkwSlRMSXFndkRtd2x0ZUx5dGpWbVZzc0hrbVdFbTNGdFNCV1dBSmx6bTVYVUVhSW9yYW1xS09NY0tZeHBCS212ME9lR05wSk1ENUVaMTh6akdOV040UEtVXzI2NGVfaFNUdGNxWkZ1MFlNUdIBmARBVV95cUxOeUhobWdOaG1QenhGeDhEc1VUVTNnclVYN0VkbjRUTkZYcmNNVkRlTk5rTjJsOVZBd18zUVRhb0tjUDVHeVQ5NXE3YV9ENTYwMWJTY2NhN1NrTVBySG5lRk5GcUd2Y2g5REZLVlo0ejhQLVRhTUNaVlZlbGl1WHhZNlR6UzVpWEhPZGU2T0FucDVXenZEM0RweDVFcHhZbFR1YU42SG1aWk9RaUU1WEdUV09nTzh1c3djQVAzR1VqWEJfeno5aEJ1bl9xQlZrM0E1YUlobnhfdVFrMUd2eHNPbnZqYTlwQ0tPYTIzRWxhdjlsSzBJcXo1aC1TUnNCMHBOcEFhOTB0Ykdza1h1MXhPc3EyMGpkYlcyZEdKaTdZVExOYXBxbkVmQXlsRVlMX1U4WXNIN1ZyOWU3bk43VWpsc0xnTi1kWkNIVThQMzZpZGhucEVNUkdqSWQtMmJMSVFDS2ZfRENkUVhUajlDamRmaTUtWER6LXcxeEpIY0gtdTFDa0xPcWtvV1lvT0dKekFRRUFzR2t3b1pyTWNGb2dXOXhaaENtQ010dU5KQmRPLUdhSUpCTUtDWFpacVZEdm5wTXE4ME1GM3ZNZU5GOXQtOXFaYzZVYzlmM1lHRW4yNTBwS2M4MFhJS0FQaHh1RTJiWHpDRXJ2UEE1S3VvX3U2c1M5RVJ1b2J1NWpiT1ZBY3EzOTU1RXEzVA?oc=5",
+      "published": "2026-11-07T00:21:00+00:00",
+      "category": "الأردن",
+      "source": "اليوم السابع"
+    },
+    {
+      "title": "الأردن: المملكة تدخل في ذروة المنخفض الجوي يوم السبت (أجواء باردة وغائمة وماطرة على فترات في مختلف المناطق) - طقس العرب",
+      "description": "الأردن: المملكة تدخل في ذروة المنخفض الجوي يوم السبت (أجواء باردة وغائمة وماطرة على فترات في مختلف المناطق) &nbsp;&nbsp; طقس العرب",
+      "link": "https://news.google.com/rss/articles/CBMivwVBVV95cUxOcnc1SzhxRmFBRXk4Wk5DVlhsdy0xZnZZQk1HaUZlaEJEeXd2QXppYy1qZ0NXQi14OWZJS3dTd1lyMWt0MkNkQ2k2RE5QS1o3VnJmamhvbDU0VHRBOWpPTDNjenZHODNqTFVLdlZLNHBQbUh2dlRwN0MzdnVabVBtZUZLem5EQVRGa1hBaGl0S19FMVg5Vi1TT0VwQk9OZW1QLWx6WU96cWkzRmxFTVRzcW9wRFVrbHlPUDZiVGJGTmVqek5KU3F3YjN6bGE5d09JSDBmX3BuX3B6RzlmdE50cmp3Y25JdWVlMmRfYVZpXzc4dVpfQThiT1JhbGY1Wk96YnpNNUFWdTZwak9QQ0QtbENHWlEyNDVOdWtpOTBkZFA5THNSRHEwNEczVGNlVlNXTi1rVWpLdGxTRHQzbU1McUJNY0JHZF91a1pTZjI0QjZBcDA5Si02N1dmeVRjNlBpeWNMSDh4TXBkbmtsbEpGSS1DdTZZcHpGQ1NNY1AtVTBrTEJCNWtOSUtwTU13RkNzVEdiaU1EcjlKT0lJM3dxQlhoUmJsTVVVdGJMeHpKRWJ6Y2QwSi1GSFN0cjVWQ09EdHdmdzJSQURKa0hULUtJNXRnbXczNDdoZzZ5VXNBWnFlTUFpblJpeEFaRkV6Mm5UbDhZMUppWjR5cWx0REpEblhTdkloempOU0tLUmRaMU41TlpmUWFKNmlNLXJCUXlaM3dIenFESGhpRGN0M25aQ3BTZzlhaEJUZEFYeS1CM2RUdlNSalNnWF9PaGxxTGRZdDlGR1JYcnM3dUpfY2gxLTdYbmZ2NFZhandrY1J4aHcyU3BTZ3pDWi1fR2trQnhLOGo1bzlreGZNbXRQUUlwcTVpZFF3bmR3Ni1BU194aUxXYWl2N3FOX1NyY3laamMydEFZOVhBM3FoOGdlVUFz0gHEBUFVX3lxTE00VElfbTZDRThjQ3J1QTlHRW9QaFR5cGxqYXVxSjAzMHE5VnZfQzA5TGpuV19rNEF3SElUenQybkh3RngtdzE5S291X05nOUFaR3lneW9xWDN3Tl9CeklVVFBOakZsdm1tQUdMU0RLRTJhX0thbS1lQnotdFhtM2RDWGZQUHpUaE5tcTVBZHMtX1Z2UjdYdVZMZUFscG9yem1GMlZrVVhZOWQzU09uRmhLSERoYUFqcTFtT3RwWENwY3E1MHVDa1JneXUzNHVLOWpBTjRkRG1GcVJNS0hxTlc2bFE5SkpQMkJ6NUFWRF80cktVR2o5QXhKLUdvRk5WMWE3RDVRZkloMHF0RFhYb3dLWGVTQnBrMW5sT3hoTTR0WUxkbHZrS190Y2o3VzJnd190djNjcmlNVTE2dDFLNWhBZ0RobWhnUDdMdWxpaWRCdUdZblVCYnhvQjFUX2VjX21MUjNxTTRsRUNTYVY2cmNMR0dZRHdmYjNCWXFfODFYeFdQMGU5dDhLdXF0c05YNjVuS1dzWVotOWdRdGtldkFXZkpPVDRHcGZJUE1CVUlGY056aXk3bXg5MU96STd3S3pCYlhWWjJ5SXNhLWNjczNtTDVQUTRLUG1MQUUwb2p3eE1zSTEzeUQtR0NYMm9oRWtvZ2lmOFo3eVBMUkZjRE55dUxEbjExVjgtdnc4aUV1ZGdmRTR5Y1FDb09heWJtTmkwOFI1MENKOFhENWVmNzVORWNHM3c1ZVZ6VDE2S1lVMmxMVktXamF4MU1wTHBXMDJiU3k0M0JsU3N3dDZTYVNEekhZMlJYQV84aHBxc2JJMkc1aTVJMXhMYTF1eFdESnl2amtLWFV6bkRGanJWSzFWSHpEUWxicDI0MV9zZVYzNTI2bzZJdjJVTDB6UVN4S1BZUXBQTlZFR2VHZDN5a0pUM0NnNw?oc=5",
+      "published": "2026-11-06T19:34:20+00:00",
+      "category": "الأردن",
+      "source": "طقس العرب"
+    },
+    {
+      "title": "بلدية اربد تخلد ذكرى الشهيد جواد السلايطة بتسمية ميدان حيوي باسمه - شبكة تواصل الإخبارية",
+      "description": "بلدية اربد تخلد ذكرى الشهيد جواد السلايطة بتسمية ميدان حيوي باسمه &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbFJwbUhKWmI5SFBLaTBtVzRPZFRuQ2tmZDI4YV9zeV9rR01EMzdXQm1oYVpPaU9yaEdkNDVCYmN6M2pWMkVpUWJjck1HZE16RGJn?oc=5",
+      "published": "2026-11-06T18:36:37+00:00",
+      "category": "الأردن",
+      "source": "شبكة تواصل الإخبارية"
+    },
+    {
+      "title": "هاني الملقي يؤكد تحسن الاقتصاد الأردني بعد قرارات صعبة - بوابة مولانا",
+      "description": "هاني الملقي يؤكد تحسن الاقتصاد الأردني بعد قرارات صعبة &nbsp;&nbsp; بوابة مولانا",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oaWl5SXN1c3dZdllvMGZ2UnZKbDlvYVZHUml5T3hWQ01oVGh0RGRJMnlhV0VWQ1B6MjlzZ2hBWDhlTTFuNUdqQmVR?oc=5",
+      "published": "2026-11-06T18:35:23+00:00",
+      "category": "الأردن",
+      "source": "بوابة مولانا"
+    },
+    {
+      "title": "بلدية اربد تخلد ذكرى الشهيد جواد السلايطة بتسمية ميدان حيوي باسمه - الوقائع الإخبارية",
+      "description": "بلدية اربد تخلد ذكرى الشهيد جواد السلايطة بتسمية ميدان حيوي باسمه &nbsp;&nbsp; الوقائع الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96QUZiaTBJNkFvMGZvQWJtbGZVNk9Rc0lyTV9VQ2s5cS1iZkRCWmpsdXRScVRLRjVQdVdQNVBSazFpMjFVejQxTjZSTQ?oc=5",
+      "published": "2026-11-06T18:33:06+00:00",
+      "category": "الأردن",
+      "source": "الوقائع الإخبارية"
+    },
+    {
+      "title": "هاني الملقي: الاقتصاد الأردني أصبح في وضع جيد بعد قرارات اقتصادية صعبة - البوابة نيوز",
+      "description": "هاني الملقي: الاقتصاد الأردني أصبح في وضع جيد بعد قرارات اقتصادية صعبة &nbsp;&nbsp; البوابة نيوز",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vcjQ5UUFMWkExVEJqMXk2bW5mSzhiV1p5VUdGTEc0TXR1N2RuYUs3SGhhamc4WnlheVJxaFFjdGdvY3BrRlkzQWM4YS0?oc=5",
+      "published": "2026-11-06T18:32:00+00:00",
+      "category": "الأردن",
+      "source": "البوابة نيوز"
+    },
+    {
+      "title": "بلدية اربد تطلق اسم الشهيد جواد السلايطة على أحد ميادينها... - جريدة الغد",
+      "description": "بلدية اربد تطلق اسم الشهيد جواد السلايطة على أحد ميادينها... &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNMVdWOWJRZlR4b0hNWmktS3ZSVDYxX1gzeF9YcVRPVXBSQllOQ1F3UWpxaEJ6cGxPbDQtR1ZDVUl4T3VnTzM1dkR2V0xvNXRoU0tXTlg1R0ltU0ZBSUZCTmlEOGJCbUNhN0pnYXhMT0hRZzdCRHBzYU4yb0hJY1RhbzFyeE8tWS1yUVZTaXRoNk1iU0d5OWNKdlVTd2xJQmZ3aDBrZGpXOU1BcURacXExdzdqbUZwWjZXaC1QRjJsdnlIdUtxYl9OU2pqdDRQaV9hSWxvMUVjT1YwR1JJbXpSWEhzQm9aQ1FnY3Jsd0dBZDNTYjg3cnBneWZVbDYtQzZYQWFlOTZCVGducGVNSzJRd0p2dkVHQWRVaGR1SGZNNlFydVl0WnJEdjkxMzdpcy1XRWY5YkQ3dGgtRG9CallKRUhWMVVSNy0ySjNzbTFPcm1veU9fS3B5ai10eUZpRXlGbzJUMEh2Y1VjaVBqRy1GY20yS2JvcEZQT2Nzd3IwaEN4MmNjV1Zxcnl3OUJQbElwRktIRkdCTnVYbzRGNTMtYk9FNlVfaG5nVDNLdEFYY0dRN2dDNWx3Q2VWVG1Od2dfMlBHSXdVMDdlVVg4S2RGa0F3RmJKV0RqdW5HVnNiWVdaQjRTTzFVclJsVlFMczItSTJZbUpUTE94dkVfRVE?oc=5",
+      "published": "2026-11-06T15:41:28+00:00",
+      "category": "الأردن",
+      "source": "جريدة الغد"
+    },
+    {
+      "title": "الإفتاء: الفكر التكفيري معول هدم يستهدف كيان الأمة من الداخل | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "الإفتاء: الفكر التكفيري معول هدم يستهدف كيان الأمة من الداخل | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOdElaUm1JdWdQemp4MlVSbG1EUk94WjZuQVdIWjN1ZlphSFd6Z2ZpZ2xIQjVlSnN6U1dFRHloWmxpRXpYVUNfOHNMWnVjbXk1MXlHY3VEVkk3SF8taFdLZXl0STRUWXlmb3pRNFJqUXc3UGNnVTJlQ29Pb0thMDUwTUxJbnlWRjE4QjVrTUxBd0Y2RXkxc0daeS1WYkFKTS1SbTRXOUdJSjhmLU8xMzNrSVhWVnFkeURRVHdRYjhwTEl4UTZpQk5QYmI1LVRySkhENE1Vejdta3BYQUZHWjZUbnZtaVM1OTFicmdTaWE2ZENQS2tOVnQtZER2Szk0cnJNbGpkSmFxbWVwWEkyWnZ1YTliYjVYTXF5MHpkM2JHbHFQX1BjWlVZbU1BN1BiSk94Q0NUSVpaV196TTJKRWFHc2VxemtRcGhSQktMYUJsTllDZkRkbXZpaGd5N2dUTjhPT0xNeXJIeE5mcm1sYkcxdmI5RWhmN1c5YUhjRHdHamlRb1pCdEhtS09naUNGbWQ5a2tDQjd2b0VSX1BlY1Z1QnRHMVZWZGxOa01PbEpYUDhUZGRtMnZkYU9vYU5zS2UweUFIbTJXQ0ZIeG15OEE2QlltM2ZQTHdab0tRejUtQmUwX1RYaEctWEtyYXJuSmpkRVE?oc=5",
+      "published": "2026-11-06T15:19:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "التحليل الفني لسعر صرف الدولار مقابل الدينار الأردني اليوم: هل يرفع الأردن الفائدة بعد الفيدرالي؟ - Daily Forex",
+      "description": "التحليل الفني لسعر صرف الدولار مقابل الدينار الأردني اليوم: هل يرفع الأردن الفائدة بعد الفيدرالي؟ &nbsp;&nbsp; Daily Forex",
+      "link": "https://news.google.com/rss/articles/CBMikgZBVV95cUxPUXB3Z1dsYV9VaGVrdWpobHFzQ2xmdF9rTmRxTFZ1OWdnZG1JMjlzanRtQWhSUFhnOWZoVnRWTTdJOXFVSHdOUVZTTXhzMmdvMEdMbHVxTWFCSXpXSUw1OWFRVHExQ1pSRGlaTXBBc1NtS3BTNi1HTV90cTFPZUZZZml6YzdfQ2Z6ZTVrQ3M0OXRJUG51NnBvQ2loOWNuNmRxcXp2TUhLNFkxVThUbkxkRzA0QkR4Qzd4VHNneUJfQnVhUTNEeVdUMTU4UGw4dlR3dnc5TmM1RDIxcm9QeHVVQlFwbXZ5SUFvUjc4Y1cyWlRGaGVGekRyNE9hNUJueXIxZHV4V045a3g1Rk1DX3NLelNJTHFYMDFROUMxY2s0eGcxSVZJaW1iRW5QRzNrQUpaRUl5RERyWWpwNGlTYXlXa2NUU1k2WWgtLVFDTmVBQm9meU9MdW50dG1wWERrUWhLRnFsYUNNakg4eDZfU3RUeWNwSVE2NFpTRVRUeXpfNDRnWDVQLUhfdnNyQzhxbnBKU0V4bEk3d0g5M05ha3hCWXFGNzlySXg5RWhud3hxemF1Q0FGLV9WYWlCQ01WcUc2UFpZYlNvSldwODBidHA5TWpPRE1QM2drb1pZazN0SEtZSXFFa3JtbGRNZ2w5THZCT2Zjb1ZkLVdFNDZBOFRleDM1V2JLaGk3VjNBczU1Q3V5ZWt6NjhjUVoyUVdQSXk2X0hpX0dSWm5UcVlPUDUyMmw3SG5qNU5EbTgtWUdhalNubDV2anVMUnhnR2VpMU0tYUhxNC1yMzZaUlZTSUFNNENvWUFtN0RyVTJUdTVGaE53UkxlSUJwN2tMdjhORk5UNlUya1R1dDNEakk4QUgtQnpaWjRVVmlIeDlPbDRaWFdDM2RqMng1ZElFdTlWVEFEQzhCWGcxNThNUkIxdFhzd2lUUFEwVE92QkIxY1VmN0kwVW1xMDY1M0tfY2xhOWtWUmJqMHVQYkZpTDRaRTNYdHgxMDNJT0c0MEFiTC1zRHUwbTVBcFNnTVctOW1wZ012X2c?oc=5",
+      "published": "2026-11-06T12:57:59+00:00",
+      "category": "الأردن",
+      "source": "Daily Forex"
+    },
+    {
+      "title": "الأردن يشيّع السلايطة ويتوعد منتهكي الأمن بعد هجوم عمّان - الجزيرة نت",
+      "description": "الأردن يشيّع السلايطة ويتوعد منتهكي الأمن بعد هجوم عمّان &nbsp;&nbsp; الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSzJyQU93cjVTM2JoUkFPMnJDSEpXblhQcG83Wi1aMktxTFMtVVMwQ25xZ0hRN3d2T0ZSdXJYSldpOXZ0bmh6dzRPQXV6SlNJc3JabTV4TE9jLTZBLVlWdW5xQTdSandaeTdiMmVXNWhvUVp2MEU5MFU1ano5Ti1Ma0d0QnowelFBa3lVQWhNcjJHYkpBSkJvNi1aSzRDQzZkQVRINWdBTFliaDFBeW01ZWdzUkNfSnhFRG9QRE42blJjMGQtZEdWdXYyT3VnTEJsSVJ5MnoxNDJTQ0lPQkVKQ0h3LVY5cHVpUG9YMUpBQzdIelNqaXNibVk1cEpMaFdvWjVmOXdwU3NaUDAtaUFIamFRUkFuY1hhREVvT3hDWUpfejR4WnNfeEs1LTlYLV82RlY0bEM2bXZhcTdQbUpXaklRanh4WmNX?oc=5",
+      "published": "2026-11-06T12:19:07+00:00",
+      "category": "الأردن",
+      "source": "الجزيرة نت"
+    },
+    {
+      "title": "أسعار الذهب في الأردن اليوم الجمعة 6 نوفمبر 2026.. هبوط واضح - العين الإخبارية",
+      "description": "أسعار الذهب في الأردن اليوم الجمعة 6 نوفمبر 2026.. هبوط واضح &nbsp;&nbsp; العين الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaW9UWC1vS1hZRFlxUTJtSENhMFE4LTZsSlRCam1nQjFEQ0l5SXpZZWN5Ynl5YWJPb05lNngyRmtYOU84a3ZSdURvYWtTV0RKRHZ2NVBDLUVoaExHUVN2UVJ6enhaOFdHdl9VLVVYWUdkRjdnSUxEU1o1ck9uM0pBWGNR?oc=5",
+      "published": "2026-11-06T09:48:15+00:00",
+      "category": "الأردن",
+      "source": "العين الإخبارية"
+    },
+    {
+      "title": "أسعار الذهب في الأردن اليوم الجمعة 6/11/2026.. هبوط عيار 21 - قناة ومنصة المشهد - أخبار العالم اليوم",
+      "description": "أسعار الذهب في الأردن اليوم الجمعة 6/11/2026.. هبوط عيار 21 &nbsp;&nbsp; قناة ومنصة المشهد - أخبار العالم اليوم",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPZkdjU3FGUTg3eUpUN3p3Q1V4NnBLd3VDZGRBWURSZ1NSSWN6SVFUb2F6T2VDcE5lS216SXp0V3lOUzFjZ05vblBfU3pTQlZ4TGNrSFlhVDlJMlUyNXVvRXRQN3RGN3Atd2JKME9xT2hZRFp3aTgyR21WREpYY196OFFHOUxWYmcyZmJCdHNIbk94STBGc1BvbEdaTVlLWFo2eDRCQWEwS3EwdzgzUWw3VjZ2dzNtTEJoTXhmb19hejhoVFc2UnNwbUx4WjV0SGw2TGhCbWlZcnF6dlJnTGxueXN0d2x2bzFZZDJpYWplT3NKdTkwenJwUTVVSFJFcXFhMjZsZHpXa3VxcnZFR1dybHdjd2VsQzZjOVVNTm9oQk5vdXBKRFRSOEZKS3pzSHkxY3piaXkxd0xoVEtnSHZkMk9FOTAxbjJKUzhBNmx0aWdSd3VlNG5xaHRyc0Z2YTVkdTlzeWpnYW1jYVBjRmM0UjBndjRscjY2U3dkZjNseE5ubDhRdXJoYXJOaWxkd0NXWVlYX1piV19ubEdGN2p6WklBTnl1QXBkcGRkTU10RVhlOXpHNzVYaDJtU29UMXV50gHGA0FVX3lxTE8xSFlWUlBRWUJpTFlfU25nSFFyTGpqY2M0NTN5Uy1NdERKX0xNejE3MXhVdXJtdlBaNFZiSXF0MEhZYzhSN01iZTZJOGpSSlhrc00ySWtoY1R0SXZtdk1oZ3JFeHIzbzlZY2p6UC1kbnQtaXUyNllJMkI2bmN2cTNHMlpiaUI0azFfWGdwTXoyeE45UGx5b0tjaElPdnQtbE1ROXplUHk1aEFRMjhWZ01hNFBUSE56dFdSY05XaDJTQVhTNjBWaGd4X3lPXzhxWEVrd1ZwVkZETXV0a3UwdlRCekhlMEl5NzhOWWRFMGU4Y2w2VTJkT1VYemRGX3ZCdGU3ejFsYzI2ZWlvT3JjWVhjWl9VaWpIclJ6VFBGWXhRelAzX2FrX1phdHdha0pIZDZ4WmF0bmktdFFZYTE5ZWpySWZuWFREbzZzcTFLdjhSZEdhTVpiVmxfYWsycW1vSTZfYW10Y3JSRDU4Q21KVnk1anY4VlNTS1Y5ZU1rNzJBb0x2cmZpNnJyQ0dMZGdIQjRLblZRRTRLLW1LUlc3dzVnMzJrOUk4bFJ6QWtfOUttajJETG5IVk90Q2VNOG1RaWxRNHFKOEE?oc=5",
+      "published": "2026-11-06T08:53:49+00:00",
+      "category": "الأردن",
+      "source": "قناة ومنصة المشهد - أخبار العالم اليوم"
+    },
+    {
+      "title": "الأرصاد تحذر من السيول في الكرك والطفيلة | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "الأرصاد تحذر من السيول في الكرك والطفيلة | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNR1Uxbl9aR2dteXJiRUgzak56NzJiTkltSGx1ZXZramo3QmI1RHFNM0UwUzhZaVlYaURVTjJxYnNMUjZuckpzdF95TDJtTW9mR0RZNnhDdVFjQUFFeURnTXI1LTBQRkt3SmZfZGs2MVhLWmhVRE5Hb0JfRFd2ZDRzbW1RaGZHLUxYT0h0aUNhYi1WSG12eGhvN2h6Ry1hN3dwcmtWdkl1ZEt3LWZsM3FjUnZ3UHlERUM5WnUtcGxBaXI2d0ZkOFpZNXFLVGJTbU5Rc3Q0aTRFX0lqR3A0X0dmR1lxS0QtRHlSck9wUXhqY0Jfd1E0TUlKOUNsc2Y5YXZueDdhNEx3Z1JicEhYTkV3d3kyVC0yNFQ0NlllX2FTS1poRk5jSkVMZUlLSDQ4ejRaMnk0ZzlwQmo3VmxRalhHQ0tRX1ZmdXdJMERzd282ajNSWTZ1MDM5NkNpcTZJQVNGckowa0hkd01ZaXFKOWc?oc=5",
+      "published": "2026-11-06T08:20:50+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "بايع البغدادي وحُكم عليه بالسجن 9 سنوات.. ماذا نعرف عن منفذ هجوم عمّان؟ - الجزيرة نت",
+      "description": "بايع البغدادي وحُكم عليه بالسجن 9 سنوات.. ماذا نعرف عن منفذ هجوم عمّان؟ &nbsp;&nbsp; الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNE1ucGlZSFZiemItUGVkSDZlR0VZX1dXVlhPbllHSXl3czVPeDRyaWdlN0xyRDZUdXk4M0xpOHg3bzFBcE15aDFjeE9KSUh6WllPdWFoQjBBUmNRUFROR242SmQxQlExeVZ4Z1RqSkVWSWx3QUVLVjQ5aUNWcmRTN05nblNnUk53akVJWnFfb19HOHJnSEx1cGFoT3dGRUFtSU1VY0dRV1I4eVpiRkh2b2Jmay1icXUxdk9GWmJFWW5maWpmWjVmOThENWFLLUZlU0JWWUozczU0a3pPR3hVTktrVUxXNU9WeU9aVDRHNkQyYjVTU1V0c2t5T3dEbm9oRC0tNTJnZGxWVXpLZ29tamtUSnR5T19ubHItUWlPZktXbDN0V0lyOEpTekpHT1FGb1dB?oc=5",
+      "published": "2026-11-05T20:26:18+00:00",
+      "category": "الأردن",
+      "source": "الجزيرة نت"
+    },
+    {
+      "title": "مصر تدين حادث عمان الإرهابي وتؤكد: نقف مع الأردن ضد التطرف - المصري اليوم",
+      "description": "مصر تدين حادث عمان الإرهابي وتؤكد: نقف مع الأردن ضد التطرف &nbsp;&nbsp; المصري اليوم",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FNVpwbk9INXdsVUVWa3kybXZleW9WcDh6X3VkQlFUQlpIUzVQTng0VW1UWXFpUFF3SDBBZGJtbkEzendOMm5RWldEaXhvc3hrbWk5TU5lTk5GQ2w0MWY4?oc=5",
+      "published": "2026-11-05T18:32:00+00:00",
+      "category": "الأردن",
+      "source": "المصري اليوم"
+    },
+    {
+      "title": "مصر تدين الحادث الإرهابي في الأردن.. وتؤكد تضامنها الكامل مع المملكة - اليوم السابع",
+      "description": "مصر تدين الحادث الإرهابي في الأردن.. وتؤكد تضامنها الكامل مع المملكة &nbsp;&nbsp; اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNUDlaQzF5aWwwb1ZvYzNic1FkbU55WVRTeWlZMjlOMHB6Q2tHemMzYXphaVIyUFFXMkwwRWN2RXlxX0Vsb1RkYUNlbjNhQkNnWmZJZ29jVk1HUjFYUGtMaFFldVlOVjhlQkczbThnWnNzODhzQWIyM05WRUtwcERZQUdMY21uOWttcXk1a0wxRk5RS0M0a1E2S19ybnVyS0NVNUZVNnVHZm41ekZfVTVuQU1LUnlsQXFTalczak9NZEx1MGNGU3BhXzYzNmwtV1RlRWV5YVF3N2R6bDFHMXhXREk4WU5QNVVjeWVrUEtqRXNDN0o3SVZVTEhYd1pvaHZRb25vd25sMVAxTmFMRHNQdGl5U2xKWWpXSzdQSHdjc2dJUmFNVzlSbVdTNFlSSWNCQW9IdG9ZVTJvdHJxbVpfeVpWSXI2VWF5UzN4dTExTlpYZ2pPR0x4b2o5eHU4cGxnZUtuNWYtdmF5S0ltTy1kTXdsaGJWcUl3WXRDUWFPU1E5aWtfUlJwR014VW9xal8xTUVlZl9TNTJMZXFXcFFFRE9MRl9rcS04enN5UEpzblVQSUluSUdVMExZMV82WEFQblhiM2FvWTFONlBvTENzc1dvLU5zR2xXNU5MS0hZOUlOWTNqcjIza1MtbGtzUdIB6ANBVV95cUxOUGxpYlVyN3FVNktpOWJNRDV2b256QXloQ0RWZ3JzaXhtOHVQT2dUU2lEQW9oTEpnVTBySnlrM1VIbHRCT0RuQnd4REhDVnhCVGw4V3NHeUtPN3dPVmlwckZhSm9aSGNaOHR3VmZRdS16Y0dnaXpkTmxWSl9MR1FfVWd2Y0ZZSmFkb3lFUUp1c3JLTUMzWGtSWGhHS29HWVRoeks4YlB1UWFwd29Qc1M1YnZISHFGeHpUUHoySC0yNm1OcUN0RmhMNmZfYkp5WV9OYUtSNWk1cGZxZFYwcDNrOTNsNmRpV1pxR1NuN3Z6alo2RExBU1V6UXJybzktbW1Sb1FtM2VPOHRvalEtSHhnR0N3TnRjcFQ1djFUWkZNOHFNR05ELU9OZUwxQjZhMUI1Q2xSWGVKUjdHd0N4NGZ4aUtsSGE3bEhyYWMwLWxXNDZYU1JiYWcxTXRndTVVM3dIYkJXMTZ4MTJvRzZmZVI5MFJxaTZlWlY5cjM3eTZ2THpmVGh3MlB2VW5qdThUeEg5RGwwNEtYZll6U1Y5UVNrNGlPLWRNUzc5c1BiRGI1YVFObWw5WUpRLXcwLTBlY0xETENUSUhac2ViZUd5TXk1aDl6YWZ1eU56amFoajNOWDRkR1VaU2FsRg?oc=5",
+      "published": "2026-11-05T17:41:00+00:00",
+      "category": "الأردن",
+      "source": "اليوم السابع"
+    },
+    {
+      "title": "سعر الذهب في الأردن اليوم الخميس 5 نوفمبر 2026.. عيار 21 يسجل 84.400 دينار للبيع - المصري اليوم",
+      "description": "سعر الذهب في الأردن اليوم الخميس 5 نوفمبر 2026.. عيار 21 يسجل 84.400 دينار للبيع &nbsp;&nbsp; المصري اليوم",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kRUFPbmhnUzgtTFd2WlVpWlV4TTlFUDBHMy1qQ2oyVkZYM2xHZFczY0Q3c0hLWHNQNEZfNC16VS1SakhVaHhzeU5LR2l5UW4zcmRZakxBcEhEdUwxZ0g4?oc=5",
+      "published": "2026-11-05T16:21:00+00:00",
+      "category": "الأردن",
+      "source": "المصري اليوم"
+    },
+    {
+      "title": "الأردن: مقتل رجل أمن وإصابة آخر جراء حادث طعن أمام سفارة سريلانكا في عمّان - France 24",
+      "description": "الأردن: مقتل رجل أمن وإصابة آخر جراء حادث طعن أمام سفارة سريلانكا في عمّان &nbsp;&nbsp; France 24",
+      "link": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNX2VQYXB3eHZ1SVhDSW1mWUVSN1BnVzFpT0RwSS02RWR3WlhKa05PX0lfTjQyUm1XdVJ5YnIxSW14Z1FWNDA2MFRTS2NSdzhEUzFNcXhhdHNCT0ZRQUJKQ193b3F3X2ItQTByT0xqRmdjdWJhRDdDdmhkWTlMRG1MQ2l2S1Y3TXdvWlRKTkN1RjliU3AxeHZFeGp0cDhfaEZJa3hTMmJva25pdGhRX3dsVEtDVmFMbTctdjVzajI5QUxQYl9GbTR0Zkk5ZkkxaFVJdGFJVzZJSTJZRlppbFVqM2x0aHdWWU8yNVFibUNUeHJlNUtVYW9vM05lZU02OGZWU1B1N2tuTm9pRElFTVIwaVBwckR1cDR4MElCMUFoMVJMcnRTcElpRlpfX00zQktDZVZwcGM4VlhQZUJmLVNtS2REV0FtWFpNYzFobm5RZ2c1ZUV1cWxMbGZ6VmhTMkxWb0xtbHFYODVFOHFzWnZRdnFEQ1BzYmljQUhVUFR2bjZ3V3Z0XzZUYXBwUWVSSUdjRWllYjhCQWdpN1FwN1hCNUtKVkdJWVVfaFBESEpsMW8zMWtOTmZmRjVMaXBqNGZPaWo5ZHNydnd0aGwtaml1dTlfdHZYN1YxRlUwQVR4QkRLbjhkWkNESF9jRVgydUh4V0gyQWFybDhZeV8wRkhibUpJNm9Vb21CVC1pNE1BUy1PNzFhWGhFWU9SMzNnNWY4WTdzUDF4SHlESllVaWVZNzVLYzc3N0ZjWFBBZVYwNVpwaDk1bmhvQ1YyVVN3VEVUYjBHNDNoNWlmMkcwT21KQkVvY0ZwNVJOWEZ0QUxMR0NDWnlkb2swNFV5cmk4RHI0VVhXRXRLTkZRdy1lZFVpRw?oc=5",
+      "published": "2026-11-05T13:33:57+00:00",
+      "category": "الأردن",
+      "source": "France 24"
+    },
+    {
+      "title": "كنيسة جاورجيوس وأبناء الطوائف المسيحية تكرم العزام تقديرا لمواقف بلدية اربد عقب احداث حمود - جريدة الدستور",
+      "description": "كنيسة جاورجيوس وأبناء الطوائف المسيحية تكرم العزام تقديرا لمواقف بلدية اربد عقب احداث حمود &nbsp;&nbsp; جريدة الدستور",
+      "link": "https://news.google.com/rss/articles/CBMizwVBVV95cUxPVjIwSkN2bm5aMkJjRElieFBnMG9FMzlIb0dOQnNPcEwtbTh0and4MTlNWERBVjZveGZydndINUJfYTNwaUJ1eWR5cXoxR3N1RG4zakFzSnVqNGVnazlwRDRtSGNWejRBVUdJSkh3Z0pUZldWakVKWmhsYi1hbDVUR2dNZWhjVThCbTZXN25DejFCQWQtcnNtLUU2UEVwV1UxTTVKMXJlVjF5LVJuZnl3YlFYRzVLNExKT0tycnNUdUhxQVk3SFdnRUxYaE9JRzFXUFZ0X19vMk5VVDlCRldhV0NQNEdEV2ZkbWFnMjZOWUxiU1VjcC0tTGtEdms3ak14ZTlWb2tDVU1rakl2aFEtSzRDb1NnWFZzRzktd0o2eV84aDdRUW9Dbmo1OENWdnMtU0lMeXJqbzk1cVlBa2g1TkVZVElOODBSVE80VkZsaUNKSHVfWTJKc3pEdGZKRDQtV04zV29SWE53cWVYSUtWb1BfZmR1cUs2RDZ6MlhKWHA0RTBKWWZHajFSNUV1U05xSklyem9iTnYxeGtxMFJMV3JUQndKZFNqUUJlUmhvSG1raFctZnp4RVVCNVFIMmZpbEpHWlZkaG90RmJfS3p1WExVcThZLUlmb0NJOWc3Y0MwUUliNElnTU5ZRGRIUkNRMS11SVRoc0JtS3VvNU1BRWJZa3NVZ1FfVk5GSVp5a1NIUlRfRmlpRGgzeGJPOTBGN0ZqM3ZlWUFyMjdmUzQzbi1oMC1DYjFEUE55MHBwT0o2N19vUjJ4VkNUc0VxR2NFQ0trYVQtaW1HeGFxdTRJVWtSUFQzLVdpU2c1RTRiQ09iajcxc012Y09NM09GVXlDQ2QwN0Izc091dTJJOFhTM1lpR0pJb2JVSVJRNmdJeGd5Sm5KTUp6aDNDYjJDVVNhbVM5Tl9qS01tU0ZHZHQ0b1dkRnV1R0RKTGt3aHhSYw?oc=5",
+      "published": "2026-11-05T12:50:56+00:00",
+      "category": "الأردن",
+      "source": "جريدة الدستور"
+    },
+    {
+      "title": "الأردن يكشف تفاصيل مقتل شرطي وإصابة ضابط في هجوم \"إرهابي\" - الجزيرة نت",
+      "description": "الأردن يكشف تفاصيل مقتل شرطي وإصابة ضابط في هجوم \"إرهابي\" &nbsp;&nbsp; الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUlNVaUVGVnZDd2hkOXgxTHo0NUkxNkEzUGVCak5WclVEQjNvaFYyWGlsOEdIeEowTksyMVAxano2cTdINDZQN2pBdTNtd0F0Yno1UVJsSUtXU251enVUMWZSZWtYNDNEa1Jsb2lqWjk3c1ZFSWZlYXdQMHp6VVFhZVN4Sk9MRkRYeHBRSE14M0xBLTJ1SXFZZHA2MTBiODRoR1ctZl9BOWhwWUNUTzhlVWYyRWpNNFNPTWY2Z1NUU1dmbFBOOXZBeFpVcF83RDRDRHpiZlRrUHk2a0tHRXd5T0pwdVVTbUFZTnZJVXd2aUJXcVRNWHhOeklTUjhTQ1Faa25USko4elFTZEI2R1lKaGYtb01VZWVpaVJXb1VaSzZuU0RoUHFyZ3hIUXpERGtqRkwzV1NPVVN6Zw?oc=5",
+      "published": "2026-11-05T10:03:29+00:00",
+      "category": "الأردن",
+      "source": "الجزيرة نت"
+    },
+    {
+      "title": "ولي العهد الأردني يبحث مع رئيسة إستونيا تعزيز التعاون في التكنولوجيا - اليوم السابع",
+      "description": "ولي العهد الأردني يبحث مع رئيسة إستونيا تعزيز التعاون في التكنولوجيا &nbsp;&nbsp; اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNaDRxbDlONUkxLUdjM25Rb3JNbWhsZlZHeldsX1JNVXVGdnhNbEVXR2VuVngzdmlnNXVnWVNkX0Yzd1p5Tk1LTHotbEJCeEppYVBzVFhGTDFUYWRZMnVBX00zdkpFc0FPeHBlTHF5XzV1Y1FCN0ItQWtpbXBrME80N3pKbHpVNUdMQmlPYnhIYk9DcjZCMzR6c1plOEd5SWVlUnZ3bWNBX0RwSDNzWlhLZ0d3RE56VXdqM2pxakRoeU9CcWVUV2ExSGdZQUlGSE10clljOGV4ZWVaQS1HQWk2aFY2NDhDYW9sZ0Q4eFlSTWM5MWxTVVoxeXdnd2FrRFJ6VlhhWUo4SzVWYWdnQjZVRVNTR0l6d3ZPckprSnFXOUktZnZmMUNRRFh5N2RVaEJDVXRscHdjeDMtVDdNVlJIRlhIU1NTTTFlZlM4LUl1YUZGY0VwOEowQXRmYmJjUEIwOHNUMFZjVjg0VTZHanlzQlJvYTF5bWZ1NWE0cEpJT0tsbTlrVWdjRFBFVmFYSVJtekladlNhbWZYcUNBWkRMb05UR3RKVHRxVW9wWUtxa0pkaDRjcGhqX1VqREJXNFFYd3ZQbVl3QnZUeTdxb2ctaXdvVkFXamZfRU5VWVhn0gHYA0FVX3lxTE5IcnlPLTBfWmYySVlQM2xlZHhseTk4RWpBT2NOQ1VPQW55SVBhdEZwMzNBajJOZXBvVldTUHpwMkRGVmNILU9sc3NyWTl4bExDX20weENHZDIyZWljZmNCWk5sVmlPeXo1bmc4djNrMm50VHlhR1UwMjVtTHVhNWFBdThCcDNRTW43dDNDS3QzeXZRZHFoWGV4eHdUbEhnZkhua3hteXg3N004M2lLX29TeWNHOXJwLVNOdjVObXJRRzBNOWNNdU9DTlFFck53WlZZeXRWbjN6S0pDWXdaZ2I1NWd5RDd1ckZRaFA0YktsZUczbHZwRU9xOFhsZWNYZUI0bzFDZ3BENlNpSHBwZjIzOC1HcVNhdi04RVFycnJ0MVVhUjZCalhmd0ItYkhCeHl3dkhxR1BNcFZiNWdrUDRVMUdzUWxBTkVjX2dZQ3BqcFczX2J0emlFc0tSTmw0U0x2RVFMWVBtd1NvQ1hGc01uM0hkU1BvMDFqd3JGTFpkVFR2dmRBRENQVTJTWHRLeHd1Sk45WU82UjJCSGFQeTljN0VIX2xjZGhpNXduZHowUzVsa3lsVVpPZXl4V21rUVVRakE3VEFGSk1TdmluZmtlc2dfdXlUTEU?oc=5",
+      "published": "2026-11-05T04:00:00+00:00",
+      "category": "الأردن",
+      "source": "اليوم السابع"
+    },
+    {
+      "title": "وكالة سرايا : مـيـاه الصــرف الصـحـي تُــغــرق وادي الــرمـثــــا .. ومخاوف مع دخول الشتاء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : مـيـاه الصــرف الصـحـي تُــغــرق وادي الــرمـثــــا .. ومخاوف مع دخول الشتاء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNdFdKbWZ0U2RmdmdNOHpFSS1GbDBvREVMemk0ZmdkVUhTbUU0bjNwc1RQcHBOZTZNek1XMmg5eUdFd3psZ3dxX0pMUnRWNjRNN1A5LVBnazdzNVMzRDQ5U0xCaWpDa1hqQjV4MW1xWm91Mm1PRWZfYkJBSjNralgyT1ZFNkl4TVNvbm5OdnZpT19ERk1HdFh6czhkcGJoaHdmWm9tZ3pERWh3TDJUanJYRXM5VG1CaU1MOU0zdXFaWTB5V2ZnczI0NkFIeF9mSkhvYUZybU9aUFYzRjBDQmxzZHpaR19qVUpwMlc4Y2tRTHE0N3NHcF84MEZGOUlvYVpsRFFlVjJGQmxJVElFcFpLQ01ZRC1CMjF3RWotMWlCWkcxM2JQNlh0NldaUEhzb3dHSFE1THJVWkM3NEdHQU4wWWhvRi1UVTVhNXFlR0Vqd0pmdzlmVlAwRlNpV1VQbzZSeWVuUVRPLUlFZkV6VFZIUGZZRWhBWnlXdUg1cWs1Q0pKTmdqdUZJZjhRWnhmclFiUG95U0JBN1Y5aTBBeHlKV2F0d1ZuLWFwU3ZmX3dTYy1Rb0RLX0dWTjFXeUtFOE05cHpOTFhBVWRHYmJaTm5tQ2VIaGZ1Sy1MRkNUSjZCNDA5UkVMT1BKbGZ0eFBpRXp1QTB2aFowVjVIMnBITUsxRGlsNmFVeXlXZ01XMnpLTQ?oc=5",
+      "published": "2026-11-05T00:10:00+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "الأردن والإمارات يبحثان تعزيز التعاون العسكرى - اليوم السابع",
+      "description": "الأردن والإمارات يبحثان تعزيز التعاون العسكرى &nbsp;&nbsp; اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQbzFSN19yTF9HTTNMeXFJQ3hPTC1nNWtmQ2lSMVV5TVUwN2FySW84eGtoU2tmX08wNGhDbDJpaEc4azFVcUtyUUtubnllOUwyWUlPR0xzQXBUM3NJQ2wzdTExbEZacVp6M3MyRGlWMXpyYjZzTjJ5ZmZVaVpDamh3cnNOUGs3VUtadkFsV0ZBaWlma0xUTkZZd3o3cDZpbkNsZlZybkFZVmJiSmVtSl96eXZpTkQ1V2Z6U0VodHVRM05aWWhfVjc2R21WdGhlM0x2OS1jQXdVMEhlLUdoUGl4WW5yWlJTTVpFTElXRVNNZW41UWRLVlJIWXpJN3BoV2VaV1VHVF9iUHV0bU9XRjZjRVZ0LVVGa3FLWXJQTWZDemlSbk5fOFEtUkwwdV8ycTA5ZjA1VjJmeGZnYUhsSGw3LUJvV0FjZFcxYXg2WjJGa1BSMTdGSlFMcm1TdHFCb3FTbC1RdGdjN2VsRmVWaS02R0NncE54N0lUazVwWGY0Z0pqV3M4aXdpODRrdHc5QnRPaHp3V2U0UHJkaFFXbDVMMtIBmwNBVV95cUxNYTQ0bW54UXVFN25SOXZyUEVDR1BYS2RHSFpXbi1wd1dHdF9SdXJLQUpFZUllOU9yMVN3UExZQjhIbnQ1SlZNM0FfZElpbEV3NUp5VFkzY3hDejNnYUVwcENkLVU2dmVVVDltR0V5My1rdjF1RFIzTkZ1MVBpY3ZpczFZekdwdzU1MFpqUnFTNWhIQkhGbi04NnJzOGNjVkhkZnFnRkVvZTBsX2JkbmN1bkp6NUM1VUlRQlVJZ1VFdlJBVk5qaWFpT3A1djNEYTQ4eFl6RGxReGNjYnplZHJhTFo2QlVhU0lWWFpNWHNWdXpOWF9KVjdRVFBObDZHSFVTNmMyYkozQ3FJdy1nQnU5cXVsX1JfdWdtS1ZkRlFnSTUyamxLX3B6dGRKT1JVRFdxTWJzSGY0bHQ4UnZEOXF6OVd6dzVKTkZtRUVwa045Z3dMX1FUMldKY2lrcGhWXy1USmJJMmxWUXFkMENHLVJ3bjJnbEJfTUpSNFN2ZE9JRTVVaExQVWJyTXhrOC1GYU5BeVp6dmhIeThYR0E?oc=5",
+      "published": "2026-11-05T00:00:00+00:00",
+      "category": "الأردن",
+      "source": "اليوم السابع"
+    },
+    {
+      "title": "فاقدون لوظائفهم في وزارة التربية - أسماء - آخر خبر",
+      "description": "فاقدون لوظائفهم في وزارة التربية - أسماء &nbsp;&nbsp; آخر خبر",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNnlhdWhwQW9WUlhiSXNvbVZVd3RpbFpCeHBFUV9QMnE3cHNTNENEb3R4N3d3bEVXdDdVcURsbmpBMUtlc1NDbFFIZnR2dzVYajQyOWhxanpIOGp4RGFuOWoxRmc2UkhSUjNUZkNsNzNEN2NsUTVFYmRUQ0JqWlZDaFFLT3VUQnJoNjFjY1Y2eGNfLUhBcldPVTlKZ2hhZGhfQTVaOVEyRGxhSXEzcGdYcGJkdUpQMVRXUHR3TlVtOEpFWVRmZzl5dDNiX0VSbm5qSWVRa0NUOHF0cVNEYTgydTREMFVjaEUxeFREU2ZuczdEZEt6QkxuQWJpUHJFdTRlaktqMEM1bjE4QXlwV1RvQ2tTMmpCMGxweXB3b1V4aXIyTldMV3RPdldCemNHdy0yY3cycDB2YWplWDU1OEhrTjNMSVlYaTF6elp1VFBnU0NHV0hWM1pFZjNKcXlOVjlNMkhvUHNwMA?oc=5",
+      "published": "2026-11-04T22:40:25+00:00",
+      "category": "الأردن",
+      "source": "آخر خبر"
+    },
+    {
+      "title": "مشاجرة في اربد تسببت بإتلاف كميات من اللحوم والأسماك - وكالة رم للأنباء",
+      "description": "مشاجرة في اربد تسببت بإتلاف كميات من اللحوم والأسماك &nbsp;&nbsp; وكالة رم للأنباء",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRG4xbGZiZVFwbkZqU2dRMWdCQmUtZG1vZmVFYWU0V1NEcU85cllXTlBaRlZYRHFBVzJ2LTdJNTlZb1B2bmtUZEVKbXNxdXNPLWc?oc=5",
+      "published": "2026-11-04T19:13:22+00:00",
+      "category": "الأردن",
+      "source": "وكالة رم للأنباء"
+    },
+    {
+      "title": "مئات المدعوين للامتحان التنافسي في عدة مؤسسات حكومية .. أسماء | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "مئات المدعوين للامتحان التنافسي في عدة مؤسسات حكومية .. أسماء | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQbk82YkUwa0tWalBjVFNjSEVKekxsOWNBLU1FQ3o2Z3dabW5xdUFRc3NKUXFzQnJ5cnlNcTF5TnpUazVSU3pCdVViVmFQc2xrTVpRSHczM2wza0szT1RaNjJEVzVNSGU3QnA5Z05QMmZ3WnBoZmNld20zekNBTDE3SnJveWRKWndWZ0tETFRUbWtLRXl4RXg2aUJHOGYzN05KTWk5VEpEQnpEbkNvNEM1MFl6T2Q0ODlsNFN2TEFEYzNhY1BlU0k0Sk8wUzlYTTA2bWVWX3Y4YVRWSURibVZxb1FxOE95ZXc2MWY1cTMySm11Q3p4S0RQcFg1ajhURnY5d0NtV0JtM1hCWGpValJUSnZnVWxDNFA2dlptMmY2Y2I4aTA3a3RZWDJSejU2bUh1WTJHME9Vbl9jdWZUYTBibjdfSDBoUXRPM2x1alZvUTRGSjBMRnVLZDZjUU1uZU1halc4RG1BNWhaWHNTQ2NqT0xwTkZCWU1FblhaNjNlMEhlalUtbnNqMUF0STdzWU1JbWNqTVA2eEEzb1VQcWwzcW9pWkZoRjN2bEpIVGt3Vm5RWEh2SWQ2cXhQZS1CNV9TbWR5QW9pVFg?oc=5",
+      "published": "2026-11-04T15:48:19+00:00",
+      "category": "الأردن",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "الخصاونة للحقيقة الدولية: إخلاء وتدعيم غرف متشققة بمدرسة خالد بن الوليد / اربد - الحقيقة الدولية",
+      "description": "الخصاونة للحقيقة الدولية: إخلاء وتدعيم غرف متشققة بمدرسة خالد بن الوليد / اربد &nbsp;&nbsp; الحقيقة الدولية",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jZEpBWUljeDJlaFZCdUJrNmZxcTRsSlV4UDdXVm1UZGk2dFFQNy0ybWtQNkNSLUdoam5Mci1RNnRNZWNG?oc=5",
+      "published": "2026-11-04T15:22:00+00:00",
+      "category": "الأردن",
+      "source": "الحقيقة الدولية"
+    },
+    {
+      "title": "لسنا بحاجة إلى وزراء يجيدون إدارة المكاتب… بل إلى حكومة تصنع اقتصاداً! - سواليف - والهرج للجميع",
+      "description": "لسنا بحاجة إلى وزراء يجيدون إدارة المكاتب… بل إلى حكومة تصنع اقتصاداً! &nbsp;&nbsp; سواليف - والهرج للجميع",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPN2ZIaXFVeDdXcEVUa1Z1UW5QV1hsNXVuSkdlcHV6R254VVhvZEt5LUJQY2FKOTh1OGJHb0tXOFBKT3IxeWdDbm9rYXRuR2lyellUdHhBVGJXZ1pKb0NMQ2lybEJsRk9IdnZyYkFYS2dfU3VCTXk5WjN2YUtUcVpxdFA3U2RCTm9JcHg0ZmR3bnR3YXZQTDN0YVhzUUtZMDQ0cHFPdko4QUtuekZzM21WT1Y0bzR6NTRDemN4c05oOUx3UnZQQ18xM3p1TXNYYkoxanpTRlQwdzRrc3Uza0tMYUhzZGdXMEhIZ3ZiR0RoMHNRelRuLWtxeWM1ZkhsNkh0Wm9sTDc2M1NGSFdSVDJXTFJhc25jdmJINENuZmlPNTZLb2hlNXBpcWF6Ym9oNjlBOGl3OTI3aXZINUp5M1hBZ1doNS1jOGt3UENRQg?oc=5",
+      "published": "2026-11-04T12:20:20+00:00",
+      "category": "الأردن",
+      "source": "سواليف - والهرج للجميع"
+    },
+    {
+      "title": "نشاطات وفعاليات مجتمعية متنوعة في عدد من المحافظات - وكالة الانباء الاردنية",
+      "description": "نشاطات وفعاليات مجتمعية متنوعة في عدد من المحافظات &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQMTRHdXlFYllfREVGOEVkU3R2dEdLQy1Dd1REX3doVEpnOFY5bDBGU3ZGcTVzSEdrdi1pZXV5eXZWaEx4eThmSTVPNjRfc3ZtYWFzM0dXNF9mTXRZbTlLQ0pxRS1qSFZjcWxMd3FNWE5razZCX0I0anpLRWJfWFFGbVpNcDJwNWRiWVVxdWJUNU5ZaFc5aHZIX0s1OXp3NnpvVktxMmdvVmJ5ME03U3ktc0IxVDZFLW9jTUxad1pNMk1RaUZMY3BCLWFCeWp6UlktbkM1Wk0xUEEzSlYza1VkUnNjQmJWeUFnQVhEVW1NaVBOcnhRSnFUYjJPVFVGLS14UHJacTFjQnA5Tjd0ekd0YVd1eEowMmNDdWhZeFBja2hmQzBIYlF5a2JvdlA2aUhfX1F3bFlKbVZ1S2o4VlhROUNlay1Hdy1scGpSTVB3T1VOT01iazZBZ3pzNUpOX0hLRm1lc19qdVNjUkhCaUlGeUhla1FBT2NVaWNORThZZHh5djJYOThqNVRTMkZyNkkxRVJKVXJzVENDLVlVVElDVUNjUHdCNHpENS1BTQ?oc=5",
+      "published": "2026-11-03T20:36:45+00:00",
+      "category": "الأردن",
+      "source": "وكالة الانباء الاردنية"
     }
   ]
 }

@@ -36,7 +36,7 @@ if os.environ.get("PUBLISH_TO_FACEBOOK") != "1":
 if not PAGE_ID or not TOKEN:
     raise SystemExit("بيانات الصفحة غير موجودة")
 
-url = f"https://graph.facebook.com/{API_VERSION}/{PAGE_ID}/feed"
+url = "https" + "://" + "graph.facebook.com/" + API_VERSION + "/" + PAGE_ID + "/feed"
 payload = urllib.parse.urlencode({
     "message": message,
     "access_token": TOKEN
@@ -44,8 +44,13 @@ payload = urllib.parse.urlencode({
 
 request = urllib.request.Request(url, data=payload, method="POST")
 
-with urllib.request.urlopen(request, timeout=30) as response:
-    result = json.loads(response.read().decode())
+try:
+    with urllib.request.urlopen(request, timeout=30) as response:
+        result = json.loads(response.read().decode())
+except urllib.error.HTTPError as e:
+    print("Facebook HTTP Error:", e.code)
+    print("Facebook details:", e.read().decode("utf-8", errors="replace"))
+    raise SystemExit(1)
 
 if "id" not in result:
     raise SystemExit(f"فشل النشر: {result}")
