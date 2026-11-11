@@ -1,0 +1,40 @@
+name: شملت - النشر اليومي للأقسام
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
+    - cron: "0 20 * * *"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: تحميل المشروع
+        uses: actions/checkout@v4
+
+      - name: إعداد Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: جلب الأخبار
+        run: python fetch_news.py
+
+      - name: تحديد القسم
+        id: category
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 10 * * *") echo "name=local" >> "$GITHUB_OUTPUT" ;;
+            "0 13 * * *") echo "name=sports" >> "$GITHUB_OUTPUT" ;;
+            "0 16 * * *") echo "name=economy" >> "$GITHUB_OUTPUT" ;;
+            "0 18 * * *") echo "name=tourism" >> "$GITHUB_OUTPUT" ;;
+            "0 20 * * *") echo "name=community" >> "$GITHUB_OUTPUT" ;;
+            *) echo "name=sports" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: اختبار المنشور دون نشر
+        run: python post_category.py "${{ steps.category.outputs.name }}"
