@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-11T17:44:01.633285+00:00",
-  "count": 54,
+  "updated": "2026-11-11T18:38:27.967098+00:00",
+  "count": 53,
   "news": [
+    {
+      "title": "زها الثقافي والدولية للإغاثة يوقعان شراكة لتعزيز تنمية الطفولة - الوقائع الإخبارية",
+      "description": "زها الثقافي والدولية للإغاثة يوقعان شراكة لتعزيز تنمية الطفولة &nbsp;&nbsp; الوقائع الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wOWltZ1N0dEFDZmJwYzBjSS1lRkR5Z016Zm9RRFNHTTBxQ2loSklPdnhpaDQzcVVfMy0weTRZNTgxZDlLb2pCQWpwRQ?oc=5",
+      "published": "2026-11-11T14:09:45+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "الوقائع الإخبارية"
+    },
     {
       "title": "بعد مغادرة منتخب مصر.. حسام حسن يحسم موقفه من تدريب الأردن - الوطن سبورت",
       "description": "بعد مغادرة منتخب مصر.. حسام حسن يحسم موقفه من تدريب الأردن &nbsp;&nbsp; الوطن سبورت",
@@ -172,15 +181,6 @@
       "region": "الأردن",
       "category": "رياضة",
       "source": "winwin"
-    },
-    {
-      "title": "منحة بقيمة 315 ألف يورو لتطوير مصنع الحاويات في بلدية غرب إربد - جريدة الدستور",
-      "description": "منحة بقيمة 315 ألف يورو لتطوير مصنع الحاويات في بلدية غرب إربد &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNamEzTUtubTZHUlJTSnNWNUhLWUREUVNZY1lPaVRkZVdoblVOcHVDcU81cExjc1NGelBVTVAtLVFzYmpBbXc2U3A5MFNkd2ZQSlVSUWJzMkVDUVItMW5IMkZWMmJvRWFLdmZJclZmcF9veXNaSWluMlV6WjB3SXBETWlqZmlRc09tRkYyUVN0SW1BSWstbGp6Tl9QdXdkT3NNeko4N3hpUmpoRUNLNzFNSXhLUE5NVWNsSGNuNjhBN1VoVFFXa0RKMENIOUU3N093YmxLNnlFdDlaNjZMdjM0amItNElrU1Y2cVVUZklGSmJyRjd3Wm9IZ25OT1lac3FTWU5Razg0SmI4RVRCUWJiTGM1cnB6blNXQmo4ZkRPQVZONHpuUGVoZTQtZDdxTndyZFpxMHdpdW13QWY2WndtLWppWldfTmdHUkIyMGdRa2VjR2ZiU3ZQYzVtZlMweVQ1aUZmSm1BM1ZFNEhFVjh3Vm0tZjdVSWJmTzJlUXNzcE5lWVRORGg0MVp2RVBwZENyYjJybDBZVkU0SzA3cEt1MHc5dnVUWVNpbVdVVnNDREd4LTRWb0RKVnl2eGYzeTN1OU5EOC1QZ3o4ZVhWSF8yTHVkODBJWGt0VWZMZjA5UmNOTkZaN19nRg?oc=5",
-      "published": "2026-11-10T08:26:26+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "جريدة الدستور"
     },
     {
       "title": "\"حقوق ذوي الإعاقة\" ينسب بإغلاق جهتين ويشخص 1366 شخصا خلال شهرين - قناة المملكة",
@@ -426,24 +426,6 @@
       "source": "صحيفة الخليج"
     },
     {
-      "title": "البرتغالي جواو موتا مدرباً للفيصلي الأردني - صحيفة الخليج",
-      "description": "البرتغالي جواو موتا مدرباً للفيصلي الأردني &nbsp;&nbsp; صحيفة الخليج",
-      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNd1VuTy1aY2R6cnNPV0NnZUhQX0xReEF0X2VpT1NXUEVwSVlxLUhYbXpQVFdUUVdMLXZ6RVZEQnc1eFlwM2tPN2I2ejJoSGhscWt4aW9HWEtWUGNnNUwyTWVrX2QtUTVKR213N0t3M1oxTFY5MGpBWEV6bVJzcWsyUDVUOHhfbGxZU1hTVVZJTVljLXB5Z0oyS0RLMVRjNjFETm9oRUpxTE9QVmxma2lkbDZoRzhUQ0x4dG9qQWM0Ui1FbGFSOW5OQUdvNzdCenZqZkFwc2ZhQzQtbElZaDNRMThGeWRveFhsSXpPUnhVWF80a0NtaTBmalYxZjFveElHck1vX3FDMzNnWXhvMUR0clM1dmZSc3BkSF9IQmJjWFh6UGhLQl9lVEN3ZVpQWmt1LW4tTXp2UUN2WlRybEhfVUVNMG9SUTNJaHFOR0V4bkMzZUF5V2dnQTNTY183SEI2aVBvVDg2eHFLTlJ3RkVOTUYtMFdNUmYybURSVmttbzR2SUdrRDhRY1BsSHd4TVY0WHZGblNQOC1OYmVKX0p1Rk4tWmZCVmxQdFNoTm5QVWVEYVNjSkc5YWZ4RFNGdVVoN0Jabm5LTGhnaGpQa1k3VjQ4WGRUVE84eGtTcl8zV0g0VFNCWTBZU2lobDlEWHc?oc=5",
-      "published": "2026-11-07T11:29:55+00:00",
-      "region": "الأردن",
-      "category": "رياضة",
-      "source": "صحيفة الخليج"
-    },
-    {
-      "title": "\"السلم المجتمعي\" تدين اعتداء شارع المدينة المنورة وتدعو لمعالجة جذور العنف - وكالة عمون الاخبارية",
-      "description": "\"السلم المجتمعي\" تدين اعتداء شارع المدينة المنورة وتدعو لمعالجة جذور العنف &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJOUgzVkRpMVRUa2d1V0N6dVN5ek56UE1wQk1DWU5pNWsyay1qcVhoMGcxMHJZa0l5UVJGZjZqMXV2SFAxYk5pNUVoWkM0eVJhS3V3?oc=5",
-      "published": "2026-11-07T08:36:23+00:00",
-      "region": "الأردن",
-      "category": "مجتمع",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
       "title": "الدوري الأردني - الفيصلي يقيل مدربه المصري طارق مصطفى ويعين اسم برتغالي - قناة ومنصة المشهد - أخبار العالم اليوم",
       "description": "الدوري الأردني - الفيصلي يقيل مدربه المصري طارق مصطفى ويعين اسم برتغالي &nbsp;&nbsp; قناة ومنصة المشهد - أخبار العالم اليوم",
       "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQSHlCQXZ6dm5CZnJvWU4wN0lZSU5PdzUyeC1JNmVyTm9CSk14ZDV6MVp6bHR6T0ZyVl8xVnBDUlpYN0F3QkxyaHdNbkZVNlotZzFwblVOelJKdGJXQXZMZFpUUWZPYmZVNlhWZXdyNzlraXY3ZFlaZi14cEVzMFNQNUJ1cG1Edi1YcmRUOG5ZZDFWbHB4eFprRXBiNldHUHl4ZWVrWHBTajIzaWd3LU1NNkpwV29DRkc0SW5QUE1CRDgyNlh3cG1QVVZZaGNQVE13QXFuZUNxeGRpOTU2R0lmU19rTmJ6UF9jMUtxbXpvRTN0N2g4V1pSMm5CYk1ZTmMyR0RXd1Q5MXJWdFRlUm5WczhUT3RGRmhQRzYyVUgxUVdzS0c4dGpPbGp4bGIxLUl5dnE0T0JzUnJWQkF1SWVjYVNSNFd0VF9mOTB4QjVmaWR5WmdsVkp4c2JGZk90NHVuZm80YmZkR05IeEJDTkQtd1VSSVctOFdCRWVyUlF0MzE0WE1ndmVnenl4dllmMHlmTFNTNFphZ2dzSUVJVHpYS2R5ekFmcll5RTNNeWd1NTR5enNacXozVml4S2NuSVplSEdBQlE1LXA3TGVmaVB3cllvQi15Ump6Mk11cGxmMGljYmpiMTFiWUxMTmZTcG1iWGc1bUtkZDZrcjVNVy1aVE9RcTlzN1Y4X3d2THZhV1lKLVprdGppaUtCMzROUnJ6aU9VVGcyYW5SRHhCTVlDZ3NlQ2dHT01VSlBldEROa1UzV3huemlxMnBLVW96WDdWTmlodFh0UThib2I2MkJQa0FFUFXSAeoEQVVfeXFMUEZIZUFZeFdkOHRMeUZ0d2NUME5YRWZYU01JQWxqNktnT1FDT2pqWVlVanpnSDNiak5zbGFwRXU5VGktM29Bc2hjV0pwb2hHeEJQaEotYUs1WTdWaGVDaXg2NVlITEJRd2RpWDdtUVdVNHV6R1ZWRDlBeUtZZ0cxcjFvZGlSemdqYk9sN0pRVFVHaThlSVYtYnNwUThLSHVPUHhjY1VjZXZxQ2hiMW1BLWdqUUF1SUZLeXh4bm91OFFOaEEyUVRrX2ZVZTJMX2cxYzN4b3BaZURUejFodVFYTzRHRF9SdjZnVEVWVE1lLUN4cFFzd0JmaThDRVFzR0JrUUtkQjFXRnRrbmtZNWxRSTFMekZlWXNCR0FnTFpVYlZtdEdEQTRLanNPV2Utc0d0Yks4V3ZFbUhQdW1PaGdZVXN6R3NianZCc0NmWGc0UTlCOWJzV2hmeFNyaU1RbmZzSGk4c0VJb3g0VnNlZml5cWlNX2twSkJNVmR1cGVJNlBpUnE0T1dMV0huLWhKVnVFRzBDRVBwUWpYVlpkT1Bzd2I3ZlJUQzhXd243S2pkQm0zbkxBRXdLSHFTTEV3V3lvZzBFdjdvX3pBbWYzVWVZcXlzME82UU9qYWRtVFM3MllrakZhTzZFQlBMeExZSWhTWm45MjFGRS1acHFSeWZXTHRvZXU1cUFnSFdZc1FnSGk5M1RQTFI3VVJyZk9ka2ZUSlpjOGJNVmQya19BQXhUenFxMEFjOWdTS2pxdi1PM2hIUXpFcWZUZXU4ekdObmZzbXVZNTBoNU8wVDhpSVhDdmxJWFZ4NXR1a0V3?oc=5",
@@ -451,6 +433,15 @@
       "region": "الأردن",
       "category": "رياضة",
       "source": "قناة ومنصة المشهد - أخبار العالم اليوم"
+    },
+    {
+      "title": "بث مباشر مباراة الوحدات والبقعة في الدوري الأردني 2026-27 - winwin",
+      "description": "بث مباشر مباراة الوحدات والبقعة في الدوري الأردني 2026-27 &nbsp;&nbsp; winwin",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOekRKanRPdlV3eXpaLTd2X3BxMXptVnFBR3BHcURpWWtJOWxaWXo4SGxPU3B0dURCYlBaUXlrdUlsOUk5STB0ZlR0S080MTNTLXQ2ZXhyTjl1TkVBNHVmbVM5WUdPcS0zTUlNUm5kZjdHUkMxaEZ2R19ScDlUenpRS0JPTVlsQ3F3ZGhDakJ6UmIxS0FkUXFSRHcwMlpvMW1RZ3NQclhNdnBjbW50VmV5SXNheUdUcnNoQzk2MUhqT1h2aU1QOHNzRjl3d2VtUkw3TjVvN1NoYmtTSS05OG93VWk2S2lET2hMZG5oVEJPaGtCNWJJQUx3bWU2OHlxX1I3YWZmaHd2QWZpX2ctUHdHdGxPaHJld2l4WnVVRjY0eVVQUXkyTUtiakVyVXlOWjJ5WFBMSVB5eHdFekZfOHRQUjl5d2hkSlhXZWNCdGd5czBjRlhBYUtuWWRRYWZCc05YWnFUQXYtZFhnaW1ETjJkRnpicWppOFk4RElqdWQwRTliTXpsRzl5WDZoYm96ejlibjQwUERyTEprYzVlZFBEVkpCeHBuckVqMFQ1ZUtYV1JLLVpNbWdmbTVaWF9LMlI3TEc0cjZFZF9kd1BEZnF1eW5IMXZpMDBV?oc=5",
+      "published": "2026-11-06T16:05:50+00:00",
+      "region": "الأردن",
+      "category": "رياضة",
+      "source": "winwin"
     },
     {
       "title": "بايع البغدادي وحُكم عليه بالسجن 9 سنوات.. ماذا نعرف عن منفذ هجوم عمّان؟ - الجزيرة نت",
