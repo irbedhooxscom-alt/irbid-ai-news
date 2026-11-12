@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-11T23:38:05.831175+00:00",
-  "count": 54,
+  "updated": "2026-11-12T00:44:06.709396+00:00",
+  "count": 55,
   "news": [
-    {
-      "title": "بلدية إربد :طرح عطاء إنشاء وتشغيل سوق الخضار المركزي الجديد - جريدة الدستور",
-      "description": "بلدية إربد :طرح عطاء إنشاء وتشغيل سوق الخضار المركزي الجديد &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNSTJJWmdXdnlQWmJSbm1QUDE0OVpNeDQ4QklzNWg1RmZ6dDhsN09oejRCZ0FkbU9aQWlNVGNnRWt2bnE2MEY3N05id2xaRDNYdDBLTUNFTDJ3ZkpueGl4dkswX3V2TU9keUNxZWhTd3JJMTlrVkNxcjQ2UlFtTlNWcW1sY25zbUUxMWlQdlNrai1WUGsyMDdIcFBJNmg4bi0xSEVNTGJwMXZqTFQ5cTFxQlF3T0FwRldra1VlWklGVEZlRW9zWnRaQjR5SDhVb0pCUFU2SjVOWTZNM2xGazZGekRKMHJaVzRSdXlmeUFBX3o1VkVQaU9YU1p1MHJIU2t1VEREc1czZVZQNU5hMXVuSnJhTjVFcmZDZnNwVWg1UzBTQktoWUlpc1VhQW5NRWI2NnlWNnJzNURrZFdVRXRaWGx1SHNtekN3S1ZLc29JUnNfZkk1alFVRlh0RXhiZ1BKLWJUSFVXSXhmUnhkN3doVWU1VkhCRFpBTlBZN1BHbDRkbnRRaExiVTJHZDVXZ1pUT0RWVm5VUzlYempPTmdoSjNzYjdWUlpjR041dmpNV0tPUnRRQnNkVkZ6SW10YTNMdGxuOEJCWnVMeTNsUGlpOXpNYnNvNHh5ejA5ZkEwUlBSR1FyZHBpQkdB?oc=5",
-      "published": "2026-11-11T22:12:26+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "جريدة الدستور"
-    },
     {
       "title": "حوارية في الكرك حول الوعي الفكري والأمن المجتمعي - وكالة عمون الاخبارية",
       "description": "حوارية في الكرك حول الوعي الفكري والأمن المجتمعي &nbsp;&nbsp; وكالة عمون الاخبارية",
@@ -102,6 +93,15 @@
       "source": "أخبار حياة"
     },
     {
+      "title": "بلدية إربد تطرح عطاء إنشاء وتشغيل سوق الخضار المركزي الجديد بنظام شراكة مع القطاع الخاص - جريدة الدستور",
+      "description": "بلدية إربد تطرح عطاء إنشاء وتشغيل سوق الخضار المركزي الجديد بنظام شراكة مع القطاع الخاص &nbsp;&nbsp; جريدة الدستور",
+      "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxOcHpqbC15TGRHTU9DU0FMajhfTWxfblZJNERQMjRhSzNIQmMtQzZQQVZ2b044dkZZNGZ4ckdQaGhhVmkzZXFJRDlidkRTUF9Zd1loMWRTN29WNjlUN1kzNWZOZXpkam4xcktNX3RRUjJrRjk5SkFwZGxsSnVXcnZvTzVBRWZGcThHRmFTMnpOMEh2YlpuMkNrVF9NOVhWUFU5b2ZqTndkRnVQMl80R2dxY2Jkb2lPRDV1NU1sdF9EUlhKMnFKVVplQS1DbE9YcXpuVmFaWVRya2VNdU01VXJxQ0hnUXZUWUZyb28xTXNPR1pYN1VNWk5UT2c0Ull1eUtvU2pnajV6RENVR19DUGRmU0RIZWhnM0hzTVBiYlpFTko5VHpSUWNNRHRWWXJqVDJzN0NBSURUMEhubHpJVWsyc2VrYjRfU2psMW04WWxuX2U2QzNqWTd3SU9sMnFUbzZ5OTYwb2ZEWFFqal95bmQyOF94ZmM2MV94bEh5cElsLWRHTThXTlpkSmlIbkoxM2tmM3lISHhwN1BMMElDa045NFYtRVJUbWNjcldOa1R6VHpzUDRvUzBDb3RENFZuVk94TVdydzZvc21lbW5UTWFiQXg1VTVXeGhNeS1jSkFWbHRkelNpTW56c2tydWNyZVhHUkFCeUxZLWQ0YjMxa1cxTWl1OE9QWlhRa1JvZHJKYTFaYTZIdHctaVBYLW1fR3B4TjRiSkVxLWQzXzhfRFowdkk4YzljelRPOTRWSHl5OGk0WmRVVlA4bTlYVlZMaTdiaXZVUm5MVFl3ZU1NT1p0bGdaMFJkMWZoWkgxZGp3cFlRN01vYVUxVTRUQTUyM3pWNENISlhtZTN3ZkhUMVZxcXRpZHNFTlQwRFYtVmw2Q3VtNzVJZXRPdmloZ0swQXVS?oc=5",
+      "published": "2026-11-11T07:15:37+00:00",
+      "region": "إربد",
+      "category": "أخبار عامة",
+      "source": "جريدة الدستور"
+    },
+    {
       "title": "المملكة للرعاية الصحية والتعليم الطبي تطلق منتدى \"آفاق المملكة\" لتعزيز الحوار العلمي وتبادل الخبرات - وكالة عمون الاخبارية",
       "description": "المملكة للرعاية الصحية والتعليم الطبي تطلق منتدى \"آفاق المملكة\" لتعزيز الحوار العلمي وتبادل الخبرات &nbsp;&nbsp; وكالة عمون الاخبارية",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qaEwxLWxLY0ZVQXp5UnBGT2JCMUZKenR4ZWpsbjB1b1AzcGg1d1VLNXNmOTk2cUZpdEFLMi0xQ0pKLXhubm9UcHRVdmM3TjlUV0pz?oc=5",
@@ -136,6 +136,15 @@
       "region": "الأردن",
       "category": "مجتمع",
       "source": "موقع بصراحة الإخباري"
+    },
+    {
+      "title": "بلدية الوسطية تبحث التعاون والتوأمة مع بلدية ألمانية - وكالة الانباء الاردنية",
+      "description": "بلدية الوسطية تبحث التعاون والتوأمة مع بلدية ألمانية &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOWGYyTlpVT3dEbTdISWRnV1BNdVo0ZndqUHhtWXFMSnBibEQ2S0tNdDJMVXdES1RGaVh2Z21aLXdnVmxtWVp3cEJxMmFDME81Ykt2ZzN4OEJfTEdjeTVkZVhyZnJJV0gweEhLZFAwaHpGT3RLVE1XR1lCZ2o3YnRTZ0hSdl9ka0dBSmpOMG9vcjUybVotQjVsd29WNUExYk9YS0gyajRWM0NNM3JiWVBDRTVmSDNlNjBSdmZHSXZIMjltc29VMGhuMWtNeUpWREhzLXZKSHlXYlM2MDJ3aUxVTHRFVWlqWUtsR0RJbEtYTV96SXVkV1ZZVVJHc1U5NUFWeXVRLWZyZ3hyWUJLZ0tqR010eW5hNFBKVHVlamdoUVdFYnllbzBqQlRsY0xJNldRdXZOOXh4N0ljbXk4SE5qZE5LMUFZZGU0UGhsODhpenAyVV9pNm54VkNocnVTOElHOXFmcUJvMEgtRmlxREhTSHlKMnVvdzBQSUNiNXFSbS1Gemx0Qm1RYlFnTEJYWUhUTmtKTzlrcUNBYnEtd1VzRzk1endWRVdYTnZMZmlpQVZNR1Fx?oc=5",
+      "published": "2026-11-10T15:51:15+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "اقتصاد الوقود في مواجهة مستقبل الطاقة - وكالة عمون الاخبارية",
