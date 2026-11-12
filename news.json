@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T00:44:06.709396+00:00",
-  "count": 55,
+  "updated": "2026-11-12T02:02:39.934050+00:00",
+  "count": 56,
   "news": [
     {
       "title": "حوارية في الكرك حول الوعي الفكري والأمن المجتمعي - وكالة عمون الاخبارية",
@@ -46,15 +46,6 @@
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "الوطن سبورت"
-    },
-    {
-      "title": "في يوم العالمي السياحة.. الأردن يوظف الذكاء الاصطناعي والابتكار في القطاع - وكالة الانباء الاردنية",
-      "description": "في يوم العالمي السياحة.. الأردن يوظف الذكاء الاصطناعي والابتكار في القطاع &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zSFU1ckpWWkl1WDNFaWF6UTZTV3ZwWkNPRDdnQ3N3dWU3UnJuODY2Wm13cG50TG1CYXlIdnNhdEUtbUZWVmplLXJsWUE3LV8xc1dOU0hMamhjSlFGSU9RUUdudkotaEI4SDRyYnc3N2U?oc=5",
-      "published": "2026-11-11T13:23:23+00:00",
-      "region": "الأردن",
-      "category": "سياحة",
-      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "حسام حسن يحسم الجدل بشأن تدريب منتخب الأردن بعد رحيله عن منتخب مصر - Masrawy",
@@ -201,6 +192,15 @@
       "source": "جريدة الغد"
     },
     {
+      "title": "332 مشروعا قيد التنفيذ ضمن البرنامج التنفيذي لرؤية التحديث الاقتصادي - قناة المملكة",
+      "description": "332 مشروعا قيد التنفيذ ضمن البرنامج التنفيذي لرؤية التحديث الاقتصادي &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPRmNEMUZQUkhSVHE1QjM4bk5GM1FJaHNPa25lN0VyNjBUeGtuR1F4OGgtTlc1LVJIUmxHQ3cwdWhPRjh0N0N3dk43T196Y2tfY1VSS3pxOExmSVBYd2xNc2hSaHdRS3FBSFVpZlZycDYtR0Z3bTRYNUxuVnZVbk9wMU1kUERJY2t2anRBZGJLeWY0U3Q0WGNWdzZEQVpTZG9sQ3Vua3NDdmwzcUdydUNES0pZUzI5eWl1Nks3MmlkUGFNZHN2RDNOMnljNGhWVmNCd0QwZmh2Rjk1V1A2NElaS01yekEyOF8yREZGM1JqTUp5bEdiQ0t6NjRuck9zeHBZR200VVRBS2tWWWtvbGdRVFlNcHo0Y0FCb25peDBVWURCalJySFJkUEtRckx5THY4X2xIYnExcFZWMFp4YUFUT3BXZHpGTHNENk1RNHJlNm92b2tFdDBKQWdkZFVKOG01aXJoRnRDdEFUMVY5bXprX3V4Z1Q2TWZ1QWpyY2V2Vmt3aDE5QVZkdi1zVk1yUi1HQ2MzRklpYllQSVdxaEQ0LXBqclBKeXlWVXRzVnhYZ1FpODZOQU5ad2FJUUZiakhKZXVWZjdtZ0FfelktcTI0c2hBeGFBaDZJTWxKdW8xblVRWURSMzZ3a2NIcnM3aXFPX2hnNm9PckkwTWN1dERiNVpmTmxJVkZNa09rV2ZOU2ZycF9fd1ow?oc=5",
+      "published": "2026-11-10T11:37:06+00:00",
+      "region": "الأردن",
+      "category": "اقتصاد",
+      "source": "قناة المملكة"
+    },
+    {
       "title": "شح الملاعب يثير غضب الجماهير والأندية في الدوري الأردني! - winwin",
       "description": "شح الملاعب يثير غضب الجماهير والأندية في الدوري الأردني! &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOdzh1YTk5Z3NITE5nWkZXajczSFk0N1B0cjFpVlk1ZTd3SkY0YlVWcVdheV9jUTAtSHI2R0pBMmxLdFJzNGFsSmpqRjEyclh4MEpzM2t2ODZXekNLdDllWm8wTW51M2ZUbUVxTzhoU3lPaVhvYmU5bHdDTUNhM1ZTaGxKdE9EWTBSRW5zZzRBNUNteUQ5WWI1VzdRQ0p0ekZucTRYQm5tTkZ5SFlNM251M2V6SVA3bHo2U0wxcU1qTlZmemE4ZTB3ZXlzV1NUMkdrTUEyZHlnb0lVUTlWMThaNlBxd3Q5ZmhBSElueGtwVVJrUnN2cU9zMUljVkN0U0Z4V2dIMWE4V2tCQnR1aGhxWHFTcW5QQ0JJcVdaTTRRaHBCUkRRcWNEQnhnOGhGdm40NjBXZmM3TXN4VkVnbVRxQVBSNTNqakxsbjNwVmhJdi1CRm0xUjlyMlVvZHZ3aVV0TThUVV9vNVBkT3diSkFqMldRbzgtRThRb2pCY0RHX3pSU3VpUU5rZ2VaUHpkM1lqRzRrM3NsRFdmdlRwWXZhWkhVVUlrRzQtMkVTOWNQUzA1REo4S0RPeFVRSjhIX1B2ZWlNVk9VN25fUDVUSDdhQ0d4a29vbDVGamJIbFZrMlRrVmZtbS0xVkRlNV8zSWdndVZ2dVA2MA?oc=5",
@@ -271,6 +271,15 @@
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "قناة المملكة"
+    },
+    {
+      "title": "أزمة النقل الجامعي تلاحق الطلبة.. شكاوى من نقص الحافلات… - شبكة تواصل الإخبارية",
+      "description": "أزمة النقل الجامعي تلاحق الطلبة.. شكاوى من نقص الحافلات… &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ndWZOWFFGTTkzNmExbVhoRjBaTUc4TGdBUFY0anQxanRqVFNfRTZic1JjNkhrYUFmcmFZQkJRNG1NQW5malV1ZXlueUdvREtIS3Z3?oc=5",
+      "published": "2026-11-09T16:39:28+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "شبكة تواصل الإخبارية"
     },
     {
       "title": "اقتصاد العروبة: استقرار الدولار وارتفاع الذهب و11 وثيقة تعاون بين سوريا والأردن وقرارات لدعم الإنتاج الزراعي - صحيفة العروبة",
