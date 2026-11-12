@@ -1,3 +1,4 @@
+
 name: شملت - النشر اليومي للأقسام
 
 on:
@@ -33,7 +34,7 @@ jobs:
             "0 16 * * *") echo "name=economy" >> "$GITHUB_OUTPUT" ;;
             "0 18 * * *") echo "name=tourism" >> "$GITHUB_OUTPUT" ;;
             "0 20 * * *") echo "name=community" >> "$GITHUB_OUTPUT" ;;
-            *) echo "name=sports" >> "$GITHUB_OUTPUT" ;;
+            *) echo "name=all" >> "$GITHUB_OUTPUT" ;;
           esac
 
       - name: النشر على فيسبوك
@@ -41,4 +42,12 @@ jobs:
           PAGE_ID: ${{ secrets.PAGE_ID }}
           PAGE_ACCESS_TOKEN: ${{ secrets.PAGE_ACCESS_TOKEN }}
           PUBLISH_TO_FACEBOOK: "1"
-        run: python post_category.py "${{ steps.category.outputs.name }}"
+        run: |
+          if [ "${{ steps.category.outputs.name }}" = "all" ]; then
+            for category in local sports economy tourism community; do
+              echo "===== نشر القسم: $category ====="
+              python post_category.py "$category" || echo "تعذر نشر القسم: $category"
+            done
+          else
+            python post_category.py "${{ steps.category.outputs.name }}"
+          fi
