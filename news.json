@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T05:45:55.829518+00:00",
-  "count": 57,
+  "updated": "2026-11-13T06:49:25.496945+00:00",
+  "count": 54,
   "news": [
     {
       "title": "وزير السياحة: 75% من زوار الأردن عرب ومغتربون والتوجه نحو أسواق جديدة في الصين وأفريقيا - زاد الاردن",
@@ -37,15 +37,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
-    },
-    {
-      "title": "%66 من اللاجئين تحت خط الفقر... - جريدة الغد",
-      "description": "%66 من اللاجئين تحت خط الفقر... &nbsp;&nbsp; جريدة الغد",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNER0VmdmS3E3a2N4dUNaSk1CamRYRXhha3dpdVpGQ1N1YjFWdEk3aWFmbEVITTFPYXBLdTg2LTlLYU1HanhsMzdOTUtvalUxVGF2WFNvMy13czhZcHFKTGV1X0lUTFlWQ1doWE9WMjVOMUx4MHEwUjhLT0RpSzZMRUVxZVNtaFN3eXBnNGRnN251QWRKQjNnb1Vkc0IwWUZtYnJDemc5RDRvYS0xdGQyVnJRREdQZ0J3V0RYR04zYjBIYmxCdkFLMG83elRRQ0JWX2N4ZmRkTjhaOVVuMVJ5bkEydWhyUjAxeDhUbVpSTnJYbWhGVG9EeHpLNXhnYVlGOVI1TzhtVzFoTUI2ZG9iSDR0ZDFiMFFSTFdLQ1R6Z3NOYUgtYXB5NGFaYmEzRWczUDM0UVR5Q3lidHY3b29hRDBTRXBVbGdGckJ6aUI0cjkwb0Qy?oc=5",
-      "published": "2026-11-12T19:30:39+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "جريدة الغد"
     },
     {
       "title": "دعم أردني لجهود إنعاش سوق العمل الفلسطيني... - جريدة الغد",
@@ -237,22 +228,13 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "الأمير الحسن: مسؤولية الجامعات لا تقتصر على تعليم الأجيال - أخبار حياة",
-      "description": "الأمير الحسن: مسؤولية الجامعات لا تقتصر على تعليم الأجيال &nbsp;&nbsp; أخبار حياة",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOTkRnNXl5SHFmMDlMZk1uMG5UdHpDVDFuMEJYTlpHRElQcHRhbVRIQjRNYXlxNkR1U19SSE5LQnRELU1XbUFJbkNyU1VzbjR3NDhMUlV4cURyejEzekZ1NWxxWnljcDl0bnNxRV9DWW9WRlBIRkhmSlctcWFvSjFHS1JBRllZWU5JQ3JQdlZlU0ZkY2tSOVNrM1RlM09yZldyTF9WLTBUWWNfUEF3bFA5SGlFZjZkdlExVGZWZXRhV01tMkxQOFgwYkZXTUNVZHlSM0ZTXzFLUU1OamtDSDNPX1NsMG9BMVJSZGxhdm1KbDRfMEhFbXRUS2IzWkhTaVNRZDNsUWRfSk1waUlzS1pkWW1GRDlCMlRoMUxVdmduWTlQaG44TXgzbTIwXzFZbFZqcDFZdEhqOThYUjViemJjaFhvWHBZTmxCemdFZzhn?oc=5",
-      "published": "2026-11-11T20:30:56+00:00",
+      "title": "الأمير الحسن: مسؤولية الجامعات لا تقتصر على تعليم الأجيال كيفية استخدام الذكاء الاصطناعي وإنما تنمية قدرتهم على إدراك حدوده - قناة المملكة",
+      "description": "الأمير الحسن: مسؤولية الجامعات لا تقتصر على تعليم الأجيال كيفية استخدام الذكاء الاصطناعي وإنما تنمية قدرتهم على إدراك حدوده &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMinwdBVV95cUxPSm5Hckcza0djSGNfNDRfOVBHUUxDRFBLRUdEUllYNVlsRi1IOTJIZy1aN0tGVDBhQ0tDTEQ1M2tzamI1d0RERjBXNDhrOHVZYXQ0ajNseGliUnVrc2VmdlBnRVRhSUVidUVLWDFFV3F3V1VMREtVWnpaNVRwdW9YdVhjcGNUTUk3VTVaMWRmbUhQUm1XWkp3ZUFvWmFKZm5QaXBXT3RVVGFnZFNvc3ljUlU2VmFzWTlZamYxSGdzLV9rSk9NZ1VreEFWSndUSGxrWFJ0VFFQTS1SV0hGLVQyaEhrb2NPVWtTdFlhajZ1X21rMkZBQU5MaVE0NktXRjhISkw4RjdTNmhFZVY5dGlkWXFLeVB6UEdLWmY4OEx1aEMxM2FaUTZ0WWNFX3p0d3NGTERjR0h2bkg0Mmc3LVNvcjhLdF96UVZTcXhqbWQ4N0g3V1R1clJUYk5QQzVyVXFZR3dLQmZ4T01WeWJiS3dmS1RPVHN1V3JBMVJDSTFJSWJvVUxuRDdWelhzejE4eWROQ21CR3M3WHNUZkhuWDJiZ3VicGw3OGtFc0JzMHFxTUZ2NHlOLTZUSEVpR1RoSG5Rd0lBVTRYYlllUkxoTjJtejR3elRXMk1qTl9wYU5OZTRZeGpWUWFVTVlfS0h3bnRJU01NS21xMlR6UjY5RXpjUWJHREk1ZE10MEJTTW5XeVVzZllUcVMtYk56M3VHZTZKSXJkYXE5TXgzWHFwX1Z2VmpRMHAzNk1ISnhnQmF6OS1fY25WUTFuTjhwTFZJUFNocU8ySWNCMHNoa2JJYmU5MUpCbm1FUnhXZTBnNHd4Tm02cmI5MjZpUENEMi00UU5pZHRKSUpvQ1pvSlItaFhHaDJVNUlyMEVtMkVvMGVYMlhtTTlVajNWVG92TlJzYU1BNFhRcHNyVjhiT0p4dG1mWW0tTjdpMmRNTUZpWUJ5MTN6U3R4QmRMYjN1VGNUTWVJOWMzS25CemVOdFF5aEM2MDBZa2Q0Wmh4V0NrZmZWQWI2cGd1Slpzb2NtM2tHajB1SnZuZTRoLVJ4THR5ZTdGbkhkcTZ4NkthX3QwMUI1Wm5jYU40bk1BNWtFTGkwOHN3X2IzZWE1ZzRHNlZhM0FhZmR5UE1mam56OFo4dmJYSFF2Yy1XakJiZnNYT0ZBX2tia241N2l6eEVxanJrX1lIMWhtemIxRm02bHlVc2dFZ251REZQZlVNREZjTEdPbHM?oc=5",
+      "published": "2026-11-11T19:24:00+00:00",
       "region": "الأردن",
       "category": "أخبار عامة",
-      "source": "أخبار حياة"
-    },
-    {
-      "title": "جامعة اليرموك في يوبيلها الذهبي .. خمسون عامًا من المجد والعلم والوفاء - وكالة عمون الاخبارية",
-      "description": "جامعة اليرموك في يوبيلها الذهبي .. خمسون عامًا من المجد والعلم والوفاء &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yUjBlMFRqRDBvZ2F0d1dOT3hMaHNiV3hZekVBM0Z1cG5uc2t1TUNqbUw2REhLSmhqbGoxVm9PUUJaNkFyREZsNHBiaW5OWURlbVpJ?oc=5",
-      "published": "2026-11-11T19:12:59+00:00",
-      "region": "إربد",
-      "category": "اقتصاد",
-      "source": "وكالة عمون الاخبارية"
+      "source": "قناة المملكة"
     },
     {
       "title": "الأردن وطاقة المستقبل… حين يتحول القرار الاقتصادي إلى قوة وطنية . - القلعة نيوز",
@@ -345,15 +327,6 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "كلنا الأردن في الطفيلة توزع التمور والمياه عن روح الشهيد جواد السلايطة . - زاد الاردن",
-      "description": "كلنا الأردن في الطفيلة توزع التمور والمياه عن روح الشهيد جواد السلايطة . &nbsp;&nbsp; زاد الاردن",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LdGVnMWdCS25XX045UkRIYUgyM0FhcFNvV0o3MDd5alVGRnNUWlhHZUprVWhMRUlZV1ozbWtseDlxNkRkYzloWk51ekduaGwzU3pRVEY0eWstOEN4MkZWUWVfMHVFYTN5Znc?oc=5",
-      "published": "2026-11-10T14:16:32+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "زاد الاردن"
-    },
-    {
       "title": "حقيقة تولي حسام حسن تدريب منتخب الأردن.. توضيح حاسم - Masrawy",
       "description": "حقيقة تولي حسام حسن تدريب منتخب الأردن.. توضيح حاسم &nbsp;&nbsp; Masrawy",
       "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOdElQaHBUaUNhbkdvWDRXYVVtM29OSGd1Q215RVRmTS1sN1huWFlHSS1FVjY0OF9qc0xyak5PVzdULWhtNURtTDhyNlRmRlJPME9oOTgtTG15aU1LYklNSDYxRWtsU2FwanM3UDNsSWNTYU41ZmR0T2huRnJZWDVFYWlvbU9aSFZRNlJQcEEzOXZWdG1VLXYzZS1RajUyTWtaaEQtVnRkRHRuVThXMFRzdmh5eHE5NTlwc291cWdlWUs1TkJNeF9QbktaVTdweU4zMmJORExxMzl0VUlCaWw2S09UdFlJcFRrUUhtWU92WDJmS0ExQnZQZThSWmtRLUtyNDdoSmc2X1lmclRXZGZBNzRZUzNfUmNNX243YkFEYzJBUngyMS1XdGJpZmEzT1BSVzZKdXg3ck1MUURNVDlWd3FoOTJfWG5tQkdLaXIyd1J4RVhtWjZKZFRjVUdINVg3cm1iNlRhSlVWalZ3NzJQTUZhVFNGWU1TUC1LWlBIWGx2Vzg0VmExcEl2dC1QbzFLZzJialcxd3pKSUdTZWF4VG9wb21xQUJ2bUtaUmlzaWVFREd1aF9RcFpUaGxYVkFrVTFSRGpLYnMtR3FtZTFVdThESmNlR2M3NG9CWktCTdIB5ANBVV95cUxOM0ZnWjViVm44blgyMWNrS1JfTmN5RGZMYjNfbW5hT0RYWW5Yc2twWHlua0ZkNkdSMTNFaTNueFlLMF9tLUZmZlhPNDRYY1hoanlGeS1abFAzUjZDVmJ4YlZGbTJrU0RlRUJJY3h5LUtlVnRBZ3phTEF6S08zZ2hqeHhqN3BHYlZyTC1UVUFSTzdQOWFUdkZQdFdMYUNBM0RBdmR0ZmhITUU4LUZLT0YzUGxUM0NwMThvU0NJUWlPSUJoX3psN043X202cWtZZmxZd0RXZG5Kb1RlUEExenlLZ1NoV3lBZU1meW9VSm9CZDdYY2lFa0hvcFJxbFhjS09aMVlVbWc2LTM3WV9MNTI1eUxDdDFUTkJDQkZoZ1lKZ0pIS0pXd3ppTkpBcmV6cHhoa1pYUmhPNnFfMUhMOEhLQjJqcENKSGJtNW5iZnRoaW1TaDIzajBheDdBYkMwWjVFeDRrV2lxZGNwOXIzcHl1U3VaZ2kzSFVQMXdQX0doNDFHc3pVQUQtQzFNYi1Vdi15d0E2bVNrVFhKcDV2TEN5YmxHY3lGTDh3TGxDbENlRWNzVlRBdXhkdldqc0trZVR4Z3dDRjdkallObDlrTnVaTDhFYjRsOHVlZlYwZHFRMGJfaWM2?oc=5",
@@ -363,15 +336,6 @@
       "source": "Masrawy"
     },
     {
-      "title": "4.5 مليار دينار دخل السياحة بالأردن - زاد الاردن",
-      "description": "4.5 مليار دينار دخل السياحة بالأردن &nbsp;&nbsp; زاد الاردن",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lSXgxazVBNFVBSHE4ZjdKUUlWN2Rob29WX0ZjSU5MZWd3bFpVUmJ4R2U4Uk1ielNkbUhta1g4eEtMWXUyZWliYU9NWFlRaTBMemtTRHM4d0lraHVscTRwV0FIMERxSnZIN1E?oc=5",
-      "published": "2026-11-10T12:19:54+00:00",
-      "region": "الأردن",
-      "category": "سياحة",
-      "source": "زاد الاردن"
-    },
-    {
       "title": "مجلس الخدمات وبلديات إربد تواصل حملات النظافة وتأهيل الطرق - وكالة الانباء الاردنية",
       "description": "مجلس الخدمات وبلديات إربد تواصل حملات النظافة وتأهيل الطرق &nbsp;&nbsp; وكالة الانباء الاردنية",
       "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNazVjQ0MyOVhMUXpQZ1U4ZU40dDI2ZDFfSE0taS0xZFRvXzhZSmxPODdRRjdHazZrc3FmWFZoRVRzRkQtQTMtbndfTmpyYUFxMDNYZ3hxYllmcThHTmd3QlZXN0dHSlNPX0VqekN2dW1BVnRyczdQR2V3QlkzVU9fMDBSaTJJQTAwWXdHbTdHOE84Q2pPdF83d0NsM0tPdy14T3dkN2FvSXdpcGpCanVUcWxJLU9LTl8xOWowcVhoREE2YVlSMDBFaGhwWlptQ3YtTl9pSi1VUm9WQ3dJWHB5eDlEZFRjNGlIbG1memtDb1hiT3Fac2xsMUFoYUJGdjFvV3h4T0lNZG9SOHc2cHpGb1dZTnlqTEpoWldvRFU3U3lmUUwyLWQxREZKTHRwRHhNYWJDcy1MVjBWY0t0NXJHUUZmN1hTQi1tQndjOVNCU3NvZGpxbU9yZDl2U05yOTRsUDAzTHJ3LXgxQUdjNnNTNVM2ZW9PSEFiaEctcUlER2JEQ1gtdmZ5WXU3SlhTbXctSEp6ZVNXZ0JYRGhpQktfWU1FWUFKelZOTS1BNENjWlFuZ1lfZ3RUOFhuX25aRl83OWlDc1ZNeVpIRXN6MHBGbkpGSWRaSkVLTzZSNWRzMmp6UGMwd0dPeTdFOTRVSW1HZ1JJZ0JCa1pfUTQ?oc=5",
@@ -379,6 +343,15 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "4.5 مليار دينار دخل السياحة بالأردن... - جريدة الغد",
+      "description": "4.5 مليار دينار دخل السياحة بالأردن... &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNa2ZYd3M2MmM5WFNFekhSRmVTWGlJWldDcFQwTHEzeFZDN1g0bC1IMlhGN2xCRTVCX3doanA0R1AwY3UtN3Y1WGNpal9udEt1U25sUU9ySlFOWi1Qd25BV0hkdjhjM1BDT3g4T19kOU4zNXIzT2RGdWFOQUZGakRMdWZ3RnA1dFlyMVFNVDdrRnF4QWZqNjZqcXcwU3RzQUhFQnRqRlpkVkhTYk9yTGpGVWVsMTk2WjNBRHlrNGNJMkIybFRXUnJ2RDFLcHJfaHBmYndkTzVZYTZBRVBGMGdVa1hEUnNsdHFSYnBlMnB1cjNmQzJTdVNqVGh5VXZHdzR1M0xYelF6eWRMNXhHWjR1Y0F0VEtlWmRzeEtwSUZkdXl3cTFXMjFLcGFTX3E3YmxSRXJ3RDlMTnhJbmt3WjJKeENMTUl6VHpoNlpmOWtobkRxdXlESTFwQy1KeDlMbk1xUFNyLQ?oc=5",
+      "published": "2026-11-10T11:49:57+00:00",
+      "region": "الأردن",
+      "category": "سياحة",
+      "source": "جريدة الغد"
     },
     {
       "title": "شح الملاعب يثير غضب الجماهير والأندية في الدوري الأردني! - winwin",
