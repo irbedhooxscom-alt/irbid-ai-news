@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T20:39:27.334317+00:00",
-  "count": 62,
+  "updated": "2026-11-17T21:38:59.122559+00:00",
+  "count": 66,
   "news": [
     {
       "title": "الأردن يهزم أستراليا بثنائية نظيفة في مباراة ودية استعدادًا لكأس آسيا - جريدة الدستور",
@@ -10,6 +10,15 @@
       "region": "الأردن",
       "category": "رياضة",
       "source": "جريدة الدستور"
+    },
+    {
+      "title": "الحكومة تدرس إغلاق المزيد من المهن أمام العمالة الوافدة بشكل كامل - جو 24",
+      "description": "الحكومة تدرس إغلاق المزيد من المهن أمام العمالة الوافدة بشكل كامل &nbsp;&nbsp; جو 24",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vb3ZOb0VyQ0ViVHZfWGhtQkdLWkNoT01rb2NqWnRHZG9tNjFYMjRrUVA4M2FTMFVvYnBHQndRUDE0c3JKRWc?oc=5",
+      "published": "2026-11-17T19:15:50+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "جو 24"
     },
     {
       "title": "تألق الرياضة الأردنية يعزز مكانة الأردن عالميا - الوقائع الإخبارية",
@@ -219,6 +228,15 @@
       "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
+      "title": "11 إصابة جراء انفجار أسطوانة تعقيم داخل مصنع في إربد - القلعة نيوز",
+      "description": "11 إصابة جراء انفجار أسطوانة تعقيم داخل مصنع في إربد &nbsp;&nbsp; القلعة نيوز",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yb2l6TkJWTmxwLXBobWo1TTNHM3Z0cl83ODhJd2hucFJMckNWY0hwR2dkWDFiRU9vLUNzUHRVajEwMGxycGJ3bElIUWF5NGc?oc=5",
+      "published": "2026-11-16T14:16:00+00:00",
+      "region": "إربد",
+      "category": "أخبار عامة",
+      "source": "القلعة نيوز"
+    },
+    {
       "title": "11 إصابة بانفجار أسطوانة تعقيم في إربد - الحقيقة الدولية",
       "description": "11 إصابة بانفجار أسطوانة تعقيم في إربد &nbsp;&nbsp; الحقيقة الدولية",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6LWJTTUdWMUlSa0F2YzJ4THp4cDNkRTJGUDk1SXJMUTNnZjdVeDZzcDd5TTZjVE5GS0Robm44M01IQ2d6?oc=5",
@@ -271,6 +289,15 @@
       "region": "الأردن",
       "category": "اقتصاد",
       "source": "رأي اليوم"
+    },
+    {
+      "title": "المجلس التمريضي يطلق حوارا وطنيا لتطوير مهنة القبالة في الأردن - وكالة عمون الاخبارية",
+      "description": "المجلس التمريضي يطلق حوارا وطنيا لتطوير مهنة القبالة في الأردن &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41UjlRLWF2T0JsbFh5OWhUYzc0blAtcmdkeGgwVVdOZ0pwZ1k4NWFFVlpkVlpuQ1JPT2xMNHRrQ0xwUk9Zb0dNd3dHR1JQd0tTdnZz?oc=5",
+      "published": "2026-11-16T09:57:14+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "وكالة عمون الاخبارية"
     },
     {
       "title": "موعد مباراة الأردن ضد أستراليا في قطر والقنوات الناقلة - الجزيرة نت",
@@ -363,15 +390,6 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم - وكالة الانباء الاردنية",
-      "description": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPZERiUFJvY25hdkxEbkwycVRTVkdPUWF6SUpyUEFZNlJZeXdFa3AzdGpiQXlVdHRSeTJOd0EyRm9HajY2SXp4VWxtN0tCMHJrRF93S1R0WE5BM3hiTFN3UVk2eGVQeTlDeDhxY3UwN3ZyZXAyY3NWOHVsS053Tm8yT1pNVTNHU0pJUmFFUzh3Y0p6elpjY0V4SkloRlNhY1VTLW51b05qZEpCY2FUcGJ4Y1oxMko5UjRLQzA0ZzRHeDRZRGk5azRHN294SXcyWHBBMFhxcmJ3VGxBUnhKMFdOLWZEU3pYQnVyemJMc3NXN2hRM3BRNDBhWlZuUEJMWVQ3ZDI3THVRTHJuVmdpNGM5aGN5OUMxZExmZDVRZGJ2TTVTZGZxSXU2ZUgtdmNfNWpjM2EwU043WW1RWVAwRExMdG1zUjVkdkY4TEItUEFKdXdKWjE5SjNHc3ZFbDFIM2I0OGhtXzVLSUdzSG1CSlNOVXhZYUt3aV9EUFBlcXN6Rzc5SjJuR0dHMDl6ZTJNSmJEd3dRTnJ1bkFiMTJrT05DZHFSbFdXVS1CeDFsNzZ2dVExbElHekVVaG9PaGQ5Y2xiZEoxcEFYX3g2NjhqektmRndUcnNienpPbXg3N19Od3FpMFhNSGY2Y2tPbmc1ZkJvSE1oelY3ZXdPbURlYkRWSFBaQQ?oc=5",
-      "published": "2026-11-15T16:15:48+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
       "title": "الأمن العام : القبض على شخص دهس آخر عمداً وقتله بلواء الكورة بمحافظة إربد - الحقيقة الدولية",
       "description": "الأمن العام : القبض على شخص دهس آخر عمداً وقتله بلواء الكورة بمحافظة إربد &nbsp;&nbsp; الحقيقة الدولية",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE54elJYZERaRVozMkZiNXFaMS11eFhOV1oxYjg2RldFako0TDk1Z3psYWRQV2c4RzBBdlY0QUhxVzdIMnhW?oc=5",
@@ -388,6 +406,15 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "300 ألف دولار من ماليزيا لدعم برنامج \"نور\" لرعاية أيتام غزة - قناة المملكة",
+      "description": "300 ألف دولار من ماليزيا لدعم برنامج \"نور\" لرعاية أيتام غزة &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPSFJUNjBtMjhIUkN0WUxZQkdrRnpXSjVlZTAzVUU0M0Y3d0VCSWpCSjVVWHZFejMxa09YRUVUMnBVcmFURmxMX3JlZWx5eURzbnVxUWNES2pkTmsxaTlpbnliMlhFMTEyRFBZTzJSalJkTEt3TU51RllVV1RnaEtJSGdZMElsenlZcl9kNjZXMDVMYUx0OUhoQ2E4WFBMWG5iRVJ5RU40Z3R2OXdfUEYwcjIzb1pXTk1scEMwZjNOSmNIYkpya2tEYkU0dlJIbUUwbS1OZmVnalVVQUl5WTFHSUpfSHlrQkJsM3NzU3dBWFVNYVNqU2VMQ05YTHpBVzVmZlExbEJfZGJzMGgxNHNJNHBjdG82OHQzUTZzS0h2eEh5eTNiaF9qVzU0Z05SNzhMd3dySkpNX1V4azV5MkdzclczeFJvZVJrem1ocldaRkYxeVdwUlhSMlJDVTU4OEdxM3hEMUdvSEpsbXVQZWI3ZEN6Z3pXNEdCOHpVb3VLdC02c0w2UVowR2NTdzM3LWpCaU12Q21kSVB5V2Z6enpReHQyZGVfajYybWY4LURSTGs?oc=5",
+      "published": "2026-11-15T14:18:29+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "قناة المملكة"
     },
     {
       "title": "وكالة سرايا : أنباء عن إصابات بحادث دهس متعمد وسط إربد .. والمتسبب يلوذ بالفرار - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
@@ -451,6 +478,15 @@
       "region": "الأردن",
       "category": "سياحة",
       "source": "قناة المملكة"
+    },
+    {
+      "title": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم - وكالة الانباء الاردنية",
+      "description": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxOa3BHQ214Z1NUaFhYRzNJNTRPN0hyaDJ6V2dYZ0pJZWtyOGNqNUNKYjdLdzFrUU1JVTVDb28wZHk1SGhOVDJGUm5aYjhFekJFcXpSSG9ILTZnVTVmNGtpdzlwdU9icUx6YkliN296V0NVOEtJalVtVWphdHNNaHMxMmVOSXBoVmw5dGRwSUU2RUhWSXRwVHpjRjYzQ3BTMzktYlA4a1I4b0FJY21FdjhKYkZsSTRHNlZQUTd3SWRRS3ZBSGFpVzM3X0Y1b2NxcmVUbDRGaVNxY29WaUZxTUlZMVZ0MVBieGhqOWhFd0JWcjNvb1RtZE5faEpLNHVVTjRSSzlCa2NEbVVoc2xUTWZpNy0zVzdKUXp6eHhhOG1xbE5yZzZscF9DZWh4YUphaWJDRnBWaE1ZZ0dWVFA3RUZhUmYxWGVSVnk4dDNpeDRsbW9mUHFrUElVV3FPUWFBNTZVRFlwZ0JRWFpCckw3eE5mY0NsUFBDaHBfME9VQm1Fb1hiY2J2RFEtV3RwODNrTW9acWJOTDVCeDBHV2piM0V5Z05GaGhILXMtMFlhQzNCSkNxakdkbzhKMGg4ajRnMVhFQ1EwbGN5cnpyM2FkQmlBMmtpaTdpWWJLVUxvakVYYnV6MUpIOFdyRENyZmR6QWRBcjBlNXJlQU5XSnpEcFlCNg?oc=5",
+      "published": "2026-11-14T00:24:36+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "مديرية شباب إربد تنفذ أنشطة رياضية وتوعوية في لواءي الرمثا والوسطية - وكالة الانباء الاردنية",
