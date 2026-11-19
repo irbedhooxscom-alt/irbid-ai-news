@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T02:03:27.989406+00:00",
-  "count": 73,
+  "updated": "2026-11-19T03:43:09.522594+00:00",
+  "count": 68,
   "news": [
     {
       "title": "النهار: 220 ألف موظف يعملون في القطاع العام و4 آلاف يستفيدون من أنماط الدوام المرن - قناة المملكة",
@@ -12,6 +12,15 @@
       "source": "قناة المملكة"
     },
     {
+      "title": "البنك الأردني الكويتي راعٍ ماسي لحفل إطلاق الأهداف الوطنيةلجودة وسلامة الرعاية الصحية لعام 2026 - اخبار سما الاردن",
+      "description": "البنك الأردني الكويتي راعٍ ماسي لحفل إطلاق الأهداف الوطنيةلجودة وسلامة الرعاية الصحية لعام 2026 &nbsp;&nbsp; اخبار سما الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBKazJUYjc5Szl5UkkzZno0Y3YwNDF2U1pvSl9KUDMybm1DLXBRT2ZzSC1VTVlrZ29TX0EyU0tjSnpIdlk?oc=5",
+      "published": "2026-11-18T22:22:35+00:00",
+      "region": "الأردن",
+      "category": "اقتصاد",
+      "source": "اخبار سما الاردن"
+    },
+    {
       "title": "إربد استبدال العمالة الوافدة بأردنية سيوفر 70 فرصة عمل - جريدة الدستور",
       "description": "إربد استبدال العمالة الوافدة بأردنية سيوفر 70 فرصة عمل &nbsp;&nbsp; جريدة الدستور",
       "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPNWViYnUxd2FEMkRzNnBzT0VCNkp3N3ZhYW1KSUM3akpfRGlxM091djJXelpJbFd3LVpJeEFrdDR3cXJHOHNUQ3N4NUthbFN5bE04SlRZQ2lBNXNWMWtGYWEtbHZFNy01MU5XMXFrV0MwaDBacjBoNU0yRDJoMC1VelVnQTFvUVVHdXBHLUxUa0w1TEhoVXgyanRMV3B0c0pRYTJoNHFrZDdRUHI3YzNOYTdYM2RtZzUwZmVlQjc1ZmtuanFfdGY3V0F5ZFRIa0dsUkxMRGtBUlNVanQxamE3d3ZGWWhSLXJJNFo3Vl80cTFlTEZoMHVERm95OXY5RjhqWVgtVEZFY0k1QWM4N0I2d0pCNEl0MU1ITkxKOFhCMjh5ZXlNbDZYVnRZMFRBdGwxdm1JRGlJN1Q0UUlDX0lnc09NZjduRjBTdHZadmpsWFBsaXhQMW9mS1NZWjlJMXZ6X29YclRnZ2dyV3FJcHhHeGo1dGRkUnFNVmU3dHVxX3VKNmc3QWtVdENfT0RsRDZVUlFHM3VncjJMUHItb2kwVC1uemRVc0pVM2kxMVBvU3lvd0NDR3JvMU1MLUlvZXVSSWZF?oc=5",
@@ -21,19 +30,10 @@
       "source": "جريدة الدستور"
     },
     {
-      "title": "البنك الأردني الكويتي راعٍ ماسي لحفل إطلاق الأهداف الوطنيةلجودة وسلامة الرعاية الصحية لعام 2026 - اخبار سما الاردن",
-      "description": "البنك الأردني الكويتي راعٍ ماسي لحفل إطلاق الأهداف الوطنيةلجودة وسلامة الرعاية الصحية لعام 2026 &nbsp;&nbsp; اخبار سما الاردن",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBKazJUYjc5Szl5UkkzZno0Y3YwNDF2U1pvSl9KUDMybm1DLXBRT2ZzSC1VTVlrZ29TX0EyU0tjSnpIdlk?oc=5",
-      "published": "2026-11-18T21:52:57+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "اخبار سما الاردن"
-    },
-    {
       "title": "أحدث أخبار مصر والعالم - ekhbary24.com",
       "description": "أحدث أخبار مصر والعالم &nbsp;&nbsp; ekhbary24.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RQjdQUUN4WVF2Z2hubHRhZ3JIZm8yeldnVHlZLVhoXzVlejlkT1VqNDZjeEJqVXhrYU43UEdXNVhEVnViODVmUUVsOA?oc=5",
-      "published": "2026-11-18T21:25:01+00:00",
+      "published": "2026-11-18T21:24:45+00:00",
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "ekhbary24.com"
@@ -118,24 +118,6 @@
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "اليوم السابع"
-    },
-    {
-      "title": "وكالة سرايا : الحكومة تبحث إنشاء طرق بديلة لطريقي عمّان–جرش–إربد والرمثا–جابر - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : الحكومة تبحث إنشاء طرق بديلة لطريقي عمّان–جرش–إربد والرمثا–جابر &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPY294b1AtRHgwQ2hzdWRsY3dvZlFRQU9EUVlGOVQ2Q250RzBmV2NDaUZmTFJrQ3RDMUNNSEdOMy1mcHRYTTVTaHpadDRnLXYtX25uNWVKRERSZzhKZ1VIQUdQOG5VblNsbHZZMXlWZ3VhMW5ZSDI5RFNLYkxFSmRTcjJadWVGU1BFUEF3TGNFOF9IWFZJTVU2OFh1RWQxS1dXcFpwYUcwOUs4NkV1R0I0djZhT0t1ZVN6aU9WZXZPVEpQdUpBLUc3VER0RjhjTVo0RTh5UjJ4WktNQ1VEWkYwVWJsZ1VRWERKQWZZMEs5YmpYcFF3RXRBUTItN25zZVN5YU8wNENVZDNmNXdGQktMMk1MeDJLbWRQRVk4bVZzNkpMcG9FUjJtemtBdUxxZU5hdWR0UF9mUXh4aEJBTkhPeEtCeThFT1hnUElNTDlxQktDYUxFSXVjdzBNOWRkbjJqdlVCakhYa0FoY0JraGdoanJxQS1zM2thTmVlbXA1d3kycUhlblg5RDJKTHdLUkhmNlJCbTZYV3Y3OGhHOEVXVzVjQmFtdm5UR043SlhLVUkzZUhUNmxyRFJXby0zSlROMEpRTG1CN0VwRnc5bGNnSVg3WkRlRWM2d19mWVZXdjNUTG1Gclkyd2FPN1F1QVlVdXEwLTZlWnk3YWNUQ2N0clJ1SG1wM3lTVFZvaEJ6Rmx4alp2UnN2ZWlRb3RSLWpCWW41VzBKcUNDUzg?oc=5",
-      "published": "2026-11-18T14:49:39+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
-    },
-    {
-      "title": "وزيرا الإدارة المحلية والأشغال يبحثان إنشاء طرق بديلة لطريقي عمّان جرش إربد والرمثا جابر - وكالة الانباء الاردنية",
-      "description": "وزيرا الإدارة المحلية والأشغال يبحثان إنشاء طرق بديلة لطريقي عمّان جرش إربد والرمثا جابر &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxQNXFCcmFoNnVIQWRtM1dmSENxdWhCTVloMm85M183LU9mTVRUbTYwaGYzN3BmZ2hKcTAyUFZHMWZ4MDRoQ3BnRW81am85REw3bUZ4bFhWU0pDZXlJVkh3dFAwNVFzRUlsMW1Pdjk2TFY0amxzVkQ5THVmbngwbllZTXB3aUZXN1RsOHJwSXFYcDFSZmhZNE1sdVdpNFZoS2xyVGUxOUVUV3pybEZqS1hGMEc1RDlEeUx2d3pVVVp6NGZESGI4Umg4bFhQSUxVRUJsUkNEVmdqaFlmRWtQdFJCaFlMRVNqTFZMSnRaVFRYT3ctY3F1UVlGZzFzeFNjazVaLUJHRkJtR0kzUnM0cl83WWlXaEVZLTJ4a1h3Q2xUX3cwY0lBYko2SnB1elFydVhwWVBqckpfTGJTQ3FnMUljTFVKWGdzNjhWRjdyUkFGQmZ1UzRJbTFGeHRTVEc2QWF4eHViaGhqZVVjT1JJQlRTdE1NblExSnpDeUpIRTBvZmIzRnZuM1FweUllRU40d0M3ZWJxQkNMUm8yU2EweFEwMFdlSzZDajg3V2VkTVNOMEFSMWVLbEtsLU5DVTEwbHV5bkxEODZzbTlNQkJ4bmtEX0ptNi1SaXRsVkNDZU1oaWhRb3c0RHBkWkRsZHZ0T0lkSnJZQzJMVmxKT2FUaVJNOTA3WDc3eHlhQ1FxYTRUSGw0Q1hQR1l2Z3VkaDZoQjdSWEQzOURmSFB1V0s2emp6SGJYZnZQa2h5ZGgwajczb3c3VFAzUlZzT1p2Qnd5d0FmNTlXTExabFVvdFUwZzE4dGsyYkctc0JXdENRMFVWdFFrN3FETzZpdFhXY3ljamFDMTlPcjIzcHpTdU5WbUNTanRCVmgtZHROa2Z1VXNlbkUwRE9TbDBuaWRDbw?oc=5",
-      "published": "2026-11-18T14:46:32+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "أبو السمن والمصري يبحثان إنشاء طرق بديلة لطريقي عمّان–جرش–إربد والرمثا–جابر - نبأ الأردن",
@@ -253,6 +235,15 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة عمون الاخبارية"
+    },
+    {
+      "title": "وزير السياحة: 75% من زوار الأردن عرب ومغتربون والتوجه نحو أسواق جديدة في الصين وأفريقيا - زاد الاردن",
+      "description": "وزير السياحة: 75% من زوار الأردن عرب ومغتربون والتوجه نحو أسواق جديدة في الصين وأفريقيا &nbsp;&nbsp; زاد الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzaVVEa1kxNFJZVFZKUDNpX2J4V2pIYzhfTnhSMnZRVks1aWRibVliWWhzZ3c4cUN6azlsZk5Ib0RocFZpeTJ1dEFQcVdPTzRWb2tKQ3lYSWJmd29FZlozMEV1aUpxUVJwclE?oc=5",
+      "published": "2026-11-18T03:26:00+00:00",
+      "region": "الأردن",
+      "category": "سياحة",
+      "source": "زاد الاردن"
     },
     {
       "title": "هاني الملقي: إصلاحات مصر الاقتصادية ضرورية لمعالجة اختلالات متراكمة - https://ekhbary24.com/",
@@ -408,15 +399,6 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "العثور على جثة خمسيني داخل مركبته في اربد - وطنا نيوز",
-      "description": "العثور على جثة خمسيني داخل مركبته في اربد &nbsp;&nbsp; وطنا نيوز",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5sbkRPQUJwYks4SlpEZHhMdG5SeWh5eHZEdUtoUTdMSnFZenQ3MEk0bTd1SndDbkh1dkJGTWtHaDNhM2Mx?oc=5",
-      "published": "2026-11-16T17:49:58+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وطنا نيوز"
-    },
-    {
       "title": "مراكز شباب إربد تنفذ أنشطة ريادية وثقافية لتعزيز مهارات الشباب وتوسيع معارفهم - وكالة عمان جو الاخبارية",
       "description": "مراكز شباب إربد تنفذ أنشطة ريادية وثقافية لتعزيز مهارات الشباب وتوسيع معارفهم &nbsp;&nbsp; وكالة عمان جو الاخبارية",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51QVBuVGp4M0ZLUFB1aFRwWGpWTGtIMHN0TWtzVm5hQnBVTHBaY25vMjlnaHdYUVlQREk4bDBHa1pwdVpoSVZBMFg3bnBSZw?oc=5",
@@ -424,15 +406,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة عمان جو الاخبارية"
-    },
-    {
-      "title": "المجلس التمريضي يطلق حوارا وطنيا لتطوير مهنة القبالة في الأردن - هلا اخبار",
-      "description": "المجلس التمريضي يطلق حوارا وطنيا لتطوير مهنة القبالة في الأردن &nbsp;&nbsp; هلا اخبار",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTVY0UFdsVTAwX1JiLTVjSF8yMVFVdDB0UWhSY0psV0Y5QVNlenBhZ09JRkZZOHFTaFEwb0p5WXl2ZjgzSlA3TEdRdGZ1WVp5emtSZmQxRjlCTW9RdE0yVzBxQkJyMTRVZk04Vm9maVBLb0xkSy1CZUhwUlUzM1h2V05ySm1oZWpWd2NSb3phMmFodmNFaUdlRTRVUUNzQnNVcHBmNUx6REhxekJ3OXVMMWJjR3RUSUJ0alFXcXM0LUNCUlVxYmllbC1yM2thVjV3TmxfRHJCUDNhZkpzNXRmWUtBQURKYWJpdkZwbm82aW82VXVSMW9lZDd1R2NqeTlWUzEyRXdtWFQ0Tm1NX1c4anh5OWZhNEl2RklvUjd3Q0hsTU8tUTFUVm1Rc2x5UUxMdVhVVEtYU0lSamx5UTRmeWtPVVJrR2twUnc?oc=5",
-      "published": "2026-11-16T13:37:00+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "هلا اخبار"
     },
     {
       "title": "وائل شقيرات يغير موقعه في انتخابات الاتحاد الأردني.. ما القصة؟ - winwin",
@@ -480,8 +453,8 @@
       "source": "الجزيرة نت"
     },
     {
-      "title": "خاص.. دوقرة يفكر في الاعتراض على تأجيل مباراته في كأس الأردن - winwin",
-      "description": "خاص.. دوقرة يفكر في الاعتراض على تأجيل مباراته في كأس الأردن &nbsp;&nbsp; winwin",
+      "title": "خاص| دوقرة يفكر في الاعتراض على تأجيل مباراته في كأس الأردن - winwin",
+      "description": "خاص| دوقرة يفكر في الاعتراض على تأجيل مباراته في كأس الأردن &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQV3JWdmxKQ0txSGp1N1ZOR3lkUlFla1N2aVZaVVFsenlESy0yVFlRbm9nQjJVUlJHTmRxVC1HcU81WnBWT1QtMy14QV82ZFhZei1FNE5BaUZXbjNGOVJXcXdIVG5waXhseERuTk12M1kwczJOY2pZT1BvVWdpVElGNnB3R1hXa2N0NXpjLVNxX2tYM2pCeXNfRUM2ZXJVQnhxVnk0QUd0N1g2enpWc0x3RThXdkh6djduS0NTbmxJd2xLYkUyVGY2OC1CUUZJYlQzRGkzU1ZURUZjVC04MGJjaGl6MzNYNVhFZzVLZ1JuYlNYdHRBRzVIdmdBUF9HanVGNFpfV1hiOEkyM29zN0xBemFDQTYxanhyaGc0c0dpYW1MZXV5ellZa2NrRnU1Q3p6WmJZOFBPOU1FdGozaEVhOUJZVEd0V0oyTDRCeXJwMV9IM0JpclM1b0RUU2Z6T0dyMG1ZSFFhazM0Y1B3QjhBeEJDbHNmNXBtRlU3U1VGUXJqdXlteXcycnVZWGZ5YjJybTNzZGloYVNManBJNVpTUFhuU0xkakpGQ2xCWGw0UUNIaVIwUGlrcldzS0drS1pmaG5aUEpjekxka3VKTVpmMC1aWURmaTYtS1EyZnUtVGVGU0lEMnltMXl5OWpsWGx1OVk5a0F2aEk1eXhidWU1YlpB?oc=5",
       "published": "2026-11-16T08:07:47+00:00",
       "region": "الأردن",
@@ -525,15 +498,6 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "الأمن العام: القبض على شخص دهس آخر عمداً وقتله في إربد... - جريدة الغد",
-      "description": "الأمن العام: القبض على شخص دهس آخر عمداً وقتله في إربد... &nbsp;&nbsp; جريدة الغد",
-      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQbXpBS0luZXoxSHJCWS1Vbm9mbVVLRmI5cXlycFh5WnhKQlBMb2pSR242UTFFSTMyazljMEllbXhoVjltTTh4Y2JsenI2SVBHdV9weDNQSTFIbE02Qko5bmo4WnNxT0pSLVExbVJJVmhMNFZfMVRsY0NNRmFaVm56SkdNTTR1NnhtN1JOcEFZSnIwZzdTSWVhTlh1VWVGLUdfSjJaSmRwOXVsNWZfODY2RjBVbUExcHR2Vy1KaGJhU2tRckQtZGhlZmVOc2FFR21FekdkSURJMFJrS0d5RHZRMjFxckYwTXlJQUpRa1NnYUhWcUJsdUY3QUg0WTBJb0F5RXVSNEJYQzRDZE5XdHgtbFMzaWJ1NGQtbDdzdUdtQUplVDFxY0VFQXhFaXhuazBGUEhfbDVIM1Ywd1ppWWNQOHdPX1Z1T1BsVDlqQWtoSEREWFpyTi1YNGUyMEtCcVpXVHhOcFgxS1ZpU0NqQkRRTWxzX1oxWFd6YUdza2lKeDF1U21QcEE3ci1GOGRCWkx5elFXMGJmc3hFQ2NBbFktVi1MRXZUOWI0ajVoZG9nTDZfaWJXekJCSTdSLW1FSy1OWEY5OGYzV3c2YlhJYmdYM0hmWUNwQ3FhaFRqQ3AxaGhvU25TU2VxWEk3UnpDbHF3SDBESHh1RkZQWm1UdXRoQnZ0TTB6ZzRJ?oc=5",
-      "published": "2026-11-15T14:54:41+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "جريدة الغد"
-    },
-    {
       "title": "\"يُظهرنا كدولة هشة أمنياً\": انتقادات في الأردن بعد نقل مباراته أمام أستراليا إلى الدوحة - BBC",
       "description": "\"يُظهرنا كدولة هشة أمنياً\": انتقادات في الأردن بعد نقل مباراته أمام أستراليا إلى الدوحة &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TWXlaWmhYWkNrUUVna3YxWWpJOEhoVUltU3d6SHZDVDUxeGFabmtTanhOYUIybXpvN3NKUlc3d2lMN05KU3d2UUE5NFM1djJLYmJmN3JvTWpHTkNCS3fSAWNBVV95cUxNanRzSkxNM3A5c0Zrb01LcEYxM1d0UUtxcERmaHUwdnJFUlNBdW5xaFo4R0ZPRXFwamE1S3MxUjRZR1g3bHBJczFQMGpBR0hDa3V3NGctRDExQXB2TU8wOGE2MU0?oc=5",
@@ -568,15 +532,6 @@
       "region": "الأردن",
       "category": "رياضة",
       "source": "وكالة عمون الاخبارية"
-    },
-    {
-      "title": "الترخيص المتنقل المسائي في برقش الأحد - هلا اخبار",
-      "description": "الترخيص المتنقل المسائي في برقش الأحد &nbsp;&nbsp; هلا اخبار",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOME1uTEs0c2NPMEUxb25tM0pkUHhsR0FpS1NDX05wUkxick5WWGxKdldjbEx1SzVTYTB4TzhsSmV6RHA2cDEyWXFTM2c1SVhGY1g2WnVlWHVlWnFHSExGZV8zbEdSUkltSFYzSVBZdEZDOEdtVFl3YmRpMlpNWkRvZlRQVzZaOGc0Q1lOM0E2a3N6WktqeWhxTmthc1dqenhQWDFSRVhManZvbERNeDJLSnFjV0t1TEtONUw0VS1HVHNBNEFadXNtMzdDM0VHTjN1Z2tOMEtZOFhlUm1XeVJJaFowMmREYXhodFFfNm9hRTFpM2lKc3ZaUFg2cVA0Z3dwaVpOWlJqMFAtc21rLTRkYlpzNFN2MDlPZjBxNWZfLWVXUl96d2thWXdtaWR1cFQ0WC1YNTBtZWVPSFNLMDA0UmprU2pJQllvRUE?oc=5",
-      "published": "2026-11-14T18:08:00+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "هلا اخبار"
     },
     {
       "title": "البتراء من ميلانو.. تسويق سياحي برؤية تتجاوز الخزنة نحو أسواق أوروبا | مدار الساعة - مدار الساعة",
