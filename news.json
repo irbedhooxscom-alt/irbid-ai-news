@@ -1,13 +1,40 @@
 {
-  "updated": "2026-11-20T22:33:04.039132+00:00",
-  "count": 45,
+  "updated": "2026-11-20T23:33:15.736972+00:00",
+  "count": 46,
   "news": [
+    {
+      "title": "بين الحكومة والمواطن .. الثقة تُبنى بالإنجاز لا بكثرة التصريحات - زاد الاردن",
+      "description": "بين الحكومة والمواطن .. الثقة تُبنى بالإنجاز لا بكثرة التصريحات &nbsp;&nbsp; زاد الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TZUwxTGJpakJLVi11YVRrblVKbVJsTFhmQWJQdnBLbnpSN25ZZHFVUFdjbnE5UTA2dlhFcGRHLV9PbzlhbDZvS2N2dzljX0VvcFZoYXBia0U2TGhTYlZVdWZGb280OWlQVHc?oc=5",
+      "published": "2026-11-20T22:41:15+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "زاد الاردن"
+    },
+    {
+      "title": "حكومة الأردن تدرس جديا تعطيل الدوام 3 أيام أسبوعيا - رأي اليوم",
+      "description": "حكومة الأردن تدرس جديا تعطيل الدوام 3 أيام أسبوعيا &nbsp;&nbsp; رأي اليوم",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNT294aGxWOUR0V1JNR1d5cVZLaGJpNGZIZy15Q0RYdjg0NlJ2Z2trRFhZS3FyX3ZzTEdfZGNxOFZOeHVJSk9hWjN6c1hURUxsMzBLajlWczRJWjU1VVV5NnAwUG56OE1BQUd0SmEyQ1RQOEhzd19LZWNvaDlxaS1SVlJyMWxWRXRMNzNLU05KQmhObTZPQlB0NWNXbEYtczhsUldzdUVDSWlqM0F0RmNkbnVFVUxYNktiVFd6NFRpX0F5RHpLcEZHeXI4ZThFLU84ajhhVFhFNE9MVTI0aF8tTmkzZHVXV1VFNTdRN2dza25GZzQxVk5wc0NVRWE0OFY0cjgwQ2ctZnVKSVktLVFWSE9FMWd1cVlOY2NOZkNRb2h2MC1DUlZZUmRsaVJiTGtJMC15OUdHN01MY2xrV2FiR3dfdVpCdUxvZ0Nv?oc=5",
+      "published": "2026-11-20T18:35:41+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "رأي اليوم"
+    },
     {
       "title": "حريق في أحد المطاعم الكبرى بمحافظة جرش - صور - الحقيقة الدولية",
       "description": "حريق في أحد المطاعم الكبرى بمحافظة جرش - صور &nbsp;&nbsp; الحقيقة الدولية",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94eG94aTNGa09yci1PRDRZNTR2bkNFM0s0VXpyN0FpYUxvYkdfUHhFYXVhQjRLM3pIUWY0RE5aa0ZZRGtR?oc=5",
       "published": "2026-11-20T16:11:00+00:00",
       "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "الحقيقة الدولية"
+    },
+    {
+      "title": "كهرباء إربد تنظم برنامجاً تدريبياً متخصصاً في معمارية المؤسسات - الحقيقة الدولية",
+      "description": "كهرباء إربد تنظم برنامجاً تدريبياً متخصصاً في معمارية المؤسسات &nbsp;&nbsp; الحقيقة الدولية",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oZEtQbWh6VUx2Q0t6aUpUSUhFdlg4TURUR1otaC1sX2g3T2NaT1FWSFlhV0t2OW5XOVR1aDRLQ1pkbmR4?oc=5",
+      "published": "2026-11-20T15:51:00+00:00",
+      "region": "إربد",
       "category": "أخبار عامة",
       "source": "الحقيقة الدولية"
     },
@@ -19,24 +46,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "جريدة الدستور"
-    },
-    {
-      "title": "حكومة الأردن تدرس جديا تعطيل الدوام 3 أيام أسبوعيا - رأي اليوم",
-      "description": "حكومة الأردن تدرس جديا تعطيل الدوام 3 أيام أسبوعيا &nbsp;&nbsp; رأي اليوم",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNT294aGxWOUR0V1JNR1d5cVZLaGJpNGZIZy15Q0RYdjg0NlJ2Z2trRFhZS3FyX3ZzTEdfZGNxOFZOeHVJSk9hWjN6c1hURUxsMzBLajlWczRJWjU1VVV5NnAwUG56OE1BQUd0SmEyQ1RQOEhzd19LZWNvaDlxaS1SVlJyMWxWRXRMNzNLU05KQmhObTZPQlB0NWNXbEYtczhsUldzdUVDSWlqM0F0RmNkbnVFVUxYNktiVFd6NFRpX0F5RHpLcEZHeXI4ZThFLU84ajhhVFhFNE9MVTI0aF8tTmkzZHVXV1VFNTdRN2dza25GZzQxVk5wc0NVRWE0OFY0cjgwQ2ctZnVKSVktLVFWSE9FMWd1cVlOY2NOZkNRb2h2MC1DUlZZUmRsaVJiTGtJMC15OUdHN01MY2xrV2FiR3dfdVpCdUxvZ0Nv?oc=5",
-      "published": "2026-11-20T09:46:07+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "رأي اليوم"
-    },
-    {
-      "title": "أنشطة أكاديمية وتدريبية ورياضية متنوعة في عدد من الجامعات الأردنية - شبكة تواصل الإخبارية",
-      "description": "أنشطة أكاديمية وتدريبية ورياضية متنوعة في عدد من الجامعات الأردنية &nbsp;&nbsp; شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwVFJFYjIweWJUYVJKc0tBS243Z2gtbHk1SUlLelh2Nkx5Znl2anpPU1N4QWIzNnRDUExlNHNuN1N6R0ktQWZaWTR5bmRHdjJxN1RF?oc=5",
-      "published": "2026-11-19T21:03:33+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "شبكة تواصل الإخبارية"
     },
     {
       "title": "وفد سياحي وإعلامي صيني يزور الأردن للترويج للعقبة ووادي رم والبترا - الحقيقة الدولية",
@@ -102,6 +111,15 @@
       "source": "365Scores"
     },
     {
+      "title": "الخلايلة يفتتح ملتقى الوعظ والإرشاد واليوم الطبي والخيري في بلدة بشرى باربد - جريدة الدستور",
+      "description": "الخلايلة يفتتح ملتقى الوعظ والإرشاد واليوم الطبي والخيري في بلدة بشرى باربد &nbsp;&nbsp; جريدة الدستور",
+      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxPMVlUNk4wb1AxQ1BxUl9xM0pJVHRqQ2hmYUlVMlVOUjI2azd4dWUxUFByY096ZlBHTFhtQVZTa2NDTW9RZjMwblNZY25waVF3dW81VGJ2VnQ5QUEwYmFXTVNoYWRGcDg4Qjktd0tNeEZGRUZpbG9OX1VCQ3FEMTJ3TUIycUlGZUxqZHQ4MS1HOWpfTml3cGpXcVBmY1Z4Z2psQmNJVGoxRzJGQXBDZGFIQi04cy1DRUluTmVoX2hxZkhkZFhHR0N2WDBSMk02YTQtSlR1QVJmQ0Vra2lmbVM1ci1LYUpybkdjbGk3SzEzbE5IeVdOQlo0YnVQZkJxZjVrVVp1cjljYmRzdDN4enN1bnhtM3VBNlQxSWRLZFUxd09Bcnp1UFlDZy10Skp0TjZaMFlxQmVoVnhrM3RDeFFOaWFqVXhnaV9jQ005Z2duZlFMRG1VNXpHY290WEZfV0o0Vm5wWnNKZ2ZzRS1WOV9yNFJqdEtzZThDY1pVUmNScXlwelJEZ0hIcXNZOW9idmJWWnZoWDM0emFmYWxWX3gtMmdLQXk0Q0I2ZWtwR3pKOXNIM3NRZXZYM2swNjdyREd0XzBNaVpmSUxURGNiTHpsaVE5QXZfbzRvdDl4WWZjZnNBRks5NHhVcmFZdHpMNXpHeHZDdXhkbkR3TzJfWExqa1dYSVA2d2hrS2ZRck9ybVF4aVZUNjVSTlBkRGZrSkNxeEVaSXpuTDBSTkNRenBjQjlxX1gzWkNlYXp4WDJ0YS1uNlVsVzJHc2hvNjlBS1A3eHoxZ3NNamFscUg0QVhWdmJkYko?oc=5",
+      "published": "2026-11-18T19:00:25+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "جريدة الدستور"
+    },
+    {
       "title": "الأردن يرحب بالعقوبات البريطانية والأسترالية على شركات وأفراد إسرائيليين - اليوم السابع",
       "description": "الأردن يرحب بالعقوبات البريطانية والأسترالية على شركات وأفراد إسرائيليين &nbsp;&nbsp; اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPaXVhS0M0cW0xYUpocXZhZW1RMjVWWGlSY1BRdUI3d0w4ejZSQU8wUnRGS05BdXNKUmFxSjNGYWFIdGd6WmhTYVNFeFk1dGhwUVZsdm45NWVjVHhtd2FpWG9nQXZjRXlLbnNUYTByVk9WQmZLNFZnN0xXZmhYZXlLVk5WRGdTMkN2dlVldU12bE9qRVhzQzlHVG1idS00M0l5RF81MUZWcXVZZDB3d00wZkRkWWYwa3hEU2JfSmd6S1JPY2JkYWtXYTZoQTlEVk1NX1dWazByZ2Fpd3FFQVI0TEhheUdLZUhFb2txMEY4WU5sdG05cUlmYWpDajJwMXltWmsxaXhaWlpuRTNJUVlxWUlOS2JfbHNLdThHdnk3MS1ONU85UEFGeUxYMG9oZmhPdklfRzB1anlTU19sZC1DLVdNMXpTNm1BcmJvYndoSmdlLXBpYjU5YVlDRFZvbmhlOHJyS3N0OXF6SFBuY0pPMkdHU0ZwOGl1QVM5R3E2QTVjVGN6RVhoUWtlVUpmRFZ2T2Q5QTNhaUtyUXVRdFE1aVU5Y2F2ZnFuaHBUVTZyYmYyLVVlRFR4QURPcXpaeWthMDJkV21FcGdfaWFGMkwyMEJvbEx2N3pqSUdXbVNsaElMamd6TzdlRDBpdmFlYjJUZU9nSlZlcHF4dkZNNmI3MVVYSUJrSWc4M0xweEdqOTVBSVhrWDN1a0VGMGY1REZJUVI5UWdsbElaZnRuNjJHS3R0M1kzMkxfYlM5M3RqNUdwenJ3aFhQcHpQTm1GV0l1SlpRVzRzU1dJWjBVeTlwOE94Z0UtQdIB4ARBVV95cUxPWHlGSUJOSTVmZmtrakphQ1g4cDdRYUlSSzV0MEVPbjhFVXpqT3M4SnJwenhMZlk5SXJNZThMVVZRQUFERGlOclFGNnpXQVNVUVUzZmJJRzU1LXVlbWZtaXN1aEhIOGpEQXYyREw0VnZZclJ4Nl9WQ3FsX01yOWZGeWJvRXpKT3VvVzd0TGlYc1AyMWR6VE1ER2VIdWFBeU9vdFpCRWs4TGliOWp6ekJzQWdTU2NlTk9ScThUM2hRSTVVUGk3SFdxVEpwS2RnaVRLeFhUcVN4VFJVX1VtRnZsenR2V2pwV2lmZndBN1BXcVFoUW5FR255djhqNEhkWUc4RkJ2SEluNXZHRy1XYl9rZmVpbElDTk8wV0U1RF9UbDlUa2Ffa0g2ZkFKelpyT1BTYXpCNVJTdnhBcl95V0Z3U3Q4eThUU2lNUmI1TkFjZmdKelRuazlIbGdweHZFYWZFb1laV1NNbDdXNjMzeTUtLXRfeHFIa0pudGtFX0RjamlITjlfdE11VjYwRmxJb3E0NS1yV3lUSUd2TTRfRVZDdVZEQ1hhdGIzdXk5Rmp6ZDlmeUxhMVBmRlk1WHhxRjNvWjhGRUlWMDJTVVJXbFloUmdJZjk5T0RTZnJITG5DSGhzMktHU09ZSE5vLU9TMzJlTmpzWnRwS0dlZ0Y0X2x3TGN6ZnRxUy1yd3Nwbk1jNFpXTUlYWFZldjVLVzlaMzdOdUE4QkZ1bkxjWUh5eVd4MElZeWJrb2xmYkRHZXJjSUVudmFIdDBva0toTHQwSGd3VE5lazdmWC1fdE5qUHZMcA?oc=5",
@@ -144,15 +162,6 @@
       "published": "2026-11-18T13:23:43+00:00",
       "region": "الأردن",
       "category": "مجتمع",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
-      "title": "العيسوي: الملك وولي العهد يوليان الشباب اهتماما كبيرا ويدعمان المبادرات التطوعية والريادية - وكالة عمون الاخبارية",
-      "description": "العيسوي: الملك وولي العهد يوليان الشباب اهتماما كبيرا ويدعمان المبادرات التطوعية والريادية &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0Q2NfYnV1TVNCMHVpUnp4LTE4TmNEM0ExV2Frc2RFajE3M2ZhQl81Z1ZhSk9FdFk2TGZVR1dfVjhtNHNCdWJtN2libzRmSV81TmFR?oc=5",
-      "published": "2026-11-18T11:24:41+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
       "source": "وكالة عمون الاخبارية"
     },
     {
@@ -237,15 +246,6 @@
       "source": "365Scores"
     },
     {
-      "title": "السقاف: تنفيذ المشاريع المطروحة بمؤتمر الاستثمار يعزز فرص تشغيل الأردنيين واستقطاب الاستثمارات الأجنبية - قناة المملكة",
-      "description": "السقاف: تنفيذ المشاريع المطروحة بمؤتمر الاستثمار يعزز فرص تشغيل الأردنيين واستقطاب الاستثمارات الأجنبية &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMizwVBVV95cUxQdXYwQ3FoUkIzSkdqVktQMDdmSzBkSzV6MU1NakZPUFhIYjA0UWZfbnNkSlFFcHdQdDJad3p5QjYwR0hzZUlRbFRBVFR0NG9XR2JORy1jS283bEptekd0ZEJEbFBuZWVWZmlmeEh6bFBqSE4xbnUxUmVSS2I1aGpnQm5nd213Um1BZ0tHSkZUd3BIMXh4SDN4Z3VmTUE3bHhTbkVYUThlMFp5S0pZSGtOS0Z0d3RhWlluY29jRFlqYmI3N0xMZ2VQaFQ1SVBxaURCcjJBamZuYmo5Ny1fckcwSVlTTWw3aWxsSWtoaWRxb0lZMXNlb2hOVTRUc1dmekdoS2MzTUl6RjV6R21DSDg5N2IyOV9EQ1FJdWhLbndtYTN2d21FTVFnNE91OGJja2xkSDg3enpqdlFMZGxoM1Y4M3p0MHJHclRaRTI1RmtvNkRYMnR0bFNyandrUzhfZEN1UEg5SnRaSzZyR21MUlFZQkdPb3FKckU2MHRHUGtrUUphTmc4bDBMWldEZVRwZjVITTBVYVNQMl92d09DZ2FnNUttaWZMN3JDNlgyNWQ5bXJjTkpKLVMycDBXS3B2MHpQbHVnQklPZ1hWTllYUk1WYWNyYVc4RjhMZEdRc0xQZFNsNTlDLTZzZXFRZTBuRmtIV0N3bzIyTXlHRlBnaWFFbDRWYzc4akFIZFJ4N2t3bWN2QnAxX3QzNXQ4cXcyUkQzakc3eGxINUZnTkZOTUVyWUE0cHdtSXlWVFNrRnFFZ2tmOFNEWHY1MkFRMjhBTUtPVjQyVjhucU5CQXJLaEZzTUFFc3R0S1BVLWVFaloxa1drSXgwbW1OQ1lGVWVwd1Z1ZGpfby1MNld3ZGFteWpYQnhOdG1XTU5yb0xmMHE5Wk8zSWYwOFdXMFhlMXBBVjdrRTVPLVRQU09hb0ZLWWFpMHFFZC1McDdEdnUzQW1lYw?oc=5",
-      "published": "2026-11-17T15:26:18+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "قناة المملكة"
-    },
-    {
       "title": "تشكيل منتخب الأردن المتوقع ضد أستراليا والقنوات الناقلة - winwin",
       "description": "تشكيل منتخب الأردن المتوقع ضد أستراليا والقنوات الناقلة &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOTEtVQXBHekFRaHhJRTZLN21JZzZrUUhPM2d4dlNVd2JCNV9qNjlCa0hxWEg4UkZ1UzBYZ0RSTnJYQ1lCaFlKOWZGVlVBTjdJcWFfWlJ2VGJfa01HSmFlUVFzV3YtcW5lZlo1clIyOUtLakJHRENzMEIzeXZHWk5HdWNLWDRyUXpHTjYtSGNaMjZHUWE1VnpWazRaWDByRmN4cWhlNTN5b3VLMVlTUHkyejNoRjl6NnhPZ3ZobFZGeWVGa3UzNHFieGp0ZE00NjZCVmYwaTFlMGQyZm9UZmNGenhqVmxObmwwcWhTWl9PaTd0ODFYcWs5d0tUYW13QzE0cVhrTDhiV2Q3R1c2b0QxZkplLWJxcVp5VXBwVG80Si0tRFNjMDNoUFdvS0NzTXNnWHQySUg4MjZHcjRTWHlqbzQ5NF9wdGNZOWE0WEdLOG44QkRqMzBXVUNwYnVndWNjVWtZakpJNWdmNHV5M2ZTQl9Fc0t6eG1YcER0VEoyeUtIUGVxa2Mtb1p0aGthczVWXzZQOS05RXhXeFJEdDFrUVAxdmpRVHZ0RFZ0bU9KdTJSNkdIV3VPS2o1UFlIelhINTZmRDV3dll6aU9SZG1tNzFrcWJZS09ISHg2amUtdENMVG15R2xmU2pwdUJQandsakRudllOWS04dGVJZ3c?oc=5",
@@ -253,6 +253,15 @@
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "winwin"
+    },
+    {
+      "title": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم - وكالة الانباء الاردنية",
+      "description": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5COVFMMjRQaXJaSFpXTlo2a0JDcWtTRlQ0Q2luVWJQYWlRT1B6dktRMHo5R1JDeGYwYy1TMHZKdXNMcEdRN3ctNUx3ckw3bHEtcnlTZml6QlJqZzNzSmVTbDEzNDRKdw?oc=5",
+      "published": "2026-11-17T08:48:44+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "مباراة الأردن وأستراليا اليوم.. النشامى يبحث عن أول فوز في 2026 - winwin",
@@ -289,6 +298,15 @@
       "region": "الأردن",
       "category": "سياحة",
       "source": "الوقائع الإخبارية"
+    },
+    {
+      "title": "القوات المسلحة تجلي الدفعة الـ 38 من أطفال غزة المرضى لتلقي العلاج في الأردن - قناة المملكة",
+      "description": "القوات المسلحة تجلي الدفعة الـ 38 من أطفال غزة المرضى لتلقي العلاج في الأردن &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNRHQ5SldpOVA4ZkpVbi1QOTZyZVNQZmk5bXI4UEdYTFNXYjh4Mkhxb3N5SXI5Q0x6TTI1cUgxVVktelB3Zk9fMUhGZVhldkRCTllDbTMyWmVUNFJULU1fZlJOamN2X3BVVHRLZW96RVNEa2RwNkExeFFYZF96c0d3LVY1dlNiWDN6a1N5dFgtc1FDVHlRd29vRm9MVWgwMWdaT3NER1c3OEQzN3puMGRtYURxU3BRR2pKaUQtVU9BcDdVZjFfOEN1RVR0c3RESGV6ejRfTWEzZE15SlhaeUdhLVJkNWczMUZkMjVyejVYLVFPRzY0bXZnazMyVFRjakdDQzFIVXo2YUN3OGYtaFo3dndac0hLMmZ2bGpNUVF6bDdvaXVhTmdLMmtMLUVWYTdHeWUzT1NJVU5aeU1ZdTFKUVZIWkNUWWxfRS1uX2oyNkt3R0tzT0t0LTZfSUNlY3pndVFGOE9YU3pEaFNHYmxyT250ZG9jcUtfWHlESXZzdGxWVXFPSGNkZVY0TGQ0YzRXeXdGQlhSM0EyLVAyMFhWdWxxMXptaVQxaURrTkxLZ096aHFLMThTSmtxYVUySGIzbDFpcTVpeG0xTlZyZEYtWjN5aERxVE9BdlgwcnZ5bFpXc3VhRzhQZGc3Uko1bGVQRjJZVnhoQjkwRjVrTElVSHFnSmV4VFFMV3ZJNFhKb0VZMUVWTFpyTm1qVUpOX2hDeUl6YkU3ZW9mRGg4SjdBcjFmN2JuZlRKczRGSm5HcUxoNzQ?oc=5",
+      "published": "2026-11-16T18:37:19+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "قناة المملكة"
     },
     {
       "title": "الأردن الثامن عربياً على مؤشر تنمية السفر والسياحة لعام 2026 - جريدة الدستور",
@@ -345,13 +363,13 @@
       "source": "winwin"
     },
     {
-      "title": "دهس رجل أمن وعامل وطن في إربد .. - موقع الأول نيوز الأخباري",
-      "description": "دهس رجل أمن وعامل وطن في إربد .. &nbsp;&nbsp; موقع الأول نيوز الأخباري",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PeVpwUGtsNW9uLThKQ3NqS0wzdHI0SnFWTVdCeDRpLWdjcDVpRGNQdXY5RHhtVE96cGU2a1lRT3IwZU9JMVY5M0JrR01Oa3NiR0YxS2xzU0thZlhtaUpGVU1aSQ?oc=5",
-      "published": "2026-11-15T20:09:48+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "موقع الأول نيوز الأخباري"
+      "title": "الحملة الأردنية والهيئة الخيرية الهاشمية توزعان أغطية شتوية على النازحين في غزة - قناة المملكة",
+      "description": "الحملة الأردنية والهيئة الخيرية الهاشمية توزعان أغطية شتوية على النازحين في غزة &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQVDJpMzZFLVFGWGRFMkQ2Nkhibkh0TjJmRzNTVm5vM3JYTnRZM3dERTRoY0dnOS1UVmt0aW1vbnBzaENDYWphS01jTGZNM0cwV1h1UmtUR0g3VlAwUGlIRzh6Z2k1MjRLcG1BZ3lheWpoVGo3cEVKaS1kOFZtb1JXalI3RWNMQjJYYVdUU2JwczZLek1xcmNqMDM2b20zeFhEVVlLQzFRYzhVQzJPWUJGdlNoUzNydVNGR1l1WEdDVzZYN3RRcnBDV3lyc1JBeG9ONUotaGxteVFwVUd0TDVQR0RTT1ZIYUNkd2E1ZWZBN1dYSm5fMzZlYXpmNVZJQmtqZGRFbTlNRTR2S2x2VU1GWk5VLVAyU1VDQ3VKM3VLSHMxQmQ1QjdWRGZ1dnR6Wm1oQ1ludjZLSzdGREttSk5lck5DbjZPUldnX3VRY25RaXhxMmNqaEM5emJYNHp0eEtXTnAybXAyQUFkYjNVS3otTnpYam1fM1JrNmpnNUxoRDdtT0NRMEZRa0NrSWxLc0ZXZTJQaGc5Z0ZoemhYVVAtQV9OTVVHOC1MRGExMUFLcnNGTkVkSzhlcG9HUHQ2TDBTQThyRVdXY2x5REd4aGU1ZEVrY3JYZl9hMWNSSkVsM2JBZWdOVU5TNU1ha1ZhelVGSl8ySXhFZy0tS0ZxeXlydmRTaVM3NVlhS2ZJSWo1b2I0Y3JEemIzQkRIZ2VJclhPajlkUHRWeFhYYk9JSmNfdEVPS1VtNThZTGsxVUc0NmZsd2wzRWo1SmY5RVRTdVh6ZzkxbjRIZWdidHZIX1JIRTBNMHI0aXFUTE9wbGp0dzM2elBsZGc?oc=5",
+      "published": "2026-11-15T23:12:27+00:00",
+      "region": "الأردن",
+      "category": "مجتمع",
+      "source": "قناة المملكة"
     },
     {
       "title": "مديرية شباب إربد تنفذ جلسة تدريبية للتعريف بجائزة الحسين بن عبدالله الثاني للعمل التطوعي - وكالة عمان جو الاخبارية",
@@ -372,13 +390,13 @@
       "source": "Tourism Daily News"
     },
     {
-      "title": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم - وكالة الانباء الاردنية",
-      "description": "جامعتا اليرموك وتيشك الدولية تنظمان مؤتمرا حول تقارب العلوم &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPZERiUFJvY25hdkxEbkwycVRTVkdPUWF6SUpyUEFZNlJZeXdFa3AzdGpiQXlVdHRSeTJOd0EyRm9HajY2SXp4VWxtN0tCMHJrRF93S1R0WE5BM3hiTFN3UVk2eGVQeTlDeDhxY3UwN3ZyZXAyY3NWOHVsS053Tm8yT1pNVTNHU0pJUmFFUzh3Y0p6elpjY0V4SkloRlNhY1VTLW51b05qZEpCY2FUcGJ4Y1oxMko5UjRLQzA0ZzRHeDRZRGk5azRHN294SXcyWHBBMFhxcmJ3VGxBUnhKMFdOLWZEU3pYQnVyemJMc3NXN2hRM3BRNDBhWlZuUEJMWVQ3ZDI3THVRTHJuVmdpNGM5aGN5OUMxZExmZDVRZGJ2TTVTZGZxSXU2ZUgtdmNfNWpjM2EwU043WW1RWVAwRExMdG1zUjVkdkY4TEItUEFKdXdKWjE5SjNHc3ZFbDFIM2I0OGhtXzVLSUdzSG1CSlNOVXhZYUt3aV9EUFBlcXN6Rzc5SjJuR0dHMDl6ZTJNSmJEd3dRTnJ1bkFiMTJrT05DZHFSbFdXVS1CeDFsNzZ2dVExbElHekVVaG9PaGQ5Y2xiZEoxcEFYX3g2NjhqektmRndUcnNienpPbXg3N19Od3FpMFhNSGY2Y2tPbmc1ZkJvSE1oelY3ZXdPbURlYkRWSFBaQQ?oc=5",
-      "published": "2026-11-15T16:15:48+00:00",
+      "title": "مجلة «مال وأعمال»، تطلق مبادرة «من بيتنا يبدأ الأمان» تعزيز الوعي المجتمعي ومواجهة الفكر المتطرف والإرهاب - وكالة عمون الاخبارية",
+      "description": "مجلة «مال وأعمال»، تطلق مبادرة «من بيتنا يبدأ الأمان» تعزيز الوعي المجتمعي ومواجهة الفكر المتطرف والإرهاب &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTXhud0sxc0xseEFFQWRFQmIyUWhWa3I5VjdNYXpQUUdONXEzVUxpTUdKY2hXYWo5a2M1Rm1EUV9IbVJHRkFzOC1qYXhYQlh4VHp3?oc=5",
+      "published": "2026-11-15T16:59:29+00:00",
       "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة الانباء الاردنية"
+      "category": "مجتمع",
+      "source": "وكالة عمون الاخبارية"
     },
     {
       "title": "الإصابات تضرب دفاع منتخب الأردن قبل مواجهة أستراليا - الجزيرة نت",
@@ -397,15 +415,6 @@
       "region": "الأردن",
       "category": "سياحة",
       "source": "قناة المملكة"
-    },
-    {
-      "title": "جامعة عمان العربية تنظم يوماً تطوعياً وترفيهياً لأبناء قطاع غزة المقيمين في الأردن لتلقي العلاج - شبكة تواصل الإخبارية",
-      "description": "جامعة عمان العربية تنظم يوماً تطوعياً وترفيهياً لأبناء قطاع غزة المقيمين في الأردن لتلقي العلاج &nbsp;&nbsp; شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kS2wxZzRnQ0dzUmdfbzBFMWgzOWUzMXJZTVR1ZXkyY3ZLXzBJZjNGYnZCLXE5N3lXZUhmMzl5NlE1OERIM1luUi1IbS1GaXRGeTZN?oc=5",
-      "published": "2026-11-14T09:22:32+00:00",
-      "region": "الأردن",
-      "category": "مجتمع",
-      "source": "شبكة تواصل الإخبارية"
     }
   ]
 }
