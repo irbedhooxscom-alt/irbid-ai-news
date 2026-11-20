@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-20T03:40:02.290448+00:00",
-  "count": 67,
+  "updated": "2026-11-20T04:46:55.023020+00:00",
+  "count": 59,
   "news": [
-    {
-      "title": "ناصر بن حمد: تطوير العمل الإنساني وتوسيع مجالاته - الأيام البحرينية",
-      "description": "ناصر بن حمد: تطوير العمل الإنساني وتوسيع مجالاته &nbsp;&nbsp; الأيام البحرينية",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81QTN4Q2JjcWFKNFdFT1RVcndoeHYwcmp6UzBoZmxkLXlITF9yWG1aNUVZS3JpUjl0MFRCQ0x2Z01pd0NSZkxkOUtJT0k0RlZRLTJTQURFTVllMGhwU3hiWGtVVQ?oc=5",
-      "published": "2026-11-19T22:49:29+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "الأيام البحرينية"
-    },
     {
       "title": "أنشطة أكاديمية وتدريبية ورياضية متنوعة في عدد من الجامعات الأردنية - شبكة تواصل الإخبارية",
       "description": "أنشطة أكاديمية وتدريبية ورياضية متنوعة في عدد من الجامعات الأردنية &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -138,15 +129,6 @@
       "source": "اخبار سما الاردن"
     },
     {
-      "title": "الخلايلة يفتتح ملتقى الوعظ والإرشاد واليوم الطبي والخيري في بلدة بشرى باربد - جريدة الدستور",
-      "description": "الخلايلة يفتتح ملتقى الوعظ والإرشاد واليوم الطبي والخيري في بلدة بشرى باربد &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxPMVlUNk4wb1AxQ1BxUl9xM0pJVHRqQ2hmYUlVMlVOUjI2azd4dWUxUFByY096ZlBHTFhtQVZTa2NDTW9RZjMwblNZY25waVF3dW81VGJ2VnQ5QUEwYmFXTVNoYWRGcDg4Qjktd0tNeEZGRUZpbG9OX1VCQ3FEMTJ3TUIycUlGZUxqZHQ4MS1HOWpfTml3cGpXcVBmY1Z4Z2psQmNJVGoxRzJGQXBDZGFIQi04cy1DRUluTmVoX2hxZkhkZFhHR0N2WDBSMk02YTQtSlR1QVJmQ0Vra2lmbVM1ci1LYUpybkdjbGk3SzEzbE5IeVdOQlo0YnVQZkJxZjVrVVp1cjljYmRzdDN4enN1bnhtM3VBNlQxSWRLZFUxd09Bcnp1UFlDZy10Skp0TjZaMFlxQmVoVnhrM3RDeFFOaWFqVXhnaV9jQ005Z2duZlFMRG1VNXpHY290WEZfV0o0Vm5wWnNKZ2ZzRS1WOV9yNFJqdEtzZThDY1pVUmNScXlwelJEZ0hIcXNZOW9idmJWWnZoWDM0emFmYWxWX3gtMmdLQXk0Q0I2ZWtwR3pKOXNIM3NRZXZYM2swNjdyREd0XzBNaVpmSUxURGNiTHpsaVE5QXZfbzRvdDl4WWZjZnNBRks5NHhVcmFZdHpMNXpHeHZDdXhkbkR3TzJfWExqa1dYSVA2d2hrS2ZRck9ybVF4aVZUNjVSTlBkRGZrSkNxeEVaSXpuTDBSTkNRenBjQjlxX1gzWkNlYXp4WDJ0YS1uNlVsVzJHc2hvNjlBS1A3eHoxZ3NNamFscUg0QVhWdmJkYko?oc=5",
-      "published": "2026-11-18T19:00:25+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "جريدة الدستور"
-    },
-    {
       "title": "النهار: 220 ألف موظف يعملون في القطاع العام و4 آلاف يستفيدون من أنماط الدوام المرن - زاد الاردن",
       "description": "النهار: 220 ألف موظف يعملون في القطاع العام و4 آلاف يستفيدون من أنماط الدوام المرن &nbsp;&nbsp; زاد الاردن",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWWxVQVNCNmxWclNYakVBOVZTd1VPQTFHMVRpaVJBTVpMYWw4azFIYzJYcmNwNXpvUTBjQ3hEZUE3ZjVpZi1EUEhKODNpTnBfc0tIRXNTdGN0eWUtM0RUeWFmM2JvNmg2Rmc?oc=5",
@@ -199,6 +181,15 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة الانباء الاردنية"
+    },
+    {
+      "title": "الحكومة تبحث إنشاء طرق بديلة لطريقي عمّان–جرش–إربد والرمثا–جابر - قناة المملكة",
+      "description": "الحكومة تبحث إنشاء طرق بديلة لطريقي عمّان–جرش–إربد والرمثا–جابر &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOeURhMmlwQTJkLVRGOU1WakdwTTh6U3RpUDRVYjNxREpWa1hwTURoQkwzc05NbHRONnlucC13UWF1ZGkzbDExWTdkQi1KdjhrXy1SdW4ycUo0bWlQaVQ3cHpybmdwaWRoaG1iNTFuYXlrRW9uU3p0WlBwdjVRUzEtT1NDdk5XeWozX2VQLVJVZklsbVZNSDhaaWVIaE1KWFo1TkdXSS0zRWNZTmZCM203OVJMcGtaeFJvaTNQMlZSU3NUNUpaYWNEZW0xWjBqRXZWOWkyU1c0MFlmbEwtc2dKMU5XTlM2NWh4dlpleGplOUl5QVdtcHY5MzBNc3hSQV9xM05YMUxNb2RjOGhkcWsyZXM1eXZWLXlyNnVWSko0MW96Zkd6WXRRWGdYeVZFYVV4V0o0MkZXYUt2NGI4by1IQWNVOFVPYmp6eklpNmhacWd6Y0RZZnUwYzJOQ0ZOYk45Vmh1aFAxUUNTaWRRVElWNUxhTUhNSFdjWUVIWmtUbjFOOG9PZVFCQ004WDhVS3JNOFhPUDVMelg5Si05OEx4bWQtNUxLNWg5ZTVjTEZISWVoMkdHR0ZhUXJSSTRIVTg5UGtWVVh2YkVYLVlSR3BWVjJoZG5oTWcybzVURy0ySWg3YlZHY3d3Ui1zX1lZQnd4?oc=5",
+      "published": "2026-11-18T14:27:38+00:00",
+      "region": "إربد",
+      "category": "أخبار عامة",
+      "source": "قناة المملكة"
     },
     {
       "title": "أبو السمن والمصري يبحثان إنشاء طرق بديلة لطريقي عمّان–جرش–إربد والرمثا–جابر - جهينة نيوز",
@@ -372,15 +363,6 @@
       "source": "جو 24"
     },
     {
-      "title": "الحسين إربد يفوز على السيب العُماني بثلاثية نظيفة بدوري أبطال آسيا 2 - وكالة الانباء الاردنية",
-      "description": "الحسين إربد يفوز على السيب العُماني بثلاثية نظيفة بدوري أبطال آسيا 2 &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQX3FGTW04Z0tWaXc0UVVocnZtRTE3UEdqcjg5QXI1aS1GaVo0RlFHOFRCOWtHV3BoN2JEV0t0Um1ZZ3VHTDdBSU43MUFOcER6UXA3TnVCZFVBU3F1ZERlMFVGaVFQTEJacVAxQklWRVJKMy1pdVNEd3l3dDlDYmwxbnlvTDJzU0hPZE5ncGliUjNWSXQ3TXhaUGcxT3RwN2xrd05YUHUyTnhhVk56aFZ0S2oxN1VEOEdVcWRheXBqOUxkUC02RWhzWlpqbVBmSkhWa3RGSlI4NkkxcnUzNmo1Szd5SVpROGYzS3ZBUFhQSmpOaW1Zb1FYQ19xV2RLZUJ2bEZhejdnWFUtSkVvZEo0cTVhV1RsQlh2NTFEMExOeXFMRjJDdmZDTmc0eDRjS1pDbGpBek03UjVqZm1wWVlCVHNUU1lzRm5nV1h5bjUxcXZLYldMOWgtaE90THRUdEFXQml4WFVDZEU3OE41blVjbm1qeDUwUms4ZDBEZElnaERYX1EtNzhteS16ekRyc2pjOXVqYVNpOEllOUlRRlVTU1VRU1pyZFVTUFdxUEt4WE9kSEZKSUdXMXdSdU1RZWVzM3drMkg3WkkzRmJXMzNQeEJRNUV2TkZZVFo2U3pTNmZOcm5SZnc5TDVDaVJpZW9uZ1FnOEdyaHVRakRsQUhEeF8zNmF1NEsyX2RhQjc5NlZETHpYeFpPQ1lpWEZEWTdNU0Nv?oc=5",
-      "published": "2026-11-17T00:02:09+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
       "title": "الأردن في المرتبة 73 عالمياً والثامنة عربياً على مؤشر تنمية السفر والسياحة لعام 2026 - الوقائع الإخبارية",
       "description": "الأردن في المرتبة 73 عالمياً والثامنة عربياً على مؤشر تنمية السفر والسياحة لعام 2026 &nbsp;&nbsp; الوقائع الإخبارية",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wS3FqQ1NCZ0ROVElZb3JScFBtYmd3Uk0yb1Q2cnQzR05WbmZoX3U1TmdIcHVFMGphTE02WkNoU0d3R0wySHoxdEVsaw?oc=5",
@@ -415,33 +397,6 @@
       "region": "الأردن",
       "category": "سياحة",
       "source": "وكالة عمون الاخبارية"
-    },
-    {
-      "title": "جماهير أردنية تشيد بأداء الحسين اربد عقب تعادله مع الشرطة العراقي بدوري أبطال آسيا 2 - وكالة الانباء الاردنية",
-      "description": "جماهير أردنية تشيد بأداء الحسين اربد عقب تعادله مع الشرطة العراقي بدوري أبطال آسيا 2 &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxORlllV3p4TldmYXlRQlZMWnB2S0JqQ09PelJxWm9CSEhSMVZZRmRLM2w1WkluWTQ1RXBYSXRuRDBfTEZ5dkFvUEN1VTEyUzdGOVVSWHlMbzNBZkZEYWZPNHJ6SjV1eWxLQjlVUlN5RkdwSVdUa3hNaVdXQ3RfdEp2N0FfTENJNWN2c0d6aEFETHRtMGZqT2k5TGZMVVY0VThYX3RQbmJqZVU4RldhM1pjblJsTl8tN2duR2UyemhORWprWGR5NWJoc2RBdm5mMTlETThMUzNvY2c5a2lLMVgtZzlWUXRlQnUyRVpBX1N0cXd5LWZQR3g5QjFfcDNJQThzRElOZ3BmNEVCUWhaZ3dxMWxqMklablNyd0h5cGk1NXg2WjVzTTBUNEszZi0wSDBqazRXV3VDYlFRekJHVTJCbjdaUlpjQjdYZjFRdkhHY0NSajBTeURWS2xtOXpwTDE1RFhxTUQ1cFotT1c0QmltUExQc0x4RVJfT0xHZDM1Q3dKOGxEZlZtd2JkMmtndHlSWm1EYkw4aFlTNjRQWlBLSFItT3FOU1FqdnRJMUNTaTZGd3VudEZqb3RkYmJMak9USUhfNU1HcnF6a2xzalM1OUR4YlZVR08tTW5HQXowQks5LTJ1akY0eV90V0lLc2thYU8wbThfTFpjUEdVcUlSWFgtc0dFbzRyc3l0STl2M0lwQ0hJVk10V1pIMW4zQ2JuSl82eUdoODJjcVg4Snh1aWc5UDJqM3NPSHdDdFFHc0ZwRm90MHl5MU5ERDlOcnJRcXF6Zzk4ZzZYYTdzUDczZklCejNnU1o1WHk1WU96ekdPU2YxUTduS0JDYUo1NHlCcHhrdDZaN3NXZlBZc3p2YzRJVlVVdw?oc=5",
-      "published": "2026-11-16T15:01:16+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
-      "title": "الحسين إربد والبقعة يتعادلان سلبيا في دوري المحترفين الأردني - وكالة الانباء الاردنية",
-      "description": "الحسين إربد والبقعة يتعادلان سلبيا في دوري المحترفين الأردني &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQd3VGWDRkWEpCa3dHTVFXX2twVVRoQlh3X09VT3pFZG5nc3ZJRWZ5czVMeHRXbmJNWEx1LUt3TTdkR2JiM2hCT0lLaTdqaVF3STU2Z1FjM2l5Vk5GVFRlMVhYRHlNNUEzNkZxQlhGUHJCQlBQekU1UU9idmMtY01FOTRaV0FKWWFFS0I1YmItZzAxX3ktcHJfXzdvSnJheXRaS1VMeWMyZUo0Yzh5Z2pHT28wVVBtSndtdVBYLXRQN0FWZTNCajN0YlFQLVhFeXM1azRQdG5VQ0l0a1BQYmR2SmRaLVVNOVEyRjVuMjg3ZHlFV1NHX194RTlBNUZHamtxUVUzc1E5c1VxRTNMbU9pckVzV2VsTDd5NHd2U29lRTBRYWUtQzAxNjllY2VlN3g0c0pLTEtCRmFrQ0luUWFablNVQ1FlWVFQQkgzM1U0aTJpX1JES2huSFRhblNEMEVUSDBxMGUtcVlhY0lkQ0tBZmVpZ0R2emNXYndQZkNRNWJCSmpOYWxYTDBzN1QwMjd3YnpLTEhmdm5ZRFBMZ3phX2dndnkyV2dVRmFpd0tsNzhVLWhMVkdnQUpDY1FnTlJDcENpbVZPenNENmVGSVR4YllVZW90ZllHTk5teGxSSVUtZE9rNXBtbDF2aFE4VFkyY09XeDBENjdhMjhOR3dHeWJzZw?oc=5",
-      "published": "2026-11-16T14:57:04+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
-      "title": "\"الحسين إربد\" يصل لمسقط استعدادا لمواجهة \"السيب\" ببطولة دوري أبطال آسيا 2 - وكالة الانباء الاردنية",
-      "description": "\"الحسين إربد\" يصل لمسقط استعدادا لمواجهة \"السيب\" ببطولة دوري أبطال آسيا 2 &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DU0ZZUVV5SEM1WE5hWDR0NWxWdDBQWFZWeGp0cWNRNlNBSjB4dkx2VHoyZFZTenY3dzVLbk05TEc1S2JpLWxvNV9vUzRESmF6Slp1Vm9OcHlvQk9sY2dLdnYzN2JJbDdGbUZYWTh3?oc=5",
-      "published": "2026-11-16T14:29:13+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "وائل شقيرات يغير موقعه في انتخابات الاتحاد الأردني.. ما القصة؟ - winwin",
@@ -522,33 +477,6 @@
       "published": "2026-11-15T16:15:48+00:00",
       "region": "الأردن",
       "category": "أخبار عامة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
-      "title": "الأمن العام: القبض على شخص دهس آخر عمداً وقتله في إربد... - جريدة الغد",
-      "description": "الأمن العام: القبض على شخص دهس آخر عمداً وقتله في إربد... &nbsp;&nbsp; جريدة الغد",
-      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQbXpBS0luZXoxSHJCWS1Vbm9mbVVLRmI5cXlycFh5WnhKQlBMb2pSR242UTFFSTMyazljMEllbXhoVjltTTh4Y2JsenI2SVBHdV9weDNQSTFIbE02Qko5bmo4WnNxT0pSLVExbVJJVmhMNFZfMVRsY0NNRmFaVm56SkdNTTR1NnhtN1JOcEFZSnIwZzdTSWVhTlh1VWVGLUdfSjJaSmRwOXVsNWZfODY2RjBVbUExcHR2Vy1KaGJhU2tRckQtZGhlZmVOc2FFR21FekdkSURJMFJrS0d5RHZRMjFxckYwTXlJQUpRa1NnYUhWcUJsdUY3QUg0WTBJb0F5RXVSNEJYQzRDZE5XdHgtbFMzaWJ1NGQtbDdzdUdtQUplVDFxY0VFQXhFaXhuazBGUEhfbDVIM1Ywd1ppWWNQOHdPX1Z1T1BsVDlqQWtoSEREWFpyTi1YNGUyMEtCcVpXVHhOcFgxS1ZpU0NqQkRRTWxzX1oxWFd6YUdza2lKeDF1U21QcEE3ci1GOGRCWkx5elFXMGJmc3hFQ2NBbFktVi1MRXZUOWI0ajVoZG9nTDZfaWJXekJCSTdSLW1FSy1OWEY5OGYzV3c2YlhJYmdYM0hmWUNwQ3FhaFRqQ3AxaGhvU25TU2VxWEk3UnpDbHF3SDBESHh1RkZQWm1UdXRoQnZ0TTB6ZzRJ?oc=5",
-      "published": "2026-11-15T14:54:41+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "جريدة الغد"
-    },
-    {
-      "title": "الحسين إربد يتعادل مع الشرطة العراقي في دوري أبطال آسيا - وكالة الانباء الاردنية",
-      "description": "الحسين إربد يتعادل مع الشرطة العراقي في دوري أبطال آسيا &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbThrQkxFM19YaVhmaFVEck9HeklYaERrNjFPV3FQVkgzWmxLdkF3U1JaZF84Z09tYWwxd2ppQ3gtbGhWc3VZckNIbTV5M0pnVHhJTHlOM2RKTVIwM2MteWZRbS0zT243SElMeGRDU3U4SWVNQS0wc0lFWm55dzMzb0R1WjM3d01WXzhQeEh0VHEyTjhVVkFyMFY3OWN2QXkyWkJwdHplTUsxUzJMMWd3anp4SG1HZUtYc0RrUUh2LXl5RWQ1cW1MUHB6bThJdm5XaFd1SDZidUFDTlRxRjRNSEV4d29qdDYzQmNfWTlXUmJodERUT0dpYy1WRFlNYzVkRHhOSkhzWFQwRUhkUnhxSGRZVnU2OE9nSHNhVXE3WVNiOEY2WUcxZzNCMmtjRnhzWWctaDE2bmpQd3F6UGZYVmNBQ3h2S0xiQmxyQkN5UlR1bFhxMmI2bUF4ZXZfWnhMQV92NUJVYTZ5dm84bjVJaGd5TGhRYU5Pc0w4NnUxeE5UdWpMN2VrQzdUYTllclFmbVpDODZRM3pjY1BFN2VBeHpVMGNiQzM1c3dQVGNWaU4zZlNJZHpWWkRLUDIzVmx3bE1OTGxreTQyRE1zR0g0aTZ2N3NtaVozMkw3bHBhdw?oc=5",
-      "published": "2026-11-15T13:47:31+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
-      "title": "جماهير الفيصلي والحسين إربد: طموحنا رفع اسم الأردن آسيويا - وكالة الانباء الاردنية",
-      "description": "جماهير الفيصلي والحسين إربد: طموحنا رفع اسم الأردن آسيويا &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQTTBuRm91dzVoTGdZS3F2dUFBNEVCZjRCS0YwY21qMFVCcjNBb1RhVmpPV1RJUExSemNwc2FRWHNXdEtTYU1BV2dmdlc2TkVFRno3TGNVV2RSVzFZb3hobkJtMDZiS0Z5RC0tNWF4aTUyeHQzUXdTSVFFazBXZ19XV3I3MUxIa2xBTTMzSFV1cGtQZnI0YjcyS3N3OFoycFJDZ1M1Wm05aW4tSlh0Y28xaFh4UGdNNHZtUGhDUjBCdEtUUDZnLVlCdkNLZnViaWxkQ0gxYlFBVmY0OGlwOU5TeEhYeWptRWFLNVBTRVFpTUtld2hSX3hmVHE3cTJid3UwY3hyQ28xcXJiR3VHMFZDNmt1cV9ES25XekRSeTVmczhJY1pZblg5bFBfOFFqVmFJSUhzTTFpb2ZXamtpdWRRVzliX0pseDV4c0JWSlpwTVJOZXNQUTN3bWdvN0J0N1dXWW5jbm5mYk9uc0ZOU0VvMXYyUFg5RVNQU0VGaTVWckkzakVzeTBMUUxzRnFEY1k3NmtoaFA2UTBkblFLZ1JOOFAzd3lWUFpPYW5kVmpJNFdUTWw3RlhnRDRqbnc5Mnk3Yy1yb1BTRnk2WlUzOUswSnNUX2otM28tS3VXbDI1bHNTT3NfV25aVkxLem81MW8tZEY4QTJaUVZydw?oc=5",
-      "published": "2026-11-15T12:29:49+00:00",
-      "region": "إربد",
-      "category": "رياضة",
       "source": "وكالة الانباء الاردنية"
     },
     {
