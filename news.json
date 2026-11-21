@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-21T06:47:37.183940+00:00",
-  "count": 56,
+  "updated": "2026-11-21T07:59:07.801452+00:00",
+  "count": 43,
   "news": [
-    {
-      "title": "احتجاجات شبابية في 25 دولة أوروبية ترفض الإنفاق العسكري وتطالب بتوجيه الأموال إلى التعليم والإسكان #عاجل - JO24",
-      "description": "احتجاجات شبابية في 25 دولة أوروبية ترفض الإنفاق العسكري وتطالب بتوجيه الأموال إلى التعليم والإسكان #عاجل &nbsp;&nbsp; JO24",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPQjZYaDFyNEpGZlBydXlyR1RZNUJScURBckRiazJJOVp5aEtNQkxDRkhMcHFET3pyRE1jR1M4LWs4WEpBNkE?oc=5",
-      "published": "2026-11-21T05:40:40+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "JO24"
-    },
     {
       "title": "بين الحكومة والمواطن .. الثقة تُبنى بالإنجاز لا بكثرة التصريحات - زاد الاردن",
       "description": "بين الحكومة والمواطن .. الثقة تُبنى بالإنجاز لا بكثرة التصريحات &nbsp;&nbsp; زاد الاردن",
@@ -21,15 +12,6 @@
       "source": "زاد الاردن"
     },
     {
-      "title": "رؤية ولي العهد تحوُّل في أولويات الاقتصاد والانتقال من الاستقرار إلى التحفيز - جريدة الدستور",
-      "description": "رؤية ولي العهد تحوُّل في أولويات الاقتصاد والانتقال من الاستقرار إلى التحفيز &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCZjBxUm9xSzZETC1GbDRPa3pzV25lRm1xQVY4S3Q3WVFHMFh3Zi1ETFBDdUtfSlNEZ2JtYmxmZ3lMbmhXaG5odVhHcVE1NDRmWXdrTw?oc=5",
-      "published": "2026-11-20T21:00:28+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "جريدة الدستور"
-    },
-    {
       "title": "حكومة الأردن تدرس جديا تعطيل الدوام 3 أيام أسبوعيا - رأي اليوم",
       "description": "حكومة الأردن تدرس جديا تعطيل الدوام 3 أيام أسبوعيا &nbsp;&nbsp; رأي اليوم",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNT294aGxWOUR0V1JNR1d5cVZLaGJpNGZIZy15Q0RYdjg0NlJ2Z2trRFhZS3FyX3ZzTEdfZGNxOFZOeHVJSk9hWjN6c1hURUxsMzBLajlWczRJWjU1VVV5NnAwUG56OE1BQUd0SmEyQ1RQOEhzd19LZWNvaDlxaS1SVlJyMWxWRXRMNzNLU05KQmhObTZPQlB0NWNXbEYtczhsUldzdUVDSWlqM0F0RmNkbnVFVUxYNktiVFd6NFRpX0F5RHpLcEZHeXI4ZThFLU84ajhhVFhFNE9MVTI0aF8tTmkzZHVXV1VFNTdRN2dza25GZzQxVk5wc0NVRWE0OFY0cjgwQ2ctZnVKSVktLVFWSE9FMWd1cVlOY2NOZkNRb2h2MC1DUlZZUmRsaVJiTGtJMC15OUdHN01MY2xrV2FiR3dfdVpCdUxvZ0Nv?oc=5",
@@ -37,15 +19,6 @@
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "رأي اليوم"
-    },
-    {
-      "title": "حوالات المغتربين.. رافد للاقتصاد الأردني وفرصة لتعزيز الاستثمار والإنتاج - جريدة الغد",
-      "description": "حوالات المغتربين.. رافد للاقتصاد الأردني وفرصة لتعزيز الاستثمار والإنتاج &nbsp;&nbsp; جريدة الغد",
-      "link": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxOWmhZX2UtNHozRFpCUUM0VWFMb2gtYjEtWkU0eFFvQ09yTmttbkpmVzBWUGxmM29QN0tzUDhPUm9DQUVYWGZkUmhGYzd0V3dXV1JmTllCZHFySHRTdGNVTFJIdVRTMmhPdUc1UVRKSHMzX0RSbVRsN0dNTUlLeEo1UWpZTE43YTFWeE1ZaHA1c3VYYnphMHFYVUZRS2YwUHc2aDdSLVltUHBmY1daemVtUHJhWld3d240TVNUcXFUU1pKZ1NnbXRkN0VoSzB0WURkZWFiYTQycWw5cG8yNUlUeFY0V255bDkyRUgwY2FUa1E2X2d5QVdvcXF6WU9ZLS1aX2NjYXlQU3dFY1d4T0RMNXBaOERlS09FWnhaVEhhbktnZ3FOYWQtWVd3cHZiYXI0NkNVbko5QUJWRzNTYXNFLUQyamhtMmJQUUhHdUE3UTU2M19sZmJ4MzNsU1hMaFNfRzY1YTFDZndHTGNZYkdEclRDdGRUSHBUbjViNWdaSUNaQ0VESmtJTmZhWW0tVjFZVDdvT2syeFZZMGkzM2k3T0NHUjM4cUZSRGo3NTVQSjd6SEhqQ1F4ZEVXMVJqVF83MlBxRjBGMWJwaU9YaUtjeVMyM1AzaER6NHlXcURNWV91SVh2dmg3VHdKblhzNFBvZWx3N2UyY0pnaXljTHFBc1pxd182Y1lmc2NZVkwxZ21OcV9RZWdpTE96TjBXZXpxNVJlQUgtLVRscUxobC1FT1BtQTR2blFYY0k0VVJqbjZBb2tyUFRxWDRZZmNnWEhJLUtOcV9XUU9wOHJBQlRSQXB3YmJ1LWV4Qk4tUUdkQkZoS2plNkF0M1dzUWY?oc=5",
-      "published": "2026-11-20T18:10:36+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "جريدة الغد"
     },
     {
       "title": "حريق في أحد المطاعم الكبرى بمحافظة جرش - صور - الحقيقة الدولية",
@@ -64,33 +37,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "الحقيقة الدولية"
-    },
-    {
-      "title": "الأردن.. من استهلاك التكنولوجيا إلى إنتاجها - جريدة الدستور",
-      "description": "الأردن.. من استهلاك التكنولوجيا إلى إنتاجها &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPMU03bFJvdEc1bjg5WENON19HNll2RmNGMzE5Z0wxdzRJR2NtZGw2WXpveFJKS2JIODBIdkxLbDc2VERFN3Q3SlFRdVBtTHF0M0tnOXNNZHVraTdvWkpKT0ZscjFSWm1oVy1STXdKOTduSTQ1RHNoTmI0VnB4dHU2YmFzRDFrZUg4UUlKbEtYbEtKSktSUUkxRWFOY3BNOVJhU1JnNVhib19DZU1MVFFVRUZQMTRkQ3VKNTZGTnpjelc1X1JJeWJhVlBteVlrdkt4UWl0MUNwRUJpVzhjOUliX1V1MWxkNVAtakM2MnV4azZ5aFk2NlpOQW9PUUVMcHhRRVpmV2xZVzQwcTU4UXAtMmtFa3hyTVVWTTNaX05nUGo4WXdMNzhLN00weVhwR29aWTZidkZpTFA5bC1PYTNObFpZX0NPb0NjZEsxYk5paTB0RDVLcHA4WEwtaVh1VGZ5YzFCbVJIbTNOVFNORnhteFNHNUdNVThCRk1kZw?oc=5",
-      "published": "2026-11-20T12:58:47+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "جريدة الدستور"
-    },
-    {
-      "title": "الأمير الحسين يرسم ملامح المستقبل.. التعليم والذكاء الاصطناعي واللغة العربية في معادلة المستقبل - جريدة الدستور",
-      "description": "الأمير الحسين يرسم ملامح المستقبل.. التعليم والذكاء الاصطناعي واللغة العربية في معادلة المستقبل &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMi7gVBVV95cUxQeC1IVkhxVjNmdUp1MDZrUS1hUHJPZE5yZDBzaGZLay1VaEtQcHFyTERqTlVXMWxfaW9XdHhZXzRxQXpnVHI5SGlLSlVjZ2RvamRmZkp4TWV6UEFmX3NRZFdKNVYzQzRVZlpxVk43Nmh0T3NaTkpjYXprZHVhX3FnQ24zajJ0ODVGZHV2eXEtdW9uMmpIMGlJeUczTXBPVHFYeEFCcFc1QmlscExKMHR5YUFLUk1sNVhYeGRMVEh5VHdteUY5MmJDTFZMeTgwN3dUOEZkZzU2TUFlNm1ITVJBWEdPYy1tTUhtWnVLc1pNTWNoeENWNFlCUVJIbDJ6emg4elJ3MjBsSnZfVlF2VUl3aDhhTV9TdzdkR0lmZUNRNHo0WG1BX0VJUERvTmk2aUJpN0FZbVBHdHE2b3hmTHI0LTc1c0JYOGg5X0kteS1jWi1MVklFWEM2NzU2OUd6WjNkOHZQYnFpSEE5ZHZOeGZpb2lWOEVIRndWVlNPN2hoZExKM21TbWJTVEVqVU9uamg2bWpZVFpyMi1OTXp1ZVlYR3hlSG5aeWMtY0o0QnU4bHo0NndqLUVjUTJkcEp0TFJKcUM4WmFYSUpfUHBRWTVDTmZtenlmekdxYkJCejU3V0JwaTVXZ3ExaXVLbmJiWVhOcHRVdG0yT21YTVhHRlpWS1lpeVY2RlRYVVVDTWkxQk4teGcyWTFDaURYVjJxMEg1bjgtNVllNHV2RXM5RktTVE82QUZVWUpUOWVkMEpmWThTRDV1cnVoRVNkcHY5cGRobVo1S1BNenVnbHN6SnVoUm53T2VrM0dfSWJmclpjeXJlVmJoUzJ5eHZnN1NFaWFrd0hORVVEZWlIT3A5YzRrZEt1eG1BcmZlTmZOV2xZcTZzeDVzSTdaQUNiV0tlM3hIWDJFQTJiZ3VPTXlSaE1jWF94LV9SZXkzVmloRzdIYURHMjZzUU10aUpBSGp0LV9VbkNhZGZlQ0xleEpjamc?oc=5",
-      "published": "2026-11-20T12:23:11+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "جريدة الدستور"
-    },
-    {
-      "title": "\"نجوم16\" تعلن عن مشروع مجمّع للذكاء الاصطناعي في الجيزة بشراكة أردنية–هولندية - وكالة عمون الاخبارية",
-      "description": "\"نجوم16\" تعلن عن مشروع مجمّع للذكاء الاصطناعي في الجيزة بشراكة أردنية–هولندية &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncllycmgxNGx4MkZJd0ZGNm9pdTgydGhSeTZnLVQzUmdiSmhySVVQa1hWbEs0RGFuS21tNTUzQ0xBTzNLSHU3WDdtRUVWRllGNDhB?oc=5",
-      "published": "2026-11-20T11:41:15+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة عمون الاخبارية"
     },
     {
       "title": "بعد 3 أعوام على هدمها.. بلدية إربد تنظف موقع حسبة الجورة تمهيدا لطمره ورفع منسوبها - جريدة الدستور",
@@ -147,33 +93,6 @@
       "source": "365Scores"
     },
     {
-      "title": "جلسة تناقش اتجاهات الاقتصاد الرقمي في الأردن - وكالة عمون الاخبارية",
-      "description": "جلسة تناقش اتجاهات الاقتصاد الرقمي في الأردن &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWkZsYVhnSHZWZEx5SFNkT2xManlvWVY2Y0ROeTJpS3VDaEd6SUNaWEdxSjlOanBYdkhFQmRKa3lwN1U4S0tzRW5ubmtxUGYySk1Z?oc=5",
-      "published": "2026-11-19T13:58:53+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
-      "title": "البنك الأردني الكويتي يحصل على حزمة تمويلية بقيمة 60 مليون دولار أمريكي من البنك الأوروبي لإعادة الإعمار والتنمية (EBRD) لتعزيز الاستثمار الأخضر والتجارة الدولية - اخبار سما الاردن",
-      "description": "البنك الأردني الكويتي يحصل على حزمة تمويلية بقيمة 60 مليون دولار أمريكي من البنك الأوروبي لإعادة الإعمار والتنمية (EBRD) لتعزيز الاستثمار الأخضر والتجارة الدولية &nbsp;&nbsp; اخبار سما الاردن",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1nUUVROXIybklvYlMzdEtkTng4dm5SVU53bGhZM0FWZVZHV2Jmb1hDNWRpN19MZXJIYWtWRDVxenZScVU?oc=5",
-      "published": "2026-11-19T13:50:51+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "اخبار سما الاردن"
-    },
-    {
-      "title": "الليبراليون الجدد في الأردن .. عندما يتقدم الاقتصاد وتتراجع معيشة المواطن! - وكالة عمون الاخبارية",
-      "description": "الليبراليون الجدد في الأردن .. عندما يتقدم الاقتصاد وتتراجع معيشة المواطن! &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iTjNxR3pBbHlyTmh1RndEeFRpRXNYdzJOeVBsVjFtVXU2a3dfR25nbTExRXZ4ZF9HVV9OS0tMdXJQS0pfcm9XaXZwR3A2YVIzQU0w?oc=5",
-      "published": "2026-11-19T11:11:08+00:00",
-      "region": "الأردن",
-      "category": "اقتصاد",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
       "title": "الأندية الأردنية تتجاهل الديون.. وسوق الانتقالات يشتعل قبل القيد الأخير - winwin",
       "description": "الأندية الأردنية تتجاهل الديون.. وسوق الانتقالات يشتعل قبل القيد الأخير &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOU0FwQk9aV3lpbnFkdVZsSzVaUVNfTmhVMUViTXYyQnk4QTJGWEhXNEpZeUxRUzVsLWRjOHRvQjhqNGlyREdfYnlCNWw4aDRUNjhxSXdKV0lGZXEzU0Z6N196bkkxNDlCVXlxMGg3Y1dIemZGSXM5UlcyM3BXVFVXUmdHN01Sb0tqMmVVWWJRaG03eGhPSEhTMml4cXpLSWFIYk90bG1Pb2FLT0x0LUNndE9zZnhCUzE4dkpUYlowckg1VGhWX0NZSmpVQ05TZnVyaHVzMl9uWUNUVlJqdGtFX0JYOXF3b2Qwazg2RkxmMVB3X0dlT2RQUXFYVXJLakJIVmJiYVJUalF6Q0lZQnhPSTRkT0RyNlNqTnZvejdGcndJNEdWZXNoOFZwalhreFY4WUFJOHh0Nk9feW9QMXIyeTJIRElPQ3MzRjN1eWdaQy1LazVOSnRSMDkxZ2Q3cGFYblViMXBVa3lRM3ZnSFU0aGE0VzJQckVlejFKM2JoejdxOURaVjUtOGlwOHNTV0FtLTBEWWNUTmJ4NzRqUzEyOWxsSVh6MTliUjhOdXcxOFZRZEpNb2FWMkdWT3dfaGUxLXkwZFpOWFFCSEJsLWVodTFwNmdNWTdNRHVFOC1JN3BjQjdCRk1Ld1NVbGs?oc=5",
@@ -208,15 +127,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "سواليف - والهرج للجميع"
-    },
-    {
-      "title": "مفوضية اللاجئين: عودة أكثر من 238 ألف لاجئ سوري من الأردن طوعا منذ كانون الأول 2024 - قناة المملكة",
-      "description": "مفوضية اللاجئين: عودة أكثر من 238 ألف لاجئ سوري من الأردن طوعا منذ كانون الأول 2024 &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxPaENqaXl5eXJGSzc4Z09RcWJhV0E3bGJ1UDRCanl2V3lTUUJtcFNXNHViV2U2RVc5TThFTHFUVmU5SGpYSU1ScmVITG5veGxfUzhhaXVhWGdtYU5tNDJWRm91b3BHaWVQUGw0REk0d0JLQ3lFUE9zNVFRWVlCWmg1SnBUN0JRZW8yVDUwRXEtaE1PNjNnTTJGN2tWdG5ubTBpd0NRZ05KZnI2bnF4WGp6YldfX1I1S3oyU0NFMnJpd3RUNUJHYWhLb3RaOFZDaEFJaHluRHVwN0l5SDlZZ1FLS2NBWlpaY25jNmd5b2ZoSjNxYUZ5OUhkZzdxeWpYdDZlZ0ctSVVOSHVMWGRObGNpUGt2dXhjcUpnV09JOHZmWUdnUWJadzVlelR6dWJVUXRkWnR0TE1KaFhxZzFvNkVZQ0NyZncxdjF0TndkaFdDbVRBUUVEVW1Ock5NeXBWWFlkOUlobl80TVZTY0dWUFhiZ0VvOTFYd3ZaTlFzOHdpTFN4N0JzWnZzbkdqMmpUZHV5ZjJnTnpxTWIyUS1JOU81UndBSGVVaTZNMFRrWm1xLVdWZjRBM2ZrdHVEcHJzVDhqWW5meUZIc2FUd3YtbWEwMzBPRVR5c1hIWmVWVENSbUkzbEppRlBTNzZxUmhlc1BmTFl6TDl1bVpIQ0lQVUtQUnhmdWdwcVlEYjJpcm5TVjVGcHJ2SEtWN21pWUJGcHJXWFBOUmt2ZDNqMWVyeEdnbk95WElSUS1jTVcyZ0NfRWp5MVJf?oc=5",
-      "published": "2026-11-18T16:25:15+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "قناة المملكة"
     },
     {
       "title": "الأردن يرحب بالعقوبات البريطانية والأسترالية على شركات وأفراد إسرائيليين - اليوم السابع",
@@ -264,6 +174,15 @@
       "source": "الحقيقة الدولية"
     },
     {
+      "title": "هل نحن بخير؟ .. الأردن بين صلابة الدولة وقلق المواطن وأزمات المجتمع الصامتة - وكالة عمون الاخبارية",
+      "description": "هل نحن بخير؟ .. الأردن بين صلابة الدولة وقلق المواطن وأزمات المجتمع الصامتة &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13a211cDlHbmJZVFIyV3ZOT21iZVRwbnE5OFNDeG9xd2JZRXdqdEdncFhKNjhpck5GZVI0cllod3BoVDNxR1Z1U2pTTU5RTjcwWUhJ?oc=5",
+      "published": "2026-11-18T13:23:43+00:00",
+      "region": "الأردن",
+      "category": "مجتمع",
+      "source": "وكالة عمون الاخبارية"
+    },
+    {
       "title": "جامعة إربد الأهلية تُنظم بنجاح ورشة الفنون المتعددة بمشاركة طلابية واسعة - وكالة عمون الاخبارية",
       "description": "جامعة إربد الأهلية تُنظم بنجاح ورشة الفنون المتعددة بمشاركة طلابية واسعة &nbsp;&nbsp; وكالة عمون الاخبارية",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwU252azc3eUxHUTZQZFNScFN6SGNHOVpZSVRtd1JTR3JxV096YkdxYmNjT0FQWndCOEZNOUUzR2doLTBGeHdNcndqZjc4VjdOZ3lz?oc=5",
@@ -279,15 +198,6 @@
       "published": "2026-11-18T11:09:56+00:00",
       "region": "إربد",
       "category": "مجتمع",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
-      "title": "الترخيص المتنقل للمركبات في بلدية شرحبيل الخميس - وكالة عمون الاخبارية",
-      "description": "الترخيص المتنقل للمركبات في بلدية شرحبيل الخميس &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QbU05aS0wQURPWEduR0U4bnJpaHpMVDMzX3JMYmIyZjUzSFUxdkdZLWwtOTlVTnJ1RnRCdUFPVlhablZobkJRLU9fVmkxQ08yWnBv?oc=5",
-      "published": "2026-11-18T10:47:01+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
       "source": "وكالة عمون الاخبارية"
     },
     {
@@ -318,15 +228,6 @@
       "source": "وكالة الانباء الاردنية"
     },
     {
-      "title": "اربد: إنشاء أول مضمار مشي مخصص لكبار السن في إقليم الشمال - وكالة عمون الاخبارية",
-      "description": "اربد: إنشاء أول مضمار مشي مخصص لكبار السن في إقليم الشمال &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DcFYtVEN5UlNXT1ZCS1plMkhKazFJVjZvejBEZVl3TnZlMm1mTU4zLW9FTjczX1JxVVBIYm9uY09Db3dSQW9hT1hPdG9TZ2gxNVhB?oc=5",
-      "published": "2026-11-18T07:27:36+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
       "title": "أستراليا تعيد واقعة قديمة للتعمري مع منتخب الأردن - winwin",
       "description": "أستراليا تعيد واقعة قديمة للتعمري مع منتخب الأردن &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNdXRBdGdDNTlDRWZsSDNhT3BOOWJYTUtpMF9oM21ZUzRRd2ppVUk5T2V5RFkwbXRRWGI4cmNnYVZEU0gyakx5RzBXb3FGalZEcGFSSjUyNlZCVXl4SG1YTDh1V1dkVnBieTBYTmFsRFVlUDBXel9hUlNyT29FMEtPTV9RbnZ2NFIwbnloYm9uYmxpR2MycThnWWZ1UDgxLU91NWNDNGU5QjdwX29uSzVhRjN6c3gzVkxDTm10OHBZWTlYcFNfQ015czFkRFJhLWNUQmNfakhDZGphYmw0RGE3Yk5haG5wQmFSWlpkZzdBTG1JSk9rbGh5OUhwTlYxOVZKRmJRS05lV3M3VGNuOElsemx4S1hIdW5mSy1ISFFaZFllZkpmR3hRWGNxdmt0NHFRVnI5TzF4TVVIZms1bURsZTZKRjFqTmxDNHhQVVg2alFVV0xHOXZzTTN4eFdkTGd5YUlWNmZFdU9Odk1mUXVOMHlyMF9iWFVnNUtscWYxbTBDWm1tZDByaVgzVE8xNXZsT19GSTZoTmZXRjQyYXFQNDRSamNFaXI5XzVQOHRMRi1lTEdESE1WQ05wV1o5d1F6bGdwQ1gzVUlxakt6WWc?oc=5",
@@ -351,15 +252,6 @@
       "published": "2026-11-17T10:35:28+00:00",
       "region": "الأردن",
       "category": "أخبار عامة",
-      "source": "winwin"
-    },
-    {
-      "title": "مباراة الأردن وأستراليا اليوم.. النشامى يبحث عن أول فوز في 2026 - winwin",
-      "description": "مباراة الأردن وأستراليا اليوم.. النشامى يبحث عن أول فوز في 2026 &nbsp;&nbsp; winwin",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQLXhIMFExUVpQMHA4SmNEY2FOSzNXZjFLSWx1RXpSQnh3NUlKN3hkSmJjSXRRMmx2Z0oxRVQzV3hfa3BmTUk2eHdVLUFnRFlVemhEaWg5Yy1vQ19hcnp2ZUx2ZzM0UXA4b3dCN0swSDJQYUZUUDk0NnFQYXlCdjZ1VEI0TDEwcVktQ0MwNkhOQ21fU1RDcmFMcjRqVXRhSnY4cU1xSTlkZC0tWHZld2hoSHNoNC1uUG1OM1p1MTlBYjVXOUIzckt1aWUwVzhEQWpEcUUzMVlOSTRZcHpNY2hIc1JyLXphbTNEdk9rNnpxUVdzZnNoMndNb2gxTXVBcmNzM1F5U3BhemdRLXc5bGF2X3hjald3VjRTZGFpRDhTUkE1c0N0OXlQdG1OakwzUTVoRS1FUzBTbU1WWndGSnZsbzE0emlOLU90QzliUkwwbmI0UnZodEdsNzZhQmw1dERuM3RWM0dLcmVMak0zMHZ3VEhrT2QwYndEa1E2dUEzNkpjQkNZWFJuN2VHRTRJOVhsNTlIcm9iN29hVjIwMFNYWDZGRGtRTy1uclFCQnhqVTM2TTJNTXBVNnJjX3RndVVmMm5OSHZVb2ljdjZZcEE?oc=5",
-      "published": "2026-11-17T07:56:14+00:00",
-      "region": "الأردن",
-      "category": "رياضة",
       "source": "winwin"
     },
     {
@@ -496,15 +388,6 @@
       "region": "الأردن",
       "category": "سياحة",
       "source": "قناة المملكة"
-    },
-    {
-      "title": "المملكة العربية السعودية تدعم لاجئي فلسطين بمبلغ 27 مليون دولار من خلال الأونروا - UNRWA",
-      "description": "المملكة العربية السعودية تدعم لاجئي فلسطين بمبلغ 27 مليون دولار من خلال الأونروا &nbsp;&nbsp; UNRWA",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1VDbm1NOHluUWo3a3hKVEhtc01yaUVubFYzR1ZhMGVGZ2pmdXdFVkNibnVIVXJBbzRjbGJKN0Z6MDByR004RnVNT2tnUTFwV1hoMDZXaGktYkJuWE1CaXBCbWxjNWZlVnlXZFB0VTQyLTN5ZDZCMzZocEhUOWR6a1E3Q1duclc0bWlibWlzazFGZXJ1cGwtTXhTOWk1MVBOdFZOZk51aVV1bmI0bUZvdVpHdDNRZHpU?oc=5",
-      "published": "2026-11-14T13:39:01+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "UNRWA"
     }
   ]
 }
