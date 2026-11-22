@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-22T21:29:43.926832+00:00",
-  "count": 50,
+  "updated": "2026-11-22T22:31:55.533799+00:00",
+  "count": 44,
   "news": [
-    {
-      "title": "وكالة سرايا : إربد .. توجه لدمج 5 مراكز صحية في مبنى مستشفى الأميرة بسمة القديم - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : إربد .. توجه لدمج 5 مراكز صحية في مبنى مستشفى الأميرة بسمة القديم &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObmRXRWFSeDRMaXMwMkw0UjJub3ZHeDB4c2c4VVBLRVNMeGdrRjhtNlAwYnRIOElKNVRRdTFnLTZGeU9xX3BiazRhT01sX29ndFhOT1ZYaFdTQy1rZHhVT0prRW5DZENmRnBuQkctSEVtdmZsLWFaV2hxazZ3ZXNQVXoyTlFGR25JTGlpcUN4RmtLVGZiMFlLRlF1TWtodjJBd1JSU2JnSzRNYWJ3RkNjV3Q0LXE1TjVoNlREaFQ3MENEaXZxakxxTE1DbzlBV09SMmVXYTV4ZHJ0Q0tnMzlYRXE1UEtpQ0pkdkFUT2ZYTDBFZmtfeXZyOXp5Tm5WYTdUZ25ISGh3VHp1UlpLVmM5Mmg3bHlXWWc?oc=5",
-      "published": "2026-11-22T20:58:29+00:00",
-      "region": "إربد",
-      "category": "مجتمع",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
-    },
     {
       "title": "بادو الزاكي يرد على شائعات رحيله عن تدريب منتخب الأردن - الجزيرة نت",
       "description": "بادو الزاكي يرد على شائعات رحيله عن تدريب منتخب الأردن &nbsp;&nbsp; الجزيرة نت",
@@ -37,6 +28,15 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "شبكة تواصل الإخبارية"
+    },
+    {
+      "title": "\"الصحة العالمية\": الشباب شركاء في تحديد الأولويات الصحية وصياغة الحلول وتنفيذها - قناة المملكة",
+      "description": "\"الصحة العالمية\": الشباب شركاء في تحديد الأولويات الصحية وصياغة الحلول وتنفيذها &nbsp;&nbsp; قناة المملكة",
+      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQUFlJTkhZUy1aTWNZSk9sVHRmMHl2a2tORm55a29tQ3Exdld5SXdTZGFnMWNvUU13ZEo0R2d3WnhLRy1LWWFLWVJXM1U3S0VGZjY3Wkc1cTRCSWpsWlNnUldkZXVSREI4T0xVcnc1Ymc1YS1feVEyQVItbkR4WmtQQ0VZMkZwMmIzWHFIcWpPZGxnVkxnVGl4MnFWUXV6Qnh5STJMdG1rdGhaSUxOcFp5THU1eXJHcndZeTMzVURzazdoUU41cGlkRmRsNFRzSzdUWHdoN1NLV2pXbHMtVEpzclJmZUxiX1paYWtOQlpGVWpMLXA5N2pOYWFjZ1lScm1aWWt1Z0dwNGpjS0VFTGJvbnJvY2xqU2l6MERhZzNHd0pYRXMxYUxuelJ5VVg1V1Z0NWV0QlpSOXEwRk9zWGYzd3REaEhWMmFjZFlwUGZPdjkteHhibjlvaVd5M0lfT01QQi1oMVBmVXFwRVdyVm1KOWxxN1FiQ2tTcE0tT2NKTGZsYjd6VEpzNUE2dFd5UHpIQXAtajFDZmFURTNzMTFyNnFLLVo0VnhGTlBVMDFqcVV1NmV3UjF6U2VaRl96T0k2SnpPQzNGR2JrOE9CajZBVGQ4dEJJbUEtSnZyTnlQeUdvVjFicjd6X3ZYNVk2TmZxeVJjaXFmM0dyeG1xcU5rcExOQThRNHh2YTNGTDVqZTJUZU9RTldMUWk1WHdobmtzMW5sQm13dUpDMUwxVmpYYnJXTGlyN0tQc2w1bzE1d2ItU1Y5ZzNfdmI0Y1Q0T1ZESmNkVEVQZW1WODFxN19hM3RDZWs?oc=5",
+      "published": "2026-11-22T15:29:36+00:00",
+      "region": "الأردن",
+      "category": "مجتمع",
+      "source": "قناة المملكة"
     },
     {
       "title": "الكاتب الأستاذ ناصر محمد الحجايا يطوي صفحة حافلة بالعطاء في بلدية الحسا ويترجل عن منصبه متقاعداً - القلعة نيوز",
@@ -66,15 +66,6 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "النائب راكين أبو هنية تقترح برنامجاً وطنياً للتدخل المبكر والتأهيل السلوكي في المدارس الحكومية - JO24",
-      "description": "النائب راكين أبو هنية تقترح برنامجاً وطنياً للتدخل المبكر والتأهيل السلوكي في المدارس الحكومية &nbsp;&nbsp; JO24",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uMW1LRlV4bmdCT3h6MlhpNEFkeUhISUp2bEh6ZmVrbG9BUEVva1BwUk1PYXp4X21UTGFHaHRDcUVrREZjLWc?oc=5",
-      "published": "2026-11-22T12:24:57+00:00",
-      "region": "الأردن",
-      "category": "مجتمع",
-      "source": "JO24"
-    },
-    {
       "title": "جامعة إربد الأهلية ومديرية الأمن العام تُطلقان فعاليات الأسبوع التوعوي الجامعي - وكالة عمون الاخبارية",
       "description": "جامعة إربد الأهلية ومديرية الأمن العام تُطلقان فعاليات الأسبوع التوعوي الجامعي &nbsp;&nbsp; وكالة عمون الاخبارية",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CeFJQS01nQ2pvbThKTmJsRXZfcmZSRTE4TlRfSjBXOWQyTkJqNzhlalNwRFNDWEVYdTc0bjJMOFJWbWhSanJmRk1leFkzQWRCWl9J?oc=5",
@@ -102,15 +93,6 @@
       "source": "Menafn"
     },
     {
-      "title": "رئيس جامعة إربد الأهلية يَرعى حَفل استقبال الطلبة الجدد وتَكريم المتفوقين في كلية العلوم الطبية التطبيقية - وكالة عمون الاخبارية",
-      "description": "رئيس جامعة إربد الأهلية يَرعى حَفل استقبال الطلبة الجدد وتَكريم المتفوقين في كلية العلوم الطبية التطبيقية &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kM1hvNTRqZ05BNkVkcHNTNFZZcHlNLW9zeTI2dTBSMVo2ZlR3VzUyN2l3RWlxNDFMRnpqaTdZZm1hamZyZFdFemFBcWlKMDNzOVpr?oc=5",
-      "published": "2026-11-22T10:00:08+00:00",
-      "region": "إربد",
-      "category": "مجتمع",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
       "title": "الأونروا: 1.98 مليون شخص في غزة بحاجة إلى المأوى والمساعدات غير الغذائية - زاد الاردن",
       "description": "الأونروا: 1.98 مليون شخص في غزة بحاجة إلى المأوى والمساعدات غير الغذائية &nbsp;&nbsp; زاد الاردن",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eHFXRUk5MzlvRXJnSFhyeFVSNzRHU2hfWmdUMExQTHhCUk9wT0MwOHJCdGltU01jeVBSWm01YWtWd2hrZlczZFJMZUhrYnhUVERmR01lUGVKT2FUR253LTUyRUZnOGZXNFE?oc=5",
@@ -127,15 +109,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "جفرا نيوز"
-    },
-    {
-      "title": "وكالة سرايا : م. مدحت الخطيب يكتب: غرب إربد بين وعودٍ لم تتحقق وعملٍ يثبت أن الفرق تصنعه الإدارة .. - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : م. مدحت الخطيب يكتب: غرب إربد بين وعودٍ لم تتحقق وعملٍ يثبت أن الفرق تصنعه الإدارة .. &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQRzFaTDlfMTBYMFF1a1FUOHp1aWU2eElKZklmOVEzVWVJZnpGWWZtSmZHdGVSNGpTRl9vX2QySzU4N2czRG42QU1zbE5FMWk3SF9ucG9zMTJCZldmLWlLZElaU2ZVQkVxQ0I5MkwtM1Zjdk94NXU3Zk9lOXJ5VTVqYU9qMHY4VXR5a3lqc2JibkJKN1Vma3hXVVc0SlIwdUltRTN0bWRjUEdFbFBXVWwwWjMwWlozZTF0bllCcnJmWmU1dnZMWXJ3ZmYzVGdpRExnbTFvdHdBZGdEWlpKWHdGVG5ITjJNR1d4SkdjdV9zeHFaN0NaZjByWWNjYkktSER1S0pUQTlvY1drMUpDRnlibG1YcjVZc3ZJeGNsZEItM1FOdnIzeVphNW9kdTRkbjJ4ODlLTUkwQWFGZ2lLUUFxaDg3V2MzWUIzLTJMb05KdFl1UG5nMmhvMFVWeDlZSExkaVJkUWFkVTlaNHBLcDZ6NVhLeVNDX0JEb0FnbXZFQkZWLTlLaFZKeC1R?oc=5",
-      "published": "2026-11-22T06:43:00+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
       "title": "بني عبيد تختتم فعالياتها عاصمةً للثقافة الأردنية لعام 2026 باحتفال ثقافي وفني في مركز إربد الثقافي - JO24",
@@ -228,15 +201,6 @@
       "source": "الحقيقة الدولية"
     },
     {
-      "title": "مديرية شباب إربد تنفذ برامج وأنشطة متنوعة في مجالات الريادة والابتكار والثقافة والتوعية - وكالة عمون الاخبارية",
-      "description": "مديرية شباب إربد تنفذ برامج وأنشطة متنوعة في مجالات الريادة والابتكار والثقافة والتوعية &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ZUktcDB0NnNoZEV5a0ZqNnFINDhVUER6M3h0dnBTaHZJSVJGN3ZBYkFoNktVR3MzTncyU3drcUFad1p1aEc3enY1Qmd4U21PNlZn?oc=5",
-      "published": "2026-11-21T16:22:06+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "وكالة عمون الاخبارية"
-    },
-    {
       "title": "مدرب السلط سابع الراحلين عن الدوري الأردني - صحيفة الخليج",
       "description": "مدرب السلط سابع الراحلين عن الدوري الأردني &nbsp;&nbsp; صحيفة الخليج",
       "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPeS0zb3dNaFZJaVJfMzhGSXBHTFQyQktKWXFURHUtMjV1MFFKT3labVoxSGFJQ3RNZ0I3azdub2J0MDBuWWlXMG42RWFIUjRFc0tYRXFSWExuV2RIdFUyTlM2Nl90M1VxbG45ekVtWnlqZ0RjdF9ZRk9rOHJwMTNMRUNLWkhhY09DWDJ4RlUtSWV2Z2NibVJVSzNicVlRcHBMU3BiMVVKYV8xYmc0bXNrWV94dmJNWG9HNzFZUGY1Qmh6bUhXbHZuU3YtYWtxb19seDFsai15NFdDa2RZYVYwck1GbUZ4NFZCV3lQTEVpUGQ5WU5MTEFlNUxfd081bm56MHdVaWtZeTYzNFNZV0NLUzk5Y0xEbF82QnNwWEJSbTF1TTh5ZFNhU2gwUGphbU5xRGw5S2tSZllpQmw4cFUtQ1RoVHoyM0JTaldFVzVyNjgyVGh3WGMzYVR3UGx1Y0xLQll6UnVlcFNlWURRVVp0NmIzNUI0YXJpSUNJT3A4bExlRUJRUUFDYVl4dmRtdFRxWHhiYnRVS3NLMnlwV2dKVG9NUWd0SGZqWGswcEZUSG5SUmdXcmNLblJMM1doaVdlRlpRVGRFTkFDZkoyWFdmRzMxdXNtRkN1YmpoaTYxdEVLdm1pdENCN0s5Vm15Wk1U?oc=5",
@@ -253,15 +217,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "الحقيقة الدولية"
-    },
-    {
-      "title": "وكالة سرايا : أ.د. هيثم علي حجازي يكتب: تتغير الحكومات في الأردن … لكن مَن يغيّر السياسات والقيادات؟ - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : أ.د. هيثم علي حجازي يكتب: تتغير الحكومات في الأردن … لكن مَن يغيّر السياسات والقيادات؟ &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPdTFmRFhrbHFBYUZlUXlTVzY1eTRUMTBPcFIyUk1oWjZpVkxFekhKdlNrMjFhUWJSN3o1QzFGZXdwbEZGWTZPTklFWVFBVUhVY09qWnhBM3pJN2p4OV9RLXhXQ3ZpaEtSZFF3ODFwS1Bua2pjWHBndTlFTGJNYmp4REFrUTlvb3VMeWo4Y1lvVG1PbFBxTmNEOTFnczBIS2ZXVV92aS1qblZQZ1NiamlYbXBpY0dzcG1Tc2d4RHJRTFBOc19mTG1xdnhOZEdRQkdOZFFzTExpMDFwemRoTVVSQlk3SmNDcnVONVZlZll4U3ZmWkJiZ3hLSVJ3ckJ0M29YaE8zbVhPY2l6ZjR0ZjgtWXk1cy1BN3dQcjFXdEZjUTFNclF5SFQwMU81cXdSTVAtVWNOM21xZllwN2I5Z3M1S2xQaU5NWUthS2xTX2w4TEo3YlVKSzVTa3pGdm9Yd1JyS0RZbkk1REZlbXEtUlpMcnVjVThfcEhGdTY2VVRhUkJnMnhfdEljODFHWC1lakNIclN6TWJRNXA?oc=5",
-      "published": "2026-11-21T14:09:00+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
       "title": "خدمات الترخيص المتنقل المسائية في دير أبي سعيد - أخبار حياة",
@@ -363,6 +318,15 @@
       "source": "الجزيرة نت"
     },
     {
+      "title": "سفير الاتحاد الأوروبي لدى الأردن يشيد بقرارات الحكومة وإصلاحاتها لتحسين بيئة الأعمال #أخبار_حياة - تطبيق نبض",
+      "description": "سفير الاتحاد الأوروبي لدى الأردن يشيد بقرارات الحكومة وإصلاحاتها لتحسين بيئة الأعمال #أخبار_حياة &nbsp;&nbsp; تطبيق نبض",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hOElOZV9OWHE1T3JvS1VUZFNwNGh0WU5ENkl0d3dlY2ZYWTQ1VDVwOE5XTjd6OFRPc05JMV9CSHcybmJCc1NsZUNtYVZ1Tm8?oc=5",
+      "published": "2026-11-18T06:12:42+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "تطبيق نبض"
+    },
+    {
       "title": "شباب إربد تنفذ جلسة تعريفية بجائزة الحسين بن عبدالله للعمل التطوعي - وكالة عمون الاخبارية",
       "description": "شباب إربد تنفذ جلسة تعريفية بجائزة الحسين بن عبدالله للعمل التطوعي &nbsp;&nbsp; وكالة عمون الاخبارية",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CYjRacXFkaFdHZWVRWjl1MjdPdFdaYzE1MzkzUlpsX3NiQ0lDMlFmT1luNW91TW9LbjU3R2o5MUlleGVKU3EtX2lFb2RmcERIN0M0?oc=5",
@@ -381,13 +345,13 @@
       "source": "وكالة عمان جو الاخبارية"
     },
     {
-      "title": "سفير الاتحاد الأوروبي لدى الأردن يشيد بقرارات الحكومة وإصلاحاتها لتحسين بيئة الأعمال - قناة المملكة",
-      "description": "سفير الاتحاد الأوروبي لدى الأردن يشيد بقرارات الحكومة وإصلاحاتها لتحسين بيئة الأعمال &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMingVBVV95cUxNQnE2a2NvcGk0ZU5NeFZ4cDVJVVI3bDNIcXRzUWVYV0tsakdWUHYtQ25Kc0dXTEVBaWJkOFpDbWhZRk5FN0pXRTBSY3JzYXRtc3BaMWVqU2tOTGw3bzZYaU81RHpJUnNsa0VOc0JtZmZIUXZHLU5ja3BLQmE5UjdPb3BlVFBOSkhJbksxQ3JkZF91VjlNVVB3RFlvMUZGWTJLUzhETTFVLTFtVkJBWm52d2pDcFA3OGNuTEdnN0d2VGxvekZzN2pQZ1lpUDF4THBzdG5CYjVpQS1DTUtERTlITGw1YmVjSnVVZ2dmZnVwRlJGSWRFMXBYYWV5dmpCNkgzUTVRMEEzaEprSzJWTVlib3NhOGVNODBZZHpVTTh6RW9UUWdDM05jdmZ2eGN4dWxTWkVJdVpUeE9Jenl6Z2JuRVN1YnR4bG5nWmtfVHJib1MtX0ZRNEdlQXZFUHQxa2tUUllibUtLTTJORmtkSUZzYnhIY2taRl8yYTU3M2wwWExyOFVKS25SZmstWnhyLVJyX193dW1yZmFhME9HOUhTN0Y1VWMwVC04b0NLMUs1b0gxdzhzc0xZN0tvMmVuM0t6NnVnZHBFcmF6TzFMdUU4UG5pRVRjWENTU1RLb01wQkFlemJkWm45dEpuVmpGOHNxQjJXT2VwQndEQnVIQlB2MjRwRFJjSGREQ0oyQ0E0aUhDRENMQkwwbUZ0Q2dTS3NOYmFHWFJSR1R5VDZVazVRZXpUa0hUMUhsYnFqSFhTcEVVTWY5VU4tZ19Dcm53Y1ZHNXdNY1BNcjNvSVFweGNGdWliMjg5bXg4clJDTjhnc0N3TGJPTE9IbUt2eHFGTDJMZVFNeVdaVlYyUGhVU2RKd0lMdTJlZkJzdGFpRnJB?oc=5",
-      "published": "2026-11-17T07:53:27+00:00",
+      "title": "سفير الاتحاد الأوروبي لدى الأردن يشيد بقرارات الحكومة وإصلاحاتها لتحسين بيئة الأعمال - أخبار حياة",
+      "description": "سفير الاتحاد الأوروبي لدى الأردن يشيد بقرارات الحكومة وإصلاحاتها لتحسين بيئة الأعمال &nbsp;&nbsp; أخبار حياة",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNdVFQNHBDSS1GMmJyNzdqUWgxQWp0VHI2X2daalN6ZHVZTXpuLW1pMjB2OWViczJELUxtVzRZRk5pVEd1Z3RyOWZRclpDenJvcE42Z08tTkVGX2pSUFVlVk14Wi1PNkdlS3BxbkhCMTB5QWdNN2VTb0xqYzJEemtUQmJOYVkxdl8wUURwSnk0a25DZWRlMVRRT2htX1luZGh4VXJkbWNvaE1hcGxRa05CbUpnWVpsT3hEdl9FYXVvX2RfY2M5a3VWZVpIZU5DLThZYkRfRlJ5aWd1cDV0aWhqVUswT1ZETURreUc0dkNpTjZrNUZuSzduQVFJc2FHY1g2REVvVjE2YmJJeE92eC02a2stcmhYMG1ULTJqdXV3Vy14VXhadUpNTXBqVXNwNklmMnZRQ0k0czNLWUtlSkItVTJuQzlEU1FFeHZKOW1B?oc=5",
+      "published": "2026-11-17T08:33:40+00:00",
       "region": "الأردن",
       "category": "أخبار عامة",
-      "source": "قناة المملكة"
+      "source": "أخبار حياة"
     },
     {
       "title": "منتدى الفكر العربي يشارك في المؤتمر العربي للتسامح والسلام بالقاهرة..ويدعو إلى تحويل قيم التسامح إلى مسؤولية حضارية - جو 24",
@@ -408,15 +372,6 @@
       "source": "قناة المملكة"
     },
     {
-      "title": "منتدى الاستراتيجيات يصدر ملخصا حول أداء الأردن على مؤشر تنمية السفر والسياحة - وكالة الانباء الاردنية",
-      "description": "منتدى الاستراتيجيات يصدر ملخصا حول أداء الأردن على مؤشر تنمية السفر والسياحة &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOQnZRVmFqOXZTTlZtZlpwR0ZuR0NETmFic1JOOG9VU3FSRm03VlpoOWFua0x0RW5pYld0djB6NFlUQkxTMlhHY0x5aV9uVDFjLVUzTDhvWXlnNHFqWHVwUTNBQTZ2VEoyMGJMUkhxV2FZNlBkcEhYZm5ZdmRrTlA2aHZZQXVMeVB4NHJCcnA3X05UMzJxdE9xOWtuakpLeWloc01vXy1na0VNTHlDcWpVWTJydkVHS0FaZG95S2c3RzV1X3ZHX1hjMmU3UFlrUjAzOXVKeTlTYVYwdGJLeWUtZW1CUmxXdC0yZUhyOTRMZTZ2VW51WDF2YU1BZEVfZVpPbkMtNHhDblVIdHAwbmdDRkxVYkhuYmN6SERERVE4WlVJcW4zSHpseU1IaHhsX0JsaVg5S0xackNZVjBmVGlyQXBnMFBmaWhaWUliWW5pbVJ1YmF0N2EtNklLZ2gxdzEyRnl1S0RuRFppZ055d09JRGpES1l4SUZCaE9HNVQwWm9BbllHUmdYdW55ckhXNlpFMWNkdWpQMUhjY1Q1X29xaUxMWkRHbWdTUE04ODBySjUzQi0tSTdLdnpaWngzaDBuZWlNSzRXZnZyYVg4bVhzek41MFZCX3daYjhLdFEtajlvcngwZ2NTYTNka0lKSFIxTlBNb1phVDZ2Q0l6eTk4dWxZOFo4SkVPcUtkVDB4Q3JTTWZOd1VIVWhPMUtWdnJlWFFfSi1DdjhxWk5hRDdiUFJOT2F3bkdxUkJlODAxTS1yYm9WQnZ5NUxCVnl1dUE1eEc4dFBNTlFEalloNnhqN3NR?oc=5",
-      "published": "2026-11-16T17:41:15+00:00",
-      "region": "الأردن",
-      "category": "سياحة",
-      "source": "وكالة الانباء الاردنية"
-    },
-    {
       "title": "وائل شقيرات يغير موقعه في انتخابات الاتحاد الأردني.. ما القصة؟ - winwin",
       "description": "وائل شقيرات يغير موقعه في انتخابات الاتحاد الأردني.. ما القصة؟ &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQUzRVWkUyQ3BhcktIcldPZmF5ZTBxV1NxVi05WV9TV2swZWJMZGZvTTBJbXlDSUZJeW9hVVVPZ1c4ejV4Tk01WDhCVHMwWHY0aDJOZTM3Q2ZmQm53ZkNRVkpJTDFYMm8tY1g3cS1oV0dMejZSVGR2UW9BQm9Pd3NIcTBFTzhjbTExeEt1ZDhEZDdrd0dCS1NzWXRPSUI3c3N1ekdvVWtyeEJUX3lIOW5JYnlhbGFqcXVlc1k0Wmp5MkpTZmlvTnlZVWZFSDV2NFpRMUdELXZrb0RPc2xDX2FUVnM3TnpFTXQtdzc0S1puS1AyUE9JcFFNV0ZaZDI4UXFQQlQyQnpobWVCRHY1WmoyT3d3VHpXRUpjTGQ1bnQ0Wkh3a0NDYzdKSWhhSHUwX19BQjBPYkRScFFmNHlScmJMdjk4RFJ5ZnRpZ1RjZ1pJekJnYXdVQTFNOWNkYUNsREFtZlREMEtoYlROT2ZKanhudFpkRzNrN19Ock5FUnA2anNPSkxEOVpXbVI4aWd6VVc5NzZJVVJCMEdfbU9lOG1JYjE0OExkbi1mMjdkYVl1dEg0NGNGVkNCbTZrZlA4anF2Yll6cTJWX1BoaUZyWkZ4VGh3bmNQY3FDTjlQQXViZw?oc=5",
@@ -433,15 +388,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة الانباء الاردنية"
-    },
-    {
-      "title": "تقرير: الأردن في المرتبة 73 عالميا والثامنة عربيا على مؤشر تنمية السفر والسياحة لعام 2026 - قناة المملكة",
-      "description": "تقرير: الأردن في المرتبة 73 عالميا والثامنة عربيا على مؤشر تنمية السفر والسياحة لعام 2026 &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQM19ISlNzUzRrS2ZQUFY4YVhldC15MjRCeERxMzdBeVNabmE5ZmlrSGp0MGt3ZW15VHdfdDdnSFVmYnlzaTBtVHdiTzBydU1RdEo5QTZZcjNTMlpPZzN6ZjBwSzQxS1piQkI3a205QnpKLXlQSGNmWVBiY3FiSS1wNUhGSnZQTjcwbmFHYXdqdjlyVkVyb0xUM19PbVhBZmstZEFVMndhalNyODcwWktNelVsTmROLUZGQmdDT3VMV0NXZUg4alg2ZW5uckFnR09UUHdQQ0dfVDZZN19pX1JyNUZ3eE9yRmN5cVVkMjV0TUFaTGhXRTFlMWRSVlZpZVEtMlZURVFqZ2RJUzYxVGl4M2pvZW9tekhocDBCQXl6cnJMVDZaZUxnWlJPaVFFRHFwNEpUcTRETjgxSGFmbUFsVFRzZzIzUlQ2dXNmMTVKeV9LTktUQ0tTZ0dpTVhta05EbnpCTVFMVThkbHMwOHUzTmFoZjd6RVhUR1B4eW9uRGRDaC1GSHJpSU4yM3JXQ1FuT3czNm9STm85eVpNd0F3djBKa1lMSnM2dDAwdHBBZ3NXU053X29HV1RJZVh5MnY3S3ByM1VVbEwxMDRUSVZaQVlnTU5qSWE2Q3VRd0dhdkRfTGEyeVlIZVR1REFzbG5kZDhiQTJMX1NiOXJfMFY1bS16Q2p3ODItdUt6TzFwNkE0eTI0RFZvb1ZBV3JrckNYTDhLZmFYRklDQnZHZEpSR1JrbjJVTS1MNkxScDVtSXpfOFFZN3ZSanRvOHJkdmpCUllGbVJwSXdiZDBsdGhxV21xUm8wRFJaT0lJOUswUEZFNmFOLUlFWjZVek5HWVBDT2c?oc=5",
-      "published": "2026-11-16T12:18:29+00:00",
-      "region": "الأردن",
-      "category": "سياحة",
-      "source": "قناة المملكة"
     },
     {
       "title": "موعد مباراة الأردن ضد أستراليا في قطر والقنوات الناقلة - الجزيرة نت",
