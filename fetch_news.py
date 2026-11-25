@@ -85,7 +85,7 @@ def get_news():
         try:
             request = urllib.request.Request(
                 url,
-                headers={"User-Agent": "Mozilla/5.0"}
+                headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
             )
 
             with urllib.request.urlopen(request, timeout=20) as response:
@@ -151,6 +151,10 @@ def get_news():
         "count": len(results),
         "news": results[:200]
     }
+
+    if len(results) == 0:
+        print('تحذير: لم يتم جلب أخبار جديدة، الاحتفاظ بالقديم وعدم الكتابة فوق news.json')
+        return
 
     with open("news.json", "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=2)
