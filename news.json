@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-28T02:06:59.038469+00:00",
-  "count": 55,
+  "updated": "2026-11-28T03:42:33.401401+00:00",
+  "count": 43,
   "news": [
-    {
-      "title": "موعد مباراة الرمثا ضد الحسين إربد في الدوري الأردني 2026/2027 - شبكة تواصل الإخبارية",
-      "description": "موعد مباراة الرمثا ضد الحسين إربد في الدوري الأردني 2026/2027 &nbsp;&nbsp; شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XMUVXckE5M1VUbnlEMFlaS0xVNzNwMXhZRmM5T2JnLXhXdWlHcGRILVROajZJQk9GLXpNdDd3akFXNnBMSV9ub1VqRGMtTWpNNTlF?oc=5",
-      "published": "2026-11-27T22:08:21+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "شبكة تواصل الإخبارية"
-    },
     {
       "title": "موعد مباراة الرمثا ضد الحسين إربد في الدوري الأردني 2026/2027 - 365Scores",
       "description": "موعد مباراة الرمثا ضد الحسين إربد في الدوري الأردني 2026/2027 &nbsp;&nbsp; 365Scores",
@@ -48,28 +39,37 @@
       "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
-      "title": "جمعية الصدفية والبهاق والحروق تقيم يوم طبي مجاني السبت تخليدا لذكرى الشهيد جواد السلايطة - قناة المملكة",
-      "description": "جمعية الصدفية والبهاق والحروق تقيم يوم طبي مجاني السبت تخليدا لذكرى الشهيد جواد السلايطة &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQVGNpYkVxdUJqR01MWTRnZDlZbUNNOUtSQkdSMzVoZld6LTl2b0N2cDh1UVZpQjdLUklfbWFQUUM1WXA2clR3TTJqTURadnJlcjRkRUhjR0ZLMV9qbVUwQzdJOF9QcnFhbS1UdWtGOVkyQXZ2NjQ4UUFBLXA5QlFIUUFWSjJ0UTJQeUUxZ1ZuZWtLVjE4Ny04Mm51cDhwOFhZX1NMcjlhZWhXVmhtTmY2ay1kZ1kxbkVWM1gwRXVXNUoyTHlZcVNhZWIzSDVnX0tra0lkTmwwc1dxODVyWVhwWDJYQk81RVd1OUN6eXRDTEhqVktNMWpwRFRXU3ZWOEZ5WXJEcFIxSFRYQ3pHZTdvYm8wWXplbEc1amlHUEd6aGJjNlpKN3hKUzlmVjJNSmZUVlZXMVgydUxzdEtieml1TXlkdUEyd2NtZEZiM3ZlWGR3R1JBVDFiQklvdkVfcW9iZ2NIai0zbUVIUXZ0ZzF1M0lSR2l4UnkxUmY5WnBXZnQ0OGNRMzJsb3NJZGJwVEhwZnhleDd3N1ZKMnBQM2FOVUxmNjZvY2puX25VVUhsajZtSTQxcVJ0dV9WYmJEc1l0aWZFYVY0TC1hblV6TUJuTWZMMnVqMTc1Z0owNjRGNC1XTENkQWgybDVFRURVaEhzNE1nbWtLdmdsc2thYTV4NnljNGlLZ09DaUJwd0FSRVU0X2ZtZl9ySjY0R0JCb2hlTTc4UnFVY29pb1h3OF9sSzBkaFg5aFVqNW9FaThfSHFTeDBzUEduRV93MzBXcEF3LXR4TFhRRHR6TEg3VWV6UEZEWkhoZWR0MDdVMzJMcVFrOVU3S0x6OUthcDRxdm1zb3RlTGU1MWg4UlFkRkFJV1N5LUFucVkyU0ZEOG9tWG5RQm5hZ2JodklMX3BJWnhS?oc=5",
-      "published": "2026-11-27T15:30:14+00:00",
+      "title": "عماد النحاس يقود الوحدات للفوز على دوقرة وصدارة الدوري الأردني - مانكيش نت",
+      "description": "عماد النحاس يقود الوحدات للفوز على دوقرة وصدارة الدوري الأردني &nbsp;&nbsp; مانكيش نت",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxONS00YzVyTjczWXpibV8zUmNPcTEzNVBlUnB3Ul9vZHBXaGJ4ZGR4LWNOVFJWMGEtc1NjTFdFVXoxQU5hd016TUUtaV80UzdmUmx2SDVLSGY3cEZxalZUNEI3RU4yQWl1SGJPelNHTmwtelZGbFZkNVhSVzFpa1dsanROdWg3d1gtaU56dXhZT2VvbGJ0WWg0YmtuVGw1S3NQY0pVRGZsNTY2WHUtZWhrTUEzOGZiaFd1S010VVpUcWpHM3RxNEp4VWZ2LW9VN3MzT09wYmJQVk5WWmdhOEdyLUZ6TmVIREVKaVNBbzR4QmltOF9oUVd2STQteEhqcWZiMjZEcDV0SEZEYWFyckdIci1pTVdvM3RpblFQVDlEWFlJSS04N25XQjJycWpJOHFUR0daTzBZaTUtZVpud2JvZA?oc=5",
+      "published": "2026-11-27T19:36:18+00:00",
       "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "قناة المملكة"
+      "category": "رياضة",
+      "source": "مانكيش نت"
     },
     {
-      "title": "وكالة سرايا : فيديو صادم لمسنة تنام في الطريق منذ أيام بمنطقة فوعرا شمال إربد - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : فيديو صادم لمسنة تنام في الطريق منذ أيام بمنطقة فوعرا شمال إربد &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNRDJuTDZCc1o4RGFhSmd0bzU4TlQ3YXlkaVZKTjR2cGlSUUlub1hKdkg5STIwYjMxT204S3JCblVEbWs0UnNuby1yM2VlaU50Vkx0LVI0NHhZRUZvemJHdkQ0NHV1Wk9tUWRsYjFZeklPalJGZzhlN3VhaGdlTTNVdWcxQ05zVFl1WHBCYzZTQ2kwcURVSDVpY0hnTUhhWFZIaXktS1o2aUV4cUZaUHhFY2dZVFh0Wk9Ka1Ntc3pNVUl0TW1SY3NOdFZzblRLN2V2anNESHU2cUtKdVlkRWVvbThCZkpyeHFqMk83blRwNXQyWUFLMGw5NmtpbFJ0OHlZb0xHY3BvMVB2TFBPcXBoQ2pVODIxbXJiNk1Nenptc2M1amdpa2lrZ3B1cGN3SlBHSkVLN3pPdm9oXzNMUlZXTGI2NTV3eFJxQVh0ZlBMbjhnMTYwYlk4Tm5TN09wS3BTaVEycWllQjZROHZVdVJ3VkUyV241Vm1WUmlSSC05dUtQZGZUY3RWYW1oaEdlN3B3cDZ6QkJGSnFwQkpkR2FiY3ZDVnFEdlloVDdwcDFuTl9YeFBUSC0tV0RwX1ROaF9iNWc?oc=5",
-      "published": "2026-11-27T14:26:59+00:00",
-      "region": "إربد",
+      "title": "إنجاز طبي متميز للدكتور محمد المليفي الدعجة وفريق جراحة الأطفال في الخدمات الطبية الملكية - اخبار سما الاردن",
+      "description": "إنجاز طبي متميز للدكتور محمد المليفي الدعجة وفريق جراحة الأطفال في الخدمات الطبية الملكية &nbsp;&nbsp; اخبار سما الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6dlJ5ZWVUSUZsNkRPbzRZcWdIS0QyZldmOExGMEdSZVZrRENIN2FrRUROSHRSWEhhRWlkaDk0dk1ybXM?oc=5",
+      "published": "2026-11-27T17:46:36+00:00",
+      "region": "الأردن",
       "category": "أخبار عامة",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+      "source": "اخبار سما الاردن"
     },
     {
       "title": "عطوة اعتراف في قضية مقتل شادي حتاملة بإربد .. فيديو | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
       "description": "عطوة اعتراف في قضية مقتل شادي حتاملة بإربد .. فيديو | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPaVFvMmFNZWNyWEdaTjMydnNSQXlncjg2LUxTQW4wdHM4RHNYdnlWN1VIc0lLY3NPNDhXMHB3ZHk0MTdNaG93Wmt2TTlEUWVsZ0M5R2VjY0lTQVZhejlYZmpIdEVGb3g0STJHUG85dkF0NlpULUtEUnM2U1Z0bi1ld1ZrLTl2Sk1yXy03OUVkUG80bFoxRHZCaURBZm5MLUpGdmlOd2FZaTdRcHZIOGcwNnBxTy1lTjJhZXU5aVZBV05rdGxHMkFBRU90RDRxSVlva2RKbGtrV19VNml3dHo0alI3c21XTjBDRTVXaHhHSUJHM1NyTnIyQ2hQeE9ZYVFvUGhpS29wb0FtMFFJNDdQR0RiOXNqU2YyVGFoWGJzcm5ocW8ybXIxNGlfcUF1dTQyTXdKQ215UGNTSmxRS0RTWGtUOU5DdGd4RFFERmJSX1dOLVRzM0UzZnNnZzQ4Qjk5UWZqcmx0S1JZcXdiREF4VHlqdVRtdmUy?oc=5",
-      "published": "2026-11-27T14:20:18+00:00",
+      "published": "2026-11-27T15:14:40+00:00",
+      "region": "إربد",
+      "category": "أخبار عامة",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
+    },
+    {
+      "title": "وكالة سرايا : فيديو صادم لمسنة تنام في الطريق منذ أيام بمنطقة فوعرا شمال إربد - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : فيديو صادم لمسنة تنام في الطريق منذ أيام بمنطقة فوعرا شمال إربد &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNRDJuTDZCc1o4RGFhSmd0bzU4TlQ3YXlkaVZKTjR2cGlSUUlub1hKdkg5STIwYjMxT204S3JCblVEbWs0UnNuby1yM2VlaU50Vkx0LVI0NHhZRUZvemJHdkQ0NHV1Wk9tUWRsYjFZeklPalJGZzhlN3VhaGdlTTNVdWcxQ05zVFl1WHBCYzZTQ2kwcURVSDVpY0hnTUhhWFZIaXktS1o2aUV4cUZaUHhFY2dZVFh0Wk9Ka1Ntc3pNVUl0TW1SY3NOdFZzblRLN2V2anNESHU2cUtKdVlkRWVvbThCZkpyeHFqMk83blRwNXQyWUFLMGw5NmtpbFJ0OHlZb0xHY3BvMVB2TFBPcXBoQ2pVODIxbXJiNk1Nenptc2M1amdpa2lrZ3B1cGN3SlBHSkVLN3pPdm9oXzNMUlZXTGI2NTV3eFJxQVh0ZlBMbjhnMTYwYlk4Tm5TN09wS3BTaVEycWllQjZROHZVdVJ3VkUyV241Vm1WUmlSSC05dUtQZGZUY3RWYW1oaEdlN3B3cDZ6QkJGSnFwQkpkR2FiY3ZDVnFEdlloVDdwcDFuTl9YeFBUSC0tV0RwX1ROaF9iNWc?oc=5",
+      "published": "2026-11-27T14:14:34+00:00",
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
@@ -102,13 +102,22 @@
       "source": "winwin"
     },
     {
-      "title": "الحسين إربد يوقع اتفاقية لإنشاء ملعب ومرافق تدريبية - وكالة عمون الاخبارية",
-      "description": "الحسين إربد يوقع اتفاقية لإنشاء ملعب ومرافق تدريبية &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtaGJWZ1lEaU5CZ1R1ektZQkRqZHNULWFfQ1VPeHB0ajNpdF9ad3BBQ0FXTzNJVkVrYk55X1d4TUdyMG9IN1FOV0hNVERlWlVKVlFn?oc=5",
-      "published": "2026-11-26T20:29:35+00:00",
-      "region": "إربد",
+      "title": "إحتراق منزل بمنطقة وادي الحدادة في عمان - اخبار سما الاردن",
+      "description": "إحتراق منزل بمنطقة وادي الحدادة في عمان &nbsp;&nbsp; اخبار سما الاردن",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9XY0J6Q2RIY1Nkb1AzVldKMk91Vjh2ZEltSXZnSmdSdFZXOHp4UlFYMzdnMjZOcWV4WmRGLWN5bnZZbkk?oc=5",
+      "published": "2026-11-27T08:09:10+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "اخبار سما الاردن"
+    },
+    {
+      "title": "وكالة سرايا : الناطق باسم الحكومة المغربية: نحترم قرار \"كاس\" بتثبيت البطولة للسنغال - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "description": "وكالة سرايا : الناطق باسم الحكومة المغربية: نحترم قرار \"كاس\" بتثبيت البطولة للسنغال &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPMFlJVXpkOVNoaWFnUDUyY29ZbTN2eTAtb1pWbGw5TkdkSDAzVS1reFVDTExwMWJXUFdlZWZkSnVnakpGcGNDbG1hUXpsejlJYVFHMjRvNUlld1ZlVkNJaWE1QzBjSDdNLTNJbFNKdVVjMGRMSTJMaEUwcXJSLWlLTUVMMW4wb0F3SUtnVjB6ODBxSjVVLWFCODdTemlES2Q0aFlqemRpaXUtTHM3QTBSMS1QVGZQRlhycUxveHpfakdscGlyN3FxTEFaTS1KdEdHY21xNlowRFFXaWNjZ21EakJuazdDeEtFQU5USFRIR1REbG5ET2VzRmtsdHpUejl2UnlhTE1YeXl3enlGTTF0Mnh5d1ZRV0ltOEREeDFlaFR4VjEzRFNyMHBKWmFLcFU4MlBVTUJoajFrMk5Xa0NObDdteDFQYWE3UklLeHZEa2FiMUhNNmxweHFXV2duT0xHMU9uNXAwaUR2UF9EVlJJSE9paTc2a0hUVlpPcHdqWnhWV1VRd2ZyN3FQdG04R3MwMFJBY085QjFEdVZGZk9ZLWVLOFRTb1FJaVNLUE1SaXFVcm1XeHIzdDB3cGVCQkRYYnRvdV93Nmo1eHNwT3g2R1NwbldFYklNd0JTVlpZRjVDM1QyWjE4bHdkMmctMXM0WXloanV5VkxXX25MMmxSWER0YUJkZ0t0eTVZS1NocmZqX0N0VUJhcnlTRzRhRTVCR2tJU1BrdW9NQQ?oc=5",
+      "published": "2026-11-26T22:19:00+00:00",
+      "region": "الأردن",
       "category": "رياضة",
-      "source": "وكالة عمون الاخبارية"
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
       "title": "وفاة فتاة تبلغ 16 عاما داخل غرفتها غرب إربد | الأردن اليوم | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
@@ -120,31 +129,13 @@
       "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
     },
     {
-      "title": "وكالة سرايا : الأشغال تبدأ صيانة جسر النعيمة الجمعة .. وتحويلة مرورية على طريق عمّان–إربد - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : الأشغال تبدأ صيانة جسر النعيمة الجمعة .. وتحويلة مرورية على طريق عمّان–إربد &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOZ05NOVlqby1Ua1B3bmcyVnYydlkzRk54YkJkekJvVnladnY0aGZtZUVDT3VURlBuSVM0T0hrcTRmV2hBcFZ5MjR6RHA3b0RCNkdUYzJKdXgzdTBiNXR6SkVLTzVNbnh3cFZTcVRYc1Axb3lWbFVUcmhMY0pvdU9ZUjdLWTczQnBBa3RPdVhQckVXcnNIalRISXQtSGt5VHhIWm1xU1NENnBnUEFoSWJGb3NtQUplMWVnWVRjb3F5d1p5QzV4Q21tM3FNalIxNlB0LThBTjAzbmhReDY4NGh4UnJtLS1rWTRiMGJad3RrUENFWXBVbUE0TDFScm95VEpmYkdMdDltdkhHeXl0M1JLanlMWDJhYWlwNktUMEY4RUVkTm40OHc4Tkx5UDhyNHNEXzhncW9sQklPSHlUQ1dOekJLbUZXaHhnajhpYmw4WWFwRlhNNU91ZHgxNUphQm1idzBwUF8zZ25DSGhrNTg4WWpfaTRkTGFlTW5GbnY4WkE0UC04WkZMUXpTdDJEU0JwWndsSjVrMkJ1MjByTTE2eTdGWHpyMFVqWWkwU195QkowUklyZklEbm1VZVM1Wi1IbnNad2RERQ?oc=5",
-      "published": "2026-11-26T16:27:00+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
-    },
-    {
-      "title": "الأشغال: تحويلة مرورية صباح يوم الجمعة لصيانة جسر النعيمة على طريق اربد /عمان - رؤيا الإخباري",
-      "description": "الأشغال: تحويلة مرورية صباح يوم الجمعة لصيانة جسر النعيمة على طريق اربد /عمان &nbsp;&nbsp; رؤيا الإخباري",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vX3NQTWwwYkw4N3ptRFlwY0NEcHNpemRKS2JHUzJDNHpoSU9FTzdBOFlLSkpfWHlQMzhzTG5WY2NfQWJPX3c?oc=5",
-      "published": "2026-11-26T15:33:45+00:00",
+      "title": "الأشغال: تحويلة مرورية صباح يوم الجمعة لصيانة جسر النعيمة على طريق اربد /عمان - نبأ الأردن",
+      "description": "الأشغال: تحويلة مرورية صباح يوم الجمعة لصيانة جسر النعيمة على طريق اربد /عمان &nbsp;&nbsp; نبأ الأردن",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WVU93ZzU0NG1CeXRSVHljOF95bWNxUFRYN01RdTRVMkdyNFRWa2RSeDNJSHNkZVl0U1FvVjZ3RldzSlNRb2FUZ0lOUzdZNF9T?oc=5",
+      "published": "2026-11-26T16:19:13+00:00",
       "region": "الأردن",
       "category": "أخبار عامة",
-      "source": "رؤيا الإخباري"
-    },
-    {
-      "title": "الزاكي: نتطلع إلى البناء على إنجازات الأردن والتألق في كأس آسيا 2027 - الشرق الأوسط",
-      "description": "الزاكي: نتطلع إلى البناء على إنجازات الأردن والتألق في كأس آسيا 2027 &nbsp;&nbsp; الشرق الأوسط",
-      "link": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPdjdYM2E1YVp3MEluMHdVejlNckF1Z0tBRW5wcmxXTkNEbEtVdTlUQXVLUVpUS0JJWE9NTGtCakxxQ052eE1kVlJJaVdWeEFwMFp0b3FTNTVXZWJycjJBZm5sYVBydmo3aUNzUl8wT2RPOWpqLWVXZGJfUDFLek94NlVINVBkbDRVeG5oLTI5WWplRWY2SFBUZnBmcko0ZzJnYnR1Q1NjdWNCWnhUbS1NWHBqb0JHN3pTSGVDeTlCVUpFRGs3UklVT1VZRF9kNUoxRGc4Q29LVVJtcDNzNEZYU3Rwd2F3aHl4RkJjUHBMVUpJVTlQQ2wtcWt6QzlGVEFuUFFXTDlhd2VYbXUzMUN5UVdXaEN3RGtsamUtcFk4VEVkNHU2THlxSmVuT3lOTjJuYmdwMFRQOTJDSnp5elo3MmRqSHRXcnZBV09OTUl0ZTZVbnlBeGpxZjBRREVFX2FfYWx5Vks5eDBmcEdxbDVhUTlDRkZ0MDRCRk8yd0ItX0pXdC1fbTdqa3FubG1kMEVNVzRUMWJQeVhkRWVlcjJnQzZKREh5Y3pnTldYUlpLMktaYmthOTVaUTlhbE40UC1JT0VTUGRydGY0N3R2RDBDTDI1ZVpiMDVuV1NFeDd6a3BWTVR3el92eXdDbFlnSmxwWFhQZ0lwYTdGeWE4TmRYWFFrUWpyTW02eGE2OENPdzQtWjd0VVBZVXR4Y1FyQmZuRWRBOU9RcWwwZW5Ua3Y1bXhRUmtrLTY4VjdRazRXNkU5b1FBaVBrRkd1NXgwcjBTQzZ1NkhNNmczSDl1VjI0LW05SHExajY3bEkweEc1TFdtYlJmNnFEakNyNnRmTm1a?oc=5",
-      "published": "2026-11-26T14:39:09+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "الشرق الأوسط"
+      "source": "نبأ الأردن"
     },
     {
       "title": "رسمياً.. نادي جرش يصعد إلى دوري المحترفين لأول مرة في تاريخه - الحقيقة الدولية",
@@ -156,13 +147,13 @@
       "source": "الحقيقة الدولية"
     },
     {
-      "title": "30 مليون جنيه من 3 رجال أعمال لدعم أسر ضحايا ومصابي حريق الطريق الدائري بالوراق - شبكة تواصل الإخبارية",
-      "description": "30 مليون جنيه من 3 رجال أعمال لدعم أسر ضحايا ومصابي حريق الطريق الدائري بالوراق &nbsp;&nbsp; شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94OGl2V3l4TnFzb1JyYk5iang2eDZIUWdWd2QzMXA2bm83RjdMSWpER3B5aDIzUktZRjFWNjB5TFJJYUhxWVhMdTRleDMtMmZSc2xF?oc=5",
-      "published": "2026-11-26T11:13:12+00:00",
+      "title": "انطلاق حملة الـــــ16 يوما لمناهضة العنف ضد النساء والفتيات - زاد الاردن الاخباري",
+      "description": "انطلاق حملة الـــــ16 يوما لمناهضة العنف ضد النساء والفتيات &nbsp;&nbsp; زاد الاردن الاخباري",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01SUVEYmFYbnJiX0ZrQnZnTGlsM1liNXhySl9nWjdRM2N3eUY3ZVhheEMyQzEyd3laTzNzeFAzTzVMcXN2NzZXWUJjeklUTmZjc0lCS3F0bU81MmRZdW1pZGhWZk45dWc5dmc?oc=5",
+      "published": "2026-11-26T12:31:59+00:00",
       "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "شبكة تواصل الإخبارية"
+      "category": "مجتمع",
+      "source": "زاد الاردن الاخباري"
     },
     {
       "title": "المصري: تراجع مديونية البلديات إلى 300 مليون دينار - وكالة عمون الاخبارية",
@@ -183,6 +174,15 @@
       "source": "جريدة الدستور"
     },
     {
+      "title": "الذكاء الفائق يطرق أبوابنا .. فهل الأردن مستعد؟ - وكالة عمون الاخبارية",
+      "description": "الذكاء الفائق يطرق أبوابنا .. فهل الأردن مستعد؟ &nbsp;&nbsp; وكالة عمون الاخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9scktCNkVKRS1VWnZ2WTVlRGoxSHhNVC1veXc4WHRuaHBZMHNpRTRrNFp6Y0pXTFpJYTdrUGV5VEUzZUxheURpdzFXRXlaUEZibTk0?oc=5",
+      "published": "2026-11-26T09:13:06+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "وكالة عمون الاخبارية"
+    },
+    {
       "title": "الأردن.. العثور على فتاة حيّة داخل مقبرة في إربد - الإمارات اليوم",
       "description": "الأردن.. العثور على فتاة حيّة داخل مقبرة في إربد &nbsp;&nbsp; الإمارات اليوم",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XeXpLUkN5bnI4ekxWejJoUWlDbWEtTGVoTXk1Wl9QSmhVRXFlRDJ3LTRxM3R0THVKMl9PYkdlbThqdjBLOUhkQmNQa1RYcTh3WTRmVFRhVDFZUm5CQ2UyWm9oMWxkQy1OQ1lOOV9Xa1d0YTZQajN0QzFUeXk?oc=5",
@@ -201,6 +201,15 @@
       "source": "صحيفة الخليج"
     },
     {
+      "title": "الذكاء الفائق… فهل الأردن مستعد؟ - صحيفة المقر",
+      "description": "الذكاء الفائق… فهل الأردن مستعد؟ &nbsp;&nbsp; صحيفة المقر",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1bktScnRXQ0tCTWlqN2xvbDZ2SlM5NE1vZUo1VjlNYmFMU0YxeEI4TWs4SGZ5ZlI5UDZlZExNcThuNFlob2RJUw?oc=5",
+      "published": "2026-11-26T08:39:00+00:00",
+      "region": "الأردن",
+      "category": "أخبار عامة",
+      "source": "صحيفة المقر"
+    },
+    {
       "title": "ندوة حوارية في إربد تفتح ملف الإدارة المحلية وصلاحيات البلديات والمساءلة - جريدة الدستور",
       "description": "ندوة حوارية في إربد تفتح ملف الإدارة المحلية وصلاحيات البلديات والمساءلة &nbsp;&nbsp; جريدة الدستور",
       "link": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxNdm1YeGlIZFBjOWdTVjN1elU2UWR2c1JQMFFQQkVhakJNTjBKUnF0NjBNaFdaallqTGVvSW01U041YVZZWUIyTm12aExIS3c3X2h3b1VXR1l3Z2E5VnlVU1ZiTF9iZmNKWVBmNmhKNUYzQ1dCUFpYLUp6US05eW9HeVFkNUp1RjNLVmZDS1dnU2YtLUNJeVp4THotZ2pGMDdGWFNLRGtwUkVnNHFlOFJpWHdxRm45SnFWV2hzeW8tRThsWWZmWEV3NmJ0X3A5QUk3N05mWHFtdlduSUttZlNPR2tQcVBfMzJJWkxvRERTcHdrTnVrZXZQRlpZREszSG43NGRaVDdoSUJhNVlvdlNNU0hLNGZ3bzJCcVF6by0yS0JNd2RvaTZoYTU2cTdnV1dRTXc2RVJhb21CWGw5YkVKcUhVWm1wQ000X01qWXZUUFpLZWtGRGlsdEN6N19xdkwtRkFvTTUxcl90MkFmZHl1TlE2VzRRX21tVXV0aER0ZThrWVZrRnM0VkVabURKMEppOUs1NkdpSmhJenFqZVRIWTBLbk9ud3pZM2x3ZDViWmoyemJYZzBxZ0R2NFFNbWhYWjJqNzRHSUViNW5INE9XN0wyYmlDeXRFUG5pNkRFZE1lNVZxNEtLbVdRTUF0dzIwZzZnNGVkUVhEZWhuWUV4dmVqdXRjWVc0Ml94X3l5MjVocms2dFMxOVFQbUpXZnJkcmE3dkxwQklpMWhGbWdISVFpUVgyVS1lOXg2OGF1QmdsS3ZEZGh1Q0FCTk93ckdkWXZn?oc=5",
@@ -210,15 +219,6 @@
       "source": "جريدة الدستور"
     },
     {
-      "title": "وكالة سرايا : الإدارية العليا تُلغــي قرار نقل موظف حائز على درجة الدكتـوراه في الحكومـة الالكترونية الى مدينة الحسين الرياضية - وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "description": "وكالة سرايا : الإدارية العليا تُلغــي قرار نقل موظف حائز على درجة الدكتـوراه في الحكومـة الالكترونية الى مدينة الحسين الرياضية &nbsp;&nbsp; وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-      "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQcmZ4VDVuQzZSWnhZazJPcU5LYnJnVXBRUFpDNndWWTk1My1SUERyV1l1ZUExZWNLZHZPWUx2VWt0clF5T1EtVTd4TUFwR1lpQ1BORldzdU9lS1FqYnRSTW4tM2dRNDFaOUlPdlJXb0JpZHRCY0FHZ1NVSy1LbmFBdHlwN0RCU2I5amNkZlZvVEJoRU1kTG13enczZGlIRjFWUnNxdG5PbWsxeUlDVEY3NFlJRjJJZmZGdHJiLWRzZHR0bGpsaTUwNE5XbVVVNmpmdFVkZnFkMFRJdUFKZXBpVWt1Ny1PNmNNbjJrTi1mU0tsN1ZOeVZVbkc3TDJsMHFHMW5nZ1ZxZHBSclp2TFg4blNLV3JfY3hMUjFfX2JWZWcwc0ZPdi1IXzR0WkQwWGR5TXFqUEo2Y1VtQXVwR0RaZEYxNlVJMGlvd1BzY193VWRWUUZpaktiUHR5dUY4ZWg1UnBKNWh3S1l5TENvODM5SC1pU1RLbkRMdlJSU1dzamc0ekF2ZVRqbk5xc3VIT3I0TUE0WkM0aTd6ZEZDUjRxeWpFNmZ6NThUX0llZC1fVVdhRHRYT0ZZUnlvcHQ2LTg5eHkwMkVwNnY2ekhiRG9iQ1owZUtZTW5EQUhtVG5ISVl5Sm9OT0pQVXU1OE1sVzVKbl9mSHNWdWE2MFE2NVdkVkswSS1XdjQyMUE?oc=5",
-      "published": "2026-11-26T08:00:00+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء"
-    },
-    {
       "title": "ديربي الشمال يربك حسابات الحسين بعد رحلة استنزاف آسيوية - winwin",
       "description": "ديربي الشمال يربك حسابات الحسين بعد رحلة استنزاف آسيوية &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOMHl4Z1N4eEdnOGFFQTYxdGIyV1dpa2o1MUwxbkhyYUFwTVZORTFsd3U1ZDJYVXVvVlNLVVNOX1ZwM09BS0pNM2JMckNGbGNldWdiZUw4ZUxJRnlUNThNY2EzZEVFT0dLZWkxRFdCZlJqZkRhUndLUWRaaFZVU3JrS0x0Q21WbmtzREpyZ3BmUDJKVGlFZkVwdDhpaXpBMFJUekxKR0xTV1BmQ3UxMVdyeklYZnlTOWlNR2F0aXA2N0xqUXV0Qy05RTRfTS1qbTFJeVlPVkhYNDA1azFhWXZOR3Z4M3lvcmdPRGV5THJWVXhCVUtVaFBpZzVkLTFHYzNnS1FnNUVNNkVuSk91OGVXRHh0WmJ0MG5udFJ6WHpwMEhPbzM1dnczSl9MT2VFOUY1QWktRFRxVmxVUW4wd2ZHRGYxRW9jQUM5SkRLV1dwNDRBM0ZzU0lHb05NSFVSUUU0WFN2Q3JPU0dWaDE4NTk2N3NyYzlxS2w3bTlZZ1puRHRqVGN1ZWE4R3JHT0o4WThuNldlS0U0T0phMUEyenFPWVNqMGVaempEZWU2SHVRcHlVb25MbDBGREpRSnAxMXdvdUFpeEtQa3FuWklvaFdSUU1sWnM0Tm50LW0tTWxJN0VHWDNsVEtKaXlIOW8taGlIMWdGNXB5VQ?oc=5",
@@ -226,15 +226,6 @@
       "region": "الأردن",
       "category": "أخبار عامة",
       "source": "winwin"
-    },
-    {
-      "title": "الحسين إربد يفوز على العربي برباعية في دوري المحترفين - وكالة الانباء الاردنية",
-      "description": "الحسين إربد يفوز على العربي برباعية في دوري المحترفين &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNbDdLMjNuYm9FVWpLcFZQTDlWUm0yYUV5Vmx3MzZKaUNtc0NhcXU4cFJuRl8xT2V5OGpoMlBXX3hqSFNOSWZqWkYwdFJNOXRfRUg2YzEtcjVuSGRaeHFIS0RNMUxjVmxabFVOb1hoX29NU3VPdG9kQk1GWENmNW9WUl82SDFOUlVwZWl6VGlhZXdIVm40QW1EVjhFRml0dVdmUWk2Ty1SeHh0NWVYS09vWDVFaFN1aHlUZ0YyNHBYN2w2REZ5OGpUbGhPbjFtY0ZHa3FkVlVoR0t1Y2dMdFpWNTljM1ZwQ1FGM1BTWXBxUzd3NGdlUkNqTk5zLVNXQ3VCUW51VnQ0SlRQdkZyYUNaVUJJM0xrQll5MXZXODF3aXY5dDBVZ0ZUSkYzN3BGX19yc0lfdlJWcE43b09zX2publR6V010MG4wU1htcWxjUmtfS1FkaTNBTEJNMUo3NzY5ZGxjNTZoYndBWm9LQy1XT3NWZTJQNmdJZTdFb1BiWlg1QnR6eVlwQm9aUXlPSFROLVdGcmRETFZidjN6SmJHQVpSZllSVEVFNWZNU2dYeXN5X2c1dk95dkNESlptaV9mN254TlZmOUQ1MGg3bHow?oc=5",
-      "published": "2026-11-26T01:38:08+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "العزام: عهد الجسور والأنفاق انتهى والإشارات الذكية هي الحل للأزمات المرورية باربد - جريدة الدستور",
@@ -253,15 +244,6 @@
       "region": "إربد",
       "category": "أخبار عامة",
       "source": "جريدة الغد"
-    },
-    {
-      "title": "مديرية شباب إربد تنفذ أنشطة رياضية وتوعوية في لواءي الرمثا والوسطية - وكالة الانباء الاردنية",
-      "description": "مديرية شباب إربد تنفذ أنشطة رياضية وتوعوية في لواءي الرمثا والوسطية &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQSnZzU2RQQ01mc0lUbGhpaWVWdUVXSXFGbDUyUE9fcXV6OTRsOUxSZXJXRnRzVEJlRWlsMWxyaHlYNG82RFFxTjZuSUtQcWtIM19OdHZjenhlTFhXbHJYdE1ibEVNQm01N3YzZFMwSzlic0FMVTRKSk1YVm1ub0VJTFczM1BXU0h2UXJlNDZqako4R2xVMUpTLW5QU1dRV3J6MmF6QzZYcG1iUUtMRElkUEdYWXRadVBGX3J1TVk4TWRfUnpVOUdNWnFWMDNUWFJlQ01pLWg4V3h4c2hhSUtZdWZLRld3NXl1Y1gweGNXcjZSdWs5Y2lnTUFOWHcwNWlGbWxXMXJvbjB0SXFzY0h6bTZ2bXczMUxOajBWVXZ6UnlsRjhhWWNNQjNKMnlGTlBDWGpWX1ZlcGtVYldkOWxVc1c3UDY4OGxqZWxYd0hKTWFyblE2R0NJcHd5YTJPdHVYUm5TWHdYZnJHVHlYeW1IenppQkY1cnlNMFJXdGNXZ2hOWU0yMk5WQWFBdEVXY3RxZVVSZi1VcEJvLTUya0NTeEJwV3JiV1V1NnBCeWRBYi1aTW03ZmoyRkcteHFWRTdDNTFWNnJhcXg5eVlmcWdfUmhmQzBvT0RFZlhYWG1LbFF4TmlIZm4yTnlVODdkTFQzVEJEb1FRTWZndXI1TGh0QnBuek1HMmFzQVQxY0tpanI4bVAxQnZwMUJRVTh1Mlc3NUV1cFdOQlFkQzgtOGFaZHMtRQ?oc=5",
-      "published": "2026-11-25T17:17:26+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "وكالة الانباء الاردنية"
     },
     {
       "title": "العزام: عهد الجسور والأنفاق انتهى والإشارات الذكية هي الحل لأزمات إربد المرورية - جريدة الدستور",
@@ -291,15 +273,6 @@
       "source": "وكالة الانباء الاردنية"
     },
     {
-      "title": "الأردن يواصل نتائجه المخيبة بتعادل سلبي مع فنزويلا - الشرق الأوسط",
-      "description": "الأردن يواصل نتائجه المخيبة بتعادل سلبي مع فنزويلا &nbsp;&nbsp; الشرق الأوسط",
-      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNV2RZOVVkaHEyVUNSUF9fM3luSEtobjIyR2FDTnJOS2RHTFRQMHB2eDRwWWJneElRMXNGc1VaNlY0LTVvdnd0TzJhUS1SU1dscEZ6UC1MMFhGdVgzdDY0ejNHell1Wi1fTHJvanFHZVBWUmZ2S3AzaTZRaVlPdjdFRGlhTm1ZUUNEMVM4bG1XUGkzRUMyU0xCWW1XQVMzNnRlaURzT0d2RXFxYjgySkVUN2M5WUdoOFZDSURnaTVHN0lhdndnc0l3LVRMdzlvVXYtUjVvM19UNS1oaXYzOUgzU1lWb09aWWJ3RVdMeXF2eGJsX1NqV1RwYWMtTFlSZ1kyakpXcE1kYUFMM3VWenYtWWpmTjJEVGFMVGpvM1JhNzdjRG1zdVp1ckw5WXRkUklpZ2d4QW1tQjU4Z1d3N1k0RWhKekJpSnhVRS16YXhSWEZwejdtMFJHbTh3R2JjQ1ZNTGdIOEUtb3JQcGhpUElJZGhuMV9HTnFCWTVDSFg5bjg4bktXUWhvRWs2WDVQeWpRc0ZVTWFrTmVDSDJxdUgxSTdiQ2JRRGxaMFhXcUpVcXpKUEJ4ZV9SazJoelN0X2xkMU9vUG9DcHVBVGRxT2JBQlFOZnBkRzZqMzlsX1RlUXRmX0wyd1ZHSHpWRHc2R2ZnLUVFQlVYeGxDUE96WHJfT2JhSUItbUlaZkxuclZ1czViMjNQZzV5T25wYkxpVjlCNGlOYmlxMmV2Q2dhRFE?oc=5",
-      "published": "2026-11-25T15:50:30+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "الشرق الأوسط"
-    },
-    {
       "title": "غيابات مؤثرة تضرب 5 فرق في الجولة التاسعة من الدوري الأردني - winwin",
       "description": "غيابات مؤثرة تضرب 5 فرق في الجولة التاسعة من الدوري الأردني &nbsp;&nbsp; winwin",
       "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPOHU0dFFfSVBIcFAzakRmeEhlNGVidmp0anMxVWp5OEZEX0Rqa1lLcTdrU1FPdDZxTTBGSlFTeWhwT3NTQVdYU1RlNWNHNndLME5Ca09ZVXNRWEFjd1JCWnRGOWNSanhsVjd3NzBPN2xGOXJoTjhUVjVfTEp2cDRKWnk1WEFWYzV6Qkp3UDBsRU1QOWpYV2xMVnFZYTdaNWwzWGMtN1I4TlFpOEhyYWxFc0Q5UEExSTYtMFVwb0ZlSkt3QU16dGREWUNWaUlPOVFRVS15TmY2SzE4X2dwR2ZYWlVhRW5hdVItWlN6Nldzc05kY1dINFMwaHBzak5mREU3eGNrSllmSEtfaVpUNkxVSTNxYjI5bXRIMWREMENsNmpQbDJqR1hBd1g1UGRzTHl2ZDdweEtjdFlPeE5vcjRWLUR0RFM3em9aVldYT1J2cmFBOFB2QVRlZ1UwR1lqUEprMXJaZVFJbndnQ18xc1I3U1hGdjBTaW9XOWwySEVMYS0tRjdoVFRyaVo5SVViUUc4cVdvZVh5cWpsbW1Ta3VpcmpwQWFHemhkQjNHRzJlS2tLQkdkclM5TlM5OUZ6MHpINHVaakZUZFU3RVU4aVU0Z1VoMDZ3dTAtdHpta2drb2c1U1Rxd2lzdnBmRTRwVktaQ01wQVh3R0F1aXlTYm90aUNaNA?oc=5",
@@ -318,15 +291,6 @@
       "source": "قناة المملكة"
     },
     {
-      "title": "هل أصبح المواطن الأردني مشروع جباية؟ - رأي اليوم",
-      "description": "هل أصبح المواطن الأردني مشروع جباية؟ &nbsp;&nbsp; رأي اليوم",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNVXFCZm9iZFd3STlGeXgyb19UUmFQOFhjQ0ZOMlhSeXBuTlo4bVB6WXJPUFJlTmtWQVZ1dzRoYVhiRVN2M0ZKdFdfbG44Z3o1RTdWMGRuQmpOM29IdlROLW1RUFJoQ2pIZUlZUDkyLUdvdkczZm5ZZlpDMU5YUHowbjJXZzRSMFJVWlJfU1JJcEN5eUVWajFkZExhOUJDZjFSMjhDaVBVYlN3TV85LWR6QUVUMFBRNi1NX2JMRXZEWFFKam16aTFFYno2cXFOTVU0bzhoOHl1cHlLT3V5aS12MnBLMmZGbmw0VVpmb0JRY1dnUjhRS0VjN2s0YWhyQjR1SVBTbkhlVVNtM0JWN1hwRmpjU3FJRHRDS3E5a3NFSjdlVGtaNzdRV1FQRkc5WFg5U1MybGp2YmRnLU56OUpz?oc=5",
-      "published": "2026-11-25T11:51:59+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "رأي اليوم"
-    },
-    {
       "title": "السياحة الوافدة: تعزيز الثقة بالأردن سياحياً أولوية للمرحلة المقبلة - قناة المملكة",
       "description": "السياحة الوافدة: تعزيز الثقة بالأردن سياحياً أولوية للمرحلة المقبلة &nbsp;&nbsp; قناة المملكة",
       "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxONnZnUi1NeWJNQ1lab3BUUjlYRzBnUHRQVHdGMzNpSmt6TlVfcWVKZ2ZjSTlHQnhMek5kdTY1a1hENHZlcGhCLVJCV1pwYWhGVXdxMTl3dXB1X1Y0WnR0UmlMeXIyOGN6ajRCOE1DZnhyUGtyMHgzUFFuYU0yREwxalo5amFBTFMwdHBzTGtTdnN4dWNzMFdpMUtkakRya3RFYVJ4ODg1amFPdzIxVUMtaUVMYjZlZDZMNk95RllxMjdPLV9yN0N0UkZGTG9oSmN1UjYtRUptbVo3emVuNzNXRXN0aFNLSVliMTlaRVNJY3BDM1dabFJ0UzdCOHdwNW05WGZNLW9RYndPRGZ0WDJXQmhHb2xsTG44QmlvQzBlZVZpNG8xY0ZwYlQzUlQ4Xy10ZHdSeUllQmRWUkx2NmtLeGQ0WVQxMWFrOFJXU1lHTDBBQmdEb1lnYkdTLUh6bk5iMm0zX0xIencyMC1MZk41WndudlQ5MXY1M0I5WGxtbXN1em9DdjVuVUVndGMzMHpHazhQc1J5T3Q3d01QRUE3QzFrd0tnWjhKTURMWWcwMGNqamQ5WXUzWkdHTWsxVkpwWFpMalRZbTd4S3NJVDZYaHpKcF9DbExLREVpUnYzYzFxLVZqTWlEWXJLaEJWQnJBMVZ0YjU4ZUF0UDI1VEpLT2Jvbk4yWEFCT01aT3pRa1Y2UjgzUGlkNGpn?oc=5",
@@ -334,15 +298,6 @@
       "region": "الأردن",
       "category": "سياحة",
       "source": "قناة المملكة"
-    },
-    {
-      "title": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 - الحقيقة الدولية",
-      "description": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 &nbsp;&nbsp; الحقيقة الدولية",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xRFNlajNEOGdueEdzNVdGUEJqdVVoOWFtU0pJSnRRV1F3aEhLaE5nRk5CRzNBODhYSGZBdkZpb1ZraDlK?oc=5",
-      "published": "2026-11-25T06:07:00+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "الحقيقة الدولية"
     },
     {
       "title": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 - قناة المملكة",
@@ -354,31 +309,13 @@
       "source": "قناة المملكة"
     },
     {
-      "title": "إطلاق السياسة الوطنية لتنمية ورعاية الطفولة المبكرة في الأردن - قناة المملكة",
-      "description": "إطلاق السياسة الوطنية لتنمية ورعاية الطفولة المبكرة في الأردن &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNRWtrM1pDcWxVcHE1NGdCYURMbmtkY3hzcHlfb0dmNl9pRllqQUd0NzBPb2pRaVQ0eWoxN2FydGZjWVN4QTZUM0N3OE8tMnVwU0RHV1ViZks2Q0YzczFpZEo0NHd1Tk1lSEFIZkhkLV9SLUVmUllWMWlSUGZ6eU9QUlpmTFpOc1RrS0UzbjVRVWV1VExCSlFIclZrazdzZ1IteWs2aGlfNXhOZDQwd2dOOTlNQlhJbU9STUt6UFBib3Q4XzVSaVVrN3NnaDhmdDVoaVM4YjI2aHZkV182dXZER3VZV1N4bi14QU9na2RkU3JEcVVOOXlrLXRfNS0xd25ZS3JnanMzemFpa1RlNzdFZEd2Z3lrXzVBQUdBOGtzWXp1YVVfVjQwRV9IU01PUXNkNHo0Vk5JZC1fTldfekJ4WDhKbjZaUlpDTVpmWU1DY3hONGNmZ1FaWkNLdnVBOTU2UEcxRW9KTnYyUHJKdGg0LUtCRk9aOTVIQW0zTXE4U3pCQjByTHZhbmtmb2plUjlWOHFIYjVZLTk2djZ0b1FaWFY5N0dYN01YeTJ5eElKbzB2QXZjWHBUUFNHREFsSXBuZ1YyOTVCMlpkeWdGUlo5STVoZzRPSS0wbThaUThMd29sSEk0MmFJNG5oT2FackFQYnFpVU1QZHRPZw?oc=5",
-      "published": "2026-11-24T17:06:52+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "قناة المملكة"
-    },
-    {
-      "title": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 - جريدة الدستور",
-      "description": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 &nbsp;&nbsp; جريدة الدستور",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPd1k5Q2ZFYTBnYTNzaGxNZ21sN2h3NXNEM3lTRFk3ZlRqQnh0Nllud2FkY0VVaW1lMEpZOUZXU2NsbjJqSWM2TFZrLWVXT2JZSWFhYWJiYXJoa0ZtRmpUbjNKTkdJeFMzcVF6VU0tUFVSZTBGMGp5cGtPWDlVRW5LcmplWHlYT2lUR3dEbmxKY3FuNlVZUUNKTXQxNUp4S3FRSUQ0dXdfYW95ZkNsSl84aGYtWEJ4czM1SG5JWEVmV0JJdk5SRGQ4cEpUNERNZGVGRXVuNER2X09PNWpRREkyajgwc01SWHpDSnAzY0hqU0hNaTFvaWtGaGJqNmdaa2d6WWtHYW5EREhOa21rdS1Ud3oxT1JBbmVNREpfQ05tX2xGazUtUGcwNEhKWmNNZm1sdnVGR20td3J6OWhkTGdvbHdQeGFVUS1BUjF2WkhQVElpdDZTblNvbzVzaDlDcVhZS1FmS3dONGtmN1lQc1dNZi1tMFUyVlpHTEpTRUVwaDlmVE9LQ2dYc2dGVDJwYkhRSWFHYnBJbkhDNjI5b21PSXFBV2hGbVF0eTZXOS1VTkdocnFJ?oc=5",
-      "published": "2026-11-24T17:02:09+00:00",
+      "title": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 - الحقيقة الدولية",
+      "description": "الحسين إربد يخسر أمام إيست بنغال في دوري أبطال آسيا 2 &nbsp;&nbsp; الحقيقة الدولية",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE13XzJwclZOT3hzLXZxdkFTZjJJc1hENEs5Y1Z4V1UyNnR1TDRRUkMxVTRuVE5qd3czX3JFeWt2RTZ2c1NK?oc=5",
+      "published": "2026-11-24T17:31:00+00:00",
       "region": "إربد",
       "category": "رياضة",
-      "source": "جريدة الدستور"
-    },
-    {
-      "title": "تفاصيل الاتفاقيات ومذكرات التفاهم الـ 18 بين الأردن وأوزباكستان - وكالة عمون الاخبارية",
-      "description": "تفاصيل الاتفاقيات ومذكرات التفاهم الـ 18 بين الأردن وأوزباكستان &nbsp;&nbsp; وكالة عمون الاخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xdzdYQlFyVFgxR2JMZHBaUnhBRWhZeFVpcWk3RThTdnJ2M0paLVhkNDFVY0xFTUs0NTVaVTVuTy1UWDRETE1HRTRhd2FLRjVvUS1n?oc=5",
-      "published": "2026-11-24T13:47:40+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "وكالة عمون الاخبارية"
+      "source": "الحقيقة الدولية"
     },
     {
       "title": "ملخص وأهداف مباراة إيست بنغال ضد الحسين إربد في دوري أبطال آسيا 2 - 365Scores",
@@ -408,22 +345,13 @@
       "source": "365Scores"
     },
     {
-      "title": "فرصة أخيرة للحسين إربد وحسابات معقدة للفيصلي في «آسيا 2» - صحيفة الخليج",
-      "description": "فرصة أخيرة للحسين إربد وحسابات معقدة للفيصلي في «آسيا 2» &nbsp;&nbsp; صحيفة الخليج",
-      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNaG9fZWg0clNSMGdCTEJOOFRhTkFiYVFPN0xJMGVMUmxKV1FBM004OS1aOWF5N25oc0tpcXZPN0RlUFNlMWxNc3RiLUFVSEFXOWNHODRPb0R3QnJ5TVlueFVfR2lMaXRHZFlfTVZOa1RkZXU2VEpSQzlVLUlKRk5rSktBQlJnYUZQVlhfUnBmMjV1REJvejlNUnBHVTBOMWU0cVZ1cGR5M3dkcmpiam4yaHh2TkFwLWwxTmlnRGwyaVBpX3JvVGZUakROTWdadmFBOVBDcjJSY2ZxU1FUdFQxUmt0dEJtRDBIeG9BZmNsdV9BaXlXb2Y2b19RVmxJNzNaYjNFU3BGTjlhR2lrSWZYT2x1M3B3bTZ0dW8tbnczcm9uMWhCa18zcWVxQVk1cEd4VXZ0eVM5MDZuWnBsZk94QXpyVG5zUmgxTjRrWXhwOVA3bDQ3UGQ4NU9wN09xVVlVcTZYdTkwbDQ2TEVaQVNZMFNlVHEwbkxXcU5fVUxMSVBvREQyRUl3b2RzMVR3QXFpS29aNUk3MG5ZRHlXcC0zQmRTa3JEamRBZndzTjlSeGJuWFNVYzhnMWN4emVlRF9PQ3JPaVJrSS1oRUZ3NjZpQlVxWDFmekI1cDhQNXdadGs1MzF4YmF1TEhFNVhneUVEZ1lTZG5tNUJFY3UwTGxZUkV2ZHJxSl9sUEhWakVPQTdhX2hfd3lSMEV2ZHY1Y2lOcWM3cmxqamc0S3dETGVqckU3Ml9CQQ?oc=5",
-      "published": "2026-11-23T17:49:27+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "صحيفة الخليج"
-    },
-    {
-      "title": "\"الحسين إربد\" يصل لمسقط استعدادا لمواجهة \"السيب\" ببطولة دوري أبطال آسيا 2 - وكالة الانباء الاردنية",
-      "description": "\"الحسين إربد\" يصل لمسقط استعدادا لمواجهة \"السيب\" ببطولة دوري أبطال آسيا 2 &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxObHdOOGJBYmNjajlTRnNnZlFVR3JkWmZJVHhQR18zSjdIOFBacTQwZ2ZZN093dzVWcjdwOEFSSTFBSUtiV1JweTVXcGRvR3RuczNiSDVIamJ6bTU4TUUyNU05UU9jRjhaekdsVDNfRmtqOEdjY3F4aGdaQUI2QklMejJ3aS1IMHdRNXJTekJYRDJQQVlsX25id3ppMG53eFRhSWxRS2g4Tkt4WG83aF9OU0ZOTWlSS1dyLWFkcXdHVncyLUNndklHaHFNdnUwNVpJZkpnQ2VwZ01vekNRRzQzeXE2c09vRlJ2ZUp0LXkzSXAzNkVIRG4tNnRIYnItZUxWbElXMTRZdnFJRlN6azJ6NlRUZXdkc05aNEROdmJfdUZSdGlNUW1wTUpOME5qSXZjSlhuNEcwUXNQRWhmakJ3RGZnZnBaeGNoZEQ2SFFldDNaUzk1U3A3NHViNU1QajdsX2YxelhKa3JLVWFKZmVHMDRoYjhhd0dnN2hVZXNsX2FXdWxlVXpmdmp0Z19UV0d2ZXBETGpZaGx0YTEtUjY5ZHpRblFXbVo1cm1lcTFRdHVIbGNLVDY1SnVucHNnblRNcFB5VmM5QUlnNXR3c2NSaTFONVhfYVl3NXBLWjdxNWNnR3FLSUxEYVV4NnJtOUZXUVFaSjJ3MlVPUE1fbVNJYnpuSnhwY19iRExVOV95Tl8zWG9UWmxOMHV1NlJtNjByQkpmX01nWkxmSDFib2xKbXZiWWJfWlhQekE?oc=5",
-      "published": "2026-11-23T02:27:14+00:00",
+      "title": "وكالة أخبار اليوم - الأردن/الحسين إربد يواجه إيست بنغال الهندي لتعزيز حظوظه بالتأهل في \"أبطال آسيا\" - تطبيق نبض",
+      "description": "وكالة أخبار اليوم - الأردن/الحسين إربد يواجه إيست بنغال الهندي لتعزيز حظوظه بالتأهل في \"أبطال آسيا\" &nbsp;&nbsp; تطبيق نبض",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nb1dwcFVWZHRaOExoQV9aZ0NyVDNfNC13bVNlWURDdG40Q2lZN1l6NUprclIzWVdfWWZzU0l6RlRKRlpTSk9YSGJiaUtUXzg?oc=5",
+      "published": "2026-11-23T09:56:46+00:00",
       "region": "إربد",
       "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
+      "source": "تطبيق نبض"
     },
     {
       "title": "بادو الزاكي يرد على شائعات رحيله عن تدريب منتخب الأردن - الجزيرة نت",
@@ -444,15 +372,6 @@
       "source": "وكالة عمون الاخبارية"
     },
     {
-      "title": "بدء استقبال طلبات المنح والقروض الداخلية للعام الجامعي 2026-2027 - قناة المملكة",
-      "description": "بدء استقبال طلبات المنح والقروض الداخلية للعام الجامعي 2026-2027 &nbsp;&nbsp; قناة المملكة",
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNWXF3TEx3SVY0cUl2NHJLOW93bmIwdFlQWldJdVlaTEZzalZwd2dGOGs2UEVPSzNpRlFUQnk3Zm5HdURFSFEyeTNvMWNmVFd1Zkk2VW8wVmZGSWt5VndaaUEwUXFaN2ZlYmZKSmNaUzhubWlOcWFRZzhLZmVhSjl3X0VmelRVNFcydlpyWThVRjJaVkR2SVdmZ2FycmRHT3VBSVdNdTVGRzRvSWl2S3JZeE80d3lxYTJRRGRCZVZNZUFKOU53Y0RiLTNzaHFkVVYwcWxzMmt5MjR0d3pvWko5enBSTUdYWmhxbmxiSzZDSXVnNkctdVJJa1BKd3hMd2NURXR0Uk42YU9XZFBTalpGNGRMVVZiLXRJVlpvTGVmLWZXbThCZ09qSHdpUjkyamxFRnlvSzkxN3RiME9yMW5iZHhFRXdNVWFaRmhsUHIxb2ZzX1Z6bm1wSTVmaGVVUDBmTEFYZklGYkh6XzJrRllxVlRVRUtBdGVzZUwtcm9ySHFIN2VnQTFJZmZRZTFsdkloQWpPMFpKMjY3c3lzSEdLRWpjbjBBWld4cEpGZXJQQ0s0cVhGanlGbVIyOUUyUXlnVmgzNk9LcGNzUjNMcTJITmlwb0MyUQ?oc=5",
-      "published": "2026-11-22T09:13:08+00:00",
-      "region": "الأردن",
-      "category": "أخبار عامة",
-      "source": "قناة المملكة"
-    },
-    {
       "title": "أنشطة متنوعة لتمكين الشباب وتنمية المجتمع - وكالة الانباء الاردنية",
       "description": "أنشطة متنوعة لتمكين الشباب وتنمية المجتمع &nbsp;&nbsp; وكالة الانباء الاردنية",
       "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPazNPQkk5cUxSZVZJZjJpTkpFT3dSVlJwaWVmcjJmMHpXQldMSk92Rl9qNmhEdktJUnh1RDh1NlM1dS03OEZqUmk4YjUtOVNnb1IxRnlKVE5CNkFkUlp5cnZqZGFKaHdWc3VuNXNnY1hFSHlKMWUyZ24wR1dLSzRJMFN4aDVaenlJNUNJcUZqRnFLTXBVcGxObTJVcDJPZm1FQ2l6a3EwcGU3dkVkS2ZtUkxYV0tnQ1J2UkRqWGNad0w5c3JOTWxZY0ZBVndHZFBPanN6RTlRQTE5blJuRFlHb2ZfTkxUYjdsQWIyZEtZaUk1Z0xFWDlmSGxVRE9VNVFnR1BpaWFYU0NlVlBkeDllS0xkbk5QeVA0OTIzaERBV0JndVlFVVZVa0JwVWFiSUgxNUR4UENUM2VoNWIyQ0s5TkdrN0NvZ1JOMnN0MHlmNnI3MlpLYlpBWUJnWk55cHBOMldWTTRPelBDUQ?oc=5",
@@ -462,40 +381,13 @@
       "source": "وكالة الانباء الاردنية"
     },
     {
-      "title": "الحسين إربد يطير إلى الهند بهدف التأهل الآسيوي... - جريدة الغد",
-      "description": "الحسين إربد يطير إلى الهند بهدف التأهل الآسيوي... &nbsp;&nbsp; جريدة الغد",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPSEtfUE4wcnpjMmZmSHB5eS1xWThTU21zb3FGLWhDdzFfbEp1eW4wX0xHSG1lZnNzU0FjYTJOUUZKRWJqdUR4V1JxZDFDYmlndm9XdmM5VEJRZFE1a1RxVmF6WndvVmZzV1RwSVNyamVEc0h6M0pQODR3TjhmaGVyOHdZMlRpOEJHVnJfMFI0YVpPT2FFWnhpejJTWVVkcDRPRGhEdzZOYmxyVjFhQWRoRVFXY0VIYWV0ZGlIQnU2enkyS0lCbmlpS1ZKNVFzYmhIc0xXWVg4T2xFQVo5NmRDQjVvOHJQNUY3QWlMWHJheksyZFlTQ3dBaWpQenI0TDNtZHFqTFM4OWZEeHV2NUw2Y1A5ZDlqNlpCdVZmWHRRZUdHY1YxRjhrMXRpdnJRdVVqaDdzRUN0bXhLWUFtOGJ6eGVsUVpxakNsUVgwNG5OdklCY19HWFgxZEM4QlFvcHpVR3VKbDJWOXRhb1hhUkxMZUczY2kxZjBYVkZ0enl5Wmx4Y0txa3EyUms4enBQRThtVHZldzhiYlNMcVRLR3ZpYWZ3TnQ2NDBOLTVMNVQxNGRJckRGMFl3QlJOd3hXYkcxeFhXcGJhV1l1NVk?oc=5",
-      "published": "2026-11-21T20:03:42+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "جريدة الغد"
-    },
-    {
-      "title": "أطفال إربد يطالبون بجسور مشاة وحدائق - الحقيقة الدولية",
-      "description": "أطفال إربد يطالبون بجسور مشاة وحدائق &nbsp;&nbsp; الحقيقة الدولية",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51YVJxbFhqeTluWTFzdmlOLUZKMFRJQmlaaHhyRlNkWWdkYmxFY2xKWTJKaFlRcEpRblY0QjNRZDlXSU9J?oc=5",
-      "published": "2026-11-21T16:46:00+00:00",
-      "region": "إربد",
-      "category": "أخبار عامة",
-      "source": "الحقيقة الدولية"
-    },
-    {
-      "title": "مدرب السلط سابع الراحلين عن الدوري الأردني - صحيفة الخليج",
-      "description": "مدرب السلط سابع الراحلين عن الدوري الأردني &nbsp;&nbsp; صحيفة الخليج",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPeS0zb3dNaFZJaVJfMzhGSXBHTFQyQktKWXFURHUtMjV1MFFKT3labVoxSGFJQ3RNZ0I3azdub2J0MDBuWWlXMG42RWFIUjRFc0tYRXFSWExuV2RIdFUyTlM2Nl90M1VxbG45ekVtWnlqZ0RjdF9ZRk9rOHJwMTNMRUNLWkhhY09DWDJ4RlUtSWV2Z2NibVJVSzNicVlRcHBMU3BiMVVKYV8xYmc0bXNrWV94dmJNWG9HNzFZUGY1Qmh6bUhXbHZuU3YtYWtxb19seDFsai15NFdDa2RZYVYwck1GbUZ4NFZCV3lQTEVpUGQ5WU5MTEFlNUxfd081bm56MHdVaWtZeTYzNFNZV0NLUzk5Y0xEbF82QnNwWEJSbTF1TTh5ZFNhU2gwUGphbU5xRGw5S2tSZllpQmw4cFUtQ1RoVHoyM0JTaldFVzVyNjgyVGh3WGMzYVR3UGx1Y0xLQll6UnVlcFNlWURRVVp0NmIzNUI0YXJpSUNJT3A4bExlRUJRUUFDYVl4dmRtdFRxWHhiYnRVS3NLMnlwV2dKVG9NUWd0SGZqWGswcEZUSG5SUmdXcmNLblJMM1doaVdlRlpRVGRFTkFDZkoyWFdmRzMxdXNtRkN1YmpoaTYxdEVLdm1pdENCN0s5Vm15Wk1U?oc=5",
-      "published": "2026-11-21T12:22:00+00:00",
+      "title": "الأردن حاضر في احتفالية مؤسسة التايكوندو الإنسانية بعقد من الإنجازات - جريدة الغد",
+      "description": "الأردن حاضر في احتفالية مؤسسة التايكوندو الإنسانية بعقد من الإنجازات &nbsp;&nbsp; جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxQLVlWNXNraTg4dXFQa2NXRU16bzRyakFPREpCU21yUndneGVtNFk3VVV6ZHluTmprdDl2RHEzUkY0bDNZdlczN3pWaHdDbDUxcmU2N0Eyc1RDYzdTWnN5Wk5jdVBoa1A5ZXZJRTFiMmd6VVk3WmpuV2ppSFFKOEc1ck9uejdHZ2dMcFhjOC1oTkdXQkI3M21BNEQ4QTF1Z2k1SVJ4dWMwczVnR3pGcmY1VVJaUmV4S2t2eDlYUWQ1VXlSOEwzendwdWhhNnJteDlKWHVsNVlyQkhOTTY0VmItcEp4UUczZTZUUjA1UTAyY0xiZ25uRFZkUkE0UjdZSjFUanM0OEJFb3hJSVNFNXc5ODY3UHFyM0JQal9HbU5vWFJOM2ZJREl3cHpIeXd5RmNYRGpwejMyblFyc0hXc3ZGMFV3X1A4QW5GdzVfQlhNRlRFUXZHODNJV280dXh2ZHJ5TW9nOFNUbkp1dFp0MldqU0wtMjRMcHBFTVF0VEpvQ210VVNuaWdQNnFNTEpsWElyU1g0ZElMazJYdzgyaGk3cGU1cnF5U1M3dHYwakc0dFRKT1dmNFYwdGc2SkNwclpEMldqdkdNZTB6dDdQdnVwQ19RZXdjcVFLR0tNTUhVQ1d6Y2VPemJxSy1TdnNNU0tfRHBSbF9ybEoxSUpJakxoVVBCdWJpRnBQUzA3OFRLTFBtTW5DUFRFYzFuRGlhMWpXc1NLcnc3Q0E3UUlYMmRZcFgwYkhQVDJsXzE4U3JmR2VVd2lIVU8zWGpWSU44QlZRdXJwTGx2dkJBUUQ3UmZSczVDOXlqVnUtRk9VQW5n?oc=5",
+      "published": "2026-11-21T20:02:39+00:00",
       "region": "الأردن",
-      "category": "رياضة",
-      "source": "صحيفة الخليج"
-    },
-    {
-      "title": "الحسين إربد يتعادل مع الشرطة العراقي في دوري أبطال آسيا - وكالة الانباء الاردنية",
-      "description": "الحسين إربد يتعادل مع الشرطة العراقي في دوري أبطال آسيا &nbsp;&nbsp; وكالة الانباء الاردنية",
-      "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPWFlrZTBPSzBGSEF5OHYxb05Kb2RySTZaejdLYTk5aUFUQWxvN1gzX0RBTUdoa3VnT3ZQZGUtVXpqNXpONXNWVzBTWVA5cUxNZDZFcG5DM2VheE5BVnFPUVZYUmQ0anNEMFJNelpEdjRjNDIwakU0RFFXcEcwYk1ib1pOeVY4NzBXb3FKT1h2bmFBZlA3LUUtUk1FQVBuRTExbndKcXFnb3liOXFucW56UDZidmxVZlZLanE1SVppeEFValFBU2lDcThmX1E0ZGZacXh1Y0RZeEpkWHlqTGV4a2oxSlVONFFKNEpseGx0N3RMMkVwbE12dUJyYjBhYW9Za2ozRXF1d2FhREVEZmM3eWFIZEZid21aNWR1R3dUTV9VWUczaExhTUFSMDlFa0NpeFVqUnhtaXVhNUpQX2NPZGFpWDludzBzdlNPUXlHZE1jSjVUcmlyZlRrWTZOQzBOaDlSaUVETF9qWGdWU25SZ2NqdTRIMEc4R1RES09UR1V1RDRjMGpSQVN3T3VnbmtFLU1NWG4wY3NfNllJakJBanNGczBndkI1c216QzlTQmRpRlJIclQzdFF1aVJlU0llYXdQTHBRWXNIUkh0bDE4WVJ4Y1BIdlZGVm1wdw?oc=5",
-      "published": "2026-11-21T12:00:05+00:00",
-      "region": "إربد",
-      "category": "رياضة",
-      "source": "وكالة الانباء الاردنية"
+      "category": "أخبار عامة",
+      "source": "جريدة الغد"
     }
   ]
 }
